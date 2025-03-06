@@ -162,8 +162,8 @@
 # jefferson_text =  quindi col _ _ xx (cosa dobbiamo cosa fare)?
 1	quindi	quindi	ADV	B		6	advmod	_	AlignBegin=40.227|Speaker=BO147|TID=31-0
 2-3	col	_	_	_	_	_	_	_	Speaker=BO147|TID=31-1
-2	con	con	ADP	E		4	case	_	
-3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	
+2	con	con	ADP	E		4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	x	sinitro	SYM	SYM		6	obl	_	Speaker=BO147|TID=31-2|Type=unknown
 5	cosa	cosa	PRON	PQ	PronType=Int	6	obj	_	Speaker=BO147|TID=31-3
 6	dobbiamo	dovere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO147|TID=31-4
@@ -275,8 +275,8 @@
 5	se	se	SCONJ	CS		9	mark	_	Speaker=BO146|TID=46-4
 6	non	non	ADV	BN	PronType=Neg	9	advmod	_	Speaker=BO146|TID=46-5
 7-8	glielo	_	_	_	_	_	_	_	Speaker=BO146|TID=46-6
-7	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	
-8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	
+7	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 9	chiedi	chiedere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	Speaker=BO146|TID=46-7
 10	se	se	SCONJ	CS		12	mark	_	Speaker=BO146|TID=46-8
 11	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	12	expl	_	Speaker=BO146|TID=46-9|Truncated=Yes
@@ -435,8 +435,8 @@
 4	controllavo	controllavo	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=99.104|Speaker=BO139|TID=68-0
 5	di	di	ADP	E		6	mark	_	Speaker=BO139|TID=68-1
 6-7	averlo	_	_	_	_	_	_	_	Speaker=BO139|TID=68-2
-6	aver	avere	VERB	V	VerbForm=Inf	4	xcomp	_	
-7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	
+6	aver	avere	VERB	V	VerbForm=Inf	4	xcomp	_	_
+7	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
 8	avviato	avviare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	xcomp	_	Speaker=BO139|TID=68-3
 9	effetivamente	effetivamente	ADV	B		8	advmod	_	Speaker=BO139|TID=68-4
 10	perché	perché	SCONJ	CS		14	mark	_	Speaker=BO139|TID=68-5
@@ -447,8 +447,8 @@
 15	e	e	CCONJ	CC		21	cc	_	AlignBegin=103.479|Speaker=BO139|TID=69-0
 16	doveva	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	aux	_	Speaker=BO139|TID=69-1
 17-18	esserci	_	_	_	_	_	_	_	Speaker=BO139|TID=69-2
-17	esser	essere	AUX	V	VerbForm=Inf	21	cop	_	
-18	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	21	expl	_	
+17	esser	essere	AUX	V	VerbForm=Inf	21	cop	_	_
+18	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	21	expl	_	_
 19	anche	anche	ADV	B		21	advmod	_	Speaker=BO139|TID=69-3
 20	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	21	det:poss	_	Speaker=BO139|TID=69-4
 21	babbo	babbo	NOUN	S	Gender=Masc|Number=Sing	14	conj	_	Speaker=BO139|TID=69-5
@@ -495,12 +495,12 @@
 # text = alla a la fine dell' di l' incontro avevo tipo registrato x
 # jefferson_text =  >alla _ _ fine< dell' _ _ incontro avevo tipo registrato xxx
 1-2	alla	_	_	_	_	_	_	_	AlignBegin=112.884|PaceFast=Yes|Speaker=BO139|TID=75-0
-1	a	a	ADP	E		3	case	_	
-2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	
+1	a	a	ADP	E		3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	fine	fine	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	PaceFast=Yes|Speaker=BO139|TID=75-1
 4-5	dell'	_	_	_	_	_	_	_	Speaker=BO139|TID=75-2|Truncated=Yes
-4	di	di	ADP	E		6	case	_	
-5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	
+4	di	di	ADP	E		6	case	_	_
+5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
 6	incontro	incontro	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	Speaker=BO139|TID=75-3
 7	avevo	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO139|TID=75-4
 8	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	Speaker=BO139|TID=75-5
@@ -525,8 +525,8 @@
 13	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	expl	_	Speaker=BO139|TID=79-2
 14	siedo	sedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	Speaker=BO139|TID=79-3
 15-16	sulla	_	_	_	_	_	_	_	Speaker=BO139|TID=79-4
-15	su	su	ADP	E		17	case	_	
-16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	
+15	su	su	ADP	E		17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	sedia	sedia	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	Speaker=BO139|TID=79-5
 18	e	e	CCONJ	CC		19	cc	_	Speaker=BO139|TID=79-6
 19	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	AlignEnd=120.63|Speaker=BO139|TID=79-7
@@ -611,8 +611,8 @@
 # jefferson_text =  puoi (farle) _ _ anche (di:) sessanta: ore
 1	puoi	potere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	Speaker=BO147|TID=89-6
 2-3	farle	_	_	_	_	_	_	_	Speaker=BO147|TID=89-7
-2	far	fare	VERB	V	VerbForm=Inf	0	root	_	
-3	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	2	obj	_	
+2	far	fare	VERB	V	VerbForm=Inf	0	root	_	_
+3	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	2	obj	_	_
 4	anche	anche	ADV	B		7	advmod	_	Speaker=BO147|TID=89-8
 5	di	di	ADP	E		7	case	_	Prolonged=Yes|Speaker=BO147|TID=89-9
 6	sessanta	sessanto	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	Prolonged=Yes|Speaker=BO147|TID=89-10
@@ -634,12 +634,12 @@
 4	bisca	bisca	ADJ	A	Gender=Fem|Number=Sing	2	obl	_	Speaker=BO139|TID=91-3
 5	fino	fino	ADP	E		8	case	_	Speaker=BO139|TID=91-4
 6-7	alle	_	_	_	_	_	_	_	Speaker=BO139|TID=91-5
-6	a	a	ADP	E		5	fixed	_	
-7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	
+6	a	a	ADP	E		5	fixed	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
 8	quattro	quattro	NUM	N	NumType=Card	2	obl	_	Speaker=BO139|TID=91-6
 9-10	del	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO139|TID=91-7
-9	di	di	ADP	E		11	case	_	
-10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	
+9	di	di	ADP	E		11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	mattino	mattino	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	Overlapping=Yes|Speaker=BO139|TID=91-8
 12	stanotte	stanotte	ADV	B		13	advmod	_	AlignEnd=140.727|Intonation=ascending|Overlapping=Yes|Speaker=BO139|TID=91-9
 13	mh	mh	INTJ	I		16	discourse	_	AlignEnd=139.847|Overlapping=Yes|Speaker=BO145|TID=92-0
@@ -773,8 +773,8 @@
 33	testo	testo	NOUN	S	Gender=Masc|Number=Sing	30	obj	_	Speaker=BO139|TID=116-3
 34	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	33	acl	_	Overlapping=Yes|Speaker=BO139|TID=116-4
 35-36	all'	_	_	_	_	_	_	_	Speaker=BO139|TID=116-5|Truncated=Yes
-35	a	a	ADP	E		37	case	_	
-36	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	37	det	_	
+35	a	a	ADP	E		37	case	_	_
+36	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	37	det	_	_
 37	audio	audio	NOUN	S	Gender=Masc	34	obl	_	AlignEnd=178.382|Intonation=weakly_ascending|Speaker=BO139|TID=116-6
 
 # sent_id = 65
@@ -822,14 +822,14 @@
 1	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	AlignBegin=184.972|Speaker=BO139|TID=123-0
 2	mettere	mettere	VERB	V	VerbForm=Inf	0	root	_	Speaker=BO139|TID=123-1
 3-4	delle	_	_	_	_	_	_	_	Speaker=BO139|TID=123-2
-3	di	di	ADP	E		5	case	_	
-4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	
+3	di	di	ADP	E		5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	parentesi	parentesi	NOUN	S	Gender=Fem	2	obl	_	Speaker=BO139|TID=123-3
 6	quadre	quadre	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	Speaker=BO139|TID=123-4
 7	intorno	intorno	ADP	E		10	case	_	Speaker=BO139|TID=123-5
 8-9	alle	_	_	_	_	_	_	_	Speaker=BO139|TID=123-6
-8	a	a	ADP	E		7	fixed	_	
-9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	
+8	a	a	ADP	E		7	fixed	_	_
+9	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	parole	parola	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	AlignEnd=187.162|Speaker=BO139|TID=123-7
 11	ah	ah	INTJ	I		2	discourse	_	AlignBegin=187.183|Speaker=BO146|TID=124-0
 12	okay	okay	INTJ	I		2	obj	_	AlignEnd=187.593|Speaker=BO146|TID=124-1
@@ -838,8 +838,8 @@
 15	sovrappongono	sovrapponere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	AlignEnd=190.033|Speaker=BO139|TID=125-2
 16	come	come	ADV	B		19	advmod	_	AlignBegin=190.273|Speaker=BO146|TID=126-0
 17-18	nei	_	_	_	_	_	_	_	Speaker=BO146|TID=126-1
-17	in	in	ADP	E		19	case	_	
-18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	
+17	in	in	ADP	E		19	case	_	_
+18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	sottotitoli	sottotitolo	NOUN	S	Gender=Masc|Number=Plur	15	obl	_	AlignEnd=191.293|Speaker=BO146|TID=126-2
 
 # sent_id = 69
@@ -933,8 +933,8 @@
 # jefferson_text =  >cioè< nel _ _ senso che eh questo che uso io è usato anche per i sottotitoli dopo lì in quel caso hai già alcune pugnette diverse
 1	cioè	cioè	CCONJ	CC		0	root	_	AlignBegin=212.103|PaceFast=Yes|Speaker=BO139|TID=141-0
 2-3	nel	_	_	_	_	_	_	_	Speaker=BO139|TID=141-1
-2	in	in	ADP	E		4	case	_	
-3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	
+2	in	in	ADP	E		4	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	senso	senso	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	Speaker=BO139|TID=141-2
 5	che	che	PRON	PR	PronType=Rel	12	obj	_	Speaker=BO139|TID=141-3
 6	eh	eh	INTJ	I		12	discourse	_	Speaker=BO139|TID=141-4
@@ -989,8 +989,8 @@
 2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	AlignBegin=221.643|Speaker=BO147|TID=145-0
 3	problema	problema	NOUN	S	Gender=Masc|Number=Sing	0	root	_	Speaker=BO147|TID=145-1
 4-5	della	_	_	_	_	_	_	_	Speaker=BO147|TID=145-2
-4	di	di	ADP	E		6	case	_	
-5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	
+4	di	di	ADP	E		6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	bocca	bocca	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	Overlapping=Yes|Prolonged=Yes|ProsodicLink=Yes|Speaker=BO147|TID=145-3
 
 # sent_id = 80
@@ -1038,16 +1038,16 @@
 # jefferson_text =  quando [farli _ _ compa]rire [mh] eh esa[tto] [se] farli _ _ scorrere,
 1	quando	quando	SCONJ	CS		2	mark	_	AlignBegin=232.708|Speaker=BO139|TID=150-0
 2-3	farli	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO139|TID=150-1
-2	far	fare	VERB	V	VerbForm=Inf	4	advcl	_	
-3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	
+2	far	fare	VERB	V	VerbForm=Inf	4	advcl	_	_
+3	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
 4	comparire	comparire	VERB	V	VerbForm=Inf	0	root	_	AlignEnd=233.908|Overlapping=Yes|Speaker=BO139|TID=150-2
 5	mh	mh	INTJ	I		4	discourse	_	AlignEnd=233.383|Overlapping=Yes|Speaker=BO147|TID=151-0
 6	eh	eh	INTJ	I		4	discourse	_	AlignBegin=234.103|Speaker=BO147|TID=152-0
 7	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	4	xcomp	_	AlignEnd=234.71|Overlapping=Yes|Speaker=BO147|TID=152-1
 8	se	se	SCONJ	CS		9	mark	_	AlignBegin=234.55|Overlapping=Yes|Speaker=BO139|TID=153-0
 9-10	farli	_	_	_	_	_	_	_	Speaker=BO139|TID=153-1
-9	far	fare	VERB	V	VerbForm=Inf	11	advcl	_	
-10	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	
+9	far	fare	VERB	V	VerbForm=Inf	11	advcl	_	_
+10	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
 11	scorrere	scorrere	VERB	V	VerbForm=Inf	4	xcomp	_	Intonation=weakly_ascending|Speaker=BO139|TID=153-2
 
 # sent_id = 84
@@ -1056,8 +1056,8 @@
 1	quando	quando	SCONJ	CS		2	mark	_	Speaker=BO139|TID=153-3
 2	cambiare	cambiare	VERB	V	VerbForm=Inf	0	root	_	Speaker=BO139|TID=153-4
 3-4	nelle	_	_	_	_	_	_	_	Speaker=BO139|TID=153-5
-3	in	in	ADP	E		5	case	_	
-4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	
+3	in	in	ADP	E		5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	frasi	frase	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	Speaker=BO139|TID=153-6
 6	lunghe	lungo	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	AlignEnd=237.1|Speaker=BO139|TID=153-7
 7	e	e	CCONJ	CC		9	cc	_	AlignBegin=237.65|Speaker=BO139|TID=154-0
@@ -1098,8 +1098,8 @@
 8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	Speaker=BO139|TID=159-7
 9	lunghezza	lunghezza	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	Speaker=BO139|TID=159-8
 10-11	delle	_	_	_	_	_	_	_	Speaker=BO139|TID=159-9
-10	di	di	ADP	E		12	case	_	
-11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	
+10	di	di	ADP	E		12	case	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
 12	parole	parola	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	AlignEnd=247.931|Speaker=BO139|TID=159-10
 
 # sent_id = 87
@@ -1182,8 +1182,8 @@
 8	concetti	concetto	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	Overlapping=Yes|Speaker=BO145|TID=170-6
 9	x	per	ADP	E		12	case	_	Overlapping=Yes|Speaker=BO145|TID=170-7|Type=unknown
 10-11	col	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO145|TID=170-8
-10	con	con	ADP	E		12	case	_	
-11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	
+10	con	con	ADP	E		12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	tedesco	tedesco	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	Overlapping=Yes|Speaker=BO145|TID=170-9
 13	non	non	ADV	BN	PronType=Neg	16	advmod	_	Overlapping=Yes|Speaker=BO145|TID=170-10
 14	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	obj	_	Overlapping=Yes|Speaker=BO145|TID=170-11
@@ -1209,8 +1209,8 @@
 4	sarà	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	cop	_	AlignEnd=266.366|Overlapping=Yes|Speaker=BO147|TID=171-4
 5	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	AlignBegin=271.896|Speaker=BO139|TID=172-0
 6-7	nei	_	_	_	_	_	_	_	Speaker=BO139|TID=172-1
-6	in	in	ADP	E		8	case	_	
-7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	
+6	in	in	ADP	E		8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	film	film	NOUN	S	Gender=Masc	5	nmod	_	Speaker=BO139|TID=172-2
 9	americani	americano	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	Speaker=BO139|TID=172-3
 10	o	o	CCONJ	CC		11	cc	_	Speaker=BO139|TID=172-4
@@ -1256,8 +1256,8 @@
 13	non	non	ADV	BN	PronType=Neg	14	advmod	_	Speaker=BO139|TID=176-18
 14	corrisponde	corrispondere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl	_	Speaker=BO139|TID=176-19
 15-16	al	_	_	_	_	_	_	_	Speaker=BO139|TID=176-20
-15	a	a	ADP	E		17	case	_	
-16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	
+15	a	a	ADP	E		17	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	labiale	labiale	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	AlignEnd=285.491|Speaker=BO139|TID=176-21
 
 # sent_id = 96
@@ -1286,8 +1286,8 @@
 7	doppiare	doppiare	VERB	V	VerbForm=Inf	6	advcl	_	Speaker=BO139|TID=181-6
 8	lì	lì	ADV	B		7	advmod	_	Speaker=BO139|TID=181-7
 9-10	al	_	_	_	_	_	_	_	Speaker=BO139|TID=181-8
-9	a	a	ADP	E		11	case	_	
-10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	
+9	a	a	ADP	E		11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	film	film	NOUN	S	Gender=Masc	7	obl	_	AlignEnd=297.731|Speaker=BO139|TID=181-9
 12	invece	invece	ADV	B		7	advmod	_	AlignBegin=298.031|Speaker=BO139|TID=182-0
 13	per	per	ADP	E		14	case	_	Speaker=BO139|TID=182-1
@@ -1340,21 +1340,21 @@
 4	otto	otto	NUM	N	NumType=Card	5	nummod	_	Overlapping=Yes|Speaker=BO145|TID=192-3
 5	ore	ora	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	Speaker=BO145|TID=192-4
 6-7	al	_	_	_	_	_	_	_	Speaker=BO145|TID=192-5
-6	a	a	ADP	E		8	case	_	
-7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	
+6	a	a	ADP	E		8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	Speaker=BO145|TID=192-6
 9	sì	sì	INTJ	I		13	discourse	_	AlignEnd=319.907|Speaker=BO145|TID=192-7
 10	qui	qui	ADV	B		13	advmod	_	AlignBegin=323.367|Speaker=BO139|TID=193-0
 11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Speaker=BO139|TID=193-1
 12	sera	sera	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	Speaker=BO139|TID=193-2
 13-14	preparati	_	_	_	_	_	_	_	AlignEnd=324.617|Speaker=BO139|TID=193-3
-13	prepara	preparare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	
-14	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	13	obj	_	
+13	prepara	preparare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	13	obj	_	_
 15	x	per	ADP	E		16	case	_	AlignEnd=326.087|Overlapping=Yes|Speaker=BO139|TID=194-0|Type=unknown
 16	mh	mh	INTJ	I		13	discourse	_	AlignEnd=326.317|Intonation=ascending|Overlapping=Yes|Speaker=BO145|TID=195-0
 17-18	preparati	_	_	_	_	_	_	_	AlignBegin=326.762|Speaker=BO139|TID=196-0
-17	prepara	preparare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	parataxis	_	
-18	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	17	obj	_	
+17	prepara	preparare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	parataxis	_	_
+18	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	17	obj	_	_
 19	a	a	ADP	E		21	case	_	Speaker=BO139|TID=196-1
 20	tante	tanto	DET	DI	PronType=Ind	21	det	_	Speaker=BO139|TID=196-2
 21	sere	sera	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	Speaker=BO139|TID=196-3
@@ -1365,8 +1365,8 @@
 # text = preparati prepara ti a tante sere di solitudine
 # jefferson_text =  preparati _ _ a tante sere di solitudine
 1-2	preparati	_	_	_	_	_	_	_	AlignBegin=329.327|Speaker=BO139|TID=197-0
-1	prepara	preparare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	
-2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	1	obj	_	
+1	prepara	preparare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
 3	a	a	ADP	E		5	case	_	Speaker=BO139|TID=197-1
 4	tante	tanto	DET	DI	PronType=Ind	5	det	_	Speaker=BO139|TID=197-2
 5	sere	sera	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	Speaker=BO139|TID=197-3
@@ -1461,8 +1461,8 @@
 16	però	però	ADV	B		18	advmod	_	Speaker=BO147|TID=219-5
 17	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	aux	_	Speaker=BO147|TID=219-6
 18-19	metterti	_	_	_	_	_	_	_	Speaker=BO147|TID=219-7
-18	metter	mettere	VERB	V	VerbForm=Inf	13	advcl	_	
-19	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	18	obj	_	
+18	metter	mettere	VERB	V	VerbForm=Inf	13	advcl	_	_
+19	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	18	obj	_	_
 20	a	a	ADP	E		21	mark	_	Speaker=BO147|TID=219-8
 21	sedere	sedere	VERB	V	VerbForm=Inf	18	advcl	_	Speaker=BO147|TID=219-9
 22	prima	prima	ADV	B		21	advmod	_	Speaker=BO147|TID=219-10
@@ -1482,13 +1482,13 @@
 5	da	da	ADP	E		6	case	_	Speaker=BO147|TID=221-4
 6	seduta	seduta	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	Speaker=BO147|TID=221-5
 7-8	sul	_	_	_	_	_	_	_	ProsodicLink=Yes|Speaker=BO147|TID=221-6
-7	su	su	ADP	E		9	case	_	
-8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	
+7	su	su	ADP	E		9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	eh	eh	NOUN	S		6	nmod	_	Prolonged=Yes|ProsodicLink=Yes|Speaker=BO147|TID=221-7
 10	mh	mh	INTJ	I		27	discourse	_	AlignEnd=362.937|Prolonged=Yes|Speaker=BO147|TID=221-8
 11-12	sulla	_	_	_	_	_	_	_	AlignBegin=363.687|Speaker=BO147|TID=222-0
-11	su	su	ADP	E		13	case	_	
-12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	
+11	su	su	ADP	E		13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	sedia	sedia	NOUN	S	Gender=Fem|Number=Sing	27	obl	_	Speaker=BO147|TID=222-1
 14	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	27	nsubj	_	Speaker=BO147|TID=222-2
 15	che	che	PRON	PR	PronType=Rel	17	nsubj	_	Speaker=BO147|TID=222-3
@@ -1619,8 +1619,8 @@
 2	ma	ma	CCONJ	CC		3	cc	_	Speaker=BO147|TID=254-1
 3	vincenzo	vincenzo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	Speaker=BO147|TID=254-2
 4-5	della	_	_	_	_	_	_	_	Speaker=BO147|TID=254-3
-4	di	di	ADP	E		6	case	_	
-5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	
+4	di	di	ADP	E		6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	elisa	elisa	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	AlignEnd=402.36|Intonation=ascending|Speaker=BO147|TID=254-4
 
 # sent_id = 110
@@ -1812,8 +1812,8 @@
 2	non	non	ADV	BN	PronType=Neg	3	advmod	_	Speaker=BO145|TID=278-1
 3	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO145|TID=278-2
 4-5	del	_	_	_	_	_	_	_	Prolonged=Yes|Speaker=BO145|TID=278-3
-4	di	di	ADP	E		8	case	_	
-5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	
+4	di	di	ADP	E		8	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 6	{P}	_	_	_	_	3	dep	_	Speaker=BO145|TID=278-4|Type=shortpause
 7	di	di	ADP	E		8	case	_	Speaker=BO145|TID=278-5
 8	roberto	roberto	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	Speaker=BO145|TID=278-6
@@ -1886,8 +1886,8 @@
 12	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	ccomp	_	Speaker=BO146|TID=286-7
 13	solo	solo	ADV	B		16	advmod	_	Speaker=BO146|TID=286-8
 14-15	al	_	_	_	_	_	_	_	Speaker=BO146|TID=286-9
-14	a	a	ADP	E		16	case	_	
-15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	
+14	a	a	ADP	E		16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	coinquilino	coinquilino	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	Speaker=BO146|TID=286-10
 
 # sent_id = 130
@@ -2191,8 +2191,8 @@
 5	di	di	ADP	E		6	mark	_	Speaker=BO146|TID=336-4
 6	risalire	risalire	VERB	V	VerbForm=Inf	4	xcomp	_	Speaker=BO146|TID=336-5
 7-8	alle	_	_	_	_	_	_	_	Speaker=BO146|TID=336-6
-7	a	a	ADP	E		9	case	_	
-8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	
+7	a	a	ADP	E		9	case	_	_
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	registrazioni	registrazione	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	Overlapping=Yes|Speaker=BO146|TID=336-7
 10	di	di	ADP	E		11	case	_	Overlapping=Yes|Speaker=BO146|TID=336-8
 11	lara	lara	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	AlignEnd=520.616|Overlapping=Yes|Speaker=BO146|TID=336-9
@@ -2246,8 +2246,8 @@
 # text = del di il tipo uno x
 # jefferson_text =  del _ _ tipo u[no xx]
 1-2	del	_	_	_	_	_	_	_	Speaker=BO139|TID=340-10
-1	di	di	ADP	E		3	case	_	
-2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	
+1	di	di	ADP	E		3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	Speaker=BO139|TID=340-11
 4	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	3	nmod	_	Overlapping=Yes|Speaker=BO139|TID=340-12
 5	x	x	ADP	E		4	dep	_	AlignEnd=528.322|Overlapping=Yes|Speaker=BO139|TID=340-13|Type=unknown
@@ -2357,8 +2357,8 @@
 # jefferson_text =  e 'sta _ _ qua
 1	e	e	CCONJ	CC		3	cc	_	AlignBegin=549.373|Speaker=BO139|TID=359-0
 2-3	'sta	_	_	_	_	_	_	_	Speaker=BO139|TID=359-1|Truncated=Yes
-2	'	'	PUNCT	FB		3	punct	_	
-3	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	
+2	'	'	PUNCT	FB		3	punct	_	_
+3	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	qua	qua	ADV	B		3	advmod	_	Speaker=BO139|TID=359-2
 
 # sent_id = 180
@@ -2379,8 +2379,8 @@
 8	così	così	ADV	B		10	advmod	_	Speaker=BO139|TID=360-2
 9	volevo	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	10	aux	_	Speaker=BO139|TID=360-3
 10-11	rivolgermi	_	_	_	_	_	_	_	Speaker=BO139|TID=360-4
-10	rivolger	rivolgere	VERB	V	VerbForm=Inf	3	advcl	_	
-11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	obj	_	
+10	rivolger	rivolgere	VERB	V	VerbForm=Inf	3	advcl	_	_
+11	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	obj	_	_
 12	a	a	ADP	E		14	case	_	Speaker=BO139|TID=360-5
 13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Speaker=BO139|TID=360-6
 14	professore	professore	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	Speaker=BO139|TID=360-7
@@ -2413,8 +2413,8 @@
 # jefferson_text =  io >all' _ _ inizio< pensavo che non fosse italiano
 1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=560.868|Speaker=BO139|TID=363-0
 2-3	all'	_	_	_	_	_	_	_	PaceFast=Yes|Speaker=BO139|TID=363-1|Truncated=Yes
-2	a	a	ADP	E		4	case	_	
-3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	
+2	a	a	ADP	E		4	case	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
 4	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	PaceFast=Yes|Speaker=BO139|TID=363-2
 5	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO139|TID=363-3
 6	che	che	SCONJ	CS		9	mark	_	Speaker=BO139|TID=363-4
@@ -2434,8 +2434,8 @@
 7	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	Speaker=BO139|TID=364-6
 8	come	come	ADP	E		10	mark	_	Speaker=BO139|TID=364-7
 9	descriverlo	_	_	_	_	1	dep	_	Intonation=descending|Speaker=BO139|TID=364-8
-10	descriver	descrivere	VERB	V	VerbForm=Inf	7	ccomp	_	
-11	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	parataxis	_	
+10	descriver	descrivere	VERB	V	VerbForm=Inf	7	ccomp	_	_
+11	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	parataxis	_	_
 
 # sent_id = 186
 # text = è gottlieb
@@ -2514,8 +2514,8 @@
 8	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=580.397|Speaker=BO146|TID=376-7
 9	no	no	INTJ	I		8	discourse	_	AlignEnd=581.302|PaceSlow=Yes|Speaker=BO147|TID=377-0
 10-11	dai	_	_	_	_	_	_	_	AlignBegin=581.327|Speaker=BO147|TID=378-0
-10	da	da	ADP	E		15	case	_	
-11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	
+10	da	da	ADP	E		15	case	_	_
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
 12	perché	perché	SCONJ	CS		15	mark	_	Speaker=BO147|TID=378-1
 13	x	per	ADP	E		14	case	_	Speaker=BO147|TID=378-2|Type=unknown
 14	ha	avere	PRON	PR	PronType=Rel	15	obl	_	Overlapping=Yes|Speaker=BO147|TID=378-3
@@ -2668,8 +2668,8 @@
 3	x	per	SYM	SYM		2	discourse:emo	_	AlignEnd=619.61|Overlapping=Yes|Speaker=BO147|TID=413-2|Type=unknown
 4	cioè	cioè	CCONJ	CC		7	cc	_	AlignBegin=618.9|Overlapping=Yes|PaceFast=Yes|Speaker=BO139|TID=414-0
 5-6	nel	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO139|TID=414-1
-5	in	in	ADP	E		7	case	_	
-6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	
+5	in	in	ADP	E		7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	senso	senso	NOUN	S	Gender=Masc|Number=Sing	2	parataxis	_	Overlapping=Yes|Speaker=BO139|TID=414-2
 
 # sent_id = 207
@@ -2681,8 +2681,8 @@
 4	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO139|TID=414-6
 5	niente	niente	PRON	PI	PronType=Ind	4	obj	_	Speaker=BO139|TID=414-7
 6-7	al	_	_	_	_	_	_	_	Speaker=BO139|TID=414-8
-6	a	a	ADP	E		8	case	_	
-7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	
+6	a	a	ADP	E		8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	riguardo	riguardo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	Speaker=BO139|TID=414-9
 
 # sent_id = 208
@@ -2692,8 +2692,8 @@
 2	però	però	ADV	B		8	advmod	_	AlignBegin=622.125|Speaker=BO139|TID=415-0
 3	perché	perché	SCONJ	CS		8	mark	_	Speaker=BO139|TID=415-1
 4-5	nel	_	_	_	_	_	_	_	Speaker=BO139|TID=415-2
-4	in	in	ADP	E		6	case	_	
-5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	
+4	in	in	ADP	E		6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	senso	senso	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	Speaker=BO139|TID=415-3
 7	viene	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	Speaker=BO139|TID=415-4
 8	trascritto	trascrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO139|TID=415-5
@@ -2705,8 +2705,8 @@
 14	a	a	ADP	E		15	case	_	Speaker=BO139|TID=415-11
 15	livello	livello	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	Speaker=BO139|TID=415-12
 16-17	della	_	_	_	_	_	_	_	Speaker=BO139|TID=415-13
-16	di	di	ADP	E		18	case	_	
-17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	
+16	di	di	ADP	E		18	case	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	conversazione	conversazione	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	Speaker=BO139|TID=415-14
 
 # sent_id = 209
@@ -2912,8 +2912,8 @@
 1	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Overlapping=Yes|Speaker=BO147|TID=455-1
 2	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Speaker=BO147|TID=455-2
 3-4	del	_	_	_	_	_	_	_	Speaker=BO147|TID=455-3
-3	di	di	ADP	E		5	case	_	
-4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	
+3	di	di	ADP	E		5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	gatto	gatto	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	Speaker=BO147|TID=455-4
 
 # sent_id = 226
@@ -2924,12 +2924,12 @@
 3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	Speaker=BO147|TID=455-7
 4	raccontato	raccontare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	Speaker=BO147|TID=455-8
 5-6	della	_	_	_	_	_	_	_	Speaker=BO147|TID=455-9
-5	di	di	ADP	E		7	case	_	
-6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	
+5	di	di	ADP	E		7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	morte	morte	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	Speaker=BO147|TID=455-10
 8-9	del	_	_	_	_	_	_	_	Speaker=BO147|TID=455-11
-8	di	di	ADP	E		10	case	_	
-9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	
+8	di	di	ADP	E		10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	gatto	gatto	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	Speaker=BO147|TID=455-12
 11	trascrivi	trascrivo	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO147|TID=455-13
 12	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	11	obj	_	Overlapping=Yes|Speaker=BO147|TID=455-14
@@ -3139,8 +3139,8 @@
 11	di'	di'	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	obj	_	AlignEnd=740.157|Speaker=BO146|TID=501-2|Truncated=Yes
 12	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	AlignBegin=740.527|Speaker=BO146|TID=502-0
 13	saperla	_	_	_	_	2	dep	_	AlignEnd=741.307|Speaker=BO146|TID=502-1
-14	saper	sapere	VERB	V	VerbForm=Inf	10	xcomp	_	
-15	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obj	_	
+14	saper	sapere	VERB	V	VerbForm=Inf	10	xcomp	_	_
+15	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
 
 # sent_id = 242
 # text = badile
@@ -3169,8 +3169,8 @@
 1	badile	badile	ADJ	A	Number=Sing	4	nsubj	_	AlignEnd=745.12|Speaker=BO139|TID=506-0
 2	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	AlignBegin=745.282|Speaker=BO146|TID=507-0
 3	darsi	_	_	_	_	4	dep	_	AlignEnd=746.052|Speaker=BO146|TID=507-1
-4	dar	dare	VERB	V	VerbForm=Inf	0	root	_	
-5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	
+4	dar	dare	VERB	V	VerbForm=Inf	0	root	_	_
+5	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
 
 # sent_id = 246
 # text = okay allora si vede che nelle in le mar~ te no si vede che nelle in le marche non si usa eh può darsi dar si però badile è è tipo mhcos' è tipo la vanga
@@ -3181,8 +3181,8 @@
 4	vede	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO139|TID=509-2
 5	che	che	SCONJ	CS		8	mark	_	Speaker=BO139|TID=509-3
 6-7	nelle	_	_	_	_	_	_	_	Speaker=BO139|TID=509-4
-6	in	in	ADP	E		8	case	_	
-7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	
+6	in	in	ADP	E		8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
 8	mar~	mar~	SYM	SYM		4	obl	_	AlignEnd=747.852|Interrupted=Yes|Overlapping=Yes|Speaker=BO139|TID=509-5
 9	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	12	expl	_	AlignEnd=747.877|Intonation=ascending|Overlapping=Yes|Speaker=BO145|TID=510-0
 10	no	no	INTJ	I		12	discourse	_	AlignEnd=748.492|Speaker=BO147|TID=511-0
@@ -3190,8 +3190,8 @@
 12	vede	vedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Overlapping=Yes|Speaker=BO139|TID=512-1
 13	che	che	SCONJ	CS		19	mark	_	Overlapping=Yes|Speaker=BO139|TID=512-2
 14-15	nelle	_	_	_	_	_	_	_	Speaker=BO139|TID=512-3
-14	in	in	ADP	E		16	case	_	
-15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	
+14	in	in	ADP	E		16	case	_	_
+15	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
 16	marche	marca	NOUN	S	Gender=Fem|Number=Plur	19	obl	_	Speaker=BO139|TID=512-4
 17	non	non	ADV	BN	PronType=Neg	19	advmod	_	Speaker=BO139|TID=512-5
 18	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	19	expl	_	Speaker=BO139|TID=512-6
@@ -3199,8 +3199,8 @@
 20	eh	eh	INTJ	I		22	discourse	_	AlignEnd=748.917|Overlapping=Yes|Speaker=BO145|TID=513-0
 21	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	AlignBegin=750.157|Speaker=BO146|TID=514-0
 22-23	darsi	_	_	_	_	_	_	_	Speaker=BO146|TID=514-1
-22	dar	dare	VERB	V	VerbForm=Inf	19	xcomp	_	
-23	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	22	expl	_	
+22	dar	dare	VERB	V	VerbForm=Inf	19	xcomp	_	_
+23	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	22	expl	_	_
 24	però	però	ADV	B		25	advmod	_	Speaker=BO146|TID=514-2
 25	badile	badile	ADJ	A	Number=Sing	22	xcomp	_	AlignEnd=751.667|Overlapping=Yes|Speaker=BO146|TID=514-3
 26	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	AlignBegin=751.127|Overlapping=Yes|Speaker=BO139|TID=515-0
@@ -3272,8 +3272,8 @@
 8	altro	altro	DET	DI	PronType=Ind	9	det	_	Speaker=BO139|TID=528-6
 9	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	20	nsubj	_	Speaker=BO139|TID=528-7
 10-11	sulla	_	_	_	_	_	_	_	AlignEnd=767.273|Prolonged=Yes|Speaker=BO139|TID=528-8
-10	su	su	ADP	E		12	case	_	
-11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	
+10	su	su	ADP	E		12	case	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	badile	badile	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	AlignBegin=767.393|Speaker=BO145|TID=529-0
 13	che	che	PRON	PR	PronType=Rel	16	obj	_	AlignEnd=768.373|Speaker=BO145|TID=529-1
 14	oh	oh	INTJ	I		16	discourse	_	AlignBegin=768.658|Prolonged=Yes|Speaker=BO145|TID=530-0|Volume=high
@@ -3302,8 +3302,8 @@
 4	qua	qua	ADV	B		5	advmod	_	Overlapping=Yes|Speaker=BO139|TID=531-8
 5	fuori	fuori	ADV	B		2	advmod	_	Overlapping=Yes|Speaker=BO139|TID=531-9
 6-7	dalle	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO139|TID=531-10
-6	da	da	ADP	E		8	case	_	
-7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	
+6	da	da	ADP	E		8	case	_	_
+7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
 8	marche	marche	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	AlignEnd=773.988|Overlapping=Yes|Speaker=BO139|TID=531-11
 9	eh	eh	INTJ	I		11	discourse	_	AlignBegin=771.998|Overlapping=Yes|Speaker=BO145|TID=532-0
 10	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	Overlapping=Yes|Speaker=BO145|TID=532-1
@@ -3386,8 +3386,8 @@
 7	{ride}	_	_	_	_	3	dep	_	AlignEnd=791.969|Speaker=BO147|TID=544-0|Type=NLB
 8	andare	andare	VERB	V	VerbForm=Inf	3	ccomp	_	AlignEnd=793.439|Prolonged=Yes|Speaker=BO145|TID=545-0
 9-10	all'	_	_	_	_	_	_	_	AlignBegin=793.629|Speaker=BO145|TID=546-0|Truncated=Yes
-9	a	a	ADP	E		11	case	_	
-10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	
+9	a	a	ADP	E		11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
 11	università	università	NOUN	S	Gender=Fem	8	obl	_	AlignEnd=795.539|Prolonged=Yes|Speaker=BO145|TID=546-1
 
 # sent_id = 259
@@ -3425,8 +3425,8 @@
 10	a	a	ADP	E		11	case	_	AlignBegin=809.333|Overlapping=Yes|ProsodicLink=Yes|Speaker=BO145|TID=558-0
 11	mh	mh	NOUN	S		3	obl	_	AlignEnd=810.423|Prolonged=Yes|Speaker=BO145|TID=558-1
 12-13	alla	_	_	_	_	_	_	_	AlignBegin=810.559|Speaker=BO145|TID=559-0
-12	a	a	ADP	E		14	case	_	
-13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	
+12	a	a	ADP	E		14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	festa	festa	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	Speaker=BO145|TID=559-1
 15	di	di	ADP	E		16	case	_	Speaker=BO145|TID=559-2
 16	anna	anno	PROPN	SP		14	nmod	_	AlignEnd=811.969|Speaker=BO145|TID=559-3
@@ -3445,8 +3445,8 @@
 29	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	30	det	_	AlignBegin=826.518|Speaker=BO146|TID=569-0
 30	vita	vita	NOUN	S	Gender=Fem|Number=Sing	25	obl	_	Speaker=BO146|TID=569-1
 31-32	ai	_	_	_	_	_	_	_	Speaker=BO146|TID=569-2
-31	a	a	ADP	E		33	case	_	
-32	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	
+31	a	a	ADP	E		33	case	_	_
+32	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	_
 33	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	25	obl	_	Speaker=BO146|TID=569-3
 34	di	di	ADP	E		37	case	_	Speaker=BO146|TID=569-4
 35	x	per	ADP	E		34	fixed	_	AlignEnd=828.408|Intonation=ascending|Speaker=BO146|TID=569-5|Type=unknown
@@ -3775,8 +3775,8 @@
 6	prepotente	prepotente	ADV	B		10	advmod	_	Overlapping=Yes|Speaker=BO145|TID=621-3
 7	proprio	proprio	ADV	B		10	advmod	_	AlignEnd=928.9|Overlapping=Yes|PaceFast=Yes|Speaker=BO145|TID=621-4
 8-9	nel	_	_	_	_	_	_	_	AlignBegin=928.77|Overlapping=Yes|Speaker=BO139|TID=622-0
-8	in	in	ADP	E		10	case	_	
-9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	
+8	in	in	ADP	E		10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	sens~	sens~	SYM	SYM		0	root	_	Interrupted=Yes|Speaker=BO139|TID=622-1
 11	no	no	INTJ	I		10	discourse	_	Speaker=BO139|TID=622-2
 12	xxxs	xxxs	X	X		10	flat:foreign	_	Speaker=BO139|TID=622-3
@@ -3787,8 +3787,8 @@
 1	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	expl	_	Speaker=BO139|TID=622-4
 2	ringrazio	ringraziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Overlapping=Yes|Speaker=BO139|TID=622-5
 3-4	del	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO139|TID=622-6
-3	di	di	ADP	E		5	case	_	
-4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	
+3	di	di	ADP	E		5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	pensiero	pensiero	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	Overlapping=Yes|Speaker=BO139|TID=622-7
 
 # sent_id = 284
@@ -3856,8 +3856,8 @@
 4	però	però	CCONJ	CC		5	cc	_	AlignEnd=939.819|Speaker=BO145|TID=629-3
 5	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	AlignBegin=939.905|Overlapping=Yes|Speaker=BO146|TID=630-0
 6-7	dell'	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO146|TID=630-1|Truncated=Yes
-6	di	di	ADP	E		8	case	_	
-7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	
+6	di	di	ADP	E		8	case	_	_
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
 8	anno	anno	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	Overlapping=Yes|Speaker=BO146|TID=630-2
 9	scorso	scorso	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	AlignEnd=940.725|Speaker=BO146|TID=630-3
 10	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	AlignBegin=940.14|Overlapping=Yes|Speaker=BO145|TID=631-0
@@ -3993,8 +3993,8 @@
 # text = nel in il senso se me lo vuoi regalare mi fa piacere
 # jefferson_text =  nel _ _ senso se me lo vuoi regalare mi fa piacere
 1-2	nel	_	_	_	_	_	_	_	Speaker=BO139|TID=643-9
-1	in	in	ADP	E		3	case	_	
-2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	
+1	in	in	ADP	E		3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	senso	senso	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	Speaker=BO139|TID=643-10
 4	se	se	SCONJ	CS		8	mark	_	Speaker=BO139|TID=643-11
 5	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	Speaker=BO139|TID=643-12
@@ -4040,8 +4040,8 @@
 16	più	più	ADV	B		17	advmod	_	Speaker=BO147|TID=647-4
 17	bella	bello	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	Speaker=BO147|TID=647-5
 18-19	del	_	_	_	_	_	_	_	Speaker=BO147|TID=647-6
-18	di	di	ADP	E		20	case	_	
-19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	
+18	di	di	ADP	E		20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	Speaker=BO147|TID=647-7
 
 # sent_id = 305
@@ -4223,8 +4223,8 @@
 1	e	e	CCONJ	CC		9	cc	_	AlignBegin=1015.622|Speaker=BO145|TID=670-0
 2	ma	ma	CCONJ	CC		9	cc	_	Speaker=BO145|TID=670-1
 3-4	alle	_	_	_	_	_	_	_	Speaker=BO145|TID=670-2
-3	a	a	ADP	E		5	case	_	
-4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	
+3	a	a	ADP	E		5	case	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	undici	undici	NUM	N	NumType=Card	9	obl	_	Speaker=BO145|TID=670-3
 6	e	e	CCONJ	CC		7	cc	_	Speaker=BO145|TID=670-4
 7	mezza	mezzo	ADJ	A	Gender=Fem|Number=Sing	5	conj	_	Speaker=BO145|TID=670-5
@@ -4271,8 +4271,8 @@
 8	sì	sì	INTJ	I		13	discourse	_	Prolonged=Yes|Speaker=BO147|TID=678-1
 9	cioè	cioè	CCONJ	CC		13	cc	_	PaceFast=Yes|Speaker=BO147|TID=678-2
 10-11	nel	_	_	_	_	_	_	_	Speaker=BO147|TID=678-3
-10	in	in	ADP	E		12	case	_	
-11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	
+10	in	in	ADP	E		12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	senso	senso	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	AlignEnd=1038.252|Prolonged=Yes|Speaker=BO147|TID=678-4
 13	pensavo	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=1038.569|PaceFast=Yes|Speaker=BO147|TID=679-0
 14	che	che	SCONJ	CS		16	mark	_	PaceFast=Yes|Speaker=BO147|TID=679-1
@@ -4369,8 +4369,8 @@
 10	programmazione	programmazione	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	Speaker=BO147|TID=691-3
 11	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	Speaker=BO147|TID=691-4
 12-13	alle	_	_	_	_	_	_	_	Speaker=BO147|TID=691-5
-12	a	a	ADP	E		14	case	_	
-13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	
+12	a	a	ADP	E		14	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
 14	due	due	NUM	N	NumType=Card	6	nummod	_	Speaker=BO147|TID=691-6
 
 # sent_id = 330
@@ -4378,16 +4378,16 @@
 # jefferson_text =  fino alle _ _ cinque sei (poi) basta no alle _ _ due esce fuori (mi) sa no? lei ha detto che c' ha la programmazione alle _ _ quattro
 1	fino	fino	ADP	E		4	case	_	Speaker=BO147|TID=691-7
 2-3	alle	_	_	_	_	_	_	_	Speaker=BO147|TID=691-8
-2	a	a	ADP	E		1	fixed	_	
-3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	
+2	a	a	ADP	E		1	fixed	_	_
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 4	cinque	cinque	NUM	N	NumType=Card	7	obl	_	Speaker=BO147|TID=691-9
 5	sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	Speaker=BO147|TID=691-10
 6	poi	poi	ADV	B		7	advmod	_	Speaker=BO147|TID=691-11
 7	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=1078.899|Speaker=BO147|TID=691-12
 8	no	no	INTJ	I		12	discourse	_	AlignBegin=1081.649|Speaker=BO145|TID=692-0
 9-10	alle	_	_	_	_	_	_	_	Speaker=BO145|TID=692-1
-9	a	a	ADP	E		11	case	_	
-10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	
+9	a	a	ADP	E		11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
 11	due	due	NUM	N	NumType=Card	12	obl	_	Speaker=BO145|TID=692-2
 12	esce	uscire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	Speaker=BO145|TID=692-3
 13	fuori	fuori	ADV	B		12	advmod	_	Speaker=BO145|TID=692-4
@@ -4403,8 +4403,8 @@
 23	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	Speaker=BO145|TID=694-6
 24	programmazione	programmazione	NOUN	S	Gender=Fem|Number=Sing	22	nsubj	_	Speaker=BO145|TID=694-7
 25-26	alle	_	_	_	_	_	_	_	Speaker=BO145|TID=694-8
-25	a	a	ADP	E		27	case	_	
-26	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	27	det	_	
+25	a	a	ADP	E		27	case	_	_
+26	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	27	det	_	_
 27	quattro	quattro	NUM	N	NumType=Card	22	obl	_	AlignEnd=1088.351|Speaker=BO145|TID=694-9
 
 # sent_id = 331
@@ -4575,11 +4575,11 @@
 105	{ride}	_	_	_	_	77	dep	_	AlignEnd=1163.159|Speaker=BO147|TID=743-4|Type=NLB
 106	{ride}	_	_	_	_	77	dep	_	AlignEnd=1163.486|Speaker=BO139|TID=744-0|Type=NLB
 107	{ride}	_	_	_	_	77	dep	_	AlignEnd=1164.178|Speaker=BO145|TID=745-0|Type=NLB
-108	compra	comprare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	77	parataxis	_	
+108	compra	comprare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	77	parataxis	_	_
 109	{ride}	_	_	_	_	77	dep	_	AlignEnd=1164.711|Speaker=BO147|TID=746-0|Type=NLB
-110	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	108	iobj	_	
+110	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	108	iobj	_	_
 111	{ride}	_	_	_	_	77	dep	_	AlignEnd=1167.39|Speaker=BO139|TID=747-0|Type=NLB
-112	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	114	det	_	
+112	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	114	det	_	_
 113	{ride}	_	_	_	_	77	dep	_	AlignEnd=1167.723|Speaker=BO147|TID=748-0|Type=NLB
 114	x	per	SYM	SYM		115	nsubj	_	AlignBegin=1167.731|Speaker=BO145|TID=749-0|Type=unknown
 115	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	108	conj	_	Speaker=BO145|TID=749-1
@@ -4708,8 +4708,8 @@
 20	tanto	tanto	ADV	B		23	advmod	_	Overlapping=Yes|Speaker=BO145|TID=764-2
 21	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	23	nsubj	_	Overlapping=Yes|Speaker=BO145|TID=764-3
 22	celiaci	_	_	_	_	8	dep	_	AlignEnd=1189.086|Overlapping=Yes|Speaker=BO145|TID=764-4
-23	celia	celiare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	conj	_	
-24	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	23	obj	_	
+23	celia	celiare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	conj	_	_
+24	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	23	obj	_	_
 
 # sent_id = 345
 # text = come devi fare celiaci celia ci
@@ -4718,8 +4718,8 @@
 2	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=BO145|TID=765-1
 3	fare	fare	VERB	V	VerbForm=Inf	0	root	_	AlignEnd=1189.894|Intonation=ascending|Speaker=BO145|TID=765-2
 4	celiaci	_	_	_	_	3	dep	_	AlignBegin=1190.86|Prolonged=Yes|Speaker=BO145|TID=766-0
-5	celia	celiare	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	
-6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	
+5	celia	celiare	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	_
 
 # sent_id = 346
 # text = eh ma oh eh oh cosa fai
@@ -4743,8 +4743,8 @@
 6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Speaker=BO147|TID=767-5
 7	sussidio	sussidio	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	Prolonged=Yes|Speaker=BO147|TID=767-6
 8-9	dello	_	_	_	_	_	_	_	Speaker=BO147|TID=767-7
-8	di	di	ADP	E		10	case	_	
-9	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	
+8	di	di	ADP	E		10	case	_	_
+9	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	stato	stato	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	Speaker=BO147|TID=767-8
 
 # sent_id = 348
@@ -4776,8 +4776,8 @@
 2	sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	Speaker=BO147|TID=770-1
 3	intollerante	intollerante	ADJ	A	Number=Sing	14	advcl	_	Speaker=BO147|TID=770-2
 4-5	al	_	_	_	_	_	_	_	Speaker=BO147|TID=770-3
-4	a	a	ADP	E		6	case	_	
-5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	
+4	a	a	ADP	E		6	case	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	glutine	glutina	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	AlignEnd=1200.326|Intonation=ascending|Speaker=BO147|TID=770-4
 7	no	no	INTJ	I		14	discourse	_	AlignEnd=1200.88|Speaker=BO145|TID=771-0
 8	porca	porco	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	AlignBegin=1201.08|Speaker=BO147|TID=772-0|Volume=low
@@ -4832,8 +4832,8 @@
 # jefferson_text =  marcello dai] _ _ [xxx che {ride} (>in<)fa]tti {ride} prima (si) (mangiava) i kebab (poi) ha scoperto che è intollerante al _ _ glutine
 1	marcello	marcello	NOUN	S	Gender=Masc|Number=Sing	0	root	_	Overlapping=Yes|Speaker=BO145|TID=780-3
 2-3	dai	_	_	_	_	_	_	_	AlignEnd=1215.516|Overlapping=Yes|Speaker=BO145|TID=780-4
-2	da	da	ADP	E		4	case	_	
-3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	
+2	da	da	ADP	E		4	case	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	x	sinitra	SYM	SYM		1	nmod	_	AlignBegin=1214.228|Overlapping=Yes|Speaker=BO146|TID=781-0|Type=unknown
 5	che	che	PRON	PR	PronType=Rel	11	nsubj	_	Overlapping=Yes|Speaker=BO146|TID=781-1
 6	{ride}	_	_	_	_	1	dep	_	Overlapping=Yes|Speaker=BO146|TID=781-2|Type=NLB
@@ -4851,8 +4851,8 @@
 18	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	Speaker=BO145|TID=783-9
 19	intollerante	intollerante	ADJ	A	Number=Sing	16	ccomp	_	Speaker=BO145|TID=783-10
 20-21	al	_	_	_	_	_	_	_	Speaker=BO145|TID=783-11
-20	a	a	ADP	E		22	case	_	
-21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	
+20	a	a	ADP	E		22	case	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	glutine	glutina	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	Speaker=BO145|TID=783-12
 
 # sent_id = 356
@@ -4868,8 +4868,8 @@
 8	madonna	madonna	NOUN	S	Gender=Fem|Number=Sing	6	parataxis	_	Overlapping=Yes|Speaker=BO146|TID=784-2
 9	intollerante	intollerante	ADJ	A	Number=Sing	8	amod	_	Speaker=BO146|TID=784-3
 10-11	al	_	_	_	_	_	_	_	Speaker=BO146|TID=784-4
-10	a	a	ADP	E		12	case	_	
-11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	
+10	a	a	ADP	E		12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	glutine	glutina	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	AlignEnd=1221.79|Speaker=BO146|TID=784-5
 13	{ride}	_	_	_	_	6	dep	_	AlignEnd=1224.32|Speaker=BO147|TID=785-0|Type=NLB
 14	{ride}	_	_	_	_	6	dep	_	AlignEnd=1224.645|Speaker=BO139|TID=786-0|Type=NLB
@@ -4893,8 +4893,8 @@
 # text = ai a i cazzi no {ride} s' aggrappa {ride} {ride}
 # jefferson_text =  ai _ _ cazzi no {ride} s' aggrappa {ride} {ride}
 1-2	ai	_	_	_	_	_	_	_	Speaker=BO145|TID=788-1
-1	a	a	ADP	E		3	case	_	
-2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	
+1	a	a	ADP	E		3	case	_	_
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	cazzi	cazzo	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	Speaker=BO145|TID=788-2
 4	no	no	INTJ	I		7	discourse	_	AlignEnd=1227.257|Speaker=BO145|TID=788-3
 5	{ride}	_	_	_	_	7	dep	_	AlignEnd=1228.677|Speaker=BO147|TID=789-0|Type=NLB
@@ -5017,8 +5017,8 @@
 13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Speaker=BO139|TID=812-5
 14	cazzo	cazzo	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	Overlapping=Yes|Speaker=BO139|TID=812-6
 15-16	della	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO139|TID=812-7
-15	di	di	ADP	E		17	case	_	
-16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	
+15	di	di	ADP	E		17	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	vita	vita	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	AlignEnd=1268.849|Overlapping=Yes|Speaker=BO139|TID=812-8
 
 # sent_id = 370
@@ -5089,8 +5089,8 @@
 3	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	Speaker=BO139|TID=822-3
 4	andare	andare	VERB	V	VerbForm=Inf	0	root	_	Speaker=BO139|TID=822-4
 5-6	al	_	_	_	_	_	_	_	Speaker=BO139|TID=822-5
-5	a	a	ADP	E		7	case	_	
-6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	
+5	a	a	ADP	E		7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	coso	coso	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	Speaker=BO139|TID=822-6
 8	di	di	ADP	E		9	case	_	Speaker=BO139|TID=822-7
 9	canto	canto	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	AlignEnd=1286.913|Speaker=BO139|TID=822-8
@@ -5183,8 +5183,8 @@
 17	serio	serio	ADJ	A	Gender=Masc|Number=Sing	2	conj	_	Speaker=BO145|TID=852-2
 18	con	con	ADP	E		21	case	_	Speaker=BO145|TID=852-3
 19-20	'sti	_	_	_	_	_	_	_	Speaker=BO145|TID=852-4|Truncated=Yes
-19	'	'	PUNCT	FB		21	punct	_	
-20	sti	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	21	det	_	
+19	'	'	PUNCT	FB		21	punct	_	_
+20	sti	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	21	det	_	_
 21	capelli	capello	NOUN	S	Gender=Masc|Number=Plur	17	obl	_	Intonation=descending|Speaker=BO145|TID=852-5
 22	pari	pari	ADJ	A	Number=Plur	21	amod	_	Speaker=BO145|TID=852-6
 23	matto	matto	ADV	B		2	dep	_	Speaker=BO145|TID=852-7
@@ -5254,8 +5254,8 @@
 # jefferson_text =  sai farlo _ _
 1	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=1339.371|Speaker=BO139|TID=866-0
 2	farlo	_	_	_	_	1	dep	_	Speaker=BO139|TID=866-1
-3	far	fare	VERB	V	VerbForm=Inf	1	xcomp	_	
-4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	
+3	far	fare	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 
 # sent_id = 391
 # text = tu non so fare
@@ -5425,8 +5425,8 @@
 # jefferson_text =  x[xxxxx] [da:i] _ _ {ride} testa di cazzo
 1	x	per	ADP	E		5	case	_	AlignEnd=1387.043|Overlapping=Yes|Speaker=BO145|TID=896-3|Type=unknown
 2-3	dai	_	_	_	_	_	_	_	AlignEnd=1387.022|Overlapping=Yes|Prolonged=Yes|Speaker=BO147|TID=897-0
-2	da	da	ADP	E		1	fixed	_	
-3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	
+2	da	da	ADP	E		1	fixed	_	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 4	{ride}	_	_	_	_	5	dep	_	AlignEnd=1388.022|Speaker=BO139|TID=898-0|Type=NLB
 5	testa	testa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	AlignBegin=1388.047|Speaker=BO139|TID=899-0
 6	di	di	ADP	E		7	case	_	Speaker=BO139|TID=899-1
@@ -5478,8 +5478,8 @@
 9	a	a	ADP	E		10	mark	_	AlignBegin=1400.196|Speaker=BO139|TID=907-0
 10	far	fare	VERB	V	VerbForm=Inf	6	xcomp	_	Speaker=BO139|TID=907-1
 11-12	'sta	_	_	_	_	_	_	_	Speaker=BO139|TID=907-2|Truncated=Yes
-11	'	'	PUNCT	FB		13	punct	_	
-12	sta	questo	DET	DD	PronType=Dem	13	det	_	
+11	'	'	PUNCT	FB		13	punct	_	_
+12	sta	questo	DET	DD	PronType=Dem	13	det	_	_
 13	roba	roba	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	Speaker=BO139|TID=907-3
 
 # sent_id = 412
@@ -5540,8 +5540,8 @@
 1	quell'	quello	DET	DD	PronType=Dem	2	det	_	Speaker=BO146|TID=913-6|Truncated=Yes
 2	altra	altro	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=BO146|TID=913-7
 3-4	della	_	_	_	_	_	_	_	Speaker=BO146|TID=913-8
-3	di	di	ADP	E		5	case	_	
-4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	
+3	di	di	ADP	E		5	case	_	_
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	lindt	lindt	X	X		2	nmod	_	AlignEnd=1412.066|Intonation=ascending|Speaker=BO146|TID=913-9
 
 # sent_id = 419
@@ -5635,19 +5635,19 @@
 15	lei	egli	PRON	PE	Gender=Fem|Number=Sing|PronType=Prs	16	nsubj	_	Speaker=BO139|TID=927-12
 16	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	acl:relcl	_	Speaker=BO139|TID=927-13
 17-18	nel	_	_	_	_	_	_	_	ProsodicLink=Yes|Speaker=BO139|TID=927-14
-17	in	in	ADP	E		19	case	_	
-18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	
+17	in	in	ADP	E		19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	eh	eh	NOUN	S		16	obl	_	Speaker=BO139|TID=927-15
 20	{ride}	_	_	_	_	11	dep	_	AlignEnd=1435.1|Speaker=BO139|TID=927-16|Type=NLB
-21	in	in	ADP	E		24	case	_	
+21	in	in	ADP	E		24	case	_	_
 22	{ride}	_	_	_	_	11	dep	_	AlignEnd=1438.124|Speaker=BO147|TID=928-0|Type=NLB
 21-23	nel	_	_	_	_	_	_	_	AlignBegin=1436.185|Speaker=BO139|TID=929-0
-23	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	
+23	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	comodino	comodo	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	AlignEnd=1437.01|Speaker=BO139|TID=929-1
 25	perché	perché	SCONJ	CS		28	mark	_	AlignBegin=1437.835|Speaker=BO139|TID=930-0
 26-27	col	_	_	_	_	_	_	_	Speaker=BO139|TID=930-1
-26	con	con	ADP	E		28	case	_	
-27	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	
+26	con	con	ADP	E		28	case	_	_
+27	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	sospetto	sospetto	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	Speaker=BO139|TID=930-2
 29	che	che	SCONJ	CS		33	mark	_	Speaker=BO139|TID=930-3
 30	lei	egli	PRON	PE	Gender=Fem|Number=Sing|PronType=Prs	33	nsubj	_	Speaker=BO139|TID=930-4
@@ -5655,14 +5655,14 @@
 32	stava	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	33	aux	_	Speaker=BO139|TID=930-6
 33	studiando	studiare	VERB	V	VerbForm=Ger	28	acl	_	Speaker=BO139|TID=930-7
 34-35	delle	_	_	_	_	_	_	_	Speaker=BO139|TID=930-8
-34	di	di	ADP	E		36	case	_	
-35	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	36	det	_	
+34	di	di	ADP	E		36	case	_	_
+35	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	36	det	_	_
 36	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	33	obl	_	Speaker=BO139|TID=930-9
 37	di	di	ADP	E		38	case	_	Speaker=BO139|TID=930-10
 38	magia	magia	NOUN	S	Gender=Fem|Number=Sing	36	nmod	_	Speaker=BO139|TID=930-11
 39-40	nel	_	_	_	_	_	_	_	Speaker=BO139|TID=930-12
-39	in	in	ADP	E		41	case	_	
-40	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	
+39	in	in	ADP	E		41	case	_	_
+40	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
 41	senso	senso	NOUN	S	Gender=Masc|Number=Sing	33	obl	_	Overlapping=Yes|Speaker=BO139|TID=930-13
 42	cioè	cioè	CCONJ	CC		45	cc	_	Overlapping=Yes|PaceFast=Yes|Speaker=BO139|TID=930-14
 43	{P}	_	_	_	_	11	dep	_	Overlapping=Yes|Speaker=BO139|TID=930-15|Type=shortpause
@@ -5681,13 +5681,13 @@
 7	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	AlignBegin=1444.014|Speaker=BO139|TID=933-0
 8	studio	studio	NOUN	S	Gender=Masc|Number=Sing	5	parataxis	_	Speaker=BO139|TID=933-1
 9-10	sui	_	_	_	_	_	_	_	Speaker=BO139|TID=933-2
-9	su	su	ADP	E		11	case	_	
-10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	
+9	su	su	ADP	E		11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	riti	rito	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	Speaker=BO139|TID=933-3
 12	magici	magico	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	Speaker=BO139|TID=933-4
 13-14	nella	_	_	_	_	_	_	_	Speaker=BO139|TID=933-5
-13	in	in	ADP	E		15	case	_	
-14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	
+13	in	in	ADP	E		15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	sicilia	sicilia	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	Speaker=BO139|TID=933-6
 
 # sent_id = 425
@@ -5695,8 +5695,8 @@
 # jefferson_text =  tipo dell' _ _ ottoce~ metti una roba deol genere è già pericolos[a]=[e]:h m:h e 'ste _ _ sue: coinquiline convinte: che lei fosse >parte di una setta satanica< perché han visto 'sti _ _ libri che lei stava studiando
 1	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	Speaker=BO139|TID=933-7
 2-3	dell'	_	_	_	_	_	_	_	Speaker=BO139|TID=933-8|Truncated=Yes
-2	di	di	ADP	E		4	case	_	
-3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	
+2	di	di	ADP	E		4	case	_	_
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
 4	ottoce~	ottoce~	SYM	SYM		1	nmod	_	Interrupted=Yes|Speaker=BO139|TID=933-9
 5	metti	mettere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO139|TID=933-10
 6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Speaker=BO139|TID=933-11
@@ -5710,8 +5710,8 @@
 14	mh	mh	INTJ	I		12	conj	_	AlignEnd=1449.485|Prolonged=Yes|Speaker=BO139|TID=935-1
 15	e	e	CCONJ	CC		19	cc	_	AlignBegin=1449.726|Speaker=BO139|TID=936-0
 16-17	'ste	_	_	_	_	_	_	_	Speaker=BO139|TID=936-1|Truncated=Yes
-16	'	'	PUNCT	FB		19	punct	_	
-17	ste	questo	DET	DD	PronType=Dem	19	det	_	
+16	'	'	PUNCT	FB		19	punct	_	_
+17	ste	questo	DET	DD	PronType=Dem	19	det	_	_
 18	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	19	det:poss	_	Prolonged=Yes|Speaker=BO139|TID=936-2
 19	coinquiline	coinquile	NOUN	S	Gender=Fem|Number=Plur	12	conj	_	Speaker=BO139|TID=936-3
 20	convinte	convinte	ADJ	A	Number=Sing	19	amod	_	Prolonged=Yes|Speaker=BO139|TID=936-4
@@ -5727,8 +5727,8 @@
 30	han	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	aux	_	Speaker=BO139|TID=936-14
 31	visto	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	advcl	_	Speaker=BO139|TID=936-15
 32-33	'sti	_	_	_	_	_	_	_	Speaker=BO139|TID=936-16|Truncated=Yes
-32	'	'	PUNCT	FB		31	punct	_	
-33	sti	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	34	det	_	
+32	'	'	PUNCT	FB		31	punct	_	_
+33	sti	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	34	det	_	_
 34	libri	libro	NOUN	S	Gender=Masc|Number=Plur	31	obj	_	Speaker=BO139|TID=936-17
 35	che	che	SCONJ	CS		38	mark	_	Speaker=BO139|TID=936-18
 36	lei	egli	PRON	PE	Gender=Fem|Number=Sing|PronType=Prs	38	nsubj	_	Speaker=BO139|TID=936-19
@@ -5757,10 +5757,10 @@
 17	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	acl:relcl	_	Speaker=BO139|TID=937-16
 18	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	23	iobj	_	Speaker=BO139|TID=937-17
 19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	Speaker=BO139|TID=937-18
-20	in	in	ADP	E		23	case	_	
+20	in	in	ADP	E		23	case	_	_
 21	{ride}	_	_	_	_	3	dep	_	AlignEnd=1460.858|Speaker=BO139|TID=937-19|Type=NLB
 20-22	nel	_	_	_	_	_	_	_	AlignBegin=1461.336|Speaker=BO139|TID=938-0
-22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	cassetto	cassetto	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	AlignEnd=1462.266|Overlapping=Yes|Speaker=BO139|TID=938-1
 
 # sent_id = 427
@@ -5857,16 +5857,16 @@
 # jefferson_text =  poi 'ste _ _ qua hanno chiamato la madre della _ _ tipa del~ la la raga[zza in questio]ne >dicendo< [mh] guarda tua figlia fa=(parte=o: i)=di: mh >cioè< fa dei _ _ riti satanici in casa
 1	poi	poi	ADV	B		6	advmod	_	AlignBegin=1476.456|Speaker=BO139|TID=947-0
 2-3	'ste	_	_	_	_	_	_	_	Speaker=BO139|TID=947-1|Truncated=Yes
-2	'	'	PUNCT	FB		6	punct	_	
-3	ste	questo	DET	DD	PronType=Dem	6	det	_	
+2	'	'	PUNCT	FB		6	punct	_	_
+3	ste	questo	DET	DD	PronType=Dem	6	det	_	_
 4	qua	qua	ADV	B		6	advmod	_	Speaker=BO139|TID=947-2
 5	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	Speaker=BO139|TID=947-3
 6	chiamato	chiamare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO139|TID=947-4
 7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Speaker=BO139|TID=947-5
 8	madre	madre	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	Speaker=BO139|TID=947-6
 9-10	della	_	_	_	_	_	_	_	Speaker=BO139|TID=947-7
-9	di	di	ADP	E		11	case	_	
-10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	
+9	di	di	ADP	E		11	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	tipa	tipa	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	Speaker=BO139|TID=947-8
 12	del~	del~	SYM	SYM		6	dep	_	Interrupted=Yes|Speaker=BO139|TID=947-9
 13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	Speaker=BO139|TID=947-10
@@ -5888,8 +5888,8 @@
 29	cioè	cioè	CCONJ	CC		30	cc	_	PaceFast=Yes|Speaker=BO139|TID=949-9
 30	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	Speaker=BO139|TID=949-10
 31-32	dei	_	_	_	_	_	_	_	Speaker=BO139|TID=949-11
-31	di	di	ADP	E		33	case	_	
-32	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	
+31	di	di	ADP	E		33	case	_	_
+32	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	_
 33	riti	rito	NOUN	S	Gender=Masc|Number=Plur	30	obl	_	Speaker=BO139|TID=949-12
 34	satanici	satanico	ADJ	A	Gender=Masc|Number=Plur	33	amod	_	Speaker=BO139|TID=949-13
 35	in	in	ADP	E		36	case	_	Speaker=BO139|TID=949-14
@@ -5933,8 +5933,8 @@
 33	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	34	det	_	Speaker=BO139|TID=955-2|Truncated=Yes
 34	autolettura	autolettura	NOUN	S	Gender=Fem|Number=Sing	31	obl	_	Speaker=BO139|TID=955-3
 35-36	del	_	_	_	_	_	_	_	Speaker=BO139|TID=955-4
-35	di	di	ADP	E		37	case	_	
-36	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	
+35	di	di	ADP	E		37	case	_	_
+36	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
 37	gas	gas	NOUN	S	Gender=Masc	34	nmod	_	AlignEnd=1499.559|Speaker=BO139|TID=955-5
 
 # sent_id = 435
@@ -5958,8 +5958,8 @@
 16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	Speaker=BO145|TID=962-6|Truncated=Yes
 17	esame	esame	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	Speaker=BO145|TID=962-7
 18-19	della	_	_	_	_	_	_	_	Speaker=BO145|TID=962-8
-18	di	di	ADP	E		20	case	_	
-19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	
+18	di	di	ADP	E		20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	gialli	giallo	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	AlignEnd=1516.182|Intonation=ascending|Speaker=BO145|TID=962-9
 21	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	26	nsubj	_	AlignEnd=1517.55|Intonation=ascending|Speaker=BO147|TID=963-0
 22	{ride}	_	_	_	_	60	dep	_	AlignEnd=1517.987|Speaker=BO145|TID=964-0|Type=NLB
@@ -6023,8 +6023,8 @@
 10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	Speaker=BO145|TID=975-3
 11	finire	finire	VERB	V	VerbForm=Inf	5	parataxis	_	Speaker=BO145|TID=975-4
 12-13	nel	_	_	_	_	_	_	_	Speaker=BO145|TID=975-5
-12	in	in	ADP	E		14	case	_	
-13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	
+12	in	in	ADP	E		14	case	_	_
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	senso	senso	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	Speaker=BO145|TID=975-6
 15	che	che	PRON	PR	PronType=Rel	16	nsubj	_	AlignEnd=1536.575|Speaker=BO145|TID=975-7
 16	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	AlignBegin=1537.008|Speaker=BO145|TID=976-0
@@ -6073,8 +6073,8 @@
 34	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	obj	_	Speaker=BO145|TID=983-4
 35	sente	sentire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	conj	_	Speaker=BO145|TID=983-5
 36-37	'sto	_	_	_	_	_	_	_	Speaker=BO145|TID=983-6|Truncated=Yes
-36	'	'	PUNCT	FB		35	punct	_	
-37	sto	questo	DET	DD	PronType=Dem	38	det	_	
+36	'	'	PUNCT	FB		35	punct	_	_
+37	sto	questo	DET	DD	PronType=Dem	38	det	_	_
 38	pezzo	pezzo	NOUN	S	Gender=Masc|Number=Sing	35	dislocated	_	AlignEnd=1565.535|Intonation=ascending|Speaker=BO145|TID=983-7
 
 # sent_id = 438
@@ -6296,8 +6296,8 @@
 3	{P}	_	_	_	_	1	dep	_	Speaker=BO147|TID=1024-1|Type=shortpause
 4	cioè	cioè	CCONJ	CC		1	conj	_	Overlapping=Yes|PaceFast=Yes|Speaker=BO147|TID=1024-2
 5-6	nel	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO147|TID=1024-3
-5	in	in	ADP	E		7	case	_	
-6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	
+5	in	in	ADP	E		7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	senso	senso	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	Overlapping=Yes|Speaker=BO147|TID=1024-4
 8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	Overlapping=Yes|Speaker=BO147|TID=1024-5
 9	persone	persona	NOUN	S	Gender=Fem|Number=Plur	7	nmod	_	AlignEnd=1617.729|Overlapping=Yes|Speaker=BO147|TID=1024-6
@@ -6428,8 +6428,8 @@
 6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	Overlapping=Yes|Speaker=BO145|TID=1043-3
 7	polipi	polipo	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	Overlapping=Yes|Speaker=BO145|TID=1043-4
 8-9	nel	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO145|TID=1043-5
-8	in	in	ADP	E		10	case	_	
-9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	
+8	in	in	ADP	E		10	case	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	naso	naso	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	Overlapping=Yes|Speaker=BO145|TID=1043-6
 
 # sent_id = 468
@@ -6456,8 +6456,8 @@
 8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Speaker=BO139|TID=1046-4
 9	polipetto	polipetto	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	Speaker=BO139|TID=1046-5
 10-11	nel	_	_	_	_	_	_	_	Speaker=BO139|TID=1046-6
-10	in	in	ADP	E		12	case	_	
-11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	
+10	in	in	ADP	E		12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	naso	naso	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	Intonation=descending|Speaker=BO139|TID=1046-7
 
 # sent_id = 470
@@ -6490,8 +6490,8 @@
 11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Speaker=BO147|TID=1048-3
 12	polipo	polipo	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	Speaker=BO147|TID=1048-4
 13-14	'nte	_	_	_	_	_	_	_	Speaker=BO147|TID=1048-5|Truncated=Yes
-13	'	'	PUNCT	FB		14	punct	_	
-14	nte	nto	ADJ	A	Number=Sing	12	amod	_	
+13	'	'	PUNCT	FB		14	punct	_	_
+14	nte	nto	ADJ	A	Number=Sing	12	amod	_	_
 15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	Speaker=BO147|TID=1048-6
 16	naso	naso	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	AlignEnd=1646.579|Intonation=ascending|Speaker=BO147|TID=1048-7
 
@@ -6636,8 +6636,8 @@
 6	mestiere	mestiere	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	Speaker=BO146|TID=1075-5
 7	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	Speaker=BO146|TID=1075-6
 8	farlo	_	_	_	_	3	dep	_	AlignEnd=1675.43|Speaker=BO146|TID=1075-7
-9	far	fare	VERB	V	VerbForm=Inf	3	parataxis	_	
-10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	
+9	far	fare	VERB	V	VerbForm=Inf	3	parataxis	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 
 # sent_id = 487
 # text = è come quando vado a casa
@@ -6756,12 +6756,12 @@
 4	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	Overlapping=Yes|Speaker=BO145|TID=1087-3|Truncated=Yes
 5	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Overlapping=Yes|Speaker=BO145|TID=1087-4
 6-7	dei	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO145|TID=1087-5
-6	di	di	ADP	E		8	case	_	
-7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	
+6	di	di	ADP	E		8	case	_	_
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	pregiudizi	pregiudizio	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	Overlapping=Yes|PaceSlow=Yes|Speaker=BO145|TID=1087-6
 9-10	nei	_	_	_	_	_	_	_	PaceSlow=Yes|Speaker=BO145|TID=1087-7
-9	in	in	ADP	E		12	case	_	
-10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	
+9	in	in	ADP	E		12	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 11	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	PaceSlow=Yes|Speaker=BO145|TID=1087-8
 12	confronti	confronte	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	PaceSlow=Yes|Speaker=BO145|TID=1087-9
 
@@ -6908,8 +6908,8 @@
 2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	AlignBegin=1723.493|Overlapping=Yes|Speaker=BO147|TID=1106-0
 3	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	9	advcl	_	Overlapping=Yes|Speaker=BO147|TID=1106-1
 4-5	delle	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO147|TID=1106-2
-4	di	di	ADP	E		6	case	_	
-5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	
+4	di	di	ADP	E		6	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	troie	troie	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	Overlapping=Yes|Speaker=BO147|TID=1106-3
 7	di	di	ADP	E		8	case	_	Overlapping=Yes|Speaker=BO147|TID=1106-4
 8	jesi	jesi	PROPN	SP		6	nmod	_	AlignEnd=1724.999|Overlapping=Yes|Speaker=BO147|TID=1106-5
@@ -6917,8 +6917,8 @@
 10	vedere	vedere	VERB	V	VerbForm=Inf	9	ccomp	_	AlignEnd=1726.692|Speaker=BO145|TID=1107-1
 11	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	10	obj	_	AlignBegin=1727.835|Speaker=BO147|TID=1108-0
 12-13	delle	_	_	_	_	_	_	_	Speaker=BO147|TID=1108-1
-12	di	di	ADP	E		14	case	_	
-13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	
+12	di	di	ADP	E		14	case	_	_
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
 14	troie	troia	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	Speaker=BO147|TID=1108-2
 15	di	di	ADP	E		16	case	_	Speaker=BO147|TID=1108-3
 16	jesi	jese	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	Speaker=BO147|TID=1108-4
@@ -7048,8 +7048,8 @@
 4	conosciuta	conoscere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Overlapping=Yes|Speaker=BO139|TID=1128-2
 5	ad	ad	ADP	E		7	case	_	Overlapping=Yes|Speaker=BO139|TID=1128-3
 6	imola	_	_	_	_	4	dep	_	Overlapping=Yes|Speaker=BO139|TID=1128-4
-7	imo	imo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	
-8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	dep	_	
+7	imo	imo	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	dep	_	_
 
 # sent_id = 523
 # text = perché studia
@@ -7065,8 +7065,8 @@
 3	erboristiche	erboristiche	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	Speaker=BO139|TID=1130-1
 4	ad	ad	ADP	E		5	case	_	Speaker=BO139|TID=1130-2
 5-6	imola	_	_	_	_	_	_	_	AlignEnd=1754.768|Speaker=BO139|TID=1130-3
-5	imo	imo	ADV	B		2	advmod	_	
-6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	
+5	imo	imo	ADV	B		2	advmod	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	scienze	scienza	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	AlignBegin=1755.243|Overlapping=Yes|PaceSlow=Yes|Speaker=BO147|TID=1131-0
 8	erobistiche	erobistico	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	AlignEnd=1757.643|Intonation=ascending|Overlapping=Yes|PaceSlow=Yes|Speaker=BO147|TID=1131-1
 
@@ -7117,8 +7117,8 @@
 3	i~	i~	SYM	SYM		1	nmod	_	Interrupted=Yes|Speaker=BO139|TID=1137-2
 4	a	a	ADP	E		5	case	_	Speaker=BO139|TID=1137-3
 5-6	imola	_	_	_	_	_	_	_	Speaker=BO139|TID=1137-4
-5	imo	imo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	
-6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	
+5	imo	imo	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	fan	fan	NOUN	S	Gender=Masc	5	nmod	_	Speaker=BO139|TID=1137-5
 8	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Speaker=BO139|TID=1137-6
 
@@ -7154,8 +7154,8 @@
 16	trasferirsi	trasferirso	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	Speaker=BO145|TID=1140-2
 17	a	a	ADP	E		19	case	_	Speaker=BO145|TID=1140-3
 18	imola	_	_	_	_	7	dep	_	Speaker=BO145|TID=1140-4
-19	imo	imo	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	
-20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	dep	_	
+19	imo	imo	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	dep	_	_
 
 # sent_id = 533
 # text = che depressione
@@ -7188,8 +7188,8 @@
 2	a	a	ADP	E		3	case	_	Overlapping=Yes|Speaker=BO145|TID=1142-1
 3	parte	parte	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	Overlapping=Yes|Speaker=BO145|TID=1142-2
 4-5	imola	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO145|TID=1142-3
-4	imo	imo	ADV	B		7	advmod	_	
-5	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	
+4	imo	imo	ADV	B		7	advmod	_	_
+5	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	Overlapping=Yes|Speaker=BO145|TID=1142-4
 7	bruttissimo	brutto	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	0	root	_	Overlapping=Yes|Speaker=BO145|TID=1142-5
 8	come	come	ADP	E		9	case	_	Speaker=BO145|TID=1142-6
@@ -7235,8 +7235,8 @@
 # jefferson_text =  >cioè< della _ _ carne qua b(u)oni
 1	cioè	cioè	CCONJ	CC		4	cc	_	PaceFast=Yes|Speaker=BO139|TID=1152-5
 2-3	della	_	_	_	_	_	_	_	Speaker=BO139|TID=1152-6
-2	di	di	ADP	E		4	case	_	
-3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	
+2	di	di	ADP	E		4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	carne	carne	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=BO139|TID=1152-7
 5	qua	qua	ADV	B		6	advmod	_	AlignEnd=1796.71|Speaker=BO139|TID=1152-8
 6	buoni	buono	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	AlignBegin=1797.044|Speaker=BO145|TID=1153-0
