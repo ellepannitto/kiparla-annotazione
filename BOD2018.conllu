@@ -3465,10 +3465,10 @@
 23	campagna	campagna	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	Speaker=BO140|TID=244-4
 24	lontana	lontano	ADJ	A	Gender=Fem|Number=Sing	23	amod	_	Overlapping=Yes|Speaker=BO140|TID=244-5
 25-26	dal	_	_	_	_	17	dep	_	Overlapping=Yes|Speaker=BO140|TID=244-6
-25	da	da	ADP	E	_	30	case	_	_
+25	da	da	ADP	E	_	29	case	_	_
 26	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 27-28	dal	_	_	_	_	_	_	_	Speaker=BO140|TID=244-7
-27	da	da	ADP	E	_	30	case	_	_
+27	da	da	ADP	E	_	29	case	_	_
 28	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	traffico	traffico	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	Prolonged=Yes|Speaker=BO140|TID=244-8
 
