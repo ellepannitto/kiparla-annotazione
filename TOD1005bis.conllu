@@ -2173,7 +2173,7 @@
 6	cominciamo	cominciare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=611.765|Speaker=TO017|TID=257-0
 7	{P}	_	_	_	_	6	dep	_	Speaker=TO017|TID=257-1|Type=shortpause
 8	a	a	ADP	E	_	10	mark	_	Speaker=TO017|TID=257-2
-9-10	guardarlo	_	_	_	_	6	dep	_	AlignEnd=613.424|Speaker=TO017|TID=257-3
+9-10	guardarlo	_	_	_	_	_	_	_	AlignEnd=613.424|Speaker=TO017|TID=257-3
 9	guardar	guardare	VERB	V	VerbForm=Inf	6	xcomp	_	_
 10	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
 11-12	nel	_	_	_	_	_	_	_	AlignBegin=613.572|Speaker=TO017|TID=258-0
@@ -3461,7 +3461,7 @@
 # text = no nella nelle produzioni di parlato in contesti formali e informali
 # jefferson_text =  no. nella:: (nelle) produzioni di parla:to:: in contesti: formali e informali,
 1	no	no	INTJ	I	_	0	root	_	AlignBegin=998.403|Intonation=descending|Speaker=TO017|TID=398-0
-2-3	nella	_	_	_	_	1	dep	_	Prolonged=Yes|Speaker=TO017|TID=398-1
+2-3	nella	_	_	_	_	_	_	_	Prolonged=Yes|Speaker=TO017|TID=398-1
 2	in	in	ADP	E	_	7	case	_	_
 3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 4-5	nelle	_	_	_	_	_	_	_	Speaker=TO017|TID=398-2
@@ -4695,7 +4695,7 @@
 7	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	obl	_	AlignBegin=1339.593|Speaker=TO017|TID=505-0
 8	che	che	PRON	PR	PronType=Rel	15	nsubj	_	AlignEnd=1340.193|Speaker=TO017|TID=505-1
 9	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	15	nsubj	_	AlignBegin=1340.537|Speaker=TO017|TID=506-0
-10-11	nella	_	_	_	_	2	dep	_	Speaker=TO017|TID=506-1
+10-11	nella	_	_	_	_	_	_	_	Speaker=TO017|TID=506-1
 10	in	in	ADP	E	_	13	case	_	_
 11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 12-13	stele	_	_	_	_	_	_	_	Speaker=TO017|TID=506-2
@@ -5612,7 +5612,7 @@
 2	comunque	comunque	ADV	B	_	4	advmod	_	Speaker=TO017|TID=604-6
 3	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	Speaker=TO017|TID=604-7
 4	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=604-8
-5-6	dei	_	_	_	_	4	dep	_	AlignEnd=1587.741|Prolonged=Yes|Speaker=TO017|TID=604-9
+5-6	dei	_	_	_	_	_	_	_	AlignEnd=1587.741|Prolonged=Yes|Speaker=TO017|TID=604-9
 5	di	di	ADP	E	_	10	case	_	_
 6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 7	_	_	_	_	_	_	_	_	_
@@ -6901,7 +6901,7 @@
 1	ma	ma	CCONJ	CC	_	5	cc	_	Speaker=TO017|TID=767-6
 2	per	per	ADP	E	_	3	case	_	Speaker=TO017|TID=767-7
 3	ora	ora	ADV	B	_	5	advmod	_	AlignEnd=1959.997|Speaker=TO017|TID=767-8
-4-5	tenetevi	_	_	_	_	5	dep	_	AlignEnd=1960.871|Speaker=TO017|TID=768-0
+4-5	tenetevi	_	_	_	_	_	_	_	AlignEnd=1960.871|Speaker=TO017|TID=768-0
 5	tenete	tenere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	7	expl	_	_
 7-8	tenetevi	_	_	_	_	_	_	_	AlignBegin=1961.073|Speaker=TO017|TID=769-0
