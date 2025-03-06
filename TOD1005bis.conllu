@@ -7991,7 +7991,7 @@
 17-18	della	_	_	_	_	_	_	_	Speaker=TO017|TID=898-3
 17	di	di	ADP	E	_	19	case	_	_
 18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-19	siria	siria	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	AlignEnd=2290.631|Intonation=weakly_ascending|Speaker=TO017|TID=898-4
+19	siria	Siria	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	AlignEnd=2290.631|Intonation=weakly_ascending|Speaker=TO017|TID=898-4
 20	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	AlignBegin=2291.345|Speaker=TO017|TID=899-0
 21	disseminata	disseminare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	ccomp	_	AlignEnd=2292.563|Intonation=weakly_ascending|PaceSlow=Yes|Speaker=TO017|TID=899-1
 22-23	nel	_	_	_	_	_	_	_	AlignBegin=2292.692|Speaker=TO017|TID=900-0
