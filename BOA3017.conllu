@@ -4,7 +4,7 @@
 1-2	eccoci	_	_	_	_	_	_	_	_
 1	ecco	ecco	NOUN	S	Gender=Masc|Number=Plur	0	root	_	AlignBegin=0.4|Speaker=BO139|TID=0-0
 2	ci	ci	NOUN	S	Gender=Masc|Number=Plur	0	root	_	AlignBegin=0.4|Speaker=BO139|TID=0-0
-3	qua	quaquaquaqua	ADV	B	_	2	advmod	_	Intonation=descending|Speaker=BO139|TID=0-1
+3	qua	qua	ADV	B	_	2	advmod	_	Intonation=descending|Speaker=BO139|TID=0-1
 
 # sent_id = 1
 # text = sarà difficilissimo raga perché tipo in quattro poi comunque {ride} ci si parla sopra {ride}
