@@ -5280,7 +5280,7 @@
 1	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	AlignBegin=1491.968|Speaker=TO017|TID=565-0
 2	essere	essere	VERB	V	VerbForm=Inf	3	cop	_	Speaker=TO017|TID=565-1
 3	che	che	SCONJ	PR	PronType=Rel	0	root	_	Speaker=TO017|TID=565-2
-4	sì	sì	INTERJ	I	_	3	discourse	_	Speaker=TO017|TID=565-3
+4	sì	sì	INTJ	I	_	3	discourse	_	Speaker=TO017|TID=565-3
 
 # sent_id = 348
 # text = potrebbe essere che no

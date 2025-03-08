@@ -2435,7 +2435,7 @@
 # sent_id = 136
 # text = anzi i primi giorni era strano che non avessi nessuno con cui parla' prima di addormentamme cioè proprio mi faceva un sacco strano
 # jefferson_text =  a:nzi i primi giorni:, era stra:no:: che non avessi nessu:no con cui parla' prima di (addormentamme) cioè proprio mi faceva un sacco strano.
-1	anzi	anzi	CCON	B	_	4	advmod	_	Prolonged=Yes|Speaker=BO118|TID=169-7
+1	anzi	anzi	CCONJ	B	_	4	advmod	_	Prolonged=Yes|Speaker=BO118|TID=169-7
 2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	Speaker=BO118|TID=169-8
 3	primi	primo	NUM	NO	Gender=Masc|NumType=Ord|Number=Plur	4	amod	_	Speaker=BO118|TID=169-9
 4	giorni	giorno	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	AlignEnd=686.01|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO118|TID=169-10
@@ -2451,7 +2451,7 @@
 14	prima	prima	ADV	B	_	13	advmod	_	Speaker=BO118|TID=170-9
 15	di	di	ADP	E	_	16	case	_	Speaker=BO118|TID=170-10
 16	addormentamme	addormentamma	NOUN	S	Gender=Fem|Number=Plur	13	obl	_	Speaker=BO118|TID=170-11
-17	cioè	cioè	CCON	CC	_	20	cc	_	Speaker=BO118|TID=170-12
+17	cioè	cioè	CCONJ	CC	_	20	cc	_	Speaker=BO118|TID=170-12
 18	proprio	proprio	ADV	B	_	20	advmod	_	Speaker=BO118|TID=170-13
 19	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	20	iobj	_	Speaker=BO118|TID=170-14
 20	faceva	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	conj	_	Speaker=BO118|TID=170-15
@@ -2771,7 +2771,7 @@
 # text = e quindi fondamentalmente non stavi da solo quando stavi da una parte odall' altra
 # jefferson_text =  e quindi, fondamentalmente non stavi da so:lo quando stavi da una parte odall' altra
 1	e	e	CCONJ	CC	_	5	cc	_	Speaker=BO118|TID=187-20
-2	quindi	quindi	CCON	B	_	5	advmod	_	AlignEnd=767.62|Intonation=weakly_ascending|Speaker=BO118|TID=187-21
+2	quindi	quindi	CCONJ	B	_	5	advmod	_	AlignEnd=767.62|Intonation=weakly_ascending|Speaker=BO118|TID=187-21
 3	fondamentalmente	fondamentalmente	ADV	B	_	5	advmod	_	AlignBegin=768.01|Speaker=BO118|TID=188-0
 4	non	non	ADV	BN	PronType=Neg	5	advmod	_	Speaker=BO118|TID=188-1
 5	stavi	stare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO118|TID=188-2
@@ -5364,7 +5364,7 @@
 4	perché	perché	SCONJ	CS	_	10	mark	_	Speaker=BO140|TID=373-3
 5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Speaker=BO140|TID=373-4
 6	ad	ad	ADP	E	_	7	case	_	Speaker=BO140|TID=373-5
-7	ancona	ancona	PROP	S	Gender=Fem|Number=Sing	10	obl	_	Speaker=BO140|TID=373-6
+7	ancona	ancona	PROPN	S	Gender=Fem|Number=Sing	10	obl	_	Speaker=BO140|TID=373-6
 8	non	non	ADV	BN	PronType=Neg	10	advmod	_	Speaker=BO140|TID=373-7
 9	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	Speaker=BO140|TID=373-8
 10	son	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	Speaker=BO140|TID=373-9
