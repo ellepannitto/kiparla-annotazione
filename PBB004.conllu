@@ -9557,17 +9557,13 @@
 2	a	a	ADP	E	_	3	case	_	Speaker=BOI013|TID=1152-1
 3	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	1	obl	_	AlignEnd=2152.249|Overlapping=Yes|Prolonged=Yes|Speaker=BOI013|TID=1152-2
 
-# sent_id = 780_split1
-# text = e grazie
+# sent_id = 780
+# text = e grazie mille ancora
 # jefferson_text = [e grazi]e mille an[cora]
 1	e	e	CCONJ	CC	_	2	cc	_	AlignBegin=2151.756|Overlapping=Yes|Speaker=BOR005|TID=1153-0
 2	grazie	grazie	INTJ	I	_	0	root	_	Overlapping=Yes|Speaker=BOR005|TID=1153-1
-
-# sent_id = 780_split2
-# text = mille ancora
-# jefferson_text = [e grazi]e mille an[cora]
-1	mille	mille	NUM	N	NumType=Card	_	_	_	Speaker=BOR005|TID=1153-2
-2	ancora	ancora	ADV	B	_	_	_	_	AlignEnd=2153.086|Overlapping=Yes|Speaker=BOR005|TID=1153-3
+3	mille	mille	NUM	N	NumType=Card	_	_	_	Speaker=BOR005|TID=1153-2
+4	ancora	ancora	ADV	B	_	_	_	_	AlignEnd=2153.086|Overlapping=Yes|Speaker=BOR005|TID=1153-3
 
 # sent_id = 781
 # text = prego
