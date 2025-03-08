@@ -4475,7 +4475,7 @@
 8	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	Speaker=BO140|TID=305-5
 9	mai	mai	ADV	B	_	10	advmod	_	Speaker=BO140|TID=305-6
 10	trovato	trovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	Speaker=BO140|TID=305-7
-11-12	dei	_	_	_	_	5	dep	_	Prolonged=Yes|Speaker=BO140|TID=305-8
+11-12	dei	_	_	_	_	_	_	_	Prolonged=Yes|Speaker=BO140|TID=305-8
 11	di	di	ADP	E	_	17	case	_	_
 12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
 13-14	dei	_	_	_	_	_	_	_	Speaker=BO140|TID=305-9
