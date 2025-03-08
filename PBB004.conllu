@@ -1191,19 +1191,19 @@
 8	sotto	sotto	ADP	E	_	10	case	_	Speaker=BOI013|TID=145-4
 9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Speaker=BOI013|TID=145-5
 10	sottopassaggio	sottopassaggio	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	Speaker=BOI013|TID=145-6
-11-12	della	_	_	_	_	_	_	_	Prolonged=Yes|Speaker=BOI013|TID=145-7
-11	di	di	ADP	E	_	16	case	_	_
-12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-13-14	all'	_	_	_	_	_	_	_	SpaceAfter=No|Speaker=BOI013|TID=145-8
-13	a	a	ADP	E	_	16	case	_	_
-14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
-15	autostazione	autostazione	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	AlignEnd=258.019|Intonation=weakly_ascending|Speaker=BOI013|TID=145-9
-16	mh	mh	INTJ	I	_	16	amod	_	AlignEnd=258.505|Overlapping=Yes|Speaker=BOI012|TID=146-0
-17	che	che	PRON	PR	PronType=Rel	16	nsubj	_	AlignEnd=258.76|Overlapping=Yes|Prolonged=Yes|Speaker=BOI013|TID=147-0
-18	che	che	PRON	PR	PronType=Rel	20	nsubj	_	AlignBegin=258.88|Speaker=BOI013|TID=148-0
-19	trovi	trovare	VERB	V	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	Speaker=BOI013|TID=148-1
-20	sempre	sempre	ADV	B	_	20	advmod	_	Speaker=BOI013|TID=148-2
-21	spacciatori	spacciatore	NOUN	S	Gender=Masc|Number=Plur	20	obj	_	Speaker=BOI013|TID=148-3
+11	della	_	_	_	_	3	dep	_	Prolonged=Yes|Speaker=BOI013|TID=145-7
+12	di	di	ADP	E	_	16	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+14	a	a	ADP	E	_	16	case	_	_
+12-13-14-15	all'	_	_	_	_	_	_	_	SpaceAfter=No|Speaker=BOI013|TID=145-8
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
+16	autostazione	autostazione	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	AlignEnd=258.019|Intonation=weakly_ascending|Speaker=BOI013|TID=145-9
+17	mh	mh	INTJ	I	_	16	amod	_	AlignEnd=258.505|Overlapping=Yes|Speaker=BOI012|TID=146-0
+18	che	che	PRON	PR	PronType=Rel	16	nsubj	_	AlignEnd=258.76|Overlapping=Yes|Prolonged=Yes|Speaker=BOI013|TID=147-0
+19	che	che	PRON	PR	PronType=Rel	20	nsubj	_	AlignBegin=258.88|Speaker=BOI013|TID=148-0
+20	trovi	trovare	VERB	V	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	Speaker=BOI013|TID=148-1
+21	sempre	sempre	ADV	B	_	20	advmod	_	Speaker=BOI013|TID=148-2
+22	spacciatori	spacciatore	NOUN	S	Gender=Masc|Number=Plur	20	obj	_	Speaker=BOI013|TID=148-3
 
 # sent_id = 107
 # text = che ti ve~ che ti danno della uh vuole qualcosa signora ne vuole ma ma sa vut {P} dalla vita
