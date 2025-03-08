@@ -13,7 +13,7 @@
 # sent_id = 1
 # text = mh sì
 # jefferson_text =  mh sì
-1	mh	mh	PARA	I	_	0	root	_	AlignBegin=4.9|Speaker=BO140|TID=2-0
+1	mh	mh	INTJ	I	_	0	root	_	AlignBegin=4.9|Speaker=BO140|TID=2-0
 2	sì	sì	INTJ	I	_	1	discourse	_	AlignEnd=5.94|Speaker=BO140|TID=2-1
 
 # sent_id = 2
@@ -43,7 +43,7 @@
 4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	Prolonged=Yes|Speaker=BO140|TID=4-4
 5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Prolonged=Yes|Speaker=BO140|TID=4-5
 6	villa	villa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	AlignEnd=13.92|Prolonged=Yes|Speaker=BO140|TID=4-6
-7	mh	mh	PARA	I	_	14	discourse	_	AlignBegin=14.54|Prolonged=Yes|Speaker=BO140|TID=5-0
+7	mh	mh	INTJ	I	_	14	discourse	_	AlignBegin=14.54|Prolonged=Yes|Speaker=BO140|TID=5-0
 8	in	in	ADP	E	_	9	case	_	Speaker=BO140|TID=5-1
 9	mezzo	mezzo	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	Speaker=BO140|TID=5-2
 10-11	alla	_	_	_	_	_	_	_	Speaker=BO140|TID=5-3
@@ -59,14 +59,14 @@
 19	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	Intonation=weakly_ascending|Speaker=BO140|TID=6-6
 20	che	che	SCONJ	PR	PronType=Rel	25	nsubj	_	Speaker=BO140|TID=6-7
 21	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	AlignEnd=20.76|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=6-8
-22	eh	eh	PARA	I	_	25	discourse	_	AlignBegin=21.332|Prolonged=Yes|Speaker=BO140|TID=7-0
+22	eh	eh	INTJ	I	_	25	discourse	_	AlignBegin=21.332|Prolonged=Yes|Speaker=BO140|TID=7-0
 23	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	Speaker=BO140|TID=7-1
 24	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	25	det:poss	_	Speaker=BO140|TID=7-2
 25	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	19	acl:relcl	_	AlignEnd=22.63|Intonation=weakly_ascending|Speaker=BO140|TID=7-3
-26	mhmh	mhmh	PARA	I	_	28	discourse	_	AlignEnd=23.28|Overlapping=Yes|Speaker=BO118|TID=8-0
+26	mhmh	mhmh	INTJ	I	_	28	discourse	_	AlignEnd=23.28|Overlapping=Yes|Speaker=BO118|TID=8-0
 27	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	28	det:poss	_	AlignBegin=23.11|Overlapping=Yes|Speaker=BO140|TID=9-0
 28	nonna	nonno	NOUN	S	Gender=Fem|Number=Sing	25	parataxis	_	AlignEnd=23.93|Intonation=weakly_ascending|Speaker=BO140|TID=9-1
-29	mh	mh	PARA	I	_	28	discourse	_	AlignBegin=24.725|Speaker=BO140|TID=10-0
+29	mh	mh	INTJ	I	_	28	discourse	_	AlignBegin=24.725|Speaker=BO140|TID=10-0
 30	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	Speaker=BO140|TID=10-1
 31	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	32	det:poss	_	Speaker=BO140|TID=10-2
 32	cugini	cugino	NOUN	S	Gender=Masc|Number=Plur	45	nsubj	_	Speaker=BO140|TID=10-3
@@ -106,7 +106,7 @@
 3	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Prolonged=Yes|Speaker=BO140|TID=12-2
 4	tre	tre	DET	N	NumType=Card	5	nummod	_	Speaker=BO140|TID=12-3
 5	piani	piano	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	AlignEnd=34.93|Intonation=weakly_ascending|Speaker=BO140|TID=12-4
-6	mhmh	mhmh	PARA	S	_	3	nsubj	_	AlignEnd=35.64|Overlapping=Yes|Speaker=BO118|TID=13-0
+6	mhmh	mhmh	INTJ	S	_	3	nsubj	_	AlignEnd=35.64|Overlapping=Yes|Speaker=BO118|TID=13-0
 7	e	e	CCONJ	CC	_	10	cc	_	AlignBegin=35.477|Overlapping=Yes|Speaker=BO140|TID=14-0
 8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	Overlapping=Yes|SpaceAfter=No|Speaker=BO140|TID=14-1
 9	ultimo	ultimo	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	Overlapping=Yes|Speaker=BO140|TID=14-2
@@ -216,7 +216,7 @@
 27	verde	verde	ADJ	A	Number=Sing	28	amod	_	AlignEnd=67.91|Speaker=BO140|TID=22-9
 28	fino	fino	ADV	S	Gender=Masc|Number=Sing	24	obl	_	AlignBegin=68.673|Speaker=BO140|TID=23-0
 29	a	a	ADP	E	_	30	case	_	Prolonged=Yes|Speaker=BO140|TID=23-1
-30	mh	mh	PARA	S	_	28	nmod	_	Speaker=BO140|TID=23-2
+30	mh	mh	INTJ	S	_	28	nmod	_	Speaker=BO140|TID=23-2
 31	trent'	trento	DET	N	NumType=Card	32	nummod	_	SpaceAfter=No|Speaker=BO140|TID=23-3
 32	anni	anno	NOUN	S	Gender=Masc|Number=Plur	30	compound	_	Speaker=BO140|TID=23-4
 33	fa	fare	ADP	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	parataxis	_	Prolonged=Yes|Speaker=BO140|TID=23-5
@@ -273,7 +273,7 @@
 18	di	di	ADP	E	_	20	case	_	_
 19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	strada	strada	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	AlignEnd=84.27|Prolonged=Yes|Speaker=BO140|TID=24-31
-21	eh	eh	PARA	I	_	22	discourse	_	AlignBegin=84.66|Prolonged=Yes|Speaker=BO140|TID=25-0
+21	eh	eh	INTJ	I	_	22	discourse	_	AlignBegin=84.66|Prolonged=Yes|Speaker=BO140|TID=25-0
 22	nazionale	nazionale	ADJ	A	Number=Sing	17	amod	_	Prolonged=Yes|Speaker=BO140|TID=25-1
 23	che	che	SCONJ	CS	_	24	mark	_	Speaker=BO140|TID=25-2
 24	collega	colleere	VERB	S	Number=Sing	17	acl	_	Speaker=BO140|TID=25-3
@@ -389,7 +389,7 @@
 # jefferson_text =  oka[y] [qui]ndi: e::hm per questo è immer~ cioè è immersa nella natura
 1	okay	okay	INTJ	I	_	10	discourse	_	AlignEnd=119.803|Overlapping=Yes|Speaker=BO118|TID=33-0
 2	quindi	quindi	CCONJ	CC	_	10	cc	_	AlignBegin=119.576|Overlapping=Yes|Prolonged=Yes|Speaker=BO140|TID=34-0
-3	ehm	ehm	PARA	I	_	7	discourse	_	Prolonged=Yes|Speaker=BO140|TID=34-1
+3	ehm	ehm	INTJ	I	_	7	discourse	_	Prolonged=Yes|Speaker=BO140|TID=34-1
 4	per	per	ADP	E	_	5	case	_	Speaker=BO140|TID=34-2
 5	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	obl	_	Speaker=BO140|TID=34-3
 6	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	Speaker=BO140|TID=34-4
@@ -419,7 +419,7 @@
 1	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	AlignEnd=126.04|Prolonged=Yes|Speaker=BO140|TID=34-18
 2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	AlignBegin=126.833|Prolonged=Yes|Speaker=BO140|TID=35-0
 3	bello	bello	ADJ	A	Gender=Masc|Number=Sing	0	root	_	AlignEnd=128.199|Intonation=descending|Speaker=BO140|TID=35-1
-4	ehm	ehm	PARA	SYM	_	3	parataxis:hashtag	_	AlignBegin=128.52|Prolonged=Yes|Speaker=BO118|TID=36-0
+4	ehm	ehm	INTJ	SYM	_	3	parataxis:hashtag	_	AlignBegin=128.52|Prolonged=Yes|Speaker=BO118|TID=36-0
 
 # sent_id = 21
 # text = coi vicini avete un buon rapporto li conoscete bene
@@ -495,7 +495,7 @@
 7	stessa	stesso	DET	DD	PronType=Dem	8	det	_	Speaker=BO140|TID=38-3
 8	età	età	NOUN	S	Gender=Fem	4	obj	_	Speaker=BO140|TID=38-4
 9	o	o	CCONJ	CC	_	10	cc	_	Prolonged=Yes|Speaker=BO140|TID=38-5
-10	mh	mh	PARA	S	_	8	conj	_	Speaker=BO140|TID=38-6
+10	mh	mh	INTJ	S	_	8	conj	_	Speaker=BO140|TID=38-6
 11	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	Speaker=BO140|TID=38-7
 12	comunque	comunque	ADV	B	_	13	advmod	_	Prolonged=Yes|Speaker=BO140|TID=38-8
 13	coetanei	coetane	ADJ	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	Prolonged=Yes|Speaker=BO140|TID=38-9
@@ -518,7 +518,7 @@
 13	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Prolonged=Yes|Speaker=BO140|TID=39-5
 14	rapporto	rapporto	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	Speaker=BO140|TID=39-6
 15	proprio	proprio	ADV	B	_	16	advmod	_	AlignEnd=160.11|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=39-7
-16	mh	mh	PARA	I	_	14	nmod	_	AlignBegin=160.535|Speaker=BO140|TID=40-0
+16	mh	mh	INTJ	I	_	14	nmod	_	AlignBegin=160.535|Speaker=BO140|TID=40-0
 17	stretto	stretto	ADJ	A	Gender=Masc|Number=Sing	16	amod	_	Prolonged=Yes|Speaker=BO140|TID=40-1
 18	di	di	ADP	E	_	19	case	_	Speaker=BO140|TID=40-2
 19	parentela	parentela	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	Speaker=BO140|TID=40-3
@@ -585,7 +585,7 @@
 21	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	Speaker=BO140|TID=45-3
 22	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	Speaker=BO140|TID=45-4
 23	rapporto	rapporto	NOUN	S	Gender=Masc|Number=Sing	15	conj	_	Prolonged=Yes|ProsodicLink=Yes|Speaker=BO140|TID=45-5
-24	mh	mh	PARA	I	_	25	discourse	_	Prolonged=Yes|Speaker=BO140|TID=45-6
+24	mh	mh	INTJ	I	_	25	discourse	_	Prolonged=Yes|Speaker=BO140|TID=45-6
 25	amichevole	amichevole	ADJ	A	Gender=Fem|Number=Plur	13	ccomp	_	AlignEnd=184.53|Intonation=descending|Speaker=BO140|TID=45-7
 
 # sent_id = 28
@@ -631,7 +631,7 @@
 # sent_id = 32
 # text = ah in realtà una volta era il bagno ma perché è la parte più piccola della casa e si riscalda prima e quindi anche in inverno ho sempre pensato fosse un un luogo più chiuso di altri
 # jefferson_text =  a::h in realtà:: una volta era il bagno. ma perché: è la parte più piccola della casa: e: si riscalda prima e:, quindi anche in inverno: ho sempre pensato, fosse u:n un luogo più chiuso di a:ltri,
-1	ah	ah	PARA	I	_	8	discourse	_	Prolonged=Yes|Speaker=BO140|TID=49-4
+1	ah	ah	INTJ	I	_	8	discourse	_	Prolonged=Yes|Speaker=BO140|TID=49-4
 2	in	in	ADP	E	_	3	case	_	Speaker=BO140|TID=49-5
 3	realtà	realtà	NOUN	S	Gender=Fem	8	obl	_	Prolonged=Yes|Speaker=BO140|TID=49-6
 4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Speaker=BO140|TID=49-7
@@ -688,8 +688,8 @@
 12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Speaker=BO140|TID=53-11
 13	camino	camino	NOUN	S	Gender=Masc|Number=Sing	11	nsubj	_	Prolonged=Yes|Speaker=BO140|TID=53-12
 14	e	e	CCONJ	CC	_	15	cc	_	Prolonged=Yes|Speaker=BO140|TID=53-13
-15	mh	mh	PARA	I	_	13	conj	_	AlignEnd=218.39|Speaker=BO140|TID=53-14
-16	mh	mh	PARA	I	_	19	discourse	_	AlignBegin=219.356|Prolonged=Yes|Speaker=BO140|TID=54-0
+15	mh	mh	INTJ	I	_	13	conj	_	AlignEnd=218.39|Speaker=BO140|TID=53-14
+16	mh	mh	INTJ	I	_	19	discourse	_	AlignBegin=219.356|Prolonged=Yes|Speaker=BO140|TID=54-0
 17	vabbè	vabbè	INTJ	I	_	19	discourse	_	Speaker=BO140|TID=54-1
 18	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	19	expl	_	Overlapping=Yes|Speaker=BO140|TID=54-2
 19	stiamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	parataxis	_	Overlapping=Yes|Speaker=BO140|TID=54-3
@@ -839,7 +839,7 @@
 # text = okay ehm quindi stai vicina al centro e vai spesso in centro o o resti più nella zona dove dove abiti
 # jefferson_text =  <oka:y> e::hm quindi stai vicina al ce:ntro:: e: vai spesso in centro: o:: o resti più nella zona dove: dove abiti?
 1	okay	okay	INTJ	I	_	4	discourse	_	AlignEnd=256.7|PaceSlow=Yes|Prolonged=Yes|Speaker=BO118|TID=65-0
-2	ehm	ehm	PARA	I	_	4	discourse	_	AlignBegin=258.505|Prolonged=Yes|Speaker=BO118|TID=66-0
+2	ehm	ehm	INTJ	I	_	4	discourse	_	AlignBegin=258.505|Prolonged=Yes|Speaker=BO118|TID=66-0
 3	quindi	quindi	CCONJ	B	_	4	advmod	_	Speaker=BO118|TID=66-1
 4	stai	stare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO118|TID=66-2
 5	vicina	vicina	ADJ	S	Gender=Fem|Number=Sing	4	obj	_	Speaker=BO118|TID=66-3
@@ -901,7 +901,7 @@
 31	zona	zona	NOUN	S	Gender=Fem|Number=Sing	18	ccomp	_	Speaker=BO140|TID=69-15
 32	residenziale	residenziale	ADJ	A	Number=Sing	31	amod	_	Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=69-16
 33	nuova	nuovo	ADJ	A	Gender=Fem|Number=Sing	31	amod	_	Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=69-17
-34	eh	eh	PARA	I	_	35	discourse	_	Prolonged=Yes|Speaker=BO140|TID=69-18
+34	eh	eh	INTJ	I	_	35	discourse	_	Prolonged=Yes|Speaker=BO140|TID=69-18
 35	entri	entrare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	31	acl:relcl	_	Speaker=BO140|TID=69-19
 36	molto	molto	ADV	B	_	35	advmod	_	Speaker=BO140|TID=69-20
 37-38	nella	_	_	_	_	_	_	_	Speaker=BO140|TID=69-21
@@ -978,7 +978,7 @@
 5	comunque	comunque	ADV	B	_	8	advmod	_	Speaker=BO140|TID=74-4
 6	sia	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Prolonged=Yes|Speaker=BO140|TID=74-5
 7	non	non	ADV	BN	PronType=Neg	8	advmod	_	Prolonged=Yes|Speaker=BO140|TID=74-6
-8	mh	mh	PARA	I	_	11	discourse	_	AlignEnd=296.31|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=74-7
+8	mh	mh	INTJ	I	_	11	discourse	_	AlignEnd=296.31|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=74-7
 9	non	non	ADV	BN	PronType=Neg	11	advmod	_	AlignBegin=297.027|Speaker=BO140|TID=75-0
 10	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	11	expl	_	Speaker=BO140|TID=75-1
 11	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=75-2
@@ -1046,7 +1046,7 @@
 5	sempre	sempre	ADV	B	_	4	advmod	_	Speaker=BO140|TID=77-4
 6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Speaker=BO140|TID=77-5
 7	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	AlignEnd=313.66|Intonation=descending|Speaker=BO140|TID=77-6
-8	mh	mh	PARA	I	_	10	discourse	_	AlignBegin=314.345|Speaker=BO140|TID=78-0
+8	mh	mh	INTJ	I	_	10	discourse	_	AlignBegin=314.345|Speaker=BO140|TID=78-0
 9	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	Speaker=BO140|TID=78-1
 10	comoda	comodo	ADJ	A	Gender=Fem|Number=Sing	4	parataxis	_	Prolonged=Yes|Speaker=BO140|TID=78-2
 11	e	e	CCONJ	CC	_	13	cc	_	Prolonged=Yes|Speaker=BO140|TID=78-3
@@ -1072,7 +1072,7 @@
 3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No|Speaker=BO140|TID=79-8
 4	autobus	autobus	NOUN	S	_	9	vocative	_	Speaker=BO140|TID=79-9
 5	così	così	ADV	B	_	4	advmod	_	AlignEnd=322.582|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=79-10
-6	eh	eh	PARA	I	_	9	discourse	_	AlignBegin=322.603|Speaker=BO118|TID=80-0
+6	eh	eh	INTJ	I	_	9	discourse	_	AlignBegin=322.603|Speaker=BO118|TID=80-0
 7	ce	ce	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	expl	_	Speaker=BO118|TID=80-1
 8	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	Speaker=BO118|TID=80-2
 9	avete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO118|TID=80-3
@@ -1148,7 +1148,7 @@
 18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	Speaker=BO140|TID=83-11
 19	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	20	det:poss	_	Prolonged=Yes|Speaker=BO140|TID=83-12
 20	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	23	nsubj	_	Speaker=BO140|TID=83-13
-21	ehm	ehm	PARA	I	_	23	discourse	_	Speaker=BO140|TID=83-14
+21	ehm	ehm	INTJ	I	_	23	discourse	_	Speaker=BO140|TID=83-14
 22	vabbè	vabbè	INTJ	I	_	23	discourse	_	Speaker=BO140|TID=83-15
 23	lavoravano	lavorare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	15	acl:relcl	_	Speaker=BO140|TID=83-16
 24	sempre	sempre	ADV	B	_	23	advmod	_	Speaker=BO140|TID=83-17
@@ -1329,13 +1329,13 @@
 4	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=90-27
 5	essere	essere	VERB	V	VerbForm=Inf	6	cop	_	Prolonged=Yes|Speaker=BO140|TID=90-28
 6	indipendente	indipendente	ADJ	A	Number=Sing	4	xcomp	_	AlignEnd=376.38|Intonation=descending|Speaker=BO140|TID=90-29
-7	mhmh	mhmh	PARA	I	_	4	discourse	_	AlignEnd=376.96|Speaker=BO118|TID=91-0
+7	mhmh	mhmh	INTJ	I	_	4	discourse	_	AlignEnd=376.96|Speaker=BO118|TID=91-0
 
 # sent_id = 67
 # text = quindi mh cioè preferisco spostarmi per i cavoli miei senza stare sempre agli altri
 # jefferson_text =  quindi::: mh:: cioè preferisco: spostarmi per i cavoli miei senza:: stare [(sempre agli) altri].
 1	quindi	quindi	CCONJ	B	_	4	advmod	_	AlignBegin=376.97|Prolonged=Yes|Speaker=BO140|TID=92-0
-2	mh	mh	PARA	I	_	4	discourse	_	AlignEnd=379.27|Prolonged=Yes|Speaker=BO140|TID=92-1
+2	mh	mh	INTJ	I	_	4	discourse	_	AlignEnd=379.27|Prolonged=Yes|Speaker=BO140|TID=92-1
 3	cioè	cioè	CCONJ	CC	_	4	cc	_	AlignBegin=379.9|Speaker=BO140|TID=93-0
 4	preferisco	preferire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Prolonged=Yes|Speaker=BO140|TID=93-1
 5-6	spostarmi	_	_	_	_	_	_	_	Speaker=BO140|TID=93-2
@@ -1375,7 +1375,7 @@
 # sent_id = 69
 # text = ah ecco vedi {ride}
 # jefferson_text =  [ah] ecco vedi? {ride}
-1	ah	ah	PARA	I	_	3	discourse	_	AlignBegin=387.1|Overlapping=Yes|Speaker=BO140|TID=95-0
+1	ah	ah	INTJ	I	_	3	discourse	_	AlignBegin=387.1|Overlapping=Yes|Speaker=BO140|TID=95-0
 2	ecco	ecco	INTJ	B	_	3	advmod	_	Speaker=BO140|TID=95-1
 3	vedi	vedere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Intonation=ascending|Speaker=BO140|TID=95-2
 4	{ride}	_	_	_	_	3	dep	_	AlignEnd=388.52|Speaker=BO140|TID=95-3|Type=NLB
@@ -1423,13 +1423,13 @@
 # sent_id = 74
 # text = eh
 # jefferson_text =  eh]
-1	eh	eh	PARA	I	_	0	root	_	AlignEnd=394.84|Overlapping=Yes|Speaker=BO140|TID=99-1
+1	eh	eh	INTJ	I	_	0	root	_	AlignEnd=394.84|Overlapping=Yes|Speaker=BO140|TID=99-1
 
 # sent_id = 75
 # text = sì eh cioè diciamo che il centro è tutto salita e discesa però fuori tutta la periferia così
 # jefferson_text =  sì eh cioè diciamo che il centro è tutto:: salita e discesa. però: fuori:: tutta la periferia così::
 1	sì	sì	INTJ	I	_	4	discourse	_	AlignBegin=396.17|Speaker=BO140|TID=100-0
-2	eh	eh	PARA	I	_	4	discourse	_	Speaker=BO140|TID=100-1
+2	eh	eh	INTJ	I	_	4	discourse	_	Speaker=BO140|TID=100-1
 3	cioè	cioè	CCONJ	CC	_	4	cc	_	Speaker=BO140|TID=100-2
 4	diciamo	dire	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=100-3
 5	che	che	SCONJ	CS	_	10	mark	_	Speaker=BO140|TID=100-4
@@ -1646,7 +1646,7 @@
 27	open	open	NOUN	S	Gender=Masc|Number=Sing	23	conj	_	Speaker=BO140|TID=121-2
 28	space	space	NOUN	A	Number=Sing	27	amod	_	AlignEnd=459.9|Intonation=descending|Speaker=BO140|TID=121-3
 29	e	e	CCONJ	CC	_	34	cc	_	AlignBegin=460.505|Prolonged=Yes|Speaker=BO140|TID=122-0
-30	mh	mh	PARA	I	_	34	discourse	_	Speaker=BO140|TID=122-1
+30	mh	mh	INTJ	I	_	34	discourse	_	Speaker=BO140|TID=122-1
 31	ed	e	CCONJ	CC	_	34	cc	_	Speaker=BO140|TID=122-2
 32	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	34	cop	_	Speaker=BO140|TID=122-3
 33	molto	molto	ADV	B	_	34	advmod	_	Prolonged=Yes|Speaker=BO140|TID=122-4
@@ -1656,7 +1656,7 @@
 # text = cioè mhl' ambiente era familiare e comunquec' erano un paio di divani eh la televisione il tavolo da cucina e h stavam sempre tutte insieme
 # jefferson_text =  cioè:: mh::l' ambiente era familia:re: e comunquec' erano un paio di divani, eh: la televisione:, il tavolo da cucina::, e h: stavam sempre tutte insieme.
 1	cioè	cioè	CCONJ	CC	_	6	discourse	_	Prolonged=Yes|Speaker=BO140|TID=122-6
-2	mh	mh	PARA	I	_	6	discourse	_	Prolonged=Yes|Speaker=BO140|TID=122-7
+2	mh	mh	INTJ	I	_	6	discourse	_	Prolonged=Yes|Speaker=BO140|TID=122-7
 3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No|Speaker=BO140|TID=122-8
 4	ambiente	ambiente	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	Speaker=BO140|TID=122-9
 5	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	Speaker=BO140|TID=122-10
@@ -1669,7 +1669,7 @@
 12	paio	paio	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	Speaker=BO140|TID=122-17
 13	di	di	ADP	E	_	14	case	_	Speaker=BO140|TID=122-18
 14	divani	divano	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	AlignEnd=469.61|Intonation=weakly_ascending|Speaker=BO140|TID=122-19
-15	eh	eh	PARA	I	_	24	discourse	_	AlignBegin=470.262|Prolonged=Yes|Speaker=BO140|TID=123-0
+15	eh	eh	INTJ	I	_	24	discourse	_	AlignBegin=470.262|Prolonged=Yes|Speaker=BO140|TID=123-0
 16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Speaker=BO140|TID=123-1
 17	televisione	televisione	NOUN	S	Gender=Fem|Number=Sing	24	nsubj	_	Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=123-2
 18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Speaker=BO140|TID=123-3
@@ -1959,7 +1959,7 @@
 # text = poi ehm
 # jefferson_text =  po:i ehm::
 1	poi	poi	ADV	B	_	2	advmod	_	AlignBegin=542.48|Prolonged=Yes|Speaker=BO118|TID=141-0
-2	ehm	ehm	PARA	S	Gender=Masc	0	root	_	AlignEnd=543.77|Prolonged=Yes|Speaker=BO118|TID=141-1
+2	ehm	ehm	INTJ	S	Gender=Masc	0	root	_	AlignEnd=543.77|Prolonged=Yes|Speaker=BO118|TID=141-1
 
 # sent_id = 112
 # text = e quindi hai vissuto sempre con tutte ragazze
@@ -2008,7 +2008,7 @@
 # sent_id = 114
 # text = ehm
 # jefferson_text =  ehm::::
-1	ehm	ehm	PARA	I	_	0	root	_	AlignBegin=558.985|Prolonged=Yes|Speaker=BO140|TID=145-0
+1	ehm	ehm	INTJ	I	_	0	root	_	AlignBegin=558.985|Prolonged=Yes|Speaker=BO140|TID=145-0
 
 # sent_id = 115
 # text = anche perché cioè cioè son tutte singole
@@ -2029,7 +2029,7 @@
 3	più	più	ADV	B	_	4	advmod	_	Speaker=BO140|TID=145-10
 4	facile	facile	ADJ	A	Number=Sing	0	root	_	AlignEnd=564.93|Prolonged=Yes|Speaker=BO140|TID=145-11
 5	sì	sì	INTJ	I	_	4	discourse	_	AlignEnd=565.153|Intonation=descending|Speaker=BO118|TID=146-0
-6	eh	eh	PARA	I	_	9	discourse	_	AlignBegin=565.208|Speaker=BO140|TID=147-0
+6	eh	eh	INTJ	I	_	9	discourse	_	AlignBegin=565.208|Speaker=BO140|TID=147-0
 7	che	che	SCONJ	CS	_	9	mark	_	Speaker=BO140|TID=147-1
 8	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	expl	_	Speaker=BO140|TID=147-2
 9	siano	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	Speaker=BO140|TID=147-3
@@ -2214,7 +2214,7 @@
 5	che	che	SCONJ	CS	_	12	mark	_	Speaker=BO140|TID=155-4
 6	se	se	SCONJ	CS	_	8	mark	_	Speaker=BO140|TID=155-5
 7	sei	essere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	cop	_	Prolonged=Yes|Speaker=BO140|TID=155-6
-8	mh	mh	PARA	S	_	12	advcl	_	Speaker=BO140|TID=155-7
+8	mh	mh	INTJ	S	_	12	advcl	_	Speaker=BO140|TID=155-7
 9	indaffarato	indaffarare	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	Speaker=BO140|TID=155-8
 10	o	o	CCONJ	CC	_	12	cc	_	Prolonged=Yes|Speaker=BO140|TID=155-9
 11	non	non	ADV	BN	PronType=Neg	12	advmod	_	Speaker=BO140|TID=155-10
@@ -2327,12 +2327,12 @@
 # jefferson_text =  e::: che mh: comunque io apprezzo tanto::, mh diciamo chedell' altra preferivo il fatto che fosse in ce:ntro rispetto a questa. questa è molto più vecchia come ca:sa:, non è stata ristrutturata ma:i,
 1	e	e	CCONJ	CC	_	3	cc	_	AlignBegin=654.37|Prolonged=Yes|Speaker=BO140|TID=160-0
 2	che	che	SCONJ	DE	PronType=Exc	3	det	_	Speaker=BO140|TID=160-1
-3	mh	mh	PARA	S	_	6	vocative	_	Prolonged=Yes|Speaker=BO140|TID=160-2
+3	mh	mh	INTJ	S	_	6	vocative	_	Prolonged=Yes|Speaker=BO140|TID=160-2
 4	comunque	comunque	CCONJ	B	_	3	advmod	_	Speaker=BO140|TID=160-3
 5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Speaker=BO140|TID=160-4
 6	apprezzo	apprezzare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=160-5
 7	tanto	tanto	ADV	B	_	6	advmod	_	AlignEnd=658.9|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=160-6
-8	mh	mh	PARA	I	_	6	discourse	_	AlignBegin=659.885|Speaker=BO140|TID=161-0
+8	mh	mh	INTJ	I	_	6	discourse	_	AlignBegin=659.885|Speaker=BO140|TID=161-0
 9	diciamo	dire	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	parataxis	_	Speaker=BO140|TID=161-1
 10	che	che	SCONJ	CS	_	14	mark	_	Speaker=BO140|TID=161-2
 11-12	dell'	_	_	_	_	_	_	_	SpaceAfter=No|Speaker=BO140|TID=161-3
@@ -2366,7 +2366,7 @@
 # text = quindi ehm a livello esteticol' altra è più bella
 # jefferson_text =  quindi: ehm: a livello esteticol' altra è più bella
 1	quindi	quindi	CCONJ	CC	_	10	discourse	_	AlignEnd=669.85|Prolonged=Yes|Speaker=BO140|TID=162-12
-2	ehm	ehm	PARA	I	_	10	discourse	_	AlignBegin=670.32|Prolonged=Yes|Speaker=BO140|TID=163-0
+2	ehm	ehm	INTJ	I	_	10	discourse	_	AlignBegin=670.32|Prolonged=Yes|Speaker=BO140|TID=163-0
 3	a	a	ADP	E	_	4	case	_	Speaker=BO140|TID=163-1
 4	livello	livello	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	Speaker=BO140|TID=163-2
 5	estetico	esteticale	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	Speaker=BO140|TID=163-3
@@ -2380,7 +2380,7 @@
 # text = ma mh però anche in questa sto bene ovviamente mh
 # jefferson_text =  ma: mh: però anche in questa sto bene ovviamente. mh
 1	ma	ma	CCONJ	CC	_	7	cc	_	Prolonged=Yes|Speaker=BO140|TID=163-9
-2	mh	mh	PARA	I	_	7	discourse	_	AlignEnd=673.33|Prolonged=Yes|Speaker=BO140|TID=163-10
+2	mh	mh	INTJ	I	_	7	discourse	_	AlignEnd=673.33|Prolonged=Yes|Speaker=BO140|TID=163-10
 3	però	però	CCONJ	B	_	7	advmod	_	AlignBegin=674.03|Speaker=BO140|TID=164-0
 4	anche	anche	ADV	B	_	7	advmod	_	Speaker=BO140|TID=164-1
 5	in	in	ADP	E	_	6	case	_	Speaker=BO140|TID=164-2
@@ -2388,12 +2388,12 @@
 7	sto	stare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=164-4
 8	bene	bene	ADV	B	_	7	advmod	_	Speaker=BO140|TID=164-5
 9	ovviamente	ovviamente	ADV	B	_	7	advmod	_	AlignEnd=675.62|Intonation=descending|Speaker=BO140|TID=164-6
-10	mh	mh	PARA	I	_	7	discourse	_	AlignBegin=675.62|Speaker=BO118|TID=165-0
+10	mh	mh	INTJ	I	_	7	discourse	_	AlignBegin=675.62|Speaker=BO118|TID=165-0
 
 # sent_id = 134
 # text = mh sì anche a me
 # jefferson_text =  mh sì anche a me::,
-1	mh	mh	PARA	I	_	5	discourse	_	AlignEnd=676.15|Speaker=BO118|TID=165-1
+1	mh	mh	INTJ	I	_	5	discourse	_	AlignEnd=676.15|Speaker=BO118|TID=165-1
 2	sì	sì	INTJ	I	_	5	discourse	_	AlignBegin=676.54|Speaker=BO118|TID=166-0
 3	anche	anche	ADV	B	_	5	advmod	_	Speaker=BO118|TID=166-1
 4	a	a	ADP	E	_	5	case	_	Speaker=BO118|TID=166-2
@@ -2403,7 +2403,7 @@
 # text = io ehm questo è il primo anno che sto in singola e anche a mem' ha fatto un sacco la differenza cioè ho sentito un sacco la differenza
 # jefferson_text =  io ehm questo è il primo anno che sto in singola, e:: anche a mem' ha fatto un sacco la differenza:. cioè ho sentito un sacco la differenza
 1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	AlignBegin=677.98|Speaker=BO118|TID=167-0
-2	ehm	ehm	PARA	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO118|TID=167-1
+2	ehm	ehm	INTJ	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO118|TID=167-1
 3	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	obj	_	Speaker=BO118|TID=167-2
 4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	Speaker=BO118|TID=167-3
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Speaker=BO118|TID=167-4
@@ -2981,7 +2981,7 @@
 # sent_id = 168
 # text = mh in che senso dici
 # jefferson_text =  mh in che senso dici?
-1	mh	mh	PARA	I	_	5	discourse	_	AlignBegin=813.289|Speaker=BO140|TID=201-0
+1	mh	mh	INTJ	I	_	5	discourse	_	AlignBegin=813.289|Speaker=BO140|TID=201-0
 2	in	in	ADP	E	_	4	case	_	Speaker=BO140|TID=201-1
 3	che	che	DET	DQ	PronType=Int	4	det	_	Speaker=BO140|TID=201-2
 4	senso	senso	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	Speaker=BO140|TID=201-3
@@ -3086,7 +3086,7 @@
 2	se	se	SCONJ	CS	_	3	mark	_	Speaker=BO140|TID=210-7
 3	vai	andare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=210-8
 4	lì	lì	ADV	B	_	3	advmod	_	Prolonged=Yes|Speaker=BO140|TID=210-9
-5	mmmh	mmmh	PARA	I	_	3	obj	_	Prolonged=Yes|Speaker=BO140|TID=210-10
+5	mmmh	mmmh	INTJ	I	_	3	obj	_	Prolonged=Yes|Speaker=BO140|TID=210-10
 6	in	in	ADP	E	_	8	case	_	Speaker=BO140|TID=210-11
 7	certi	certo	DET	DI	PronType=Ind	8	det	_	Speaker=BO140|TID=210-12
 8	orari	orario	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	Speaker=BO140|TID=210-13
@@ -3098,7 +3098,7 @@
 # sent_id = 176
 # text = mh
 # jefferson_text =  mh
-1	mh	mh	PARA	I	_	0	root	_	AlignBegin=841.234|Speaker=BO118|TID=211-0
+1	mh	mh	INTJ	I	_	0	root	_	AlignBegin=841.234|Speaker=BO118|TID=211-0
 
 # sent_id = 177
 # text = dove sta
@@ -3134,7 +3134,7 @@
 14	chiami	chiamare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	Speaker=BO140|TID=213-17
 15	in	in	ADP	E	_	16	case	_	Speaker=BO140|TID=213-18
 16	realtà	realtà	NOUN	S	Gender=Fem	14	obl	_	AlignEnd=849.27|Speaker=BO140|TID=213-19
-17	ah	ah	PARA	I	_	21	discourse	_	AlignEnd=844.43|Overlapping=Yes|Speaker=BO118|TID=214-0|Volume=low
+17	ah	ah	INTJ	I	_	21	discourse	_	AlignEnd=844.43|Overlapping=Yes|Speaker=BO118|TID=214-0|Volume=low
 18	però	però	ADV	B	_	21	advmod	_	AlignBegin=849.372|Speaker=BO140|TID=215-0
 19	ti~	ti~	PRON	SYM	_	21	nsubj	_	Interrupted=Yes|Speaker=BO140|TID=215-1
 20	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	Speaker=BO140|TID=215-2
@@ -3352,7 +3352,7 @@
 7	non	non	ADV	BN	PronType=Neg	8	advmod	_	Speaker=BO118|TID=236-3
 8	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	Speaker=BO118|TID=236-4
 9	se	se	SCONJ	CS	_	10	mark	_	Speaker=BO118|TID=236-5
-10	mh	mh	PARA	I	_	2	discourse	_	Prolonged=Yes|Speaker=BO118|TID=236-6
+10	mh	mh	INTJ	I	_	2	discourse	_	Prolonged=Yes|Speaker=BO118|TID=236-6
 11-12	nel	_	_	_	_	_	_	_	Speaker=BO118|TID=236-7
 11	in	in	ADP	E	_	13	case	_	_
 12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -3410,7 +3410,7 @@
 11	a	a	ADP	E	_	13	case	_	Prolonged=Yes|Speaker=BO118|TID=238-29
 12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Speaker=BO118|TID=238-30
 13	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	Prolonged=Yes|Speaker=BO118|TID=238-31
-14	mh	mh	PARA	I	_	18	discourse	_	Speaker=BO118|TID=238-32
+14	mh	mh	INTJ	I	_	18	discourse	_	Speaker=BO118|TID=238-32
 15	ovviamente	ovviamente	ADV	B	_	18	advmod	_	Speaker=BO118|TID=238-33
 16	non	non	ADV	BN	PronType=Neg	18	advmod	_	Speaker=BO118|TID=238-34
 17	da	da	ADP	E	_	18	case	_	Prolonged=Yes|Speaker=BO118|TID=238-35
@@ -3624,7 +3624,7 @@
 25	di	di	ADP	E	_	26	case	_	Speaker=BO118|TID=255-5
 26	mezzo	mezzo	ADJ	S	Gender=Masc|Number=Sing	24	nmod	_	Prolonged=Yes|Speaker=BO118|TID=255-6
 27	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	24	nmod	_	Speaker=BO118|TID=255-7
-28	mh	mh	PARA	S	_	27	compound	_	Prolonged=Yes|Speaker=BO118|TID=255-8
+28	mh	mh	INTJ	S	_	27	compound	_	Prolonged=Yes|Speaker=BO118|TID=255-8
 29	a	a	ADP	E	_	30	case	_	Speaker=BO118|TID=255-9
 30	firenze	firenze	PROPN	SP	_	28	nmod	_	Speaker=BO118|TID=255-10
 
@@ -3690,7 +3690,7 @@
 7	po'	po'	ADJ	B	_	5	obj	_	Prolonged=Yes|Speaker=BO118|TID=258-11|Truncated=Yes
 8	cioè	cioè	CCONJ	CC	_	22	cc	_	Speaker=BO118|TID=258-12
 9	se	se	SCONJ	CS	_	14	mark	_	Prolonged=Yes|Speaker=BO118|TID=258-13
-10	mh	mh	PARA	I	_	14	discourse	_	Prolonged=Yes|Speaker=BO118|TID=258-14
+10	mh	mh	INTJ	I	_	14	discourse	_	Prolonged=Yes|Speaker=BO118|TID=258-14
 11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Speaker=BO118|TID=258-15
 12	sabato	sabato	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	Speaker=BO118|TID=258-16
 13	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	14	expl	_	SpaceAfter=No|Speaker=BO118|TID=258-17
@@ -3792,7 +3792,7 @@
 # sent_id = 214
 # text = beh quello lo capisco in realtà ma perché è una città molto traffic~ cioè comunque sia per quanto sia piccola bologna perché rispetto a milano roma così è molto piccola
 # jefferson_text =  beh quello lo capisco in realtà ma perché:: è una città:: molto:: traffic~ cioè comunque sia, per quanto sia piccola bologna perché rispetto a milano, roma, così: è molto piccola
-1	beh	beh	PARA	I	_	4	discourse	_	Speaker=BO140|TID=267-2
+1	beh	beh	INTJ	I	_	4	discourse	_	Speaker=BO140|TID=267-2
 2	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	dislocated	_	Speaker=BO140|TID=267-3
 3	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Speaker=BO140|TID=267-4
 4	capisco	capire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=267-5
@@ -3843,7 +3843,7 @@
 15	lazzaro	lazzaro	PROPN	A	Gender=Masc|Number=Sing	13	amod	_	AlignEnd=1049.52|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=268-28
 16	che	che	SCONJ	CS	_	20	mark	_	AlignBegin=1050.02|Speaker=BO140|TID=269-0
 17	comunque	comunque	CCONJ	B	_	20	advmod	_	Speaker=BO140|TID=269-1
-18	mh	mh	PARA	I	_	20	discourse	_	Speaker=BO140|TID=269-2
+18	mh	mh	INTJ	I	_	20	discourse	_	Speaker=BO140|TID=269-2
 19	cioè	cioè	CCONJ	CC	_	20	cc	_	Speaker=BO140|TID=269-3
 20	comincia	cominciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl	_	Speaker=BO140|TID=269-4
 21	a	a	ADP	E	_	23	mark	_	Speaker=BO140|TID=269-5
@@ -3982,7 +3982,7 @@
 14	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	AlignBegin=1085.422|Speaker=BO118|TID=279-0
 15	molto	molto	ADV	B	_	16	advmod	_	Speaker=BO118|TID=279-1
 16	più	più	ADV	B	_	17	advmod	_	Prolonged=Yes|Speaker=BO118|TID=279-2
-17	mh	mh	PARA	I	_	12	conj	_	Speaker=BO118|TID=279-3
+17	mh	mh	INTJ	I	_	12	conj	_	Speaker=BO118|TID=279-3
 18	familiare	familiare	ADJ	V	VerbForm=Inf	17	csubj	_	Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO118|TID=279-4
 19	cioè	cioè	CCONJ	CC	_	22	cc	_	Speaker=BO118|TID=279-5
 20	comunque	comunque	CCONJ	B	_	22	advmod	_	Speaker=BO118|TID=279-6
@@ -4017,7 +4017,7 @@
 1	sì	sì	INTJ	I	_	3	discourse	_	AlignBegin=1092.845|Overlapping=Yes|Speaker=BO140|TID=280-0
 2	sì	sì	INTJ	I	_	3	discourse	_	Overlapping=Yes|Speaker=BO140|TID=280-1
 3	sì	sì	INTJ	I	_	13	discourse	_	AlignEnd=1093.495|Overlapping=Yes|Speaker=BO140|TID=280-2
-4	eh	eh	PARA	I	_	13	discourse	_	AlignBegin=1094.115|Speaker=BO140|TID=281-0
+4	eh	eh	INTJ	I	_	13	discourse	_	AlignBegin=1094.115|Speaker=BO140|TID=281-0
 5	per	per	ADP	E	_	6	mark	_	Speaker=BO140|TID=281-1
 6	dire	dire	VERB	V	VerbForm=Inf	13	advcl	_	Speaker=BO140|TID=281-2
 7	però	però	CCONJ	B	_	6	advmod	_	Speaker=BO140|TID=281-3
@@ -4068,7 +4068,7 @@
 # text = non mh cioè comunque continuano a lavorarci le persone che ci hanno lavorato da una vita
 # jefferson_text =  non mh cioè comunque continuano a lavorarci le persone che ci hanno lavorato da una vita
 1	non	non	ADV	BN	PronType=Neg	2	advmod	_	Speaker=BO140|TID=284-8
-2	mh	mh	PARA	I	_	0	root	_	Speaker=BO140|TID=284-9
+2	mh	mh	INTJ	I	_	0	root	_	Speaker=BO140|TID=284-9
 3	cioè	cioè	CCONJ	CC	_	5	cc	_	Speaker=BO140|TID=284-10
 4	comunque	comunque	CCONJ	B	_	5	advmod	_	Speaker=BO140|TID=284-11
 5	continuano	continuare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	Speaker=BO140|TID=284-12
@@ -4177,7 +4177,7 @@
 # jefferson_text =  perché: comunque:: mh ti offre poco a livello sia:: cioè offre anche poco divertimento a livello giovanile ma anche per delle famiglie
 1	perché	perché	SCONJ	CS	_	5	mark	_	AlignEnd=1136.6|Prolonged=Yes|Speaker=BO140|TID=287-15
 2	comunque	comunque	CCONJ	B	_	5	advmod	_	AlignBegin=1137.041|Prolonged=Yes|Speaker=BO140|TID=288-0
-3	mh	mh	PARA	I	_	5	discourse	_	Speaker=BO140|TID=288-1
+3	mh	mh	INTJ	I	_	5	discourse	_	Speaker=BO140|TID=288-1
 4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	iobj	_	Speaker=BO140|TID=288-2
 5	offre	offrire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=288-3
 6	poco	poco	ADV	B	_	5	advmod	_	Speaker=BO140|TID=288-4
@@ -4348,7 +4348,7 @@
 # sent_id = 233
 # text = eh
 # jefferson_text =  eh
-1	eh	eh	PARA	I	_	0	root	_	AlignBegin=1191.7|Speaker=BO118|TID=298-0
+1	eh	eh	INTJ	I	_	0	root	_	AlignBegin=1191.7|Speaker=BO118|TID=298-0
 
 # sent_id = 234
 # text = ma infatti è strano
@@ -4388,7 +4388,7 @@
 1	veramente	veramente	ADV	B	_	3	advmod	_	Prolonged=Yes|Speaker=BO118|TID=300-6
 2	x	x	ADP	E	_	3	case	_	Overlapping=Yes|Speaker=BO118|TID=300-7|Type=unknown
 3	x	x	SYM	SYM	_	0	root	_	AlignEnd=1198.89|Overlapping=Yes|Speaker=BO118|TID=300-8|Type=unknown
-4	eh	eh	PARA	I	_	3	discourse	_	AlignBegin=1197.727|Overlapping=Yes|Speaker=BO140|TID=301-0
+4	eh	eh	INTJ	I	_	3	discourse	_	AlignBegin=1197.727|Overlapping=Yes|Speaker=BO140|TID=301-0
 
 # sent_id = 238
 # text = ma è chel' amministrazione mh non è interessata
@@ -4398,7 +4398,7 @@
 3	che	che	SCONJ	CS	_	9	mark	_	Overlapping=Yes|Speaker=BO140|TID=301-3
 4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	Overlapping=Yes|SpaceAfter=No|Speaker=BO140|TID=301-4
 5	amministrazione	amministrazione	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	Overlapping=Yes|Prolonged=Yes|Speaker=BO140|TID=301-5
-6	mh	mh	PARA	I	_	9	discourse	_	AlignEnd=1200.96|Prolonged=Yes|Speaker=BO140|TID=301-6
+6	mh	mh	INTJ	I	_	9	discourse	_	AlignEnd=1200.96|Prolonged=Yes|Speaker=BO140|TID=301-6
 7	non	non	ADV	BN	PronType=Neg	9	advmod	_	AlignBegin=1201.782|Speaker=BO140|TID=302-0
 8	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	Speaker=BO140|TID=302-1
 9	interessata	interessato	VERB	A	Gender=Fem|Number=Sing	2	ccomp	_	Speaker=BO140|TID=302-2
@@ -4548,7 +4548,7 @@
 # sent_id = 245
 # text = ah mentre adesso gli stanno tagliando le gambe ovunque a chiunque e nonc' è più niente
 # jefferson_text =  [ah::] mentre adesso gli stanno tagliando le gambe ovu:nque: a chiu:nque e: nonc' è più niente.
-1	ah	ah	PARA	I	_	6	discourse	_	AlignEnd=1234.504|Overlapping=Yes|Prolonged=Yes|Speaker=BO118|TID=309-0
+1	ah	ah	INTJ	I	_	6	discourse	_	AlignEnd=1234.504|Overlapping=Yes|Prolonged=Yes|Speaker=BO118|TID=309-0
 2	mentre	mentre	SCONJ	CS	_	6	mark	_	AlignBegin=1240.605|Speaker=BO140|TID=310-0
 3	adesso	adesso	ADV	B	_	6	advmod	_	Speaker=BO140|TID=310-1
 4	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	Speaker=BO140|TID=310-2
@@ -4697,7 +4697,7 @@
 # sent_id = 252
 # text = mhmh ma comunque sia prendi la macchina per andare a pesaro ci metti tre quartid' ora e cioè ti passa un po' la voglia diciamo a fare avanti e indietro
 # jefferson_text =  mhmh ma comunque si:a prendi la macchina per andare a pesaro ci metti tre quartid' o:ra. e: cioè ti passa un po' la voglia diciamo a fare avanti e indietro
-1	mhmh	mhmh	PARA	I	_	5	discourse	_	AlignEnd=1280.027|Speaker=BO118|TID=317-0
+1	mhmh	mhmh	INTJ	I	_	5	discourse	_	AlignEnd=1280.027|Speaker=BO118|TID=317-0
 2	ma	ma	CCONJ	CC	_	5	cc	_	AlignBegin=1280.09|Speaker=BO140|TID=318-0
 3	comunque	comunque	CCONJ	B	_	5	advmod	_	Speaker=BO140|TID=318-1
 4	sia	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Prolonged=Yes|Speaker=BO140|TID=318-2
@@ -4758,7 +4758,7 @@
 2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Speaker=BO140|TID=321-7
 3	strada	strada	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	Prolonged=Yes|Speaker=BO140|TID=321-8
 4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Prolonged=Yes|ProsodicLink=Yes|Speaker=BO140|TID=321-9
-5	mh	mh	PARA	I	_	0	root	_	Speaker=BO140|TID=321-10
+5	mh	mh	INTJ	I	_	0	root	_	Speaker=BO140|TID=321-10
 6	cioè	cioè	CCONJ	CC	_	8	cc	_	Speaker=BO140|TID=321-11
 7	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Speaker=BO140|TID=321-12
 8	vecchia	vecchio	ADJ	A	Gender=Fem|Number=Sing	5	conj	_	AlignEnd=1296.94|Speaker=BO140|TID=321-13
@@ -4803,7 +4803,7 @@
 2	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	expl	_	SpaceAfter=No|Speaker=BO140|TID=324-6
 3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO140|TID=324-7
 4	anche	anche	ADV	B	_	5	advmod	_	Speaker=BO140|TID=324-8
-5	mh	mh	PARA	I	_	3	nsubj	_	Speaker=BO140|TID=324-9
+5	mh	mh	INTJ	I	_	3	nsubj	_	Speaker=BO140|TID=324-9
 6	abbastanza	abbastanza	DET	B	_	7	advmod	_	Speaker=BO140|TID=324-10
 7	traffico	traffico	NOUN	A	Gender=Masc|Number=Sing	3	parataxis	_	AlignEnd=1309.76|Speaker=BO140|TID=324-11
 8	e	e	CCONJ	CC	_	9	cc	_	AlignBegin=1309.787|Speaker=BO118|TID=325-0
@@ -4868,17 +4868,17 @@
 37	comune	comune	NOUN	S	Gender=Masc|Number=Sing	33	ccomp	_	Speaker=BO140|TID=331-3
 38	ricco	ricco	ADJ	A	Gender=Masc|Number=Sing	37	amod	_	Prolonged=Yes|Speaker=BO140|TID=331-4
 39	pesaro	pesaro	PROPN	A	Gender=Masc|Number=Sing	37	amod	_	AlignEnd=1328.35|Intonation=descending|Speaker=BO140|TID=331-5
-40	mh	mh	PARA	I	_	37	discourse	_	AlignBegin=1328.36|Speaker=BO118|TID=332-0
-41	mh	mh	PARA	I	_	37	discourse	_	AlignEnd=1328.92|Speaker=BO118|TID=332-1
+40	mh	mh	INTJ	I	_	37	discourse	_	AlignBegin=1328.36|Speaker=BO118|TID=332-0
+41	mh	mh	INTJ	I	_	37	discourse	_	AlignEnd=1328.92|Speaker=BO118|TID=332-1
 42	quindi	quindi	CCONJ	CC	_	45	cc	_	AlignBegin=1328.927|Prolonged=Yes|Speaker=BO140|TID=333-0
-43	mh	mh	PARA	I	_	45	discourse	_	AlignEnd=1331.15|Prolonged=Yes|Speaker=BO140|TID=333-1
+43	mh	mh	INTJ	I	_	45	discourse	_	AlignEnd=1331.15|Prolonged=Yes|Speaker=BO140|TID=333-1
 44	cioè	cioè	CCONJ	CC	_	45	cc	_	AlignBegin=1331.477|Speaker=BO140|TID=334-0
 45	investono	investire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	37	conj	_	Speaker=BO140|TID=334-1
 46	tanto	tanto	ADV	B	_	45	advmod	_	Speaker=BO140|TID=334-2
 47-48	nel	_	_	_	_	_	_	_	Prolonged=Yes|Speaker=BO140|TID=334-3
 47	in	in	ADP	E	_	49	case	_	_
 48	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	49	det	_	_
-49	mh	mh	PARA	S	_	45	obl	_	Speaker=BO140|TID=334-4
+49	mh	mh	INTJ	S	_	45	obl	_	Speaker=BO140|TID=334-4
 50	in	in	ADP	E	_	51	case	_	Speaker=BO140|TID=334-5
 51	eventi	evento	NOUN	S	Gender=Masc|Number=Plur	45	obl	_	Prolonged=Yes|Speaker=BO140|TID=334-6
 52	cittadini	cittadino	ADJ	S	Gender=Masc|Number=Plur	51	nmod	_	Prolonged=Yes|Speaker=BO140|TID=334-7
@@ -4954,8 +4954,8 @@
 # sent_id = 262
 # text = mh mh cioè pesaro come città non haun' università propria
 # jefferson_text =  mh mh cioè pesaro: come città non haun' università propria.
-1	mh	mh	PARA	I	_	8	discourse	_	AlignBegin=1354.213|Speaker=BO118|TID=338-0
-2	mh	mh	PARA	I	_	8	discourse	_	AlignEnd=1354.703|Speaker=BO118|TID=338-1
+1	mh	mh	INTJ	I	_	8	discourse	_	AlignBegin=1354.213|Speaker=BO118|TID=338-0
+2	mh	mh	INTJ	I	_	8	discourse	_	AlignEnd=1354.703|Speaker=BO118|TID=338-1
 3	cioè	cioè	CCONJ	CC	_	8	cc	_	AlignBegin=1354.792|Speaker=BO140|TID=339-0
 4	pesaro	pesarere	PROPN	SW	_	8	nsubj	_	Prolonged=Yes|Speaker=BO140|TID=339-1
 5	come	come	ADP	E	_	6	case	_	Speaker=BO140|TID=339-2
@@ -5123,7 +5123,7 @@
 1	e	e	CCONJ	CC	_	3	cc	_	AlignEnd=1393.53|Prolonged=Yes|Speaker=BO140|TID=351-35
 2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	AlignBegin=1384.8|Overlapping=Yes|Speaker=BO118|TID=352-0
 3	compromesso	compromesso	NOUN	S	Gender=Masc|Number=Sing	0	root	_	AlignEnd=1385.95|Intonation=descending|Overlapping=Yes|Speaker=BO118|TID=352-1
-4	mh	mh	PARA	I	_	8	discourse	_	AlignBegin=1394.16|Speaker=BO140|TID=353-0
+4	mh	mh	INTJ	I	_	8	discourse	_	AlignBegin=1394.16|Speaker=BO140|TID=353-0
 5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	Speaker=BO140|TID=353-1
 6	persone	persona	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	Speaker=BO140|TID=353-2
 7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	Speaker=BO140|TID=353-3
@@ -5204,7 +5204,7 @@
 # sent_id = 280
 # text = beh @nomepaese in realtà conta quindicimila abitanti
 # jefferson_text =  beh @nomepaese in realtà conta: quindicimila abita:nti
-1	beh	beh	PARA	I	_	2	discourse	_	Speaker=BO140|TID=361-3
+1	beh	beh	INTJ	I	_	2	discourse	_	Speaker=BO140|TID=361-3
 2	@nomepaese	@nomepaese	NOUN	S	Gender=Fem|Number=Plur	0	root	_	Speaker=BO140|TID=361-4|Type=error
 3	in	in	ADP	E	_	4	case	_	Speaker=BO140|TID=361-5
 4	realtà	realtà	NOUN	S	Gender=Fem	2	nmod	_	Speaker=BO140|TID=361-6
@@ -5215,7 +5215,7 @@
 # sent_id = 281
 # text = ah pochi
 # jefferson_text =  °ah po[chi]°
-1	ah	ah	PARA	I	_	2	discourse	_	AlignBegin=1413.24|Speaker=BO118|TID=362-0|Volume=low
+1	ah	ah	INTJ	I	_	2	discourse	_	AlignBegin=1413.24|Speaker=BO118|TID=362-0|Volume=low
 2	pochi	poco	ADJ	PI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	AlignEnd=1413.82|Overlapping=Yes|Speaker=BO118|TID=362-1|Volume=low
 
 # sent_id = 282
@@ -5234,7 +5234,7 @@
 2	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	Speaker=BO140|TID=363-6
 3	studenti	studente	NOUN	S	Gender=Masc|Number=Plur	0	root	_	Speaker=BO140|TID=363-7
 4	universitari	universitario	ADJ	A	Gender=Masc|Number=Plur	3	amod	_	AlignEnd=1416.58|Overlapping=Yes|Speaker=BO140|TID=363-8
-5	eh	eh	PARA	I	_	6	discourse	_	AlignBegin=1416.46|Overlapping=Yes|Speaker=BO118|TID=364-0
+5	eh	eh	INTJ	I	_	6	discourse	_	AlignBegin=1416.46|Overlapping=Yes|Speaker=BO118|TID=364-0
 6	ecco	ecco	ADV	B	_	3	advmod	_	AlignEnd=1417.27|Speaker=BO118|TID=364-1
 
 # sent_id = 284
@@ -5248,7 +5248,7 @@
 # sent_id = 285
 # text = ah in realtà di abitantipaese ce ne sono quindicimila e non ce ne son più
 # jefferson_text =  ah in realtà di abitantipaese ce ne sono quindicimila:: e non ce ne son più
-1	ah	ah	PARA	I	_	9	discourse	_	Speaker=BO140|TID=365-4
+1	ah	ah	INTJ	I	_	9	discourse	_	Speaker=BO140|TID=365-4
 2	in	in	ADP	E	_	3	case	_	Speaker=BO140|TID=365-5
 3	realtà	realtà	NOUN	S	Gender=Fem	9	obl	_	Speaker=BO140|TID=365-6
 4	di	di	ADP	E	_	5	case	_	Speaker=BO140|TID=365-7
@@ -5595,7 +5595,7 @@
 # sent_id = 315
 # text = ah adesso sto in provincia di fermo
 # jefferson_text =  [ah] adesso sto in provincia di fermo.
-1	ah	ah	PARA	I	_	3	discourse	_	AlignEnd=1496.205|Overlapping=Yes|Speaker=BO140|TID=386-0
+1	ah	ah	INTJ	I	_	3	discourse	_	AlignEnd=1496.205|Overlapping=Yes|Speaker=BO140|TID=386-0
 2	adesso	adesso	ADV	B	_	3	advmod	_	AlignBegin=1497.155|Speaker=BO118|TID=387-0
 3	sto	stare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO118|TID=387-1
 4	in	in	ADP	E	_	5	case	_	Speaker=BO118|TID=387-2
@@ -5681,14 +5681,14 @@
 # sent_id = 323
 # text = ah e infermieristica
 # jefferson_text =  ah e infermieristica
-1	ah	ah	PARA	I	_	0	root	_	Speaker=BO118|TID=393-7
+1	ah	ah	INTJ	I	_	0	root	_	Speaker=BO118|TID=393-7
 2	e	e	CCONJ	CC	_	3	cc	_	Speaker=BO118|TID=393-8
 3	infermieristica	infermieristico	NOUN	A	Gender=Fem|Number=Sing	1	conj	_	AlignEnd=1517.9|Speaker=BO118|TID=393-9
 
 # sent_id = 324
 # text = ah okay
 # jefferson_text =  ah okay
-1	ah	ah	PARA	I	_	2	discourse	_	AlignBegin=1517.91|Speaker=BO140|TID=394-0
+1	ah	ah	INTJ	I	_	2	discourse	_	AlignBegin=1517.91|Speaker=BO140|TID=394-0
 2	okay	okay	INTJ	I	_	0	root	_	AlignEnd=1518.68|Speaker=BO140|TID=394-1
 
 # sent_id = 325
@@ -5732,7 +5732,7 @@
 # sent_id = 330
 # text = ah okay
 # jefferson_text =  ah okay
-1	ah	ah	PARA	I	_	2	discourse	_	AlignBegin=1523.67|Speaker=BO140|TID=398-0
+1	ah	ah	INTJ	I	_	2	discourse	_	AlignBegin=1523.67|Speaker=BO140|TID=398-0
 2	okay	okay	INTJ	I	_	0	root	_	AlignEnd=1524.45|Speaker=BO140|TID=398-1
 
 # sent_id = 331
@@ -5866,7 +5866,7 @@
 # text = io mh cioè nonc' era lingue
 # jefferson_text =  io mh cioè nonc' era lingue
 1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Speaker=BO118|TID=408-13
-2	mh	mh	PARA	I	_	6	discourse	_	Speaker=BO118|TID=408-14
+2	mh	mh	INTJ	I	_	6	discourse	_	Speaker=BO118|TID=408-14
 3	cioè	cioè	CCONJ	CC	_	6	cc	_	Speaker=BO118|TID=408-15
 4	non	non	ADV	BN	PronType=Neg	6	advmod	_	Speaker=BO118|TID=408-16
 5	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	SpaceAfter=No|Speaker=BO118|TID=408-17
@@ -5966,7 +5966,7 @@
 20	di	di	ADP	E	_	22	case	_	_
 21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
 22	documenti	documento	NOUN	S	Gender=Masc|Number=Plur	19	nmod	_	AlignEnd=1571.46|Intonation=weakly_ascending|Speaker=BO118|TID=412-13
-23	ehm	ehm	PARA	I	_	3	discourse	_	AlignBegin=1571.846|Prolonged=Yes|Speaker=BO118|TID=413-0
+23	ehm	ehm	INTJ	I	_	3	discourse	_	AlignBegin=1571.846|Prolonged=Yes|Speaker=BO118|TID=413-0
 
 # sent_id = 348
 # text = però è carina
@@ -6082,7 +6082,7 @@
 # sent_id = 359
 # text = ah proprio perché non cioè non non organizzano
 # jefferson_text =  ah proprio perché non: cioè non: non organ[izzano:]
-1	ah	ah	PARA	I	_	8	discourse	_	Speaker=BO140|TID=417-17
+1	ah	ah	INTJ	I	_	8	discourse	_	Speaker=BO140|TID=417-17
 2	proprio	proprio	ADV	B	_	8	advmod	_	Speaker=BO140|TID=417-18
 3	perché	perché	SCONJ	CS	_	8	mark	_	Speaker=BO140|TID=417-19
 4	non	non	ADV	BN	PronType=Neg	8	advmod	_	Prolonged=Yes|Speaker=BO140|TID=417-20
@@ -6118,7 +6118,7 @@
 3	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	Overlapping=Yes|SpaceAfter=No|Speaker=BO140|TID=421-2
 4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Overlapping=Yes|Speaker=BO140|TID=421-3
 5	niente	niente	PRON	PI	PronType=Ind	4	nsubj	_	Overlapping=Yes|Prolonged=Yes|Speaker=BO140|TID=421-4
-6	mh	mh	PARA	I	_	4	discourse	_	AlignEnd=1601.465|Prolonged=Yes|Speaker=BO140|TID=421-5
+6	mh	mh	INTJ	I	_	4	discourse	_	AlignEnd=1601.465|Prolonged=Yes|Speaker=BO140|TID=421-5
 
 # sent_id = 363
 # text = e poi non lo so in realtà mh non ho mai sentito parlare di architettura storica di ancona non so
@@ -6130,7 +6130,7 @@
 5	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Prolonged=Yes|Speaker=BO140|TID=422-4
 6	in	in	ADP	E	_	7	case	_	Speaker=BO140|TID=422-5
 7	realtà	realtà	NOUN	S	Gender=Fem	5	obl	_	Speaker=BO140|TID=422-6
-8	mh	mh	PARA	I	_	12	discourse	_	Speaker=BO140|TID=422-7
+8	mh	mh	INTJ	I	_	12	discourse	_	Speaker=BO140|TID=422-7
 9	non	non	ADV	BN	PronType=Neg	12	advmod	_	Speaker=BO140|TID=422-8
 10	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	Speaker=BO140|TID=422-9
 11	mai	mai	ADV	B	_	12	advmod	_	Speaker=BO140|TID=422-10
@@ -6187,7 +6187,7 @@
 14	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	Speaker=BO140|TID=425-12
 15	più	più	ADV	B	_	16	advmod	_	Speaker=BO140|TID=425-13
 16	storia	storia	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	Prolonged=Yes|Speaker=BO140|TID=425-14
-17	ah	ah	PARA	I	_	19	discourse	_	Prolonged=Yes|Speaker=BO140|TID=425-15
+17	ah	ah	INTJ	I	_	19	discourse	_	Prolonged=Yes|Speaker=BO140|TID=425-15
 18	più	più	ADV	B	_	19	advmod	_	Overlapping=Yes|Speaker=BO140|TID=425-16
 19	architettura	architettura	NOUN	B	_	16	advmod	_	AlignEnd=1617.81|Overlapping=Yes|Prolonged=Yes|Speaker=BO140|TID=425-17
 
@@ -6238,7 +6238,7 @@
 # sent_id = 370
 # text = mhmh non so di che epoca
 # jefferson_text =  mhmh non so di che epoca,
-1	mhmh	mhmh	PARA	I	_	3	discourse	_	AlignEnd=1628.917|Speaker=BO140|TID=429-0
+1	mhmh	mhmh	INTJ	I	_	3	discourse	_	AlignEnd=1628.917|Speaker=BO140|TID=429-0
 2	non	non	ADV	BN	PronType=Neg	3	advmod	_	AlignBegin=1629.004|Speaker=BO118|TID=430-0
 3	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO118|TID=430-1
 4	di	di	ADP	E	_	6	case	_	Speaker=BO118|TID=430-2
@@ -6401,7 +6401,7 @@
 # sent_id = 378
 # text = ah
 # jefferson_text =  [ah]
-1	ah	ah	PARA	I	_	0	root	_	AlignEnd=1671.21|Overlapping=Yes|Speaker=BO118|TID=443-0
+1	ah	ah	INTJ	I	_	0	root	_	AlignEnd=1671.21|Overlapping=Yes|Speaker=BO118|TID=443-0
 
 # sent_id = 379
 # text = vai al passetto che è bellissimo
