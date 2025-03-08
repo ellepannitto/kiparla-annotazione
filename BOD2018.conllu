@@ -3464,7 +3464,7 @@
 22	in	in	ADP	E	_	23	case	_	Speaker=BO140|TID=244-3
 23	campagna	campagna	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	Speaker=BO140|TID=244-4
 24	lontana	lontano	ADJ	A	Gender=Fem|Number=Sing	23	amod	_	Overlapping=Yes|Speaker=BO140|TID=244-5
-25-26	dal	_	_	_	_	17	dep	_	Overlapping=Yes|Speaker=BO140|TID=244-6
+25-26	dal	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO140|TID=244-6
 25	da	da	ADP	E	_	29	case	_	_
 26	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 27-28	dal	_	_	_	_	_	_	_	Speaker=BO140|TID=244-7
