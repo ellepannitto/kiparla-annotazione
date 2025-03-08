@@ -5371,10 +5371,10 @@
 # jefferson_text = °>ma questo moc' ho me~<°
 1	ma	ma	CCONJ	CC	_	5	cc	_	AlignBegin=1167.059|PaceFast=Yes|Speaker=BOI013|TID=616-0|Volume=low
 2	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	PaceFast=Yes|Speaker=BOI013|TID=616-1|Volume=low
-3	mo	mo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	PaceFast=Yes|Speaker=BOI013|TID=616-2|Volume=low
+3	mo	mo	ADV	S	Gender=Masc|Number=Sing	5	obl	_	PaceFast=Yes|Speaker=BOI013|TID=616-2|Volume=low
 4	c'	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	5	expl	_	Clitic=Yes|PaceFast=Yes|SpaceAfter=No|Speaker=BOI013|TID=616-3|Volume=low
 5	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	PaceFast=Yes|Speaker=BOI013|TID=616-4|Volume=low
-6	me~	me~	SYM	SYM	_	5	discourse:emo	_	Interrupted=Yes|PaceFast=Yes|Speaker=BOI013|TID=616-5|Volume=low
+6	me~	me~	X	SYM	_	5	discourse:emo	_	Interrupted=Yes|PaceFast=Yes|Speaker=BOI013|TID=616-5|Volume=low
 
 # sent_id = 453
 # text = sì
