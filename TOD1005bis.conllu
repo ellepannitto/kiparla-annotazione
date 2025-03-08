@@ -5,7 +5,7 @@
 2	confrontiamo	confrontare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=0-1
 3	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	obl	_	Intonation=weakly_ascending|Prolonged=Yes|Speaker=TO017|TID=0-2
 4	e	e	CCONJ	CC	_	8	cc	_	Speaker=TO017|TID=0-3
-5	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=0-4|Type=shortpause
+5	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=0-4|Type=shortpause
 6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Speaker=TO017|TID=0-5
 7	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	Speaker=TO017|TID=0-6
 8	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	Speaker=TO017|TID=0-7
@@ -102,7 +102,7 @@
 4	richierebbe	richiare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=11-3
 5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Speaker=TO017|TID=11-4
 6	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	Speaker=TO017|TID=11-5
-7	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=11-6|Type=shortpause
+7	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=11-6|Type=shortpause
 8	infinito	infinito	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	AlignEnd=28.045|Intonation=weakly_ascending|Speaker=TO017|TID=11-7
 
 # sent_id = 7
@@ -210,7 +210,7 @@
 3	vi	vi	PRON	PC	Number=Plur|Person=2|PronType=Prs	5	iobj	_	Clitic=Yes|Speaker=TO017|TID=24-2
 4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	Speaker=TO017|TID=24-3
 5	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=TO017|TID=24-4
-6	{P}	_	_	_	_	5	dep	_	Speaker=TO017|TID=24-5|Type=shortpause
+6	{P}	-	X	_	_	5	dep	_	Speaker=TO017|TID=24-5|Type=shortpause
 7	vi	vi	PRON	PC	Number=Plur|Person=2|PronType=Prs	9	iobj	_	Clitic=Yes|Speaker=TO017|TID=24-6
 8	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	Speaker=TO017|TID=24-7
 9	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	parataxis	_	Speaker=TO017|TID=24-8
@@ -257,7 +257,7 @@
 # text = beh {ride} vi piace vincere facile
 # jefferson_text = beh {ride} vi piace vincere facile.
 1	beh	beh	INTJ	I	_	4	discourse	_	AlignEnd=69.392|Speaker=TO017|TID=31-0
-2	{ride}	_	_	_	_	4	dep	_	AlignEnd=70.78|Speaker=TO017|TID=32-0|Type=NLB
+2	{ride}	-	X	_	_	4	dep	_	AlignEnd=70.78|Speaker=TO017|TID=32-0|Type=NLB
 3	vi	vi	PRON	PC	Number=Plur|Person=2|PronType=Prs	4	iobj	_	AlignBegin=71.263|Clitic=Yes|Speaker=TO017|TID=33-0
 4	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=33-1
 5	vincere	vincere	VERB	V	VerbForm=Inf	4	xcomp	_	Speaker=TO017|TID=33-2
@@ -377,14 +377,14 @@
 10	scriviamo	scrivere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=44-9
 11	in	in	ADP	E	_	12	case	_	Speaker=TO017|TID=44-10
 12	alfabeto	alfabeto	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	Speaker=TO017|TID=44-11
-13	{P}	_	_	_	_	10	dep	_	Speaker=TO017|TID=44-12|Type=shortpause
+13	{P}	-	X	_	_	10	dep	_	Speaker=TO017|TID=44-12|Type=shortpause
 14	latino	latino	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	Intonation=weakly_ascending|Speaker=TO017|TID=44-13
 15	con	con	ADP	E	_	18	case	_	Speaker=TO017|TID=44-14
 16-17	dei	_	_	_	_	_	_	_	Speaker=TO017|TID=44-15
 16	di	di	ADP	E	_	15	fixed	_	_
 17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
 18	segni	segno	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	Speaker=TO017|TID=44-16
-19	{P}	_	_	_	_	10	dep	_	Speaker=TO017|TID=44-17|Type=shortpause
+19	{P}	-	X	_	_	10	dep	_	Speaker=TO017|TID=44-17|Type=shortpause
 20	per	per	ADP	E	_	21	mark	_	Speaker=TO017|TID=44-18
 21	rappresentare	rappresentare	VERB	V	VerbForm=Inf	18	acl	_	Speaker=TO017|TID=44-19
 22	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	Speaker=TO017|TID=44-20
@@ -407,7 +407,7 @@
 1	che	che	SCONJ	CS	_	7	mark	_	Speaker=TO017|TID=45-5
 2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No|Speaker=TO017|TID=45-6
 3	alfabeto	alfabeto	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	Speaker=TO017|TID=45-7
-4	{P}	_	_	_	_	7	dep	_	Speaker=TO017|TID=45-8|Type=shortpause
+4	{P}	-	X	_	_	7	dep	_	Speaker=TO017|TID=45-8|Type=shortpause
 5	arabo	arabo	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	AlignEnd=110.399|Intonation=weakly_ascending|Speaker=TO017|TID=45-9
 6	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	AlignBegin=110.921|Speaker=TO017|TID=46-0
 7	perfetto	perfetto	ADJ	A	Gender=Masc|Number=Sing	0	root	_	Speaker=TO017|TID=46-1
@@ -537,7 +537,7 @@
 42	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	43	det	_	AlignBegin=142.975|Speaker=TO017|TID=58-0
 43	insieme	insieme	NOUN	S	Gender=Masc|Number=Sing	40	obl	_	Speaker=TO017|TID=58-1
 44	di	di	ADP	E	_	47	case	_	Speaker=TO017|TID=58-2
-45	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=58-3|Type=shortpause
+45	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=58-3|Type=shortpause
 46	di	di	ADP	E	_	47	case	_	Speaker=TO017|TID=58-4
 47	regole	regola	NOUN	S	Gender=Fem|Number=Plur	43	nmod	_	AlignEnd=143.992|Intonation=descending|Speaker=TO017|TID=58-5
 
@@ -568,7 +568,7 @@
 10	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	Speaker=TO017|TID=60-8
 11-13	nella	_	_	_	_	_	_	_	Speaker=TO017|TID=60-10
 11	in	in	ADP	E	_	15	case	_	_
-12	{P}	_	_	_	_	18	dep	_	Speaker=TO017|TID=60-9|Type=shortpause
+12	{P}	-	X	_	_	18	dep	_	Speaker=TO017|TID=60-9|Type=shortpause
 13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 14	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	Speaker=TO017|TID=60-11
 15	trascrizione	trascrizione	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	Speaker=TO017|TID=60-12
@@ -610,7 +610,7 @@
 1	così	così	ADV	B	_	0	root	_	Speaker=TO017|TID=62-1
 2	per	per	ADP	E	_	3	mark	_	Speaker=TO017|TID=62-2
 3	sentire	sentire	VERB	V	VerbForm=Inf	1	advcl	_	Speaker=TO017|TID=62-3
-4	{P}	_	_	_	_	1	dep	_	Speaker=TO017|TID=62-4|Type=shortpause
+4	{P}	-	X	_	_	1	dep	_	Speaker=TO017|TID=62-4|Type=shortpause
 5	eh	eh	INTJ	I	_	3	obj	_	AlignEnd=159.275|Prolonged=Yes|Speaker=TO017|TID=62-5
 6	per	per	ADP	E	_	7	mark	_	AlignBegin=159.694|Speaker=TO017|TID=63-0
 7	vedere	vedere	VERB	V	VerbForm=Inf	3	advcl	_	Speaker=TO017|TID=63-1
@@ -625,7 +625,7 @@
 3	li	li	PRON	PC	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obj	_	Clitic=Yes|Speaker=TO017|TID=64-2
 4	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	Speaker=TO017|TID=64-3
 5	leggere	leggere	VERB	V	VerbForm=Inf	0	root	_	Speaker=TO017|TID=64-4
-6	{P}	_	_	_	_	5	dep	_	Speaker=TO017|TID=64-5|Type=shortpause
+6	{P}	-	X	_	_	5	dep	_	Speaker=TO017|TID=64-5|Type=shortpause
 
 # sent_id = 43
 # text = però allora io sono pessimo a fare gli accenti
@@ -662,7 +662,7 @@
 5	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|Speaker=TO017|TID=68-2
 6	legge	leggere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	Speaker=TO017|TID=68-3
 7	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	10	nsubj	_	Speaker=TO017|TID=68-4
-8	{P}	_	_	_	_	1	dep	_	Speaker=TO017|TID=68-5|Type=shortpause
+8	{P}	-	X	_	_	1	dep	_	Speaker=TO017|TID=68-5|Type=shortpause
 9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Speaker=TO017|TID=68-6
 10	egiziano	egiziano	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	AlignEnd=172.644|Intonation=weakly_ascending|Speaker=TO017|TID=68-7
 11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	AlignBegin=172.699|Speaker=TO017|TID=69-0
@@ -698,7 +698,7 @@
 3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Speaker=TO017|TID=76-2
 4-6	dal	_	_	_	_	_	_	_	Speaker=TO017|TID=76-4
 4	da	da	ADP	E	_	7	case	_	_
-5	{P}	_	_	_	_	17	dep	_	Speaker=TO017|TID=76-3|Type=shortpause
+5	{P}	-	X	_	_	17	dep	_	Speaker=TO017|TID=76-3|Type=shortpause
 6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	marocco	marocco	PROPN	S	Gender=Masc|Number=Sing	17	nsubj	_	Speaker=TO017|TID=76-5
 8	rabat	rabatico	PROPN	A	Gender=Masc|Number=Sing	7	amod	_	Speaker=TO017|TID=76-6
@@ -766,7 +766,7 @@
 7	damasco	damasco	PROPN	SP	_	5	nmod	_	AlignEnd=203.235|Speaker=TO017|TID=88-1
 8	x	per	SYM	SYM	_	22	parataxis:hashtag	_	AlignEnd=204.27|Speaker=TO017|TID=89-0|Type=unknown
 9	e	e	CCONJ	CC	_	12	cc	_	AlignBegin=204.764|Speaker=TO017|TID=90-0
-10	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=90-1|Type=shortpause
+10	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=90-1|Type=shortpause
 11	a	a	ADP	E	_	12	case	_	Speaker=TO017|TID=90-2
 12	baghdad	baghdad	PROPN	S	_	8	conj	_	AlignEnd=205.941|Intonation=weakly_ascending|Speaker=TO017|TID=90-3
 13	x	per	ADP	E	_	14	case	_	AlignEnd=207.376|Speaker=TO017|TID=91-0|Type=unknown
@@ -799,7 +799,7 @@
 # text = allora {P}c' è da dire che questo è il lessico di base
 # jefferson_text = allora {P}c' è da dire che questo è il lessico di base
 1	allora	allora	CCONJ	B	_	4	advmod	_	AlignBegin=214.211|Speaker=TO017|TID=98-0
-2	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=98-1|Type=shortpause
+2	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=98-1|Type=shortpause
 3	c'	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=TO017|TID=98-2
 4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=98-3
 5	da	da	ADP	E	_	6	mark	_	Speaker=TO017|TID=98-4
@@ -822,7 +822,7 @@
 5	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Speaker=TO017|TID=98-17
 6	più	più	ADV	B	_	7	advmod	_	Speaker=TO017|TID=98-18
 7	usato	usare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	Speaker=TO017|TID=98-19
-8	{P}	_	_	_	_	5	dep	_	Speaker=TO017|TID=98-20|Type=shortpause
+8	{P}	-	X	_	_	5	dep	_	Speaker=TO017|TID=98-20|Type=shortpause
 9	tende	tendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	xcomp	_	Speaker=TO017|TID=98-21
 10	a	a	ADP	E	_	11	mark	_	Speaker=TO017|TID=98-22
 11	cambiare	cambiare	VERB	V	VerbForm=Inf	9	xcomp	_	Speaker=TO017|TID=98-23
@@ -876,7 +876,7 @@
 # text = però {P} comunque vede~
 # jefferson_text = però {P} comunque vede~
 1	però	però	CCONJ	B	_	3	advmod	_	AlignBegin=233.392|Speaker=TO017|TID=105-0
-2	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=105-1|Type=shortpause
+2	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=105-1|Type=shortpause
 3	comunque	comunque	CCONJ	B	_	4	advmod	_	Speaker=TO017|TID=105-2
 4	vede~	vede~	X	SYM	_	0	root	_	Interrupted=Yes|Speaker=TO017|TID=105-3
 
@@ -895,7 +895,7 @@
 10	differenza	differenza	NOUN	S	Gender=Fem|Number=Sing	25	nsubj	_	Speaker=TO017|TID=106-1
 11-13	dei	_	_	_	_	_	_	_	Speaker=TO017|TID=106-3
 11	di	di	ADP	E	_	14	case	_	_
-12	{P}	_	_	_	_	1	dep	_	Speaker=TO017|TID=106-2|Type=shortpause
+12	{P}	-	X	_	_	1	dep	_	Speaker=TO017|TID=106-2|Type=shortpause
 13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
 14	dialetti	dialetto	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	Speaker=TO017|TID=106-4
 15	tra	tra	ADP	E	_	16	case	_	Speaker=TO017|TID=106-5
@@ -945,7 +945,7 @@
 8	volere	volere	VERB	S	Gender=Masc|Number=Sing	5	nmod	_	Speaker=TO017|TID=115-1
 9-11	del	_	_	_	_	_	_	_	Speaker=TO017|TID=115-3
 9	di	di	ADP	E	_	12	case	_	_
-10	{P}	_	_	_	_	1	dep	_	Speaker=TO017|TID=115-2|Type=shortpause
+10	{P}	-	X	_	_	1	dep	_	Speaker=TO017|TID=115-2|Type=shortpause
 11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	classico	classico	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	AlignEnd=250.523|Intonation=weakly_ascending|Speaker=TO017|TID=115-4
 13	per	per	ADP	E	_	15	case	_	AlignBegin=250.801|Speaker=TO017|TID=116-0
@@ -1000,7 +1000,7 @@
 10	arabo	arabo	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	Speaker=TO017|TID=123-12
 11	standard	standard	ADJ	A	_	10	amod	_	AlignEnd=266.958|Speaker=TO017|TID=123-13
 12	con	con	ADP	E	_	15	case	_	AlignBegin=267.11|Prolonged=Yes|Speaker=TO017|TID=124-0
-13	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=124-1|Type=shortpause
+13	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=124-1|Type=shortpause
 14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	Speaker=TO017|TID=124-2
 15	frase	frase	NOUN	S	Gender=Fem|Number=Sing	22	obl	_	Speaker=TO017|TID=124-3
 16-17	nei	_	_	_	_	_	_	_	Speaker=TO017|TID=124-4
@@ -1023,7 +1023,7 @@
 6-7	nel	_	_	_	_	_	_	_	AlignBegin=271.593|Speaker=TO017|TID=126-0
 6	in	in	ADP	E	_	9	case	_	_
 7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=126-1|Type=shortpause
+8	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=126-1|Type=shortpause
 9	baghdadino	baghdado	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	AlignEnd=272.771|Intonation=descending|Speaker=TO017|TID=126-2
 
 # sent_id = 68
@@ -1046,7 +1046,7 @@
 1	e	e	CCONJ	CC	_	2	cc	_	Speaker=TO017|TID=130-1
 2-4	ricordatevi	_	_	_	_	_	_	_	Speaker=TO017|TID=130-3
 2	ricordate	ricordare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=130-2|Type=shortpause
+3	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=130-2|Type=shortpause
 4	vi	vi	PRON	PC	Number=Plur|Person=2|PronType=Prs	2	obj	_	Clitic=Yes
 5	stiamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	Speaker=TO017|TID=130-4
 6	parlando	parlare	VERB	V	VerbForm=Ger	2	parataxis	_	Speaker=TO017|TID=130-5
@@ -1366,7 +1366,7 @@
 9	x	per	X	X	_	7	conj	_	AlignEnd=364.258|Intonation=weakly_ascending|Speaker=TO017|TID=164-8|Type=unknown
 10	per	per	ADP	E	_	13	case	_	AlignBegin=364.541|Speaker=TO017|TID=165-0
 11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Speaker=TO017|TID=165-1
-12	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=165-2|Type=shortpause
+12	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=165-2|Type=shortpause
 13	femminile	femminile	NOUN	SP	_	3	obl	_	AlignEnd=365.87|Intonation=weakly_ascending|Speaker=TO017|TID=165-3
 
 # sent_id = 86
@@ -1415,10 +1415,10 @@
 4	x	per	ADP	E	_	6	case	_	AlignEnd=382.287|Intonation=weakly_ascending|Speaker=TO017|TID=171-3|Type=unknown
 5	a	a	ADP	E	_	6	case	_	AlignBegin=383.072|Speaker=TO017|TID=172-0
 6	palmira	palmira	PROPN	S	Gender=Fem|Number=Sing	3	obl	_	Speaker=TO017|TID=172-1
-7	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=172-2|Type=shortpause
+7	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=172-2|Type=shortpause
 8	per	per	ADP	E	_	9	mark	_	Speaker=TO017|TID=172-3
 9	dire	dire	VERB	V	VerbForm=Inf	3	advcl	_	Speaker=TO017|TID=172-4
-10	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=172-5|Type=shortpause
+10	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=172-5|Type=shortpause
 11	x	x	X	X	_	9	obl	_	AlignEnd=384.944|Speaker=TO017|TID=172-6|Type=unknown
 12	eh	eh	INTJ	I	_	14	discourse	_	AlignEnd=386.077|Intonation=weakly_ascending|Prolonged=Yes|Speaker=TO017|TID=173-0
 13	x	x	ADP	E	_	14	case	_	AlignBegin=386.385|Speaker=TO017|TID=174-0|Type=unknown
@@ -1457,11 +1457,11 @@
 2	per	per	ADP	E	_	3	mark	_	AlignBegin=397.321|Speaker=TO017|TID=179-0
 3	dire	dire	VERB	V	VerbForm=Inf	1	advcl	_	AlignEnd=397.912|Intonation=weakly_ascending|Speaker=TO017|TID=179-1
 4	loro	loro	PRON	AP	Poss=Yes|PronType=Prs	6	det:poss	_	AlignBegin=398.571|Speaker=TO017|TID=180-0
-5	{P}	_	_	_	_	1	dep	_	Speaker=TO017|TID=180-1|Type=shortpause
+5	{P}	-	X	_	_	1	dep	_	Speaker=TO017|TID=180-1|Type=shortpause
 6	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	Speaker=TO017|TID=180-2
 7	e	e	CCONJ	CC	_	10	cc	_	Speaker=TO017|TID=180-3
 8	loro	loro	PRON	AP	Poss=Yes|PronType=Prs	10	det:poss	_	Speaker=TO017|TID=180-4
-9	{P}	_	_	_	_	1	dep	_	Speaker=TO017|TID=180-5|Type=shortpause
+9	{P}	-	X	_	_	1	dep	_	Speaker=TO017|TID=180-5|Type=shortpause
 10	donne	donna	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	AlignEnd=400.873|Intonation=weakly_ascending|Speaker=TO017|TID=180-6
 
 # sent_id = 90
@@ -1522,7 +1522,7 @@
 5	solo	solo	ADV	B	_	9	advmod	_	Speaker=TO017|TID=189-4
 6-8	delle	_	_	_	_	_	_	_	Speaker=TO017|TID=189-6
 6	di	di	ADP	E	_	9	case	_	_
-7	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=189-5|Type=shortpause
+7	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=189-5|Type=shortpause
 8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	forme	forma	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	AlignEnd=417.184|Intonation=descending|Speaker=TO017|TID=189-7
 
@@ -1530,7 +1530,7 @@
 # text = quindi {P} rimandiamo
 # jefferson_text = quindi {P} rimandiamo
 1	quindi	quindi	CCONJ	B	_	3	advmod	_	AlignBegin=419.494|Speaker=TO017|TID=190-0
-2	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=190-1|Type=shortpause
+2	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=190-1|Type=shortpause
 3	rimandiamo	rimandare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=190-2
 
 # sent_id = 96
@@ -1545,7 +1545,7 @@
 6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 7	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det:poss	_	Speaker=TO017|TID=190-8
 8	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	Speaker=TO017|TID=190-9
-9	{P}	_	_	_	_	23	dep	_	Speaker=TO017|TID=190-10|Type=shortpause
+9	{P}	-	X	_	_	23	dep	_	Speaker=TO017|TID=190-10|Type=shortpause
 10	di	di	ADP	E	_	12	mark	_	Speaker=TO017|TID=190-11
 11	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	Speaker=TO017|TID=190-12
 12	trovare	trovare	VERB	V	VerbForm=Inf	8	acl	_	Speaker=TO017|TID=190-13
@@ -1709,7 +1709,7 @@
 1	forse	forse	ADV	B	_	3	advmod	_	AlignBegin=462.717|Speaker=TO017|TID=207-0
 2	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Speaker=TO017|TID=207-1
 3	volta	volta	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Prolonged=Yes|Speaker=TO017|TID=207-2
-4	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=207-3|Type=shortpause
+4	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=207-3|Type=shortpause
 5	no	no	INTJ	I	_	6	discourse	_	Intonation=weakly_ascending|Speaker=TO017|TID=207-4
 6	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	Speaker=TO017|TID=207-5
 7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Speaker=TO017|TID=207-6
@@ -1735,7 +1735,7 @@
 9	da	da	ADP	E	_	13	case	_	AlignBegin=470.264|Speaker=TO017|TID=210-0
 10	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	AlignEnd=470.91|Intonation=weakly_ascending|Prolonged=Yes|Speaker=TO017|TID=210-1
 11	proto	proto	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	AlignBegin=477.344|Speaker=TO017|TID=211-0
-12	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=211-1|Type=shortpause
+12	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=211-1|Type=shortpause
 13	arabo	arabo	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	AlignEnd=478.787|Speaker=TO017|TID=211-2
 14	proto	proto	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	AlignBegin=478.956|Speaker=TO017|TID=212-0
 15	vuol	volere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	Speaker=TO017|TID=212-1
@@ -1781,7 +1781,7 @@
 17	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	Speaker=TO017|TID=216-10
 18	accorto	accorgere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	Speaker=TO017|TID=216-11
 19	che	che	SCONJ	CS	_	28	mark	_	Speaker=TO017|TID=216-12
-20	{P}	_	_	_	_	9	dep	_	Speaker=TO017|TID=216-13|Type=shortpause
+20	{P}	-	X	_	_	9	dep	_	Speaker=TO017|TID=216-13|Type=shortpause
 21	mh	mh	INTJ	I	_	28	discourse	_	Prolonged=Yes|Speaker=TO017|TID=216-14
 22	ma	ma	CCONJ	CC	_	28	cc	_	Speaker=TO017|TID=216-15
 23	come	come	ADV	B	_	28	advmod	_	Speaker=TO017|TID=216-16
@@ -1807,7 +1807,7 @@
 5-6	al	_	_	_	_	_	_	_	AlignBegin=494.703|Speaker=TO017|TID=218-0
 5	a	a	ADP	E	_	8	case	_	_
 6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=218-1|Type=shortpause
+7	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=218-1|Type=shortpause
 8	persiano	persiano	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	Speaker=TO017|TID=218-2
 9	che	che	SCONJ	PR	PronType=Rel	10	nsubj	_	Speaker=TO017|TID=218-3
 10	somiglia	somigliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	Speaker=TO017|TID=218-4
@@ -1829,7 +1829,7 @@
 6	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No|Speaker=TO017|TID=219-4
 7	origine	origine	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	Speaker=TO017|TID=219-5
 8	comune	comune	ADJ	A	Number=Sing	7	amod	_	Speaker=TO017|TID=219-6
-9	{P}	_	_	_	_	5	dep	_	Speaker=TO017|TID=219-7|Type=shortpause
+9	{P}	-	X	_	_	5	dep	_	Speaker=TO017|TID=219-7|Type=shortpause
 
 # sent_id = 117
 # text = hanno passato duecento anni a fare alberi genealogici finché non solo hanno dimostrato che queste lingue {P} effettivamente hanno {P}un' origine comune ma hanno {P} anche {P} proposto la ricostruzione di questa lingua {P} ormai estinta che sarebbe la lingua nonno
@@ -1850,25 +1850,25 @@
 14	che	che	SCONJ	CS	_	19	mark	_	Speaker=TO017|TID=220-4
 15	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	16	det	_	Speaker=TO017|TID=220-5
 16	lingue	lingue	NOUN	S	Gender=Masc|Number=Sing	19	nsubj	_	Speaker=TO017|TID=220-6
-17	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=220-7|Type=shortpause
+17	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=220-7|Type=shortpause
 18	effettivamente	effettivamente	ADV	B	_	19	advmod	_	Speaker=TO017|TID=220-8
 19	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	_	Speaker=TO017|TID=220-9
-20	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=220-10|Type=shortpause
+20	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=220-10|Type=shortpause
 21	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	SpaceAfter=No|Speaker=TO017|TID=220-11
 22	origine	origine	NOUN	S	Gender=Fem|Number=Sing	19	obj	_	Speaker=TO017|TID=220-12
 23	comune	comune	ADJ	A	Number=Sing	22	amod	_	AlignEnd=509.303|Intonation=weakly_ascending|Speaker=TO017|TID=220-13
 24	ma	ma	CCONJ	CC	_	29	cc	_	AlignBegin=509.436|Speaker=TO017|TID=221-0
 25	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	Speaker=TO017|TID=221-1
-26	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=221-2|Type=shortpause
+26	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=221-2|Type=shortpause
 27	anche	anche	ADV	B	_	29	advmod	_	Speaker=TO017|TID=221-3
-28	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=221-4|Type=shortpause
+28	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=221-4|Type=shortpause
 29	proposto	proporre	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	Speaker=TO017|TID=221-5
 30	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	Speaker=TO017|TID=221-6
 31	ricostruzione	ricostruzione	NOUN	S	Gender=Fem|Number=Sing	29	obj	_	AlignEnd=512.731|Intonation=weakly_ascending|Speaker=TO017|TID=221-7
 32	di	di	ADP	E	_	34	case	_	AlignBegin=512.918|Speaker=TO017|TID=222-0
 33	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	34	det	_	Speaker=TO017|TID=222-1
 34	lingua	lingua	NOUN	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	31	nmod	_	PaceSlow=Yes|Speaker=TO017|TID=222-2
-35	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=222-3|Type=shortpause
+35	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=222-3|Type=shortpause
 36	ormai	ormai	ADV	B	_	37	advmod	_	Speaker=TO017|TID=222-4
 37	estinta	estincere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	advcl	_	Speaker=TO017|TID=222-5
 38	che	che	SCONJ	CS	_	42	mark	_	Speaker=TO017|TID=222-6
@@ -2006,7 +2006,7 @@
 1	e	e	CCONJ	CC	_	3	cc	_	AlignBegin=559.124|Speaker=TO017|TID=239-0
 2	si	si	PRON	PC	Person=3|PronType=Prs	3	expl:impers	_	Clitic=Yes|Speaker=TO017|TID=239-1
 3	prova	provare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=239-2
-4	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=239-3|Type=shortpause
+4	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=239-3|Type=shortpause
 5	a	a	ADP	E	_	6	mark	_	Speaker=TO017|TID=239-4
 6	ricostruire	ricostruire	VERB	V	VerbForm=Inf	3	xcomp	_	Speaker=TO017|TID=239-5
 7-8	all'	_	_	_	_	_	_	_	SpaceAfter=No|Speaker=TO017|TID=239-6
@@ -2071,7 +2071,7 @@
 7	varietà	varietà	NOUN	S	Gender=Fem	11	nsubj	_	Speaker=TO017|TID=243-6
 8	di	di	ADP	E	_	9	case	_	Speaker=TO017|TID=243-7
 9	arabo	arabo	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	Speaker=TO017|TID=243-8
-10	{P}	_	_	_	_	11	dep	_	Speaker=TO017|TID=243-9|Type=shortpause
+10	{P}	-	X	_	_	11	dep	_	Speaker=TO017|TID=243-9|Type=shortpause
 11	avevano	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignEnd=575.761|Intonation=weakly_ascending|Speaker=TO017|TID=243-10
 12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	AlignBegin=575.922|Speaker=TO017|TID=244-0
 13	nonno	nonno	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	PaceSlow=Yes|Prolonged=Yes|Speaker=TO017|TID=244-1
@@ -2171,7 +2171,7 @@
 4	altre	altro	ADJ	DI	PronType=Ind	5	det	_	Speaker=TO017|TID=256-3
 5	slide	slida	NOUN	S	Gender=Fem|Number=Plur	2	obj	_	AlignEnd=611.099|Speaker=TO017|TID=256-4
 6	cominciamo	cominciare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=611.765|Speaker=TO017|TID=257-0
-7	{P}	_	_	_	_	6	dep	_	Speaker=TO017|TID=257-1|Type=shortpause
+7	{P}	-	X	_	_	6	dep	_	Speaker=TO017|TID=257-1|Type=shortpause
 8	a	a	ADP	E	_	10	mark	_	Speaker=TO017|TID=257-2
 9-10	guardarlo	_	_	_	_	_	_	_	AlignEnd=613.424|Speaker=TO017|TID=257-3
 9	guardar	guardare	VERB	V	VerbForm=Inf	6	xcomp	_	_
@@ -2204,7 +2204,7 @@
 1	quindi	quindi	CCONJ	CC	_	8	cc	_	AlignEnd=627.296|Speaker=TO017|TID=262-0
 2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	AlignBegin=628.247|Speaker=TO017|TID=263-0
 3	domanda	domanda	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	Speaker=TO017|TID=263-1
-4	{P}	_	_	_	_	8	dep	_	Speaker=TO017|TID=263-2|Type=shortpause
+4	{P}	-	X	_	_	8	dep	_	Speaker=TO017|TID=263-2|Type=shortpause
 5	a	a	ADP	E	_	7	case	_	Speaker=TO017|TID=263-3
 6	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	Speaker=TO017|TID=263-4
 7	punto	punto	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	Speaker=TO017|TID=263-5
@@ -2231,7 +2231,7 @@
 # jefferson_text = quando nasce {P}
 1	quando	quando	ADV	CS	_	2	mark	_	AlignBegin=637.287|Speaker=TO017|TID=266-0
 2	nasce	nascere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=266-1
-3	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=266-2|Type=shortpause
+3	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=266-2|Type=shortpause
 
 # sent_id = 138
 # text = quando nasce la lingua araba
@@ -2290,7 +2290,7 @@
 2	iscrizione	iscrizione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	AlignEnd=651.56|Prolonged=Yes|Speaker=???|TID=274-1
 3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	AlignBegin=653.05|Speaker=TO017|TID=275-0
 4	nabatei	nabateo	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	Speaker=TO017|TID=275-1
-5	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=275-2|Type=shortpause
+5	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=275-2|Type=shortpause
 
 # sent_id = 145
 # text = la poesia pre islamica
@@ -2345,7 +2345,7 @@
 1	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	AlignBegin=661.761|Speaker=TO017|TID=279-0
 2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Speaker=TO017|TID=279-1
 3	rossi	rore	PROPN	A	Gender=Masc|Number=Plur	0	root	_	Speaker=TO017|TID=279-2
-4	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=279-3|Type=shortpause
+4	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=279-3|Type=shortpause
 5	che	che	SCONJ	CS	_	7	mark	_	Speaker=TO017|TID=279-4
 6	vi	vi	PRON	PC	Number=Plur|Person=2|PronType=Prs	7	iobj	_	Clitic=Yes|Speaker=TO017|TID=279-5
 7	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	Overlapping=Yes|Speaker=TO017|TID=279-6
@@ -2402,7 +2402,7 @@
 4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
 5	islam	islam	PROPN	SP	_	0	root	_	AlignEnd=676.944|Speaker=TO017|TID=285-7
 6	eh	eh	INTJ	I	_	5	discourse	_	AlignBegin=677.328|Prolonged=Yes|Speaker=TO017|TID=286-0
-7	{P}	_	_	_	_	5	dep	_	Speaker=TO017|TID=286-1|Type=shortpause
+7	{P}	-	X	_	_	5	dep	_	Speaker=TO017|TID=286-1|Type=shortpause
 
 # sent_id = 154
 # text = lui dice regno nabateo
@@ -2418,7 +2418,7 @@
 1	che	che	SCONJ	CS	_	11	mark	_	AlignBegin=679.442|Speaker=TO017|TID=287-0|Volume=low
 2	in	in	ADP	E	_	3	case	_	Speaker=TO017|TID=287-1|Volume=low
 3	effetti	effetto	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	Speaker=TO017|TID=287-2|Volume=low
-4	{P}	_	_	_	_	11	dep	_	Speaker=TO017|TID=287-3|Type=shortpause|Volume=low
+4	{P}	-	X	_	_	11	dep	_	Speaker=TO017|TID=287-3|Type=shortpause|Volume=low
 5	a	a	ADP	E	_	7	case	_	Speaker=TO017|TID=287-4|Volume=low
 6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Speaker=TO017|TID=287-5|Volume=low
 7	parte	parte	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	Speaker=TO017|TID=287-6|Volume=low
@@ -2430,7 +2430,7 @@
 13	poi	poi	ADV	B	_	15	advmod	_	Speaker=TO017|TID=288-1
 14	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	Clitic=Yes|Speaker=TO017|TID=288-2
 15	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	19	advcl	_	Speaker=TO017|TID=288-3
-16	{P}	_	_	_	_	11	dep	_	Speaker=TO017|TID=288-4|Type=shortpause
+16	{P}	-	X	_	_	11	dep	_	Speaker=TO017|TID=288-4|Type=shortpause
 17	comunque	comunque	ADV	B	_	15	advmod	_	Speaker=TO017|TID=288-5
 18	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	aux	_	Speaker=TO017|TID=288-6
 19	attestato	attestare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	parataxis	_	Speaker=TO017|TID=288-7
@@ -2504,7 +2504,7 @@
 17	estinta	estinta	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	16	acl	_	Speaker=TO017|TID=294-10
 18-20	dai	_	_	_	_	_	_	_	Speaker=TO017|TID=294-12
 18	da	da	ADP	E	_	21	case	_	_
-19	{P}	_	_	_	_	6	dep	_	Speaker=TO017|TID=294-11|Type=shortpause
+19	{P}	-	X	_	_	6	dep	_	Speaker=TO017|TID=294-11|Type=shortpause
 20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
 21	tempi	tempo	NOUN	S	Gender=Masc|Number=Plur	17	obl:agent	_	Speaker=TO017|TID=294-13
 22	che	che	SCONJ	PR	PronType=Rel	23	nsubj	_	Speaker=TO017|TID=294-14
@@ -2541,7 +2541,7 @@
 1	ma	ma	CCONJ	CC	_	6	cc	_	Speaker=TO017|TID=299-5
 2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No|Speaker=TO017|TID=299-6
 3	amorreo	amorreo	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	Speaker=TO017|TID=299-7
-4	{P}	_	_	_	_	6	dep	_	Speaker=TO017|TID=299-8|Type=shortpause
+4	{P}	-	X	_	_	6	dep	_	Speaker=TO017|TID=299-8|Type=shortpause
 5	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	6	iobj	_	Clitic=Yes|Speaker=TO017|TID=299-9
 6	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=299-10
 7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	Speaker=TO017|TID=299-11
@@ -2596,7 +2596,7 @@
 3	a	a	ADP	E	_	5	case	_	_
 4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
 5	amorreo	amorreo	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	Speaker=TO017|TID=306-6
-6	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=306-7|Type=shortpause
+6	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=306-7|Type=shortpause
 
 # sent_id = 164
 # text = no perché per quello che ne sappiamo era la lingua distinta
@@ -2672,7 +2672,7 @@
 19	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	21	nsubj	_	Speaker=TO017|TID=315-2
 20	si	si	PRON	PC	Person=3|PronType=Prs	21	expl	_	Clitic=Yes|Speaker=TO017|TID=315-3
 21	complicano	complicare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=315-4
-22	{P}	_	_	_	_	21	dep	_	Speaker=TO017|TID=315-5|Type=shortpause
+22	{P}	-	X	_	_	21	dep	_	Speaker=TO017|TID=315-5|Type=shortpause
 
 # sent_id = 168
 # text = e nonc' è nessun motivo per cui non dovremmo farlo se non il fatto che abbiamo trenta ore e no e non possiamo pensare a tutto quanto però non è così malposta la~ la~ il problema
@@ -2725,11 +2725,11 @@
 2	date	dare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Clitic=Yes
 4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Speaker=TO017|TID=319-2
-5	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=319-3|Type=shortpause
+5	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=319-3|Type=shortpause
 6	okay	okay	INTJ	S	Gender=Masc	2	obj	_	Speaker=TO017|TID=319-4
 7	mandatemi	mandatemare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	Speaker=TO017|TID=319-5
 8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Prolonged=Yes|Speaker=TO017|TID=319-6
-9	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=319-7|Type=shortpause
+9	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=319-7|Type=shortpause
 10	periodo	periodo	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	Speaker=TO017|TID=319-8
 11	i~	i~	DET	SYM	_	2	dep	_	Interrupted=Yes|Speaker=TO017|TID=319-9
 12	in	in	ADP	E	_	13	case	_	Speaker=TO017|TID=319-10
@@ -2781,7 +2781,7 @@
 5	in	in	ADP	E	_	7	case	_	Speaker=TO017|TID=324-3
 6	tre	tre	DET	N	NumType=Card	7	nummod	_	Speaker=TO017|TID=324-4
 7	fasi	fase	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	Speaker=TO017|TID=324-5
-8	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=324-6|Type=shortpause
+8	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=324-6|Type=shortpause
 
 # sent_id = 174
 # text = per comodità che fanno comodo a me per raccontarvela
@@ -2816,7 +2816,7 @@
 4	periodo	periodo	NOUN	S	Gender=Masc|Number=Sing	2	nsubj	_	Speaker=TO017|TID=327-3
 5-7	pre-islamico?	_	_	_	_	_	_	_	AlignEnd=805.898|Speaker=TO017|TID=327-5|Type=error
 5	pre-islamico	pre-islamico	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	_
-6	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=327-4|Type=shortpause
+6	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=327-4|Type=shortpause
 7	?	?	PUNCT	FS	_	2	punct	_	_
 8	seicento	seicento	NUM	A	Gender=Masc|Number=Sing	9	amod	_	AlignEnd=806.937|Intonation=weakly_ascending|Prolonged=Yes|Speaker=???|TID=328-0|Volume=low
 9	eh	eh	INTJ	I	_	10	discourse	_	AlignBegin=807.253|Prolonged=Yes|Speaker=???|TID=329-0
@@ -2829,7 +2829,7 @@
 # jefferson_text = quindi? e::h {P} seice~ ~ntonovantadue prima sura, seicento, dieci, dieci. dopo cristo
 1	quindi	quindi	CCONJ	B	_	2	advmod	_	AlignEnd=810.853|Intonation=ascending|Speaker=TO017|TID=330-2
 2	eh	eh	INTJ	I	_	0	root	_	AlignBegin=811.029|Prolonged=Yes|Speaker=???|TID=331-0
-3	{P}	_	_	_	_	7	dep	_	Speaker=???|TID=331-1|Type=shortpause
+3	{P}	-	X	_	_	7	dep	_	Speaker=???|TID=331-1|Type=shortpause
 4	seice~	seice~	X	SYM	_	2	discourse:emo	_	AlignEnd=812.072|Interrupted=Yes|Speaker=???|TID=331-2
 5	~ntonovantadue	~ntonovantaduo	X	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	7	det	_	AlignEnd=813.331|Interrupted=Yes|Speaker=???|TID=332-0
 6	prima	primo	DET	NO	Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	AlignBegin=813.428|Speaker=TO017|TID=333-0
@@ -2942,7 +2942,7 @@
 3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Speaker=TO017|TID=344-3
 4	periodo	periodo	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	Speaker=TO017|TID=344-4
 5	proto	proto	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	Speaker=TO017|TID=344-5
-6	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=344-6|Type=shortpause
+6	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=344-6|Type=shortpause
 7	islamico	islamico	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	AlignEnd=840.279|Intonation=weakly_ascending|Speaker=TO017|TID=344-7
 
 # sent_id = 186
@@ -2960,7 +2960,7 @@
 3	anni	anno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	Speaker=TO017|TID=346-4
 4-6	dell'	_	_	_	_	_	_	_	SpaceAfter=No|Speaker=TO017|TID=346-6
 4	di	di	ADP	E	_	7	case	_	_
-5	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=346-5|Type=shortpause
+5	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=346-5|Type=shortpause
 6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
 7	islam	islam	PROPN	X	_	3	nmod	_	Speaker=TO017|TID=346-7
 
@@ -2980,7 +2980,7 @@
 1	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	AlignBegin=848.009|Speaker=TO017|TID=348-0
 2	periodo	periodo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	Speaker=TO017|TID=348-1
 3	qua	qua	ADV	B	_	6	advmod	_	Speaker=TO017|TID=348-2
-4	{P}	_	_	_	_	6	dep	_	Speaker=TO017|TID=348-3|Type=shortpause
+4	{P}	-	X	_	_	6	dep	_	Speaker=TO017|TID=348-3|Type=shortpause
 5	non	non	ADV	BN	PronType=Neg	6	advmod	_	Speaker=TO017|TID=348-4
 6	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=348-5
 7	se	se	SCONJ	CS	_	8	mark	_	Speaker=TO017|TID=348-6
@@ -2997,7 +2997,7 @@
 # jefferson_text = noi prendiamo {P} diciamo i:l periodo del xxx dei primi quattro califfi
 1	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	AlignBegin=855.001|Speaker=TO017|TID=350-0
 2	prendiamo	prendere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=350-1
-3	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=350-2|Type=shortpause
+3	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=350-2|Type=shortpause
 4	diciamo	dire	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	Speaker=TO017|TID=350-3
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Prolonged=Yes|Speaker=TO017|TID=350-4
 6	periodo	periodo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	AlignEnd=857.587|Speaker=TO017|TID=350-5
@@ -3140,7 +3140,7 @@
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	periodo	periodo	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	PaceFast=Yes|Speaker=TO017|TID=368-2
 7	pre	pre	ADJ	B	_	9	advmod	_	Speaker=TO017|TID=368-3
-8	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=368-4|Type=shortpause
+8	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=368-4|Type=shortpause
 9	islamico	islamico	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	Speaker=TO017|TID=368-5
 
 # sent_id = 200
@@ -3192,7 +3192,7 @@
 # jefferson_text = la iscrizione {P} di xxx è datata al trecentovento:tto.
 1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=911.378|Speaker=TO017|TID=373-0
 2	iscrizione	iscrizione	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	Speaker=TO017|TID=373-1
-3	{P}	_	_	_	_	7	dep	_	Speaker=TO017|TID=373-2|Type=shortpause
+3	{P}	-	X	_	_	7	dep	_	Speaker=TO017|TID=373-2|Type=shortpause
 4	di	di	ADP	E	_	5	case	_	Speaker=TO017|TID=373-3
 5	x	per	X	X	_	2	nmod	_	AlignEnd=913.758|Speaker=TO017|TID=373-4|Type=unknown
 6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	AlignBegin=914.246|Speaker=TO017|TID=374-0
@@ -3266,9 +3266,9 @@
 1	okay	okay	INTJ	I	_	7	discourse	_	AlignEnd=940.553|Intonation=descending|Speaker=TO017|TID=382-0
 2	allora	allora	CCONJ	B	_	7	advmod	_	AlignEnd=942.024|Speaker=TO017|TID=383-0
 3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=946.098|Speaker=TO017|TID=384-0
-4	{P}	_	_	_	_	7	dep	_	Speaker=TO017|TID=384-1|Type=shortpause
+4	{P}	-	X	_	_	7	dep	_	Speaker=TO017|TID=384-1|Type=shortpause
 5	prima	primo	DET	NO	Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	Speaker=TO017|TID=384-2
-6	{P}	_	_	_	_	7	dep	_	Speaker=TO017|TID=384-3|Type=shortpause
+6	{P}	-	X	_	_	7	dep	_	Speaker=TO017|TID=384-3|Type=shortpause
 7	attestazione	attestazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	AlignEnd=948.376|Speaker=TO017|TID=384-4
 8	che	che	SCONJ	PR	PronType=Rel	10	obj	_	AlignBegin=948.476|Speaker=TO017|TID=385-0
 9	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	Speaker=TO017|TID=385-1
@@ -3378,7 +3378,7 @@
 2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Speaker=TO017|TID=393-1
 3	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	Speaker=TO017|TID=393-2
 4	descrivere	descrivere	VERB	V	VerbForm=Inf	16	advcl	_	Speaker=TO017|TID=393-3
-5	{P}	_	_	_	_	16	dep	_	Speaker=TO017|TID=393-4|Type=shortpause
+5	{P}	-	X	_	_	16	dep	_	Speaker=TO017|TID=393-4|Type=shortpause
 6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	Speaker=TO017|TID=393-5
 7	dialetti	dialetto	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	AlignEnd=974.332|Intonation=weakly_ascending|Prolonged=Yes|Speaker=TO017|TID=393-6
 8-9	delle	_	_	_	_	_	_	_	AlignBegin=974.94|Speaker=TO017|TID=394-0
@@ -3397,7 +3397,7 @@
 # text = vado {P} da quelli che lo parlano e cosa faccio
 # jefferson_text = vado {P} da quelli che lo parlano. e cosa faccio?
 1	vado	andare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=984.093|Speaker=TO017|TID=395-0
-2	{P}	_	_	_	_	1	dep	_	Speaker=TO017|TID=395-1|Type=shortpause
+2	{P}	-	X	_	_	1	dep	_	Speaker=TO017|TID=395-1|Type=shortpause
 3	da	da	ADP	E	_	4	case	_	Speaker=TO017|TID=395-2
 4	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	1	obl	_	Speaker=TO017|TID=395-3
 5	che	che	SCONJ	PR	PronType=Rel	7	nsubj	_	Speaker=TO017|TID=395-4
@@ -3648,7 +3648,7 @@
 1	allora	allora	CCONJ	B	_	3	advmod	_	AlignBegin=1040.06|Intonation=descending|Speaker=TO017|TID=411-0
 2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	Speaker=TO017|TID=411-1
 3	iscrizioni	iscrizione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	Speaker=TO017|TID=411-2
-4	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=411-3|Type=shortpause
+4	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=411-3|Type=shortpause
 
 # sent_id = 243
 # text = materiale epigrafico
@@ -3679,7 +3679,7 @@
 1	per	per	ADP	E	_	3	case	_	AlignBegin=1053.804|Speaker=TO017|TID=414-0
 2	qualsiasi	qualsiasi	DET	DI	PronType=Ind	3	det	_	Speaker=TO017|TID=414-1
 3	ragione	ragione	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	Speaker=TO017|TID=414-2
-4	{P}	_	_	_	_	8	dep	_	Speaker=TO017|TID=414-3|Type=shortpause
+4	{P}	-	X	_	_	8	dep	_	Speaker=TO017|TID=414-3|Type=shortpause
 5	poteva	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	Speaker=TO017|TID=414-4
 6	essere	essere	VERB	V	VerbForm=Inf	8	cop	_	Speaker=TO017|TID=414-5
 7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Speaker=TO017|TID=414-6
@@ -3753,7 +3753,7 @@
 # jefferson_text = qualunque cosa. {P} ci va bene tutto
 1	qualunque	qualunque	DET	DI	PronType=Ind	2	det	_	AlignBegin=1068.974|Speaker=TO017|TID=419-0
 2	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	Intonation=descending|Speaker=TO017|TID=419-1
-3	{P}	_	_	_	_	5	dep	_	Speaker=TO017|TID=419-2|Type=shortpause
+3	{P}	-	X	_	_	5	dep	_	Speaker=TO017|TID=419-2|Type=shortpause
 4	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	5	expl	_	Clitic=Yes|Speaker=TO017|TID=419-3
 5	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=419-4
 6	bene	bene	ADV	B	_	5	advmod	_	Speaker=TO017|TID=419-5
@@ -3874,7 +3874,7 @@
 4	che	che	SCONJ	CS	_	6	mark	_	Speaker=TO017|TID=428-3
 5	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	Speaker=TO017|TID=428-4
 6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	Intonation=weakly_ascending|Speaker=TO017|TID=428-5
-7	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=428-6|Type=shortpause
+7	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=428-6|Type=shortpause
 8	scusa	scusare	INTJ	S	Gender=Fem|Number=Sing	6	nsubj	_	AlignEnd=1101.962|Intonation=weakly_ascending|Speaker=TO017|TID=428-7
 
 # sent_id = 263
@@ -3903,7 +3903,7 @@
 3	stiamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=430-4
 4-6	nel	_	_	_	_	_	_	_	Speaker=TO017|TID=430-6
 4	in	in	ADP	E	_	7	case	_	_
-5	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=430-5|Type=shortpause
+5	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=430-5|Type=shortpause
 6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	materiale	materiale	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	Speaker=TO017|TID=430-7
 8	epigrafico	epigrafico	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	Intonation=weakly_ascending|Speaker=TO017|TID=430-8
@@ -4083,7 +4083,7 @@
 1	e	e	CCONJ	CC	_	3	cc	_	AlignBegin=1150.287|Speaker=TO017|TID=441-0
 2	poi	poi	ADV	B	_	3	advmod	_	Speaker=TO017|TID=441-1
 3	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=441-2
-4	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=441-3|Type=shortpause
+4	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=441-3|Type=shortpause
 5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	Speaker=TO017|TID=441-4
 6	testi	testo	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	Speaker=TO017|TID=441-5
 7-8	dei	_	_	_	_	_	_	_	Speaker=TO017|TID=441-6
@@ -4093,7 +4093,7 @@
 10	arabi	arabo	ADJ	PI	Gender=Masc|Number=Plur|PronType=Ind	3	parataxis	_	AlignEnd=1153.106|Intonation=weakly_ascending|Speaker=TO017|TID=441-8
 11	mh	mh	INTJ	I	_	10	discourse	_	AlignEnd=1154.19|Intonation=weakly_ascending|Speaker=TO017|TID=442-0
 12	che	che	SCONJ	PR	PronType=Rel	14	nsubj	_	AlignBegin=1155.007|Speaker=TO017|TID=443-0
-13	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=443-1|Type=shortpause
+13	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=443-1|Type=shortpause
 14	parlavano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	acl:relcl	_	Speaker=TO017|TID=443-2
 15	di	di	ADP	E	_	16	case	_	Speaker=TO017|TID=443-3
 16	lingua	lingua	NOUN	SP	_	14	obl	_	Speaker=TO017|TID=443-4
@@ -4166,7 +4166,7 @@
 1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	AlignBegin=1176.107|Speaker=TO017|TID=449-0
 2	grande	grande	ADJ	A	Number=Plur	3	amod	_	Speaker=TO017|TID=449-1
 3	papà	papà	NOUN	S	Gender=Masc	0	root	_	Speaker=TO017|TID=449-2
-4	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=449-3|Type=shortpause
+4	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=449-3|Type=shortpause
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Speaker=TO017|TID=449-4
 6	padre	padre	NOUN	S	Gender=Masc|Number=Sing	3	appos	_	Speaker=TO017|TID=449-5
 7-8	della	_	_	_	_	_	_	_	Speaker=TO017|TID=449-6
@@ -4216,7 +4216,7 @@
 7	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	AlignEnd=1198.143|Speaker=TO017|TID=455-14
 8	arabo	arabo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	AlignBegin=1198.447|Speaker=TO017|TID=456-0
 9	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	Speaker=TO017|TID=456-1
-10	{P}	_	_	_	_	8	dep	_	Speaker=TO017|TID=456-2|Type=shortpause
+10	{P}	-	X	_	_	8	dep	_	Speaker=TO017|TID=456-2|Type=shortpause
 11	eh	eh	INTJ	I	_	8	discourse	_	AlignEnd=1199.961|Intonation=weakly_ascending|Speaker=TO017|TID=456-3
 12	x	per	ADP	E	_	14	case	_	AlignEnd=1201.686|Speaker=TO017|TID=457-0|Type=unknown
 13	per	per	ADP	E	_	14	case	_	AlignBegin=1202.198|Speaker=TO017|TID=458-0
@@ -4227,9 +4227,9 @@
 18	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	AlignEnd=1203.148|Intonation=descending|Speaker=TO017|TID=458-5
 19	eh	eh	INTJ	I	_	17	discourse	_	AlignBegin=1203.583|Prolonged=Yes|Speaker=TO017|TID=459-0
 20	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	aux	_	Speaker=TO017|TID=459-1
-21	{P}	_	_	_	_	8	dep	_	Speaker=TO017|TID=459-2|Type=shortpause
+21	{P}	-	X	_	_	8	dep	_	Speaker=TO017|TID=459-2|Type=shortpause
 22	persiano	persiare	ADJ	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	parataxis	_	Speaker=TO017|TID=459-3
-23	{P}	_	_	_	_	8	dep	_	Speaker=TO017|TID=459-4|Type=shortpause
+23	{P}	-	X	_	_	8	dep	_	Speaker=TO017|TID=459-4|Type=shortpause
 24	lui	egli	PRON	PE	Number=Sing|Person=3|PronType=Prs	22	nsubj	_	AlignEnd=1205.889|Intonation=descending|Speaker=TO017|TID=459-5
 25	ma	ma	CCONJ	CC	_	26	cc	_	AlignEnd=1206.389|Intonation=descending|Speaker=TO017|TID=460-0
 26	imparò	impare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	22	conj	_	AlignBegin=1206.883|Speaker=TO017|TID=461-0
@@ -4321,7 +4321,7 @@
 2	prendere	prendere	VERB	V	VerbForm=Inf	0	root	_	Speaker=TO017|TID=466-1
 3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	Speaker=TO017|TID=466-2
 4	dialetti	dialetto	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	Speaker=TO017|TID=466-3
-5	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=466-4|Type=shortpause
+5	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=466-4|Type=shortpause
 6	moderni	moderno	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	AlignEnd=1228.554|Intonation=weakly_ascending|Speaker=TO017|TID=466-5
 7	e	e	CCONJ	CC	_	8	cc	_	AlignBegin=1228.649|Speaker=TO017|TID=467-0
 8	fare	fare	VERB	V	VerbForm=Inf	2	conj	_	Speaker=TO017|TID=467-1
@@ -4330,7 +4330,7 @@
 10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
 11	decostruzioni	decostruzione	NOUN	S	Gender=Fem|Number=Plur	8	obl	_	Speaker=TO017|TID=467-3
 12	dia	dare	X	V	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	Speaker=TO017|TID=467-4
-13	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=467-5|Type=shortpause
+13	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=467-5|Type=shortpause
 14	croniche	cronica	ADJ	S	Gender=Fem|Number=Plur	12	obj	_	Speaker=TO017|TID=467-6
 
 # sent_id = 300
@@ -4438,7 +4438,7 @@
 6	documenti	documento	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	Speaker=TO017|TID=476-4
 7	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	Speaker=TO017|TID=476-5
 8	proprio	proprio	ADV	B	_	12	advmod	_	Speaker=TO017|TID=476-6
-9	{P}	_	_	_	_	12	dep	_	Speaker=TO017|TID=476-7|Type=shortpause
+9	{P}	-	X	_	_	12	dep	_	Speaker=TO017|TID=476-7|Type=shortpause
 10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Speaker=TO017|TID=476-8
 11	prima	primo	DET	NO	Gender=Fem|Number=Sing|NumType=Ord	12	amod	_	Speaker=TO017|TID=476-9
 12	attestazione	attestazione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=TO017|TID=476-10
@@ -4458,7 +4458,7 @@
 24	di	di	ADP	E	_	26	case	_	_
 25	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	parola	parola	NOUN	S	Gender=Fem|Number=Sing	23	nmod	_	Speaker=TO017|TID=480-1
-27	{P}	_	_	_	_	12	dep	_	Speaker=TO017|TID=480-2|Type=shortpause
+27	{P}	-	X	_	_	12	dep	_	Speaker=TO017|TID=480-2|Type=shortpause
 28	arabo	arabo	ADJ	S	Gender=Masc|Number=Sing	26	nmod	_	AlignEnd=1270.979|Speaker=TO017|TID=480-3
 
 # sent_id = 304
@@ -4529,13 +4529,13 @@
 # text = e {P} in questo monolito lui dice {P} eh che un certo x scritto così x anche qua {P} pronuncia era scritto in cuneiforme
 # jefferson_text = e {P} in questo monolito lui dice {P} e::h che un certo xxx scritto così. xxx anche qua {P} pronuncia. era scritto in cuneiforme
 1	e	e	CCONJ	CC	_	7	cc	_	AlignBegin=1291.368|Speaker=TO017|TID=487-0
-2	{P}	_	_	_	_	7	dep	_	Speaker=TO017|TID=487-1|Type=shortpause
+2	{P}	-	X	_	_	7	dep	_	Speaker=TO017|TID=487-1|Type=shortpause
 3	in	in	ADP	E	_	5	case	_	Speaker=TO017|TID=487-2
 4	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	Speaker=TO017|TID=487-3
 5	monolito	monolito	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	AlignEnd=1292.855|Speaker=TO017|TID=487-4
 6	lui	egli	PRON	PE	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	AlignBegin=1293.018|Speaker=TO017|TID=488-0
 7	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=488-1
-8	{P}	_	_	_	_	7	dep	_	Speaker=TO017|TID=488-2|Type=shortpause
+8	{P}	-	X	_	_	7	dep	_	Speaker=TO017|TID=488-2|Type=shortpause
 9	eh	eh	INTJ	I	_	12	discourse	_	Prolonged=Yes|Speaker=TO017|TID=488-3
 10	che	che	SCONJ	CS	_	12	mark	_	Speaker=TO017|TID=488-4
 11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Speaker=TO017|TID=488-5
@@ -4546,7 +4546,7 @@
 16	x	per	ADP	E	_	18	case	_	AlignEnd=1298.419|Speaker=TO017|TID=489-2|Type=unknown
 17	anche	anche	ADV	B	_	18	advmod	_	AlignBegin=1298.462|Speaker=TO017|TID=490-0
 18	qua	qua	ADV	B	_	14	obl	_	Speaker=TO017|TID=490-1
-19	{P}	_	_	_	_	7	dep	_	Speaker=TO017|TID=490-2|Type=shortpause
+19	{P}	-	X	_	_	7	dep	_	Speaker=TO017|TID=490-2|Type=shortpause
 20	pronuncia	pronunciare	NOUN	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	22	nsubj	_	Intonation=descending|Speaker=TO017|TID=490-3
 21	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	aux	_	Speaker=TO017|TID=490-4
 22	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	parataxis	_	Speaker=TO017|TID=490-5
@@ -4632,9 +4632,9 @@
 # jefferson_text = la traduzione {P} è {P} un po' problematica.
 1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Speaker=TO017|TID=500-6
 2	traduzione	traduzione	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	Speaker=TO017|TID=500-7
-3	{P}	_	_	_	_	8	dep	_	Speaker=TO017|TID=500-8|Type=shortpause
+3	{P}	-	X	_	_	8	dep	_	Speaker=TO017|TID=500-8|Type=shortpause
 4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Speaker=TO017|TID=500-9
-5	{P}	_	_	_	_	8	dep	_	Speaker=TO017|TID=500-10|Type=shortpause
+5	{P}	-	X	_	_	8	dep	_	Speaker=TO017|TID=500-10|Type=shortpause
 6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Speaker=TO017|TID=500-11
 7	po'	po'	ADJ	B	_	8	advmod	_	Speaker=TO017|TID=500-12
 8	problematica	problematico	ADJ	A	Gender=Fem|Number=Sing	0	root	_	AlignEnd=1326.055|Intonation=descending|Speaker=TO017|TID=500-13
@@ -4679,7 +4679,7 @@
 # text = eh {P} eh mh
 # jefferson_text = eh {P}=e:::h mh.
 1	eh	eh	INTJ	I	_	4	discourse	_	AlignBegin=1335.172|Speaker=TO017|TID=503-0
-2	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=503-1|Type=shortpause
+2	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=503-1|Type=shortpause
 3	eh	eh	INTJ	I	_	4	discourse	_	Prolonged=Yes|ProsodicLink=Yes|Speaker=TO017|TID=503-2
 4	mh	mh	INTJ	I	_	0	root	_	AlignEnd=1336.669|Intonation=descending|Speaker=TO017|TID=503-3
 
@@ -4850,10 +4850,10 @@
 6	di	di	ADP	E	_	8	case	_	_
 7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	lingua	linguo	NOUN	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	nmod	_	Speaker=TO017|TID=519-10
-9	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=519-11|Type=shortpause
+9	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=519-11|Type=shortpause
 10	che	che	SCONJ	PR	PronType=Rel	11	nsubj	_	Speaker=TO017|TID=519-12
 11	parlasse	parlare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	acl:relcl	_	Speaker=TO017|TID=519-13
-12	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=519-14|Type=shortpause
+12	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=519-14|Type=shortpause
 13	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	obl	_	Speaker=TO017|TID=519-15
 14	x	x	ADP	E	_	13	dep	_	AlignEnd=1373.985|Speaker=TO017|TID=519-16|Type=unknown
 
@@ -5055,7 +5055,7 @@
 6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	Speaker=TO017|TID=536-10
 7	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	aux:pass	_	Speaker=TO017|TID=536-11
 8	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	Speaker=TO017|TID=536-12
-9	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=536-13|Type=shortpause
+9	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=536-13|Type=shortpause
 
 # sent_id = 334
 # text = in questo caso la datac' era ottocentocinquantatre avanti cristo
@@ -5077,7 +5077,7 @@
 1	eh	eh	INTJ	I	_	3	discourse	_	AlignEnd=1430.212|Prolonged=Yes|Speaker=TO017|TID=540-0
 2	stiamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	AlignBegin=1431.375|Speaker=TO017|TID=541-0
 3	parlando	parlare	VERB	V	VerbForm=Ger	0	root	_	Speaker=TO017|TID=541-1
-4	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=541-2|Type=shortpause
+4	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=541-2|Type=shortpause
 5	di	di	ADP	E	_	6	case	_	AlignEnd=1433.406|Speaker=TO017|TID=541-3
 6	sedici	sedice	NUM	S	Gender=Masc|Number=Plur	3	obl	_	AlignBegin=1436.112|Prolonged=Yes|Speaker=TO017|TID=542-0
 
@@ -5120,12 +5120,12 @@
 # jefferson_text = sì. sedici. {P} eh scusate milleseicento eh {P} eh anche molto molto mo:lto prima e::h della u~
 1	sì	sì	INTJ	I	_	2	discourse	_	AlignEnd=1447.281|Intonation=descending|Speaker=TO017|TID=549-6
 2	sedici	sedicio	NUM	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=1447.349|Intonation=descending|Speaker=TO017|TID=550-0
-3	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=550-1|Type=shortpause
+3	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=550-1|Type=shortpause
 4	eh	eh	INTJ	I	_	2	discourse	_	Speaker=TO017|TID=550-2
 5	scusate	scusare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	Speaker=TO017|TID=550-3
 6	milleseicento	milleseicento	NUM	S	Gender=Masc|Number=Sing	5	obj	_	AlignEnd=1449.498|Speaker=TO017|TID=550-4
 7	eh	eh	INTJ	I	_	14	discourse	_	AlignBegin=1450.562|Speaker=TO017|TID=551-0
-8	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=551-1|Type=shortpause
+8	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=551-1|Type=shortpause
 9	eh	eh	INTJ	I	_	14	discourse	_	Speaker=TO017|TID=551-2
 10	anche	anche	ADV	B	_	14	advmod	_	Speaker=TO017|TID=551-3
 11	molto	molto	ADV	B	_	14	advmod	_	Speaker=TO017|TID=551-4
@@ -5152,7 +5152,7 @@
 8	iscrizione	iscrizione	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	Speaker=TO017|TID=554-7
 9	di	di	ADP	E	_	12	case	_	Speaker=TO017|TID=554-8
 10	x	per	ADP	E	_	12	case	_	Speaker=TO017|TID=554-9|Type=unknown
-11	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=554-10|Type=shortpause
+11	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=554-10|Type=shortpause
 12	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	8	nmod	_	Speaker=TO017|TID=554-11
 13	che	che	SCONJ	PR	PronType=Rel	16	nsubj	_	Speaker=TO017|TID=554-12
 14	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	16	iobj	_	Clitic=Yes|Speaker=TO017|TID=554-13
@@ -5301,7 +5301,7 @@
 6	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	Speaker=TO017|TID=565-13
 7	che	che	SCONJ	PR	PronType=Rel	10	nsubj	_	Speaker=TO017|TID=565-14
 8	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	Speaker=TO017|TID=565-15
-9	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=565-16|Type=shortpause
+9	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=565-16|Type=shortpause
 10	interpretato	interpretare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	Speaker=TO017|TID=565-17
 11	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	14	det	_	Speaker=TO017|TID=565-18
 12-13	stele	_	_	_	_	_	_	_	AlignEnd=1497.204|Intonation=weakly_ascending|Speaker=TO017|TID=565-19
@@ -5312,7 +5312,7 @@
 16	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	18	obl	_	Speaker=TO017|TID=566-2
 17	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	Speaker=TO017|TID=566-3
 18	datata	datato	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	ccomp	_	Speaker=TO017|TID=566-4
-19	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=566-5|Type=shortpause
+19	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=566-5|Type=shortpause
 
 # sent_id = 350
 # text = wow
@@ -5338,7 +5338,7 @@
 4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	Speaker=TO017|TID=569-3
 6	sicuri	sicuro	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	Speaker=TO017|TID=569-4
-7	{P}	_	_	_	_	5	dep	_	Speaker=TO017|TID=569-5|Type=shortpause
+7	{P}	-	X	_	_	5	dep	_	Speaker=TO017|TID=569-5|Type=shortpause
 
 # sent_id = 353
 # text = ma comunque èl' ottavo secolo seconda metàdell' ottavo secolo avanti cristo
@@ -5431,7 +5431,7 @@
 3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	Speaker=TO017|TID=587-1
 4	di	di	ADP	E	_	7	case	_	Speaker=TO017|TID=587-2
 5	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	Speaker=TO017|TID=587-3
-6	{P}	_	_	_	_	7	dep	_	Speaker=TO017|TID=587-4|Type=shortpause
+6	{P}	-	X	_	_	7	dep	_	Speaker=TO017|TID=587-4|Type=shortpause
 7	iscritto	iscritto	VERB	S	Gender=Masc|Number=Sing	0	root	_	Speaker=TO017|TID=587-5
 8	in	in	ADP	E	_	9	case	_	Speaker=TO017|TID=587-6
 9	cuneiforme	cuneiforma	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	AlignEnd=1536.012|Intonation=descending|Speaker=TO017|TID=587-7
@@ -5474,7 +5474,7 @@
 # text = ma {P} si suppone che queste siano le prime attestazioni nella storia {P} di una x
 # jefferson_text = ma {P} si <suppone> che queste siano le prime attestazioni nella storia: {P} di una xxx.
 1	ma	ma	CCONJ	CC	_	4	cc	_	Speaker=TO017|TID=589-7
-2	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=589-8|Type=shortpause
+2	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=589-8|Type=shortpause
 3	si	si	PRON	PC	Person=3|PronType=Prs	4	expl:impers	_	Clitic=Yes|Speaker=TO017|TID=589-9
 4	suppone	supporre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=1542.887|PaceSlow=Yes|Speaker=TO017|TID=589-10
 5	che	che	SCONJ	CS	_	10	mark	_	AlignBegin=1544.053|Speaker=TO017|TID=590-0
@@ -5487,7 +5487,7 @@
 11	in	in	ADP	E	_	13	case	_	_
 12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	storia	storia	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	Prolonged=Yes|Speaker=TO017|TID=590-7
-14	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=590-8|Type=shortpause
+14	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=590-8|Type=shortpause
 15	di	di	ADP	E	_	17	case	_	Speaker=TO017|TID=590-9
 16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Speaker=TO017|TID=590-10
 17	x	x	X	X	_	13	nmod	_	AlignEnd=1547.367|Intonation=descending|Speaker=TO017|TID=590-11|Type=unknown
@@ -5505,7 +5505,7 @@
 # text = se {P} questa interpretazione è corretta vuol dire chec' era qualcuno che parlava qualcosa che poteva somigliareall' arabo già molto {P} molto {P} molto {P} tempo prima di eh
 # jefferson_text = se {P} questa interpretazione è corretta vuol dire chec' era qualcuno che parlava qualc:osa che poteva somigliareall' arabo già molto {P} molto {P} molto {P} tempo, prima, di=e:::h
 1	se	se	SCONJ	CS	_	6	mark	_	AlignBegin=1554.693|Speaker=TO017|TID=593-0
-2	{P}	_	_	_	_	8	dep	_	Speaker=TO017|TID=593-1|Type=shortpause
+2	{P}	-	X	_	_	8	dep	_	Speaker=TO017|TID=593-1|Type=shortpause
 3	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	Speaker=TO017|TID=593-2
 4	interpretazione	interpretazione	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	Speaker=TO017|TID=593-3
 5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	Speaker=TO017|TID=593-4
@@ -5528,11 +5528,11 @@
 21	arabo	arabo	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	AlignEnd=1560.332|Speaker=TO017|TID=593-19
 22	già	già	ADV	B	_	29	advmod	_	AlignEnd=1562.431|Speaker=TO017|TID=594-0
 23	molto	molto	ADJ	B	_	29	advmod	_	AlignBegin=1562.887|Speaker=TO017|TID=595-0
-24	{P}	_	_	_	_	8	dep	_	Speaker=TO017|TID=595-1|Type=shortpause
+24	{P}	-	X	_	_	8	dep	_	Speaker=TO017|TID=595-1|Type=shortpause
 25	molto	molto	ADJ	B	_	29	advmod	_	Speaker=TO017|TID=595-2
-26	{P}	_	_	_	_	8	dep	_	Speaker=TO017|TID=595-3|Type=shortpause
+26	{P}	-	X	_	_	8	dep	_	Speaker=TO017|TID=595-3|Type=shortpause
 27	molto	molto	ADJ	DI	PronType=Ind	29	det	_	Speaker=TO017|TID=595-4
-28	{P}	_	_	_	_	8	dep	_	Speaker=TO017|TID=595-5|Type=shortpause
+28	{P}	-	X	_	_	8	dep	_	Speaker=TO017|TID=595-5|Type=shortpause
 29	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	Intonation=weakly_ascending|Speaker=TO017|TID=595-6
 30	prima	prima	ADV	B	_	32	case	_	AlignEnd=1565.668|Intonation=weakly_ascending|Speaker=TO017|TID=595-7
 31	di	di	ADP	E	_	30	fixed	_	AlignBegin=1566.062|Speaker=TO017|TID=596-0
@@ -5601,7 +5601,7 @@
 22	alfabeto	alfabeto	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	AlignEnd=1584.284|Prolonged=Yes|Speaker=TO017|TID=603-2
 23	che	che	SCONJ	CS	_	27	mark	_	AlignBegin=1584.387|Prolonged=Yes|Speaker=TO017|TID=604-0
 24	sì	sì	INTJ	I	_	27	discourse	_	Speaker=TO017|TID=604-1
-25	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=604-2|Type=shortpause
+25	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=604-2|Type=shortpause
 26	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	27	aux	_	Speaker=TO017|TID=604-3
 27	interpretare	interpretare	VERB	V	VerbForm=Inf	4	ccomp	_	Speaker=TO017|TID=604-4
 
@@ -5661,7 +5661,7 @@
 2	che	che	SCONJ	PR	PronType=Rel	4	nsubj	_	AlignEnd=1606.631|Speaker=TO017|TID=613-1
 3	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	4	iobj	_	AlignEnd=1607.387|Clitic=Yes|Speaker=TO017|TID=614-0
 4	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=1607.649|Speaker=TO017|TID=615-0
-5	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=615-1|Type=shortpause
+5	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=615-1|Type=shortpause
 6	venire	venire	VERB	V	VerbForm=Inf	4	ccomp	_	Speaker=TO017|TID=615-2
 7	in	in	ADP	E	_	8	case	_	Speaker=TO017|TID=615-3
 8	mente	mente	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	AlignEnd=1609.137|Speaker=TO017|TID=615-4
@@ -5791,7 +5791,7 @@
 5-6	della	_	_	_	_	_	_	_	Prolonged=Yes|Speaker=TO017|TID=634-3
 5	di	di	ADP	E	_	8	case	_	_
 6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-7	{P}	_	_	_	_	11	dep	_	Speaker=TO017|TID=634-4|Type=shortpause
+7	{P}	-	X	_	_	11	dep	_	Speaker=TO017|TID=634-4|Type=shortpause
 8	penisola	penisola	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	Speaker=TO017|TID=634-5
 9	araba	araba	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	Speaker=TO017|TID=634-6
 10	c'	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	11	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=TO017|TID=634-7
@@ -5801,7 +5801,7 @@
 13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
 14	regni	regne	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	AlignEnd=1651.876|Speaker=TO017|TID=634-10
 15	che	che	SCONJ	PR	PronType=Rel	19	nsubj	_	AlignBegin=1652.393|Speaker=TO017|TID=635-0
-16	{P}	_	_	_	_	11	dep	_	Speaker=TO017|TID=635-1|Type=shortpause
+16	{P}	-	X	_	_	11	dep	_	Speaker=TO017|TID=635-1|Type=shortpause
 17	erano	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	cop	_	Speaker=TO017|TID=635-2
 18	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	Speaker=TO017|TID=635-3
 19	antichi	antico	ADJ	S	Gender=Masc|Number=Plur	14	acl:relcl	_	Speaker=TO017|TID=635-4
@@ -5834,7 +5834,7 @@
 9	di	di	ADP	E	_	10	case	_	Speaker=TO017|TID=637-15
 10	saba	saba	PROPN	S	Gender=Fem|Number=Sing	8	nmod	_	AlignEnd=1660.35|Intonation=descending|Speaker=TO017|TID=637-16
 11	eh	eh	INTJ	I	_	15	discourse	_	AlignBegin=1660.906|Speaker=TO017|TID=638-0
-12	{P}	_	_	_	_	1	dep	_	Speaker=TO017|TID=638-1|Type=shortpause
+12	{P}	-	X	_	_	1	dep	_	Speaker=TO017|TID=638-1|Type=shortpause
 13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	Speaker=TO017|TID=638-2
 14	famosa	famoso	ADJ	A	Gender=Fem|Number=Sing	15	amod	_	Speaker=TO017|TID=638-3
 15	regina	regina	NOUN	S	Gender=Fem|Number=Sing	8	appos	_	Speaker=TO017|TID=638-4
@@ -5965,7 +5965,7 @@
 1	che	che	SCONJ	CS	_	3	mark	_	Speaker=TO017|TID=668-3
 2	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	Speaker=TO017|TID=668-4
 3	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Intonation=descending|Speaker=TO017|TID=668-5
-4	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=668-6|Type=shortpause
+4	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=668-6|Type=shortpause
 
 # sent_id = 390
 # text = non so se si vede sulla questo è alfabeto sudarabico mh south arabian script
@@ -6010,7 +6010,7 @@
 13	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	Speaker=TO017|TID=673-13
 14	lingua	lingua	NOUN	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	Speaker=TO017|TID=673-14
 15	semitica	semitico	ADJ	S	Gender=Fem	3	parataxis	_	Speaker=TO017|TID=673-15
-16	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=673-16|Type=shortpause
+16	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=673-16|Type=shortpause
 
 # sent_id = 393
 # text = sì ma nonc' entrava niente conl' arabo
@@ -6099,7 +6099,7 @@
 52	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	53	det	_	AlignBegin=1744.56|SpaceAfter=No|Speaker=TO017|TID=687-0
 53	arabia	arabia	INTJ	S	Gender=Fem|Number=Sing	51	nsubj	_	Speaker=TO017|TID=687-1
 54	felice	felice	ADJ	A	Number=Sing	53	amod	_	Prolonged=Yes|Speaker=TO017|TID=687-2
-55	{P}	_	_	_	_	46	dep	_	Speaker=TO017|TID=687-3|Type=shortpause
+55	{P}	-	X	_	_	46	dep	_	Speaker=TO017|TID=687-3|Type=shortpause
 56	opulenta	opulento	ADJ	A	Gender=Fem|Number=Sing	53	amod	_	AlignEnd=1746.79|Speaker=TO017|TID=687-4
 
 # sent_id = 397
@@ -6272,7 +6272,7 @@
 17	qualche	qualche	DET	DI	PronType=Ind	18	det	_	AlignBegin=1799.394|Speaker=TO017|TID=706-0
 18	mese	mese	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	Speaker=TO017|TID=706-1
 19	fa	fare	ADP	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	discourse	_	Speaker=TO017|TID=706-2
-20	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=706-3|Type=shortpause
+20	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=706-3|Type=shortpause
 
 # sent_id = 414
 # text = questa bustina sta a due euro e mezzo
@@ -6393,7 +6393,7 @@
 6	di	di	ADP	E	_	7	case	_	Speaker=TO017|TID=717-5
 7	storie	storia	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	Speaker=TO017|TID=717-6
 8	interessanti	interessante	ADJ	A	Number=Plur	7	amod	_	Speaker=TO017|TID=717-7
-9	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=717-8|Type=shortpause
+9	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=717-8|Type=shortpause
 
 # sent_id = 423
 # text = innanzitutto perché si~ questo si chiama luban in arabo che è la radice {P} di luban
@@ -6411,7 +6411,7 @@
 11	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	Speaker=TO017|TID=720-1
 12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	Speaker=TO017|TID=720-2
 13	radice	radice	NOUN	S	Gender=Fem|Number=Sing	6	advcl	_	Prolonged=Yes|Speaker=TO017|TID=720-3
-14	{P}	_	_	_	_	6	dep	_	Speaker=TO017|TID=720-4|Type=shortpause
+14	{P}	-	X	_	_	6	dep	_	Speaker=TO017|TID=720-4|Type=shortpause
 15	di	di	ADP	E	_	16	case	_	AlignEnd=1838.568|Intonation=weakly_ascending|Speaker=TO017|TID=720-5
 16	luban	luban	NOUN	X	_	13	nmod	_	AlignEnd=1841.063|Intonation=weakly_ascending|Speaker=TO017|TID=721-0
 
@@ -6459,7 +6459,7 @@
 2	quindi	quindi	CCONJ	B	_	4	advmod	_	AlignBegin=1851.509|Speaker=TO017|TID=727-0
 3	c'	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=TO017|TID=727-1
 4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=727-2
-5	{xxx}	_	_	_	_	4	dep	_	Speaker=TO017|TID=727-3|Type=_
+5	{xxx}	-	X	_	_	4	dep	_	Speaker=TO017|TID=727-3|Type=_
 
 # sent_id = 428
 # text = quindic' è iil il {xxx} il latte lo yogurt
@@ -6469,7 +6469,7 @@
 3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Prolonged=Yes|Speaker=TO017|TID=727-6
 4	iil	iil	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Prolonged=Yes|Speaker=TO017|TID=727-7
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Speaker=TO017|TID=727-8
-6	{xxx}	_	_	_	_	3	dep	_	Speaker=TO017|TID=727-9|Type=_
+6	{xxx}	-	X	_	_	3	dep	_	Speaker=TO017|TID=727-9|Type=_
 7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Speaker=TO017|TID=727-10
 8	latte	latta	NOUN	S	Gender=Fem|Number=Plur	3	nsubj	_	AlignEnd=1856.161|Speaker=TO017|TID=727-11
 9	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	AlignBegin=1856.387|Speaker=TO017|TID=728-0
@@ -6480,11 +6480,11 @@
 # jefferson_text = in <libano> {P} <probabilme:nte> si chiama {xxx} per via delle montagne la catena montuosadell' antilibano che è sempre bianca di neve
 1	in	in	ADP	E	_	2	case	_	Speaker=TO017|TID=728-2
 2	libano	libano	PROPN	S	Gender=Masc|Number=Sing	6	obl	_	PaceSlow=Yes|Speaker=TO017|TID=728-3
-3	{P}	_	_	_	_	6	dep	_	Speaker=TO017|TID=728-4|Type=shortpause
+3	{P}	-	X	_	_	6	dep	_	Speaker=TO017|TID=728-4|Type=shortpause
 4	probabilmente	probabilmente	ADV	B	_	6	advmod	_	PaceSlow=Yes|Prolonged=Yes|Speaker=TO017|TID=728-5
 5	si	si	PRON	PC	Person=3|PronType=Prs	6	expl	_	Clitic=Yes|Speaker=TO017|TID=728-6
 6	chiama	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=728-7
-7	{xxx}	_	_	_	_	6	dep	_	AlignEnd=1860.293|Speaker=TO017|TID=728-8|Type=_
+7	{xxx}	-	X	_	_	6	dep	_	AlignEnd=1860.293|Speaker=TO017|TID=728-8|Type=_
 8	per	per	ADP	E	_	9	case	_	AlignBegin=1861.672|Speaker=TO017|TID=729-0
 9	via	via	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	Speaker=TO017|TID=729-1
 10-11	delle	_	_	_	_	_	_	_	Speaker=TO017|TID=729-2
@@ -6524,7 +6524,7 @@
 2	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Speaker=TO017|TID=731-1
 3	resina	resinare	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=TO017|TID=731-2
 4	siccome	siccome	SCONJ	CS	_	7	mark	_	Speaker=TO017|TID=731-3
-5	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=731-4|Type=shortpause
+5	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=731-4|Type=shortpause
 6	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	Speaker=TO017|TID=731-5
 7	bianca	biancare	ADJ	A	Gender=Fem|Number=Sing	10	advcl	_	AlignEnd=1870.587|Speaker=TO017|TID=731-6
 8	l'	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	AlignBegin=1871.046|Clitic=Yes|SpaceAfter=No|Speaker=TO017|TID=732-0
@@ -6715,7 +6715,7 @@
 2	potete	potere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=TO017|TID=749-1
 3	masticare	masticare	VERB	V	VerbForm=Inf	0	root	_	Speaker=TO017|TID=749-2
 4	come	come	ADP	E	_	7	case	_	Speaker=TO017|TID=749-3
-5	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=749-4|Type=shortpause
+5	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=749-4|Type=shortpause
 6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Speaker=TO017|TID=749-5
 7	chewing	chewing	NOUN	SW	_	3	obl	_	Speaker=TO017|TID=749-6
 8	gum	gum	NOUN	SW	_	3	dep	_	AlignEnd=1914.046|Speaker=TO017|TID=749-7
@@ -6862,7 +6862,7 @@
 2	c'	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	3	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=TO017|TID=765-1
 3	erano	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignEnd=1950.357|Speaker=TO017|TID=765-2
 4	comunque	comunque	CCONJ	B	_	3	advmod	_	AlignBegin=1952.673|Speaker=TO017|TID=766-0
-5	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=766-1|Type=shortpause
+5	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=766-1|Type=shortpause
 6	su	su	ADP	E	_	8	case	_	Speaker=TO017|TID=766-2
 7	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	Speaker=TO017|TID=766-3
 8	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	Speaker=TO017|TID=766-4
@@ -6964,7 +6964,7 @@
 # text = però {P} in realtà questo alfabeto fu esportato fu esportato in altri posti
 # jefferson_text = però {P} in realtà questo alfabeto fu esportato fu esportato in altri posti
 1	però	però	CCONJ	B	_	10	advmod	_	AlignBegin=1979.914|Speaker=TO017|TID=778-0
-2	{P}	_	_	_	_	10	dep	_	Speaker=TO017|TID=778-1|Type=shortpause
+2	{P}	-	X	_	_	10	dep	_	Speaker=TO017|TID=778-1|Type=shortpause
 3	in	in	ADP	E	_	4	case	_	Speaker=TO017|TID=778-2
 4	realtà	realtà	NOUN	S	Gender=Fem	10	obl	_	AlignEnd=1980.979|Speaker=TO017|TID=778-3
 5	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	AlignBegin=1981.144|Speaker=TO017|TID=779-0
@@ -7078,7 +7078,7 @@
 14	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Speaker=TO017|TID=790-12
 15	yemen	yemen	PROPN	S	Number=Sing	9	nmod	_	AlignEnd=2019.252|Speaker=TO017|TID=790-13
 16	e	e	CCONJ	CC	_	19	cc	_	AlignBegin=2019.472|Prolonged=Yes|Speaker=TO017|TID=791-0
-17	{P}	_	_	_	_	9	dep	_	Speaker=TO017|TID=791-1|Type=shortpause
+17	{P}	-	X	_	_	9	dep	_	Speaker=TO017|TID=791-1|Type=shortpause
 18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Speaker=TO017|TID=791-2
 19	corno	corno	PROPN	S	Gender=Masc|Number=Sing	15	conj	_	Speaker=TO017|TID=791-3
 20	d'	di	PROPN	E	_	21	case	_	SpaceAfter=No|Speaker=TO017|TID=791-4
@@ -7125,7 +7125,7 @@
 10	si~	si~	PRON	SYM	_	5	dep	_	Interrupted=Yes|Prolonged=Yes|Speaker=TO017|TID=795-1
 11	si	si	PRON	PC	Person=3|PronType=Prs	12	expl:impers	_	Clitic=Yes|Speaker=TO017|TID=795-2
 12	parla	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=795-3
-13	{P}	_	_	_	_	12	dep	_	Speaker=TO017|TID=795-4|Type=shortpause
+13	{P}	-	X	_	_	12	dep	_	Speaker=TO017|TID=795-4|Type=shortpause
 14	amarico	amarico	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	Speaker=TO017|TID=795-5
 15	che	che	SCONJ	PR	PronType=Rel	17	nsubj	_	Speaker=TO017|TID=795-6
 16	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	Speaker=TO017|TID=795-7
@@ -7140,13 +7140,13 @@
 24	vengono	venire	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	Speaker=TO017|TID=795-14
 25	ancora	ancora	ADV	B	_	24	advmod	_	Speaker=TO017|TID=795-15
 26	parlat	parlatto	VERB	SW	_	24	obj	_	Prolonged=Yes|Speaker=TO017|TID=795-16
-27	{P}	_	_	_	_	12	dep	_	Speaker=TO017|TID=795-17|Type=shortpause
+27	{P}	-	X	_	_	12	dep	_	Speaker=TO017|TID=795-17|Type=shortpause
 28	in	in	ADP	E	_	29	case	_	Speaker=TO017|TID=795-18
 29	numeri	numero	NOUN	S	Gender=Masc|Number=Plur	24	obl	_	Speaker=TO017|TID=795-19
 30	consistenti	consistento	ADJ	V	Number=Plur|Tense=Pres|VerbForm=Part	12	parataxis	_	Speaker=TO017|TID=795-20
 31	comunque	comunque	CCONJ	B	_	30	advmod	_	AlignEnd=2037.951|Speaker=TO017|TID=795-21
 32	e	e	CCONJ	CC	_	37	cc	_	AlignBegin=2038.267|Speaker=TO017|TID=796-0
-33	{P}	_	_	_	_	12	dep	_	Speaker=TO017|TID=796-1|Type=shortpause
+33	{P}	-	X	_	_	12	dep	_	Speaker=TO017|TID=796-1|Type=shortpause
 34	e	e	CCONJ	CC	_	37	cc	_	Speaker=TO017|TID=796-2
 35	che	che	SCONJ	PR	PronType=Rel	37	obj	_	Speaker=TO017|TID=796-3
 36	viene	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	aux:pass	_	Speaker=TO017|TID=796-4
@@ -7203,7 +7203,7 @@
 # text = e {P} eh mh se torniamo un attimo alla slide mentre loro questi sudarabici si facevano i loro bagninell' incenso e scrive~ parlavano le loro lingue sudarabiche nel resto della penisolac' erano alcuni centri che si stava intorno alle oasi anche lì dovec' era un po'd' acqua dove si poteva pensare di far~ di costruire qualcosa invece parlavano indovinate un po' se queste le chiamano lingue sudarabiche antiche quelle del nord come le chiamavano
 # jefferson_text = e {P}=e:h m::h se torniamo un attimo alla slide mentre loro questi: sudarabici si facevano i loro bagninell' incenso e scrive~ parlavano le loro lingue sudarabiche nel resto della penisolac' erano <alcuni> centri: che si stava intorno alle oasi. anche lì dovec' era un po'd' acqua dove si poteva pensare di far~ di costruire qualcosa invece parlavano, indovinate un po' se queste le chiamano lingue sudarabiche antiche quelle del nord come le chiamavano?
 1	e	e	CCONJ	CC	_	6	cc	_	AlignBegin=2054.759|Speaker=TO017|TID=802-0
-2	{P}	_	_	_	_	26	dep	_	Speaker=TO017|TID=802-1|Type=shortpause
+2	{P}	-	X	_	_	26	dep	_	Speaker=TO017|TID=802-1|Type=shortpause
 3	eh	eh	INTJ	I	_	6	discourse	_	Prolonged=Yes|ProsodicLink=Yes|Speaker=TO017|TID=802-2
 4	mh	mh	INTJ	I	_	6	discourse	_	AlignEnd=2055.818|Prolonged=Yes|Speaker=TO017|TID=802-3
 5	se	se	SCONJ	CS	_	6	mark	_	AlignBegin=2056.032|Speaker=TO017|TID=803-0
@@ -7297,9 +7297,9 @@
 # text = ancient {P} north {P} arabian nordarabico antico
 # jefferson_text = ancient {P} north {P} arabian. nordarabico antico.
 1	ancient	ancient	PROPN	SW	_	0	root	_	AlignBegin=2089.967|Speaker=TO017|TID=817-0
-2	{P}	_	_	_	_	1	dep	_	Speaker=TO017|TID=817-1|Type=shortpause
+2	{P}	-	X	_	_	1	dep	_	Speaker=TO017|TID=817-1|Type=shortpause
 3	north	north	PROPN	SW	_	1	flat:foreign	_	Speaker=TO017|TID=817-2
-4	{P}	_	_	_	_	1	dep	_	Speaker=TO017|TID=817-3|Type=shortpause
+4	{P}	-	X	_	_	1	dep	_	Speaker=TO017|TID=817-3|Type=shortpause
 5	arabian	arabian	PROPN	SW	_	1	flat:foreign	_	Intonation=descending|Speaker=TO017|TID=817-4
 6	nordarabico	nordarabico	NOUN	A	Gender=Masc|Number=Sing	1	amod	_	Speaker=TO017|TID=817-5
 7	antico	antico	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	AlignEnd=2092.672|Intonation=descending|Speaker=TO017|TID=817-6
@@ -7548,7 +7548,7 @@
 38	in	in	ADP	E	_	40	case	_	_
 39	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
 40	penisola	penisola	NOUN	S	Gender=Fem|Number=Sing	33	obl	_	Speaker=TO017|TID=844-9
-41	{P}	_	_	_	_	42	dep	_	Speaker=TO017|TID=844-10|Type=shortpause
+41	{P}	-	X	_	_	42	dep	_	Speaker=TO017|TID=844-10|Type=shortpause
 42	scrivevano	scrivere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignEnd=2158.733|Intonation=descending|Speaker=TO017|TID=844-11
 43	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	44	nsubj	_	AlignBegin=2159.716|Speaker=TO017|TID=845-0
 44	andavano	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	42	parataxis	_	Speaker=TO017|TID=845-1
@@ -7637,7 +7637,7 @@
 4	senza	senza	ADP	E	_	5	case	_	Speaker=TO017|TID=859-1
 5	motivo	motivo	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	AlignEnd=2189.016|Intonation=descending|Speaker=TO017|TID=859-2
 6	o	o	CCONJ	CC	_	9	cc	_	AlignBegin=2189.491|Speaker=TO017|TID=860-0
-7	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=860-1|Type=shortpause
+7	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=860-1|Type=shortpause
 8	si	si	PRON	PC	Person=3|PronType=Prs	9	expl	_	Clitic=Yes|Speaker=TO017|TID=860-2
 9	annoiavano	annoiare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	conj	_	AlignEnd=2190.291|Intonation=descending|Speaker=TO017|TID=860-3
 
@@ -7812,7 +7812,7 @@
 9-10	dalle	_	_	_	_	_	_	_	Speaker=TO017|TID=878-3
 9	da	da	ADP	E	_	12	case	_	_
 10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
-11	{P}	_	_	_	_	6	dep	_	Speaker=TO017|TID=878-4|Type=shortpause
+11	{P}	-	X	_	_	6	dep	_	Speaker=TO017|TID=878-4|Type=shortpause
 12	comunità	comunità	NOUN	S	Gender=Fem	8	obl	_	Speaker=TO017|TID=878-5
 13	sedentarie	sedentario	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	Speaker=TO017|TID=878-6
 14	che	che	SCONJ	PR	PronType=Rel	15	nsubj	_	Speaker=TO017|TID=878-7
@@ -7957,7 +7957,7 @@
 4	non	non	ADV	BN	PronType=Neg	5	advmod	_	Speaker=TO017|TID=889-2
 5	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=889-3
 6	che	che	SCONJ	CS	_	17	mark	_	Speaker=TO017|TID=889-4
-7	{P}	_	_	_	_	5	dep	_	Speaker=TO017|TID=889-5|Type=shortpause
+7	{P}	-	X	_	_	5	dep	_	Speaker=TO017|TID=889-5|Type=shortpause
 8	avesse	avere	VERB	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	aux	_	AlignEnd=2273.646|Speaker=TO017|TID=889-6
 9	eh	eh	INTJ	I	_	17	discourse	_	AlignEnd=2274.993|Prolonged=Yes|Speaker=TO017|TID=890-0
 10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	AlignBegin=2275.392|Speaker=TO017|TID=891-0
@@ -8058,7 +8058,7 @@
 19	e	e	CCONJ	CC	_	21	cc	_	Speaker=TO017|TID=904-6
 20	dietro	dietro	ADV	B	_	21	advmod	_	Speaker=TO017|TID=904-7
 21	trovate	trovare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	18	conj	_	Speaker=TO017|TID=904-8
-22	{P}	_	_	_	_	18	dep	_	Speaker=TO017|TID=904-9|Type=shortpause
+22	{P}	-	X	_	_	18	dep	_	Speaker=TO017|TID=904-9|Type=shortpause
 23	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	21	obj	_	Speaker=TO017|TID=904-10
 24	che	che	SCONJ	PR	PronType=Rel	26	nsubj	_	Speaker=TO017|TID=904-11
 25	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	Speaker=TO017|TID=904-12
@@ -8299,7 +8299,7 @@
 7	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	8	nsubj	_	Speaker=TO017|TID=920-6
 8	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=920-7
 9	veramente	veramente	ADV	B	_	8	advmod	_	Speaker=TO017|TID=920-8
-10	{P}	_	_	_	_	8	dep	_	Speaker=TO017|TID=920-9|Type=shortpause
+10	{P}	-	X	_	_	8	dep	_	Speaker=TO017|TID=920-9|Type=shortpause
 11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Speaker=TO017|TID=920-10
 12	sacco	sacco	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	Speaker=TO017|TID=920-11
 13	di	di	ADP	E	_	14	case	_	Speaker=TO017|TID=920-12
@@ -8519,7 +8519,7 @@
 1	e	e	CCONJ	CC	_	6	cc	_	AlignBegin=2430.378|Speaker=TO017|TID=950-0
 2	alcuni	alcuno	DET	DI	PronType=Ind	3	det	_	Speaker=TO017|TID=950-1
 3	studiosi	studioso	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	Speaker=TO017|TID=950-2
-4	{P}	_	_	_	_	6	dep	_	Speaker=TO017|TID=950-3|Type=shortpause
+4	{P}	-	X	_	_	6	dep	_	Speaker=TO017|TID=950-3|Type=shortpause
 5	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	Speaker=TO017|TID=950-4
 6	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=TO017|TID=950-5
 7	queste	questo	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	8	det	_	Speaker=TO017|TID=950-6
@@ -8637,7 +8637,7 @@
 3	scrive	scrivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	Speaker=TO017|TID=962-2
 4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Speaker=TO017|TID=962-3
 5	data	data	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	Speaker=TO017|TID=962-4
-6	{P}	_	_	_	_	8	dep	_	Speaker=TO017|TID=962-5|Type=shortpause
+6	{P}	-	X	_	_	8	dep	_	Speaker=TO017|TID=962-5|Type=shortpause
 7	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|Speaker=TO017|TID=962-6
 8	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=962-7
 
@@ -8724,7 +8724,7 @@
 6	iscrizioni	iscrizione	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	Speaker=TO017|TID=970-1
 7	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Speaker=TO017|TID=970-2
 8	datate	datare	VERB	A	Gender=Fem|Number=Plur	0	root	_	Speaker=TO017|TID=970-3
-9	{P}	_	_	_	_	8	dep	_	Speaker=TO017|TID=970-4|Type=shortpause
+9	{P}	-	X	_	_	8	dep	_	Speaker=TO017|TID=970-4|Type=shortpause
 10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	Speaker=TO017|TID=970-5
 11	più	più	ADV	B	_	12	advmod	_	Speaker=TO017|TID=970-6
 12	vecchie	vecchio	ADJ	A	Gender=Fem|Number=Plur	8	advcl	_	AlignEnd=2486.551|Intonation=weakly_ascending|Speaker=TO017|TID=970-7
@@ -8738,7 +8738,7 @@
 # text = e {P} le più recenti al primo secolo dopo cristo
 # jefferson_text = e {P} le più recenti al primo secolo, dopo cristo.
 1	e	e	CCONJ	CC	_	5	cc	_	AlignBegin=2493.026|Speaker=TO017|TID=973-0
-2	{P}	_	_	_	_	5	dep	_	Speaker=TO017|TID=973-1|Type=shortpause
+2	{P}	-	X	_	_	5	dep	_	Speaker=TO017|TID=973-1|Type=shortpause
 3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	Speaker=TO017|TID=973-2
 4	più	più	ADV	B	_	5	advmod	_	Speaker=TO017|TID=973-3
 5	recenti	recente	ADJ	A	Number=Plur	0	root	_	Speaker=TO017|TID=973-4
@@ -8891,7 +8891,7 @@
 9	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	Speaker=TO017|TID=992-14
 10	visto	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	Speaker=TO017|TID=992-15
 11	prima	prima	ADV	B	_	10	advmod	_	Speaker=TO017|TID=992-16
-12	{P}	_	_	_	_	2	dep	_	Speaker=TO017|TID=992-17|Type=shortpause
+12	{P}	-	X	_	_	2	dep	_	Speaker=TO017|TID=992-17|Type=shortpause
 13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No|Speaker=TO017|TID=992-18
 14	alfabeto	alfabeto	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	Speaker=TO017|TID=992-19
 15	sudarabico	sudarabico	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	AlignEnd=2537.183|Intonation=weakly_ascending|Speaker=TO017|TID=992-20
@@ -8920,11 +8920,11 @@
 9	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	aux:pass	_	Speaker=TO017|TID=994-16
 10	trovata	trovare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	Speaker=TO017|TID=994-17
 11	a	a	ADP	E	_	13	mark	_	Speaker=TO017|TID=994-18
-12	{xxx}	_	_	_	_	3	dep	_	AlignEnd=2544.425|Speaker=TO017|TID=994-19|Type=_
+12	{xxx}	-	X	_	_	3	dep	_	AlignEnd=2544.425|Speaker=TO017|TID=994-19|Type=_
 13	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	xcomp	_	AlignBegin=2549.793|Speaker=TO017|TID=995-0
-14	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=995-1|Type=shortpause
+14	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=995-1|Type=shortpause
 15	con	con	X	E	_	18	case	_	Speaker=TO017|TID=995-2
-16	{xxx}	_	_	_	_	3	dep	_	AlignEnd=2551.828|Speaker=TO017|TID=995-3|Type=_
+16	{xxx}	-	X	_	_	3	dep	_	AlignEnd=2551.828|Speaker=TO017|TID=995-3|Type=_
 17	in	in	ADP	E	_	18	case	_	AlignBegin=2552.324|Speaker=TO017|TID=996-0
 18	giordania	giordania	PROPN	S	Gender=Fem|Number=Sing	13	obl	_	AlignEnd=2553.407|Intonation=weakly_ascending|Speaker=TO017|TID=996-1
 19-20	al	_	_	_	_	_	_	_	AlignBegin=2554.209|Speaker=TO017|TID=997-0
@@ -9032,7 +9032,7 @@
 3	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	aux:pass	_	Speaker=TO017|TID=1010-5
 4	trovata	trovare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=TO017|TID=1010-6
 5	molto	molto	ADV	B	_	7	advmod	_	Speaker=TO017|TID=1010-7
-6	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=1010-8|Type=shortpause
+6	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=1010-8|Type=shortpause
 7	recentemente	recentemente	ADV	B	_	8	advmod	_	AlignEnd=2592.504|Speaker=TO017|TID=1010-9
 8	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	AlignBegin=2592.661|Speaker=TO017|TID=1011-0
 9-10	nel	_	_	_	_	_	_	_	Speaker=TO017|TID=1011-1
@@ -9058,7 +9058,7 @@
 5	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	aux:pass	_	Speaker=TO017|TID=1011-11
 6	trovata	trovare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	Speaker=TO017|TID=1011-12
 7	a	a	ADP	E	_	13	case	_	Speaker=TO017|TID=1011-13
-8	{xxx}	_	_	_	_	2	dep	_	Speaker=TO017|TID=1011-14|Type=_
+8	{xxx}	-	X	_	_	2	dep	_	Speaker=TO017|TID=1011-14|Type=_
 9	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	Speaker=TO017|TID=1011-15
 10	essere	essere	VERB	V	VerbForm=Inf	13	cop	_	Speaker=TO017|TID=1011-16
 11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Speaker=TO017|TID=1011-17
@@ -9103,7 +9103,7 @@
 2	quindi	quindi	CCONJ	B	_	4	advmod	_	AlignBegin=2622.541|Speaker=TO017|TID=1018-0
 3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Speaker=TO017|TID=1018-1
 4	possibile	possibile	ADJ	A	Number=Sing	0	root	_	Speaker=TO017|TID=1018-2
-5	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=1018-3|Type=shortpause
+5	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=1018-3|Type=shortpause
 6	che	che	SCONJ	CS	_	14	mark	_	Speaker=TO017|TID=1018-4
 7	in	in	ADP	E	_	9	case	_	PaceSlow=Yes|Speaker=TO017|TID=1018-5
 8	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	PaceSlow=Yes|Speaker=TO017|TID=1018-6
@@ -9213,7 +9213,7 @@
 26	dea	dea	NOUN	S	Gender=Fem|Number=Sing	24	obj	_	Speaker=TO017|TID=1030-3
 27-29	del	_	_	_	_	_	_	_	Speaker=TO017|TID=1030-5
 27	di	di	ADP	E	_	30	case	_	_
-28	{P}	_	_	_	_	19	dep	_	Speaker=TO017|TID=1030-4|Type=shortpause
+28	{P}	-	X	_	_	19	dep	_	Speaker=TO017|TID=1030-4|Type=shortpause
 29	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
 30	cielo	cielo	NOUN	S	Gender=Masc|Number=Sing	26	nmod	_	AlignEnd=2661.108|Intonation=weakly_ascending|Speaker=TO017|TID=1030-6
 31	che	che	PRON	PR	PronType=Rel	33	nsubj	_	AlignBegin=2661.472|Speaker=TO017|TID=1031-0
@@ -9266,11 +9266,11 @@
 # jefferson_text = sarebbe i {P}l' articolo, questa {P} se è quello che pensiamo noi è la pri~
 1	sarebbe	essere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	AlignBegin=2687.912|Speaker=???|TID=1041-0
 2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	Speaker=???|TID=1041-1
-3	{P}	_	_	_	_	6	dep	_	Speaker=???|TID=1041-2|Type=shortpause
+3	{P}	-	X	_	_	6	dep	_	Speaker=???|TID=1041-2|Type=shortpause
 4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No|Speaker=???|TID=1041-3
 5	articolo	articolo	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	AlignEnd=2690.017|Intonation=weakly_ascending|Speaker=???|TID=1041-4
 6	questa	questo	PRON	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=2690.151|Speaker=TO017|TID=1042-0
-7	{P}	_	_	_	_	6	dep	_	Speaker=TO017|TID=1042-1|Type=shortpause
+7	{P}	-	X	_	_	6	dep	_	Speaker=TO017|TID=1042-1|Type=shortpause
 8	se	se	SCONJ	CS	_	10	mark	_	Speaker=TO017|TID=1042-2
 9	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	Speaker=TO017|TID=1042-3
 10	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	ccomp	_	Speaker=TO017|TID=1042-4
@@ -9377,7 +9377,7 @@
 2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	senso	senso	NOUN	S	Gender=Masc|Number=Sing	0	root	_	Speaker=TO017|TID=1052-2
 4	che	che	SCONJ	CS	_	9	mark	_	Speaker=TO017|TID=1052-3
-5	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=1052-4|Type=shortpause
+5	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=1052-4|Type=shortpause
 6	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	9	nsubj	_	Speaker=TO017|TID=1052-5
 7	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	Speaker=TO017|TID=1052-6
 8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	Speaker=TO017|TID=1052-7
@@ -9511,7 +9511,7 @@
 # jefferson_text = mh arabi {P} che poi >parlavano< arabo anche perché lo troviamo come abbiao visto negli scritti ass:iri, negli scritti, greci e più tardi romani
 1	mh	mh	INTJ	I	_	14	discourse	_	AlignEnd=2761.611|Speaker=TO017|TID=1071-1
 2	arabi	arabi	NOUN	PI	Gender=Masc|Number=Plur|PronType=Ind	14	nsubj	_	AlignBegin=2765.166|Speaker=TO017|TID=1072-0
-3	{P}	_	_	_	_	14	dep	_	Speaker=TO017|TID=1072-1|Type=shortpause
+3	{P}	-	X	_	_	14	dep	_	Speaker=TO017|TID=1072-1|Type=shortpause
 4	che	che	SCONJ	PR	PronType=Rel	6	nsubj	_	Speaker=TO017|TID=1072-2
 5	poi	poi	ADV	B	_	6	advmod	_	Speaker=TO017|TID=1072-3
 6	parlavano	parlare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	acl:relcl	_	PaceFast=Yes|Speaker=TO017|TID=1072-4
@@ -9577,7 +9577,7 @@
 12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	Speaker=TO017|TID=1078-9
 13	mezzaluna	mezzaluna	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	Speaker=TO017|TID=1078-10
 14	fertile	fertile	ADJ	A	Number=Sing	13	amod	_	Speaker=TO017|TID=1078-11
-15	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=1078-12|Type=shortpause
+15	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=1078-12|Type=shortpause
 
 # sent_id = 607
 # text = okayc' erano il regno assiro il regno sumero babilonese
@@ -9664,7 +9664,7 @@
 2	dove	dove	ADV	B	_	4	advmod	_	PaceFast=Yes|Speaker=TO017|TID=1089-1
 3	abbiamo	avere	AUX	VA	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	Speaker=TO017|TID=1089-2
 4	visto	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=1089-3
-5	{P}	_	_	_	_	4	dep	_	Speaker=TO017|TID=1089-4|Type=shortpause
+5	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=1089-4|Type=shortpause
 6	che	che	SCONJ	CS	_	8	mark	_	AlignEnd=2810.393|Intonation=descending|Speaker=TO017|TID=1089-5
 7	le	le	PRON	PC	Gender=Fem|Person=3|PronType=Prs	8	iobj	_	AlignBegin=2810.688|Clitic=Yes|Speaker=TO017|TID=1090-0
 8	troviamo	trovare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	Speaker=TO017|TID=1090-1
@@ -9895,7 +9895,7 @@
 21	su	su	ADP	E	_	22	case	_	AlignEnd=2872.987|Speaker=TO017|TID=1115-4
 22	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	20	obl	_	AlignBegin=2873.141|Speaker=TO017|TID=1116-0
 23	che	che	SCONJ	PR	PronType=Rel	25	nsubj	_	Speaker=TO017|TID=1116-1
-24	{P}	_	_	_	_	3	dep	_	Speaker=TO017|TID=1116-2|Type=shortpause
+24	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=1116-2|Type=shortpause
 25	troviamo	trovare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	Speaker=TO017|TID=1116-3
 26-27	sui	_	_	_	_	_	_	_	Speaker=TO017|TID=1116-4
 26	su	su	ADP	E	_	28	case	_	_
@@ -10056,7 +10056,7 @@
 3	se	se	SCONJ	CS	_	7	mark	_	Speaker=TO017|TID=1137-1
 4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No|Speaker=TO017|TID=1137-2
 5	arabo	arabo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	Speaker=TO017|TID=1137-3
-6	{P}	_	_	_	_	7	dep	_	Speaker=TO017|TID=1137-4|Type=shortpause
+6	{P}	-	X	_	_	7	dep	_	Speaker=TO017|TID=1137-4|Type=shortpause
 7	nasce	nascere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=1137-5
 8	qui	qui	ADV	B	_	7	advmod	_	Speaker=TO017|TID=1137-6
 9	veramente	veramente	ADV	B	_	7	advmod	_	Speaker=TO017|TID=1137-7
@@ -10182,7 +10182,7 @@
 # jefferson_text = sì. no::: {P} davvero, i:ncredibile: ha fatto un lu:ngo viaggio questa maglietta.
 1	sì	sì	INTJ	I	_	7	discourse	_	AlignEnd=2995.785|Intonation=descending|Speaker=TO017|TID=1151-0
 2	no	no	INTJ	I	_	7	discourse	_	AlignBegin=2997.729|Prolonged=Yes|Speaker=TO017|TID=1152-0
-3	{P}	_	_	_	_	7	dep	_	Speaker=TO017|TID=1152-1|Type=shortpause
+3	{P}	-	X	_	_	7	dep	_	Speaker=TO017|TID=1152-1|Type=shortpause
 4	davvero	davvero	ADV	B	_	7	advmod	_	AlignEnd=2998.95|Intonation=weakly_ascending|Speaker=TO017|TID=1152-2
 5	incredibile	incredibile	ADJ	A	Number=Sing	7	nsubj	_	AlignEnd=3000.388|Prolonged=Yes|Speaker=TO017|TID=1153-0
 6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	AlignBegin=3000.806|Speaker=TO017|TID=1154-0
