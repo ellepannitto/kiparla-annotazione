@@ -11,7 +11,7 @@
 8	che	che	DET	DQ	PronType=Int	9	det	_	Speaker=BOR005|TID=4-1
 9	zona	zona	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	Speaker=BOR005|TID=4-2
 10	di	di	ADP	E	_	11	case	_	Speaker=BOR005|TID=4-3
-11	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	Speaker=BOR005|TID=4-4
+11	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	9	nmod	_	Speaker=BOR005|TID=4-4
 12	vivete	viveto	ADJ	A	Gender=Fem|Number=Plur	11	amod	_	AlignEnd=6.858|Intonation=ascending|Speaker=BOR005|TID=4-5
 
 # sent_id = 1
@@ -58,7 +58,7 @@
 # jefferson_text = vabbè a bologna in generale comun~ questa non è z~ [cortic]ella qua
 1	vabbè	vabbè	INTJ	I	_	10	discourse	_	Speaker=BOI012|TID=12-3
 2	a	a	ADP	E	_	3	case	_	Speaker=BOI012|TID=12-4
-3	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	Speaker=BOI012|TID=12-5
+3	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	1	nmod	_	Speaker=BOI012|TID=12-5
 4	in	in	ADP	E	_	5	case	_	Speaker=BOI012|TID=12-6
 5	generale	generale	ADJ	A	Number=Sing	3	nmod	_	AlignEnd=20.689|Speaker=BOI012|TID=12-7
 6	comun~	comun~	SYM	SYM	_	10	parataxis:hashtag	_	AlignBegin=22.2|Interrupted=Yes|Speaker=BOI012|TID=13-0
@@ -656,7 +656,7 @@
 4	{P}	-	X	_	_	1	dep	_	Speaker=BOR005|TID=82-1|Type=shortpause
 5	parlando	parlare	VERB	V	VerbForm=Ger	1	conj	_	Speaker=BOR005|TID=82-2
 6	di	di	ADP	E	_	7	case	_	Speaker=BOR005|TID=82-3
-7	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	Speaker=BOR005|TID=82-4
+7	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	5	obl	_	Speaker=BOR005|TID=82-4
 8	in	in	ADP	E	_	9	case	_	Speaker=BOR005|TID=82-5
 9	generale	generale	NOUN	S	Gender=Fem|Number=Plur	5	obl	_	AlignEnd=153.545|Speaker=BOR005|TID=82-6
 10	pensate	pensare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	9	acl	_	AlignBegin=154.23|Speaker=BOR005|TID=83-0
@@ -794,7 +794,7 @@
 15	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	Speaker=BOI013|TID=97-12
 16	meno	meno	ADV	B	_	17	advmod	_	Speaker=BOI013|TID=97-13
 17	sicura	sicuro	ADJ	A	Gender=Fem|Number=Sing	0	root	_	Speaker=BOI013|TID=97-14
-18	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	17	nsubj	_	AlignEnd=179.825|Speaker=BOI013|TID=97-15
+18	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	17	nsubj	_	AlignEnd=179.825|Speaker=BOI013|TID=97-15
 
 # sent_id = 75
 # text = ma dici a~ i~ tipo in determinate zone o più in generale dappertutto
@@ -835,7 +835,7 @@
 2	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	Prolonged=Yes|Speaker=BOI013|TID=100-1
 3	più	più	ADV	B	_	4	advmod	_	Speaker=BOI013|TID=100-2
 4	tranquilla	tranquillo	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	Speaker=BOI013|TID=100-3
-5	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	AlignEnd=189.48|Speaker=BOI013|TID=100-4
+5	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	0	root	_	AlignEnd=189.48|Speaker=BOI013|TID=100-4
 
 # sent_id = 79
 # text = la gente sce~ usciva di più alla sera usciva di più in strada
@@ -1305,7 +1305,7 @@
 19	po'	po'	ADV	B	_	15	conj	_	Speaker=BOR005|TID=157-18
 20	in	in	ADP	E	_	22	case	_	Speaker=BOR005|TID=157-19
 21	tutta	tutto	DET	DI	PronType=Ind	22	det	_	Speaker=BOR005|TID=157-20
-22	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	Prolonged=Yes|Speaker=BOR005|TID=157-21
+22	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	12	obl	_	Prolonged=Yes|Speaker=BOR005|TID=157-21
 
 # sent_id = 112
 # text = indistintamente no io non è che poi conosco tutta la do~ cioè sicuramente la stazione
@@ -1534,7 +1534,7 @@
 5	di	di	ADP	E	_	6	mark	_	AlignEnd=346.07|Speaker=BOR005|TID=188-4
 6	abitare	abitare	VERB	V	VerbForm=Inf	4	xcomp	_	AlignBegin=346.185|Speaker=BOR005|TID=189-0
 7	a	a	ADP	E	_	8	case	_	Speaker=BOR005|TID=189-1
-8	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	Speaker=BOR005|TID=189-2
+8	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	6	obl	_	Speaker=BOR005|TID=189-2
 9-10	della	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BOR005|TID=189-3
 9	di	di	ADP	E	_	11	case	_	_
 10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
@@ -1571,7 +1571,7 @@
 # jefferson_text = io:: preferisco bologna di altre città
 1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	AlignEnd=352.425|Prolonged=Yes|Speaker=BOI013|TID=193-2
 2	preferisco	preferire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=353.125|Speaker=BOI013|TID=194-0
-3	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	Speaker=BOI013|TID=194-1
+3	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	2	obj	_	Speaker=BOI013|TID=194-1
 4	di	di	ADP	E	_	6	case	_	Speaker=BOI013|TID=194-2
 5	altre	altro	DET	DI	PronType=Ind	6	det	_	Speaker=BOI013|TID=194-3
 6	città	città	NOUN	S	Gender=Fem	3	nmod	_	AlignEnd=354.985|Speaker=BOI013|TID=194-4
@@ -1634,7 +1634,7 @@
 # sent_id = 131
 # text = bologna è mh è una città più piccola di n~ proprio incontri
 # jefferson_text = [bologna] è:: [mh] è una città più piccola::: di n~ proprio::: in[contri]
-1	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	AlignBegin=363.645|Overlapping=Yes|Speaker=BOI013|TID=200-0
+1	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	6	nsubj	_	AlignBegin=363.645|Overlapping=Yes|Speaker=BOI013|TID=200-0
 2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	AlignEnd=364.645|Prolonged=Yes|Speaker=BOI013|TID=200-1
 3	mh	mh	INTJ	I	_	6	nsubj	_	AlignEnd=364.22|Overlapping=Yes|Speaker=BOR005|TID=201-0
 4	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	AlignBegin=364.895|Speaker=BOI013|TID=202-0
@@ -1719,7 +1719,7 @@
 4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Speaker=BOI013|TID=211-5
 5	doppio	doppio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	Speaker=BOI013|TID=211-6
 6	di	di	ADP	E	_	7	case	_	Speaker=BOI013|TID=211-7
-7	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	AlignEnd=379.845|Speaker=BOI013|TID=211-8
+7	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	5	nmod	_	AlignEnd=379.845|Speaker=BOI013|TID=211-8
 
 # sent_id = 139
 # text = e allora ci devi vivere per forza peggio a milano che a bologna è troppo grande
@@ -1736,7 +1736,7 @@
 10	milano	milano	PROPN	SP	_	5	obl	_	Speaker=BOI012|TID=213-7
 11	che	che	PRON	PR	PronType=Rel	16	nsubj	_	Speaker=BOI012|TID=213-8
 12	a	a	ADP	E	_	13	case	_	Speaker=BOI012|TID=213-9
-13	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	AlignEnd=384.12|Speaker=BOI012|TID=213-10
+13	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	16	obl	_	AlignEnd=384.12|Speaker=BOI012|TID=213-10
 14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	AlignBegin=384.215|Speaker=BOI013|TID=214-0
 15	troppo	troppo	ADV	B	_	16	advmod	_	Speaker=BOI013|TID=214-1
 16	grande	grande	ADJ	A	Number=Plur	10	acl:relcl	_	AlignEnd=385.065|Speaker=BOI013|TID=214-2
@@ -1746,7 +1746,7 @@
 # jefferson_text = io preferisco bologna
 1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	AlignBegin=385.59|Speaker=BOI013|TID=215-0
 2	preferisco	preferire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI013|TID=215-1
-3	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	AlignEnd=386.61|Speaker=BOI013|TID=215-2
+3	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	2	obj	_	AlignEnd=386.61|Speaker=BOI013|TID=215-2
 
 # sent_id = 141
 # text = boh non lo so non lo so
@@ -1788,7 +1788,7 @@
 5	vieni	venire	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOR005|TID=222-2
 6	da	da	ADP	E	_	7	case	_	Speaker=BOR005|TID=222-3
 7	fuori	fuori	ADV	B	_	5	advmod	_	Speaker=BOR005|TID=222-4
-8	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	5	dep	_	AlignEnd=395|Speaker=BOR005|TID=222-5
+8	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	5	dep	_	AlignEnd=395|Speaker=BOR005|TID=222-5
 
 # sent_id = 144
 # text = io prima abitavo a pianoro
@@ -1806,7 +1806,7 @@
 2	ero	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	5	cop	_	PaceFast=Yes|Prolonged=Yes|Speaker=BOI012|TID=223-6
 3	sempre	sempre	ADV	B	_	5	advmod	_	Speaker=BOI012|TID=223-7
 4	a	a	ADP	E	_	5	case	_	Speaker=BOI012|TID=223-8
-5	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=BOI012|TID=223-9
+5	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=BOI012|TID=223-9
 
 # sent_id = 146
 # text = comunque cioè mh e rispetto {P} cioè quindi prima a pianoro comunque immagino sia un {P} piccolo comune
@@ -1866,7 +1866,7 @@
 4	più	più	ADV	B	_	5	advmod	_	PaceFast=Yes|Speaker=BOR005|TID=232-3
 5	piccolo	piccolo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	PaceFast=Yes|Speaker=BOR005|TID=232-4
 6	di	di	ADP	E	_	7	case	_	Speaker=BOR005|TID=232-5
-7	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	AlignEnd=415.79|Speaker=BOR005|TID=232-6
+7	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	5	obl	_	AlignEnd=415.79|Speaker=BOR005|TID=232-6
 
 # sent_id = 150
 # text = ah beh sicuro beh certo certo
@@ -2342,14 +2342,14 @@
 4	che	che	SCONJ	CS	_	5	mark	_	Speaker=BOR005|TID=282-1
 5	parliamo	parlare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	Speaker=BOR005|TID=282-2
 6	di	di	ADP	E	_	7	case	_	Speaker=BOR005|TID=282-3
-7	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	Intonation=weakly_ascending|Speaker=BOR005|TID=282-4
+7	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	5	obl	_	Intonation=weakly_ascending|Speaker=BOR005|TID=282-4
 8	uh	uh	INTJ	I	_	17	discourse	_	Prolonged=Yes|Speaker=BOR005|TID=282-5
 9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Speaker=BOR005|TID=282-6
 10	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	17	nsubj	_	Speaker=BOR005|TID=282-7
 11	molto	molto	ADV	B	_	12	advmod	_	Speaker=BOR005|TID=282-8
 12	tipica	tipico	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	Speaker=BOR005|TID=282-9
 13	di	di	ADP	E	_	14	case	_	Speaker=BOR005|TID=282-10
-14	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	Speaker=BOR005|TID=282-11
+14	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	12	obl	_	Speaker=BOR005|TID=282-11
 15	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	Speaker=BOR005|TID=282-12
 16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	Speaker=BOR005|TID=282-13
 17	portici	portico	NOUN	S	Gender=Masc|Number=Plur	3	parataxis	_	AlignEnd=533.195|Speaker=BOR005|TID=282-14
@@ -2445,7 +2445,7 @@
 15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	Speaker=BOI012|TID=293-13
 16	portici	portico	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	AlignEnd=560.01|Prolonged=Yes|Speaker=BOI012|TID=293-14
 17	di	di	ADP	E	_	18	case	_	AlignBegin=556.91|Overlapping=Yes|Speaker=BOI013|TID=294-0
-18	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	AlignEnd=557.62|Overlapping=Yes|Speaker=BOI013|TID=294-1
+18	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	16	nmod	_	AlignEnd=557.62|Overlapping=Yes|Speaker=BOI013|TID=294-1
 
 # sent_id = 188
 # text = ah in centro ci sono delle z~
@@ -4052,7 +4052,7 @@
 21	vista	vedere	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	Intonation=weakly_ascending|Speaker=BOR005|TID=478-12
 22	su	su	ADP	E	_	24	case	_	Prolonged=Yes|Speaker=BOR005|TID=478-13
 23	tutta	tutto	DET	DI	PronType=Ind	24	det	_	Overlapping=Yes|Speaker=BOR005|TID=478-14
-24	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	21	nmod	_	AlignEnd=891.29|Overlapping=Yes|PaceSlow=Yes|Speaker=BOR005|TID=478-15
+24	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	21	nmod	_	AlignEnd=891.29|Overlapping=Yes|PaceSlow=Yes|Speaker=BOR005|TID=478-15
 
 # sent_id = 340
 # text = no è bella
@@ -4158,7 +4158,7 @@
 6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	dintorni	dintorni	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	PaceFast=Yes|Speaker=BOI012|TID=492-3
 8	di	di	ADP	E	_	9	case	_	PaceFast=Yes|Speaker=BOI012|TID=492-4
-9	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	PaceFast=Yes|Speaker=BOI012|TID=492-5
+9	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	7	nmod	_	PaceFast=Yes|Speaker=BOI012|TID=492-5
 10	san	santo	ADJ	A	_	9	amod	_	PaceFast=Yes|Speaker=BOI012|TID=492-6
 11	luca	luco	SYM	SYM	_	15	nsubj	_	PaceFast=Yes|Speaker=BOI012|TID=492-7
 12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	PaceFast=Yes|Speaker=BOI012|TID=492-8
@@ -4224,7 +4224,7 @@
 # jefferson_text = °eh°] [a b]ologna lo vedi sempre >da da< da qualsiasi parte tu arrivi san luca ti saluta
 1	eh	eh	INTJ	I	_	5	discourse	_	AlignEnd=924.679|Overlapping=Yes|Speaker=BOI012|TID=498-6|Volume=low
 2	a	a	ADP	E	_	3	case	_	AlignBegin=924.48|Overlapping=Yes|Speaker=BOI013|TID=499-0
-3	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	Overlapping=Yes|Speaker=BOI013|TID=499-1
+3	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	5	obl	_	Overlapping=Yes|Speaker=BOI013|TID=499-1
 4	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Clitic=Yes|Speaker=BOI013|TID=499-2
 5	vedi	vedere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI013|TID=499-3
 6	sempre	sempre	ADV	B	_	5	advmod	_	Speaker=BOI013|TID=499-4
@@ -4630,7 +4630,7 @@
 1	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	Prolonged=Yes|Speaker=BOI013|TID=537-4
 2	cittadini	cittadino	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	Speaker=BOI013|TID=537-5
 3	di	di	ADP	E	_	4	case	_	Speaker=BOI013|TID=537-6
-4	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	AlignEnd=1009.894|Speaker=BOI013|TID=537-7
+4	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	2	nmod	_	AlignEnd=1009.894|Speaker=BOI013|TID=537-7
 5	dicono	dire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=1010.602|Speaker=BOI013|TID=538-0
 6	però	però	ADV	B	_	7	advmod	_	AlignBegin=1010.947|Speaker=BOI013|TID=539-0
 7	piove	piovere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	Speaker=BOI013|TID=539-1
@@ -4676,7 +4676,7 @@
 5	vecchia	vecchio	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	Speaker=BOI012|TID=542-4
 6	storia	storia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=BOI012|TID=542-5
 7	di	di	ADP	E	_	8	case	_	Speaker=BOI012|TID=542-6
-8	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	Speaker=BOI012|TID=542-7
+8	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	6	nmod	_	Speaker=BOI012|TID=542-7
 
 # sent_id = 392
 # text = che quando si muove la madonna di san luca piove
@@ -4762,7 +4762,7 @@
 4	a	a	ADP	E	_	5	case	_	Speaker=BOR005|TID=556-1
 5	cioè	cioè	CCONJ	CC	_	3	obl	_	PaceFast=Yes|Speaker=BOR005|TID=556-2
 6	a	a	ADP	E	_	7	case	_	Speaker=BOR005|TID=556-3
-7	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	Speaker=BOR005|TID=556-4
+7	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	3	obl	_	Speaker=BOR005|TID=556-4
 8	{P}	-	X	_	_	12	dep	_	Speaker=BOR005|TID=556-5|Type=shortpause
 9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	Speaker=BOR005|TID=556-6
 10	portici	portico	NOUN	S	Gender=Masc|Number=Plur	3	nsubj	_	Speaker=BOR005|TID=556-7
@@ -4830,7 +4830,7 @@
 # jefferson_text = non come bologna
 1	non	non	ADV	BN	PronType=Neg	3	advmod	_	AlignBegin=1053.12|Speaker=BOI012|TID=561-0
 2	come	come	ADP	E	_	3	case	_	Speaker=BOI012|TID=561-1
-3	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=BOI012|TID=561-2
+3	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=BOI012|TID=561-2
 
 # sent_id = 405
 # text = ma tutte le città li hanno
@@ -5074,7 +5074,7 @@
 6	melissa	melisso	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	PaceFast=Yes|Speaker=BOI013|TID=585-5
 7	che	che	SCONJ	CS	_	9	mark	_	PaceFast=Yes|Speaker=BOI013|TID=585-6
 8	a	a	ADP	E	_	9	case	_	PaceFast=Yes|Speaker=BOI013|TID=585-7
-9	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	AlignEnd=1095.372|Overlapping=Yes|PaceFast=Yes|Speaker=BOI013|TID=585-8
+9	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	5	obl	_	AlignEnd=1095.372|Overlapping=Yes|PaceFast=Yes|Speaker=BOI013|TID=585-8
 
 # sent_id = 429
 # text = quando piove
@@ -5175,7 +5175,7 @@
 7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Speaker=BOI013|TID=596-4
 8	città	città	NOUN	S	Gender=Fem	6	obj	_	Speaker=BOI013|TID=596-5
 9	di	di	ADP	E	_	10	case	_	Speaker=BOI013|TID=596-6
-10	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	AlignEnd=1120.084|Speaker=BOI013|TID=596-7
+10	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	8	nmod	_	AlignEnd=1120.084|Speaker=BOI013|TID=596-7
 
 # sent_id = 437
 # text = no i portici no
@@ -5330,7 +5330,7 @@
 3	quando	quando	SCONJ	CS	_	5	mark	_	Speaker=BOI012|TID=609-2
 4	han	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Speaker=BOI012|TID=609-3
 5	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	Speaker=BOI012|TID=609-4
-6	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	Speaker=BOI012|TID=609-5
+6	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	9	nsubj	_	Speaker=BOI012|TID=609-5
 7	li	li	PRON	PC	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	Clitic=Yes|Speaker=BOI012|TID=609-6
 8	han	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	Speaker=BOI012|TID=609-7
 9	fatti	fare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI012|TID=609-8
@@ -5980,7 +5980,7 @@
 # jefferson_text = [cioè]? adesso entrano persone: giovani con malattie:, v~ e:::h prima sconosciute, tipol' alzheimer, tipo:: il parkinson,
 1	cioè	cioè	CCONJ	CC	_	3	cc	_	AlignEnd=1299.888|Intonation=ascending|Overlapping=Yes|Speaker=BOR005|TID=691-0
 2	adesso	adesso	ADV	B	_	3	advmod	_	AlignBegin=1300.99|Speaker=BOI013|TID=692-0
-3	entrano	entrano	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI013|TID=692-1
+3	entrano	entrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI013|TID=692-1
 4	persone	persona	NOUN	S	Gender=Fem|Number=Plur	3	nsubj	_	Prolonged=Yes|Speaker=BOI013|TID=692-2
 5	giovani	giovane	ADJ	A	Number=Plur	4	amod	_	AlignEnd=1302.926|Speaker=BOI013|TID=692-3
 6	con	con	ADP	E	_	7	case	_	AlignBegin=1303.325|Speaker=BOI013|TID=693-0
@@ -6020,7 +6020,7 @@
 5	di	di	ADP	E	_	6	case	_	Speaker=BOI013|TID=699-6
 6	c~	c~	SYM	SYM	_	4	nmod	_	Interrupted=Yes|Speaker=BOI013|TID=699-7
 7	{P}	-	X	_	_	9	dep	_	Speaker=BOI013|TID=699-8|Type=shortpause
-8	novanta	novanto	DET	DE	PronType=Exc	9	det	_	Speaker=BOI013|TID=699-9
+8	novanta	novanta	NUM	DE	PronType=Exc	9	det	_	Speaker=BOI013|TID=699-9
 9	anni	anno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	AlignEnd=1320.276|Speaker=BOI013|TID=699-10
 
 # sent_id = 515
@@ -6031,8 +6031,8 @@
 3	anche	anche	ADV	B	_	4	advmod	_	AlignEnd=1322.07|Speaker=BOI013|TID=700-2
 4	persone	persona	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	AlignBegin=1322.345|Speaker=BOI013|TID=701-0
 5	di	di	ADP	E	_	6	case	_	Speaker=BOI013|TID=701-1
-6	sessanta	sessanta	PRON	PR	PronType=Rel	4	nmod	_	Intonation=weakly_ascending|Speaker=BOI013|TID=701-2
-7	cinquanta	cinquantare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	Intonation=weakly_ascending|Speaker=BOI013|TID=701-3
+6	sessanta	sessanta	NUM	PR	PronType=Rel	4	nmod	_	Intonation=weakly_ascending|Speaker=BOI013|TID=701-2
+7	cinquanta	cinquanta	NUM	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	Intonation=weakly_ascending|Speaker=BOI013|TID=701-3
 8	quarantacinque	quarantacinque	NUM	N	NumType=Card	9	nummod	_	Speaker=BOI013|TID=701-4
 9	anni	anno	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	AlignEnd=1325.813|Intonation=weakly_ascending|Speaker=BOI013|TID=701-5
 10	in	in	ADP	E	_	11	case	_	AlignBegin=1326.154|Speaker=BOI013|TID=702-0
@@ -6097,7 +6097,7 @@
 5	e	e	CCONJ	CC	_	10	cc	_	AlignBegin=1341.256|Overlapping=Yes|PaceFast=Yes|Speaker=BOR005|TID=713-0
 6	quindi	quindi	ADV	B	_	10	advmod	_	AlignEnd=1341.777|Overlapping=Yes|PaceFast=Yes|Speaker=BOR005|TID=713-1
 7	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	AlignBegin=1341.29|Overlapping=Yes|PaceFast=Yes|Speaker=BOI013|TID=714-0
-8	dobbiam	esdobbere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	Overlapping=Yes|PaceFast=Yes|Speaker=BOI013|TID=714-1
+8	dobbiam	dovere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	Overlapping=Yes|PaceFast=Yes|Speaker=BOI013|TID=714-1
 9	{P}	-	X	_	_	4	dep	_	Overlapping=Yes|Speaker=BOI013|TID=714-2|Type=shortpause
 10	prendere	prendere	VERB	V	VerbForm=Inf	4	conj	_	Speaker=BOI013|TID=714-3
 11	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	10	obj	_	AlignEnd=1342.673|Speaker=BOI013|TID=714-4
@@ -6108,14 +6108,14 @@
 1	che	che	PRON	PR	PronType=Rel	2	nsubj	_	AlignBegin=1343.595|Speaker=BOI013|TID=715-0
 2	essendo	essere	VERB	V	VerbForm=Ger	0	root	_	Speaker=BOI013|TID=715-1
 3	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No|Speaker=BOI013|TID=715-2
-4	rsa	rsa	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	Speaker=BOI013|TID=715-3
+4	rsa	R.S.A.	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	Speaker=BOI013|TID=715-3
 5	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	obl	_	Speaker=BOI013|TID=715-4
 6	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	Speaker=BOI013|TID=715-5
 7	prendere	prendere	VERB	V	VerbForm=Inf	2	parataxis	_	Speaker=BOI013|TID=715-6
 8	tutto	tutto	DET	DI	PronType=Ind	9	det	_	AlignEnd=1346.191|Speaker=BOI013|TID=715-7
 9	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	7	obj	_	AlignBegin=1347.298|Speaker=BOI013|TID=716-0
 10	che	che	PRON	PR	PronType=Rel	11	nsubj	_	Speaker=BOI013|TID=716-1
-11	passa	passire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	Speaker=BOI013|TID=716-2
+11	passa	passare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	Speaker=BOI013|TID=716-2
 
 # sent_id = 522
 # text = il convento essendo una struttura non pro~ non eh mh pubblica non privata
@@ -6130,9 +6130,9 @@
 8	non	non	ADV	BN	PronType=Neg	9	advmod	_	Speaker=BOI013|TID=718-2
 9	eh	eh	INTJ	I	_	5	discourse	_	AlignEnd=1353.161|Prolonged=Yes|Speaker=BOI013|TID=718-3
 10	mh	mh	INTJ	I	_	9	discourse	_	AlignBegin=1353.769|Prolonged=Yes|Speaker=BOI013|TID=719-0
-11	pubblica	pubblica	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	Speaker=BOI013|TID=719-1
+11	pubblica	pubblico	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	Speaker=BOI013|TID=719-1
 12	non	non	ADV	BN	PronType=Neg	13	advmod	_	Speaker=BOI013|TID=719-2
-13	privata	privare	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	Speaker=BOI013|TID=719-3
+13	privata	privato	ADJ	A	Gender=Fem|Number=Sing	11	amod	_	Speaker=BOI013|TID=719-3
 
 # sent_id = 523
 # text = noi non possiamo far la scelta
@@ -6151,7 +6151,7 @@
 2	lì	lì	ADV	B	_	5	advmod	_	Speaker=BOI012|TID=721-1
 3	per	per	ADP	E	_	4	case	_	Speaker=BOI012|TID=721-2
 4	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	obl	_	Speaker=BOI012|TID=721-3
-5	gina	gino	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI012|TID=721-4
+5	gina	Gino	PROPN	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI012|TID=721-4
 6	eh	eh	INTJ	I	_	5	obj	_	AlignEnd=1359.913|Speaker=BOI012|TID=721-5
 7	eh	eh	INTJ	I	_	5	discourse	_	AlignBegin=1360.078|Speaker=BOI012|TID=722-0|Volume=low
 8	eh	eh	INTJ	I	_	5	discourse	_	AlignEnd=1360.737|Overlapping=Yes|Prolonged=Yes|Speaker=BOI012|TID=722-1|Volume=low
@@ -6220,11 +6220,11 @@
 3	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	0	root	_	AlignEnd=1374.825|Speaker=BOI013|TID=731-2
 4	che	che	PRON	PR	PronType=Rel	6	nsubj	_	AlignBegin=1375.476|Speaker=BOI013|TID=732-0
 5	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	6	iobj	_	Clitic=Yes|Speaker=BOI013|TID=732-1
-6	formano	formere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	AlignEnd=1376.412|Speaker=BOI013|TID=732-2
+6	formano	formare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	AlignEnd=1376.412|Speaker=BOI013|TID=732-2
 7	che	che	SCONJ	CS	_	8	mark	_	AlignBegin=1376.666|PaceFast=Yes|Speaker=BOI013|TID=733-0
 8	facciamo	fare	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp	_	PaceFast=Yes|Speaker=BOI013|TID=733-1
 9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	Speaker=BOI013|TID=733-2
-10	corsi	corse	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	AlignEnd=1377.857|Speaker=BOI013|TID=733-3
+10	corsi	corso	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	AlignEnd=1377.857|Speaker=BOI013|TID=733-3
 
 # sent_id = 529
 # text = però non è più come una volta
@@ -6276,7 +6276,7 @@
 2	chiamo	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Prolonged=Yes|Speaker=BOI013|TID=738-1
 3	come	come	ADV	B	_	5	advmod	_	Speaker=BOI013|TID=738-2
 4	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	5	iobj	_	Clitic=Yes|Speaker=BOI013|TID=738-3
-5	passa	passire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	Speaker=BOI013|TID=738-4
+5	passa	passare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	Speaker=BOI013|TID=738-4
 6	in	in	ADP	E	_	7	case	_	Speaker=BOI013|TID=738-5
 7	ma~	ma~	SYM	SYM	_	5	obl	_	AlignEnd=1390.258|Interrupted=Yes|Speaker=BOI013|TID=738-6
 8	{ride}	-	X	_	_	2	dep	_	AlignEnd=1391.077|Speaker=BOI013|TID=739-0|Type=NLB
@@ -6293,7 +6293,7 @@
 # jefferson_text = no: no °basta° {P}
 1	no	no	INTJ	I	_	3	discourse	_	AlignBegin=1394.755|Prolonged=Yes|Speaker=BOI013|TID=743-0
 2	no	no	INTJ	I	_	3	discourse	_	Speaker=BOI013|TID=743-1
-3	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI013|TID=743-2|Volume=low
+3	basta	basta	INTJ	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI013|TID=743-2|Volume=low
 4	{P}	-	X	_	_	3	dep	_	Speaker=BOI013|TID=743-3|Type=shortpause
 
 # sent_id = 534
@@ -6301,7 +6301,7 @@
 # jefferson_text = dopo i cinquantanni bisogna stare a <casa> e farsi la pensione
 1	dopo	dopo	ADP	E	_	3	case	_	Speaker=BOI013|TID=743-4
 2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	Speaker=BOI013|TID=743-5
-3	cinquantanni	cinquantanno	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	Speaker=BOI013|TID=743-6
+3	cinquantanni	cinquantanni	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	Speaker=BOI013|TID=743-6
 4	bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI013|TID=743-7
 5	stare	stare	VERB	V	VerbForm=Inf	4	xcomp	_	Speaker=BOI013|TID=743-8
 6	a	a	ADP	E	_	7	case	_	Speaker=BOI013|TID=743-9
@@ -6323,7 +6323,7 @@
 5	può	potere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=1403.146|Speaker=BOI013|TID=745-4
 
 # sent_id = 536
-# text = e anche tu provi questa faticanell' andare al lavoro
+# text = e anche tu provi questa fatica nell' andare al lavoro
 # jefferson_text = e anche tu provi questa faticanell' andare al lavoro
 1	e	e	CCONJ	CC	_	4	cc	_	AlignBegin=1403.65|Speaker=BOR005|TID=746-0
 2	anche	anche	ADV	B	_	3	advmod	_	Speaker=BOR005|TID=746-1
@@ -6359,7 +6359,7 @@
 5	quando	quando	SCONJ	CS	_	6	mark	_	PaceFast=Yes|Speaker=BOI013|TID=749-1
 6	lavorano	lavorare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	PaceFast=Yes|Speaker=BOI013|TID=749-2
 7	sti	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	8	det	_	PaceFast=Yes|Speaker=BOI013|TID=749-3
-8	giovani	giovano	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	AlignEnd=1412.108|PaceFast=Yes|Speaker=BOI013|TID=749-4|Volume=low
+8	giovani	giovane	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	AlignEnd=1412.108|PaceFast=Yes|Speaker=BOI013|TID=749-4|Volume=low
 
 # sent_id = 539
 # text = e ma quando lavorano
@@ -6375,7 +6375,7 @@
 1	e	e	CCONJ	CC	_	2	cc	_	AlignBegin=1414.779|Speaker=BOR005|TID=752-0
 2	pensate	pensare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOR005|TID=752-1
 3	che	che	SCONJ	CS	_	8	mark	_	Speaker=BOR005|TID=752-2
-4	bologna	bolognare	PROPN	SP	_	8	nsubj	_	Speaker=BOR005|TID=752-3
+4	bologna	Bologna	PROPN	SP	_	8	nsubj	_	Speaker=BOR005|TID=752-3
 5	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Speaker=BOR005|TID=752-4
 6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Speaker=BOR005|TID=752-5
 7	buon	buono	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	Speaker=BOR005|TID=752-6
@@ -6430,18 +6430,18 @@
 9	livello	livello	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	Speaker=BOI012|TID=759-8
 10	ro~	ro~	SYM	SYM	_	5	parataxis:hashtag	_	Interrupted=Yes|Speaker=BOI012|TID=759-9
 11	lavorativo	lavorativo	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	Speaker=BOI012|TID=759-10
-12	offrono	offrono	NOUN	S	Gender=Masc|Number=Sing	15	nsubj	_	Speaker=BOI012|TID=759-11
+12	offrono	offrire	VERB	S	Gender=Masc|Number=Sing	15	nsubj	_	Speaker=BOI012|TID=759-11
 13	di	di	ADP	E	_	14	case	_	Speaker=BOI012|TID=759-12
 14	più	più	ADV	B	_	15	advmod	_	AlignEnd=1428.162|Speaker=BOI012|TID=759-13
 15	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=1428.998|Speaker=BOI012|TID=760-0
 16	più	più	ADV	B	_	17	advmod	_	Speaker=BOI012|TID=760-1
-17	aperture	aperture	ADJ	A	Gender=Fem|Number=Plur	15	conj	_	PaceFast=Yes|Speaker=BOI012|TID=760-2
+17	aperture	apertura	NOUN	A	Gender=Fem|Number=Plur	15	conj	_	PaceFast=Yes|Speaker=BOI012|TID=760-2
 18	{P}	-	X	_	_	15	dep	_	Speaker=BOI012|TID=760-3|Type=shortpause
 
 # sent_id = 545
 # text = bologna è un po' secondo me in stasi ultimamen~
 # jefferson_text = bologna:: è un po::' >secondo me:< in stasi ultimamen~
-1	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	AlignEnd=1431.115|Prolonged=Yes|Speaker=BOI012|TID=760-4
+1	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	4	nsubj	_	AlignEnd=1431.115|Prolonged=Yes|Speaker=BOI012|TID=760-4
 2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	AlignBegin=1432.119|Speaker=BOI012|TID=761-0
 3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Speaker=BOI012|TID=761-1
 4	po'	po'	ADV	B	_	0	root	_	Prolonged=Yes|Speaker=BOI012|TID=761-2|Truncated=Yes
@@ -6545,7 +6545,7 @@
 1	qui	qui	ADV	B	_	4	advmod	_	AlignBegin=1459.629|Speaker=BOI013|TID=772-0
 2	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|Speaker=BOI013|TID=772-1
 3	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	Speaker=BOI013|TID=772-2
-4	diritti	dirittere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI013|TID=772-3
+4	diritti	diritto	NOUN	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI013|TID=772-3
 5	{P}	-	X	_	_	4	dep	_	Speaker=BOI013|TID=772-4|Type=shortpause
 6	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	7	expl	_	Clitic=Yes|Speaker=BOI013|TID=772-5
 7	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	advmod	_	AlignEnd=1461.341|Speaker=BOI013|TID=772-6
@@ -6582,9 +6582,9 @@
 1	però	però	ADV	B	_	2	advmod	_	AlignBegin=1467.14|Speaker=BOI012|TID=778-0
 2	gente	gente	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	Speaker=BOI012|TID=778-1
 3	da	da	ADP	E	_	4	case	_	Speaker=BOI012|TID=778-2
-4	milano	milano	PROPN	SP	_	2	nmod	_	Intonation=weakly_ascending|Speaker=BOI012|TID=778-3
+4	milano	Milano	PROPN	SP	_	2	nmod	_	Intonation=weakly_ascending|Speaker=BOI012|TID=778-3
 5	a	a	ADP	E	_	6	case	_	Speaker=BOI012|TID=778-4
-6	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	Speaker=BOI012|TID=778-5
+6	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	9	obl	_	Speaker=BOI012|TID=778-5
 7	non	non	ADV	BN	PronType=Neg	9	advmod	_	Speaker=BOI012|TID=778-6
 8	ne	ne	PRON	PC	PronType=Prs	9	iobj	_	Clitic=Yes|Speaker=BOI012|TID=778-7
 9	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI012|TID=778-8
@@ -6596,9 +6596,9 @@
 # jefferson_text = gente da torino< a bologna non ne viene
 1	gente	gente	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	PaceFast=Yes|Speaker=BOI012|TID=778-11
 2	da	da	ADP	E	_	3	case	_	PaceFast=Yes|Speaker=BOI012|TID=778-12
-3	torino	torino	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	AlignEnd=1470.374|PaceFast=Yes|Speaker=BOI012|TID=778-13
+3	torino	Torino	PROPN	S	Gender=Masc|Number=Sing	1	nmod	_	AlignEnd=1470.374|PaceFast=Yes|Speaker=BOI012|TID=778-13
 4	a	a	ADP	E	_	5	case	_	AlignBegin=1470.686|Speaker=BOI012|TID=779-0
-5	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	Speaker=BOI012|TID=779-1
+5	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	3	nmod	_	Speaker=BOI012|TID=779-1
 6	non	non	ADV	BN	PronType=Neg	8	advmod	_	Speaker=BOI012|TID=779-2
 7	ne	ne	PRON	PC	PronType=Prs	8	iobj	_	Clitic=Yes|Speaker=BOI012|TID=779-3
 8	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=1471.925|Speaker=BOI012|TID=779-4
@@ -6631,7 +6631,7 @@
 2	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI013|TID=783-1
 3	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Speaker=BOI013|TID=783-2
 4	di	di	ADP	E	_	5	case	_	Speaker=BOI013|TID=783-3
-5	milano	milano	PROPN	SP	_	3	nmod	_	Speaker=BOI013|TID=783-4
+5	milano	Milano	PROPN	SP	_	3	nmod	_	Speaker=BOI013|TID=783-4
 6	perché	perché	SCONJ	CS	_	8	mark	_	Speaker=BOI013|TID=783-5
 7	c'	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	8	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BOI013|TID=783-6
 8	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	Speaker=BOI013|TID=783-7
@@ -6685,7 +6685,7 @@
 # sent_id = 563
 # text = bologna dove lavorare
 # jefferson_text = bologna dove lavorare
-1	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=BOI012|TID=788-10
+1	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=BOI012|TID=788-10
 2	dove	dove	ADV	B	_	3	advmod	_	Speaker=BOI012|TID=788-11
 3	lavorare	lavorare	VERB	V	VerbForm=Inf	1	acl	_	AlignEnd=1490.64|Speaker=BOI012|TID=788-12
 
@@ -6761,7 +6761,7 @@
 4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI012|TID=795-1
 5	perché	perché	SCONJ	CS	_	9	mark	_	Speaker=BOI012|TID=795-2
 6	se	se	SCONJ	CS	_	9	mark	_	Overlapping=Yes|Speaker=BOI012|TID=795-3
-7	x	per	ADP	E	_	9	case	_	AlignEnd=1499.612|Overlapping=Yes|Speaker=BOI012|TID=795-4|Type=unknown
+7	x	X	X	E	_	9	case	_	AlignEnd=1499.612|Overlapping=Yes|Speaker=BOI012|TID=795-4|Type=unknown
 8	se	se	SCONJ	CS	_	9	mark	_	AlignBegin=1498.589|Overlapping=Yes|Speaker=BOI013|TID=796-0
 9	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	Overlapping=Yes|Speaker=BOI013|TID=796-1
 10	lavorare	lavorare	VERB	V	VerbForm=Inf	9	xcomp	_	AlignEnd=1499.652|Overlapping=Yes|Speaker=BOI013|TID=796-2
@@ -6800,7 +6800,7 @@
 8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	Speaker=BOI013|TID=801-5
 9	tuoi	tuo	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	Speaker=BOI013|TID=801-6
 10	{P}	-	X	_	_	7	dep	_	Speaker=BOI013|TID=801-7|Type=shortpause
-11	cinquecento	cinquecento	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	Speaker=BOI013|TID=801-8
+11	cinquecento	cinquecento	NUM	S	Gender=Masc|Number=Sing	7	obj	_	Speaker=BOI013|TID=801-8
 12	euro	euro	PROPN	SP	_	11	nmod	_	AlignEnd=1506.203|Speaker=BOI013|TID=801-9
 13	e	e	CCONJ	CC	_	14	cc	_	AlignBegin=1506.3|Speaker=BOI013|TID=802-0
 14	fai	fare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	conj	_	AlignEnd=1507.63|Prolonged=Yes|Speaker=BOI013|TID=802-1
@@ -6841,9 +6841,9 @@
 7	vengono	venire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	Speaker=BOI013|TID=805-12
 8	su	su	ADP	E	_	13	case	_	AlignEnd=1516.244|Speaker=BOI013|TID=805-13
 9	con	con	ADP	E	_	13	case	_	AlignBegin=1518.078|Speaker=BOI013|TID=806-0
-10-12	dei	_	_	_	_	_	_	_	PaceFast=Yes|Speaker=BOI013|TID=806-2
-10	di	di	ADP	E	_	13	case	_	_
-11	{P}	-	X	_	_	3	dep	_	Speaker=BOI013|TID=806-1|Type=shortpause
+10	{P}	-	X	_	_	3	dep	_	Speaker=BOI013|TID=806-1|Type=shortpause
+11-12	dei	_	_	_	_	_	_	_	PaceFast=Yes|Speaker=BOI013|TID=806-2
+11	di	di	ADP	E	_	13	case	_	_
 12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	grassi	grasso	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	AlignEnd=1519.163|PaceFast=Yes|Speaker=BOI013|TID=806-3
 
@@ -6897,19 +6897,19 @@
 14	a	a	ADP	E	_	15	mark	_	PaceFast=Yes|Speaker=BOI012|TID=809-13
 15	lavorare	lavorare	VERB	V	VerbForm=Inf	13	xcomp	_	PaceFast=Yes|Speaker=BOI012|TID=809-14
 16	a	a	ADP	E	_	17	case	_	PaceFast=Yes|Speaker=BOI012|TID=809-15
-17	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	AlignEnd=1530.035|PaceFast=Yes|Speaker=BOI012|TID=809-16
+17	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	15	obl	_	AlignEnd=1530.035|PaceFast=Yes|Speaker=BOI012|TID=809-16
 18	e	e	CCONJ	CC	_	19	cc	_	AlignBegin=1530.496|Speaker=BOI012|TID=810-0
 19	vai	andare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	conj	_	Speaker=BOI012|TID=810-1
 20	a	a	ADP	E	_	21	mark	_	Speaker=BOI012|TID=810-2
 21	lavorare	lavorare	VERB	V	VerbForm=Inf	19	xcomp	_	Speaker=BOI012|TID=810-3
 22	a	a	ADP	E	_	23	case	_	Speaker=BOI012|TID=810-4
-23	berlino	berlino	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	Prolonged=Yes|Speaker=BOI012|TID=810-5
+23	berlino	Berlino	PROPN	S	Gender=Masc|Number=Sing	21	obl	_	Prolonged=Yes|Speaker=BOI012|TID=810-5
 24	e	e	CCONJ	CC	_	25	cc	_	Speaker=BOI012|TID=810-6
 25	lavori	lavorare	NOUN	S	Gender=Masc|Number=Plur	21	conj	_	Prolonged=Yes|Speaker=BOI012|TID=810-7
 26-27	alla	_	_	_	_	_	_	_	Speaker=BOI012|TID=810-8
 26	a	a	ADP	E	_	28	case	_	_
 27	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
-28	volkswagen	volkswagennaio	NOUN	S	Gender=Fem|Number=Sing	25	nmod	_	AlignEnd=1533.453|Speaker=BOI012|TID=810-9
+28	volkswagen	Volkswagen	PROPN	S	Gender=Fem|Number=Sing	25	nmod	_	AlignEnd=1533.453|Speaker=BOI012|TID=810-9
 
 # sent_id = 580
 # text = secondo secondo me stai meglio che qua eh
@@ -6980,7 +6980,7 @@
 # jefferson_text = perché gli piace andareall' estero? {ride} ci vanno perché::: >guadagnan di più::<,
 1	perché	perché	SCONJ	CS	_	3	mark	_	Speaker=BOI012|TID=815-7
 2	gli	il	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	Clitic=Yes|Speaker=BOI012|TID=815-8
-3	piace	piacia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	Speaker=BOI012|TID=815-9
+3	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	Speaker=BOI012|TID=815-9
 4	andare	andare	VERB	V	VerbForm=Inf	10	csubj	_	Speaker=BOI012|TID=815-10
 5-6	all'	_	_	_	_	_	_	_	SpaceAfter=No|Speaker=BOI012|TID=815-11
 5	a	a	ADP	E	_	7	case	_	_
@@ -6990,7 +6990,7 @@
 9	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	10	iobj	_	AlignBegin=1545.861|Clitic=Yes|Speaker=BOI012|TID=817-0
 10	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI012|TID=817-1
 11	perché	perché	SCONJ	CS	_	12	mark	_	Prolonged=Yes|Speaker=BOI012|TID=817-2
-12	guadagnan	guadagnanto	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	PaceFast=Yes|Speaker=BOI012|TID=817-3
+12	guadagnan	guadagnare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	PaceFast=Yes|Speaker=BOI012|TID=817-3
 13	di	di	ADP	E	_	14	case	_	PaceFast=Yes|Speaker=BOI012|TID=817-4
 14	più	più	ADV	B	_	12	advmod	_	AlignEnd=1548.641|Intonation=weakly_ascending|PaceFast=Yes|Prolonged=Yes|Speaker=BOI012|TID=817-5
 
@@ -7027,7 +7027,7 @@
 2	se	se	SCONJ	CS	_	5	mark	_	AlignBegin=1557.768|Speaker=BOI012|TID=822-0
 3	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	5	iobj	_	Clitic=Yes|Speaker=BOI012|TID=822-1
 4	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	Speaker=BOI012|TID=822-2
-5	laureare	laurearire	VERB	V	VerbForm=Inf	0	root	_	AlignEnd=1559.14|Speaker=BOI012|TID=822-3
+5	laureare	laureare	VERB	V	VerbForm=Inf	0	root	_	AlignEnd=1559.14|Speaker=BOI012|TID=822-3
 6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	AlignBegin=1559.686|Prolonged=Yes|Speaker=BOI012|TID=823-0
 7	in	in	ADP	E	_	9	case	_	Speaker=BOI012|TID=823-1
 8	in	in	ADP	E	_	9	case	_	Speaker=BOI012|TID=823-2
@@ -7042,7 +7042,7 @@
 4	a	a	ADP	E	_	5	mark	_	Speaker=BOI012|TID=824-1
 5	lavorare	lavorare	VERB	V	VerbForm=Inf	3	xcomp	_	Intonation=weakly_ascending|Speaker=BOI012|TID=824-2
 6	a	a	ADP	E	_	7	case	_	Speaker=BOI012|TID=824-3
-7	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	Intonation=weakly_ascending|Speaker=BOI012|TID=824-4
+7	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	5	obl	_	Intonation=weakly_ascending|Speaker=BOI012|TID=824-4
 8	come	come	ADP	E	_	9	case	_	Speaker=BOI012|TID=824-5
 9	netturbino	netturbino	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	Speaker=BOI012|TID=824-6
 10	come	come	ADV	B	_	12	advmod	_	PaceFast=Yes|Speaker=BOI012|TID=824-7
@@ -7064,7 +7064,7 @@
 # text = hai capito
 # jefferson_text = >hai capito<
 1	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	PaceFast=Yes|Speaker=BOI012|TID=825-6
-2	capito	capitare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=1569.069|PaceFast=Yes|Speaker=BOI012|TID=825-7
+2	capito	capire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=1569.069|PaceFast=Yes|Speaker=BOI012|TID=825-7
 
 # sent_id = 590
 # text = voglio dire eh sec' ho la possibilitàd' andare a farel' ingegnere meccanico in germania vado in germania
@@ -7085,10 +7085,10 @@
 14	ingegnere	ingegnere	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	PaceFast=Yes|Speaker=BOI012|TID=829-1
 15	meccanico	meccanico	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	PaceFast=Yes|Speaker=BOI012|TID=829-2
 16	in	in	ADP	E	_	17	case	_	PaceFast=Yes|Speaker=BOI012|TID=829-3
-17	germania	germania	PROPN	SP	_	18	obl	_	PaceFast=Yes|Speaker=BOI012|TID=829-4
+17	germania	Germania	PROPN	SP	_	18	obl	_	PaceFast=Yes|Speaker=BOI012|TID=829-4
 18	vado	andare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	advcl	_	PaceFast=Yes|Speaker=BOI012|TID=829-5
 19	in	in	ADP	E	_	20	case	_	PaceFast=Yes|Speaker=BOI012|TID=829-6
-20	germania	germania	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	PaceFast=Yes|Speaker=BOI012|TID=829-7
+20	germania	Germania	PROPN	S	Gender=Fem|Number=Sing	18	obl	_	PaceFast=Yes|Speaker=BOI012|TID=829-7
 
 # sent_id = 591
 # text = è logico eh
@@ -7148,9 +7148,9 @@
 3	non	non	ADV	BN	PronType=Neg	4	advmod	_	AlignBegin=1586.4|Speaker=BOI012|TID=836-0
 4	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI012|TID=836-1
 5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No|Speaker=BOI012|TID=836-2
-6	indole	indola	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	AlignEnd=1587.347|Speaker=BOI012|TID=836-3
+6	indole	indole	NOUN	S	Gender=Fem|Number=Plur	4	obj	_	AlignEnd=1587.347|Speaker=BOI012|TID=836-3
 7	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	AlignBegin=1587.925|Speaker=BOR005|TID=837-0
-8	gina	gina	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	AlignEnd=1588.478|Intonation=ascending|Speaker=BOR005|TID=837-1
+8	gina	Gina	PROPN	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	AlignEnd=1588.478|Intonation=ascending|Speaker=BOR005|TID=837-1
 
 # sent_id = 596
 # text = no
@@ -7164,7 +7164,7 @@
 2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	obl	_	Speaker=BOI013|TID=839-1
 3	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI013|TID=839-2
 4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No|Speaker=BOI013|TID=839-3
-5	italia	italia	PROPN	SP	_	3	nsubj	_	AlignEnd=1592.353|Speaker=BOI013|TID=839-4
+5	italia	Italia	PROPN	SP	_	3	nsubj	_	AlignEnd=1592.353|Speaker=BOI013|TID=839-4
 
 # sent_id = 598
 # text = io sono perl' ita~ {ride}
@@ -7197,7 +7197,7 @@
 8	altra	altro	DET	DI	PronType=Ind	9	det	_	Speaker=BOR005|TID=842-7
 9	parte	parte	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	Speaker=BOR005|TID=842-8
 10	d'	di	ADP	E	_	11	case	_	SpaceAfter=No|Speaker=BOR005|TID=842-9
-11	italia	italia	PROPN	SP	_	9	nmod	_	Intonation=ascending|Speaker=BOR005|TID=842-10
+11	italia	Italia	PROPN	SP	_	9	nmod	_	Intonation=ascending|Speaker=BOR005|TID=842-10
 12	{P}	-	X	_	_	4	dep	_	Speaker=BOR005|TID=842-11|Type=shortpause
 13	per	per	ADP	E	_	14	case	_	Speaker=BOR005|TID=842-12
 14	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	AlignEnd=1601.178|Intonation=ascending|Speaker=BOR005|TID=842-13
@@ -7273,7 +7273,7 @@
 9	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	aux:pass	_	PaceFast=Yes|Speaker=BOI013|TID=851-7
 10	trasferito	trasferire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	PaceFast=Yes|Speaker=BOI013|TID=851-8
 11	a	a	ADP	E	_	12	case	_	PaceFast=Yes|Speaker=BOI013|TID=851-9
-12	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	PaceFast=Yes|Speaker=BOI013|TID=851-10
+12	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	10	obl	_	PaceFast=Yes|Speaker=BOI013|TID=851-10
 
 # sent_id = 607
 # text = però io {P} ho già fattol' esperienza ehm
@@ -7296,7 +7296,7 @@
 3	ormai	ormai	ADV	B	_	6	advmod	_	Speaker=BOI013|TID=854-2
 4	sono	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	Speaker=BOI013|TID=854-3
 5	a	a	ADP	E	_	6	case	_	Speaker=BOI013|TID=854-4
-6	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	0	root	_	AlignEnd=1620.216|Speaker=BOI013|TID=854-5
+6	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	0	root	_	AlignEnd=1620.216|Speaker=BOI013|TID=854-5
 
 # sent_id = 609
 # text = e tu enrico invece ti saresti trasferito
@@ -8093,7 +8093,7 @@
 5	visto	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	advcl	_	PaceFast=Yes|Speaker=BOR005|TID=956-4
 6	che	che	SCONJ	CS	_	10	mark	_	PaceFast=Yes|Speaker=BOR005|TID=956-5
 7	a	a	ADP	E	_	8	case	_	Speaker=BOR005|TID=956-6
-8	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	Speaker=BOR005|TID=956-7
+8	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	10	obl	_	Speaker=BOR005|TID=956-7
 9	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	10	expl	_	Clitic=Yes|Speaker=BOR005|TID=956-8
 10	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	Speaker=BOR005|TID=956-9
 11	parecchie	parecchio	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	12	det	_	Speaker=BOR005|TID=956-10
@@ -8522,7 +8522,7 @@
 3	di	di	ADP	E	_	4	case	_	Speaker=BOR005|TID=1006-2
 4	musica	musica	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	AlignEnd=1910.016|Speaker=BOR005|TID=1006-3
 5	a	a	ADP	E	_	6	case	_	AlignBegin=1910.155|Speaker=BOR005|TID=1007-0
-6	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	Speaker=BOR005|TID=1007-1
+6	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	2	obl	_	Speaker=BOR005|TID=1007-1
 7	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	8	expl	_	Clitic=Yes|Speaker=BOR005|TID=1007-2
 8	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	Speaker=BOR005|TID=1007-3
 9	tanti	tanto	DET	DI	PronType=Ind	11	det	_	Speaker=BOR005|TID=1007-4
@@ -8674,7 +8674,7 @@
 13	musicisti	musicista	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	Speaker=BOI012|TID=1030-3
 14	jazz	jazz	NOUN	S	Gender=Fem|Number=Sing	13	compound	_	Speaker=BOI012|TID=1030-4
 15	di	di	ADP	E	_	16	case	_	Speaker=BOI012|TID=1030-5
-16	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	Speaker=BOI012|TID=1030-6
+16	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	13	nmod	_	Speaker=BOI012|TID=1030-6
 17	li	li	PRON	PC	Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obj	_	Clitic=Yes|Overlapping=Yes|Speaker=BOI012|TID=1030-7
 18	conosco	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	parataxis	_	Overlapping=Yes|Speaker=BOI012|TID=1030-8
 19	{P}	-	X	_	_	2	dep	_	Speaker=BOI012|TID=1030-9|Type=shortpause
@@ -9182,7 +9182,7 @@
 # text = a bologna andavi a ballare qualche volta
 # jefferson_text = a] bologna andavi a ballare qualche vol[ta]?
 1	a	a	ADP	E	_	2	case	_	Overlapping=Yes|Speaker=BOR005|TID=1107-5
-2	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	Speaker=BOR005|TID=1107-6
+2	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	3	obl	_	Speaker=BOR005|TID=1107-6
 3	andavi	andare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BOR005|TID=1107-7
 4	a	a	ADP	E	_	5	mark	_	Speaker=BOR005|TID=1107-8
 5	ballare	ballare	VERB	V	VerbForm=Inf	3	xcomp	_	Speaker=BOR005|TID=1107-9
@@ -9352,7 +9352,7 @@
 2	che	che	PRON	PR	PronType=Rel	7	obj	_	AlignBegin=2108.255|Speaker=BOI013|TID=1128-0
 3	poi	poi	ADV	B	_	7	advmod	_	Speaker=BOI013|TID=1128-1
 4	a	a	ADP	E	_	5	case	_	Speaker=BOI013|TID=1128-2
-5	bologna	bologna	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	AlignEnd=2109.308|Speaker=BOI013|TID=1128-3
+5	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	7	obl	_	AlignEnd=2109.308|Speaker=BOI013|TID=1128-3
 6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	AlignBegin=2109.413|Speaker=BOI012|TID=1129-0
 7	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI012|TID=1129-1
 8	sessant'	sessanto	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No|Speaker=BOI012|TID=1129-2
