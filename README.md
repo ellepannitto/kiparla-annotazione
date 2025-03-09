@@ -1,5 +1,11 @@
 # kiparla-annotazione
 
+Caterina > TOD1005bis fino a frase 372
+Cristina > TOD1005bis da frase 373 in poi
+Silvia > BOD2018 fino a frase 310
+Manuela > BOA3017 fino a frase 420
+Eleonora > PBB004 fino a frase 450
+
 
 ## Appunti PBB004
 * os, rsa > lemmatizzati come O.S., R.S.A.
@@ -10,10 +16,6 @@
 
 ### da sistemare su arborator:
 * TODO: sent 502 modificare turn around
-* 527-5: essendoci
-* 564: 5/6
-* 568: 6/7
-* 592-8
 
 
 ### dubbio audio:
