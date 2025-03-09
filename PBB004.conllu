@@ -7214,7 +7214,7 @@
 6-7	dalla	_	_	_	_	_	_	_	PaceFast=Yes|Speaker=BOI013|TID=844-5
 6	da	da	ADP	E	_	8	case	_	_
 7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	calabria	calabria	PROPN	SP	_	5	obl	_	PaceFast=Yes|Speaker=BOI013|TID=844-6
+8	calabria	Calabria	PROPN	SP	_	5	obl	_	PaceFast=Yes|Speaker=BOI013|TID=844-6
 9	{P}	-	X	_	_	5	dep	_	Speaker=BOI013|TID=844-7|Type=shortpause
 10	qua	qua	ADV	B	_	8	advmod	_	AlignEnd=1605.811|Speaker=BOI013|TID=844-8
 11	perciò	perciò	CCONJ	CC	_	12	cc	_	AlignEnd=1607.047|Speaker=BOI013|TID=845-0
@@ -7303,7 +7303,7 @@
 # jefferson_text = e tu enrico invece ti saresti trasferito?
 1	e	e	CCONJ	CC	_	3	cc	_	AlignBegin=1621.944|Speaker=BOR005|TID=855-0
 2	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Speaker=BOR005|TID=855-1
-3	enrico	enrico	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOR005|TID=855-2
+3	enrico	Enrico	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOR005|TID=855-2
 4	invece	invece	ADV	B	_	7	advmod	_	Speaker=BOR005|TID=855-3
 5	ti	ti	PRON	PC	Number=Sing|Person=2|PronType=Prs	7	iobj	_	Clitic=Yes|Speaker=BOR005|TID=855-4
 6	saresti	essere	AUX	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	Speaker=BOR005|TID=855-5
@@ -7433,7 +7433,7 @@
 16	tromba	tromba	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	AlignEnd=1660.115|Intonation=weakly_ascending|Overlapping=Yes|Prolonged=Yes|Speaker=BOI012|TID=866-6
 17	mhmh	mhmh	NOUN	S	_	16	compound	_	AlignEnd=1660.115|Overlapping=Yes|Speaker=BOR005|TID=867-0
 18	e	e	CCONJ	CC	_	19	cc	_	AlignBegin=1660.317|Speaker=BOI012|TID=868-0
-19	dormo	dormare	NOUN	S	Gender=Masc|Number=Sing	17	conj	_	AlignEnd=1660.977|Speaker=BOI012|TID=868-1
+19	dormo	dormire	VERB	S	Gender=Masc|Number=Sing	17	conj	_	AlignEnd=1660.977|Speaker=BOI012|TID=868-1
 20	mh	mh	INTJ	I	_	6	discourse	_	AlignEnd=1661.462|Speaker=BOR005|TID=869-0
 
 # sent_id = 617
@@ -7448,7 +7448,7 @@
 7	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	Speaker=BOI013|TID=871-5
 8	guardo	guardare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl	_	Speaker=BOI013|TID=871-6
 9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Speaker=BOI013|TID=871-7
-10	tv	tv	NOUN	S	Gender=Fem	8	obj	_	AlignEnd=1665.878|Speaker=BOI013|TID=871-8
+10	tv	TV	NOUN	S	Gender=Fem	8	obj	_	AlignEnd=1665.878|Speaker=BOI013|TID=871-8
 11	{ride}	-	X	_	_	3	dep	_	AlignEnd=1663.834|Speaker=BOI012|TID=872-0|Type=NLB
 
 # sent_id = 618
@@ -7485,7 +7485,7 @@
 2	eh	eh	INTJ	I	_	5	discourse	_	Speaker=BOI013|TID=878-4
 3	mica	mica	ADV	B	_	5	advmod	_	Speaker=BOI013|TID=878-5
 4	sono	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	Speaker=BOI013|TID=878-6
-5	ignorantona	ignorantono	ADJ	A	Gender=Fem|Number=Sing	0	root	_	AlignEnd=1674.994|Speaker=BOI013|TID=878-7
+5	ignorantona	ignorantone	NOUN	A	Gender=Fem|Number=Sing	0	root	_	AlignEnd=1674.994|Speaker=BOI013|TID=878-7
 6	{ride}	-	X	_	_	5	dep	_	AlignEnd=1675.526|Speaker=BOR005|TID=879-0|Type=NLB
 
 # sent_id = 622
@@ -7497,12 +7497,12 @@
 4	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	Speaker=BOI013|TID=880-3
 5	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	6	expl	_	Clitic=Yes|Speaker=BOI013|TID=880-4
 6	guardo	guardare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	Speaker=BOI013|TID=880-5
-7	agorà	agore	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	xcomp	_	AlignEnd=1679.662|Speaker=BOI013|TID=880-6
+7	agorà	Agorà	PROPN	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	xcomp	_	AlignEnd=1679.662|Speaker=BOI013|TID=880-6
 8	mhmh	mhmh	INTJ	I	_	7	obj	_	AlignEnd=1680.477|Speaker=BOR005|TID=881-0
 9	perché	perché	SCONJ	CS	_	11	mark	_	AlignEnd=1681.219|Overlapping=Yes|Speaker=BOI013|TID=882-0
 10	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	AlignBegin=1680.982|Overlapping=Yes|Speaker=BOI012|TID=883-0
 11	sono	essere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	Overlapping=Yes|Speaker=BOI012|TID=883-1
-12	a	avere	ADP	E	_	13	mark	_	Speaker=BOI012|TID=883-2
+12	a	a	ADP	E	_	13	mark	_	Speaker=BOI012|TID=883-2
 13	lavorare	lavorare	VERB	V	VerbForm=Inf	11	xcomp	_	Speaker=BOI012|TID=883-3
 14-15	alla	_	_	_	_	_	_	_	Speaker=BOI012|TID=883-4
 14	a	a	ADP	E	_	16	case	_	_
@@ -7545,7 +7545,7 @@
 12	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	7	ccomp	_	Speaker=BOI013|TID=889-2
 13	che	che	SCONJ	CS	_	15	mark	_	Prolonged=Yes|Speaker=BOI013|TID=889-3
 14	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	cop	_	Speaker=BOI013|TID=889-4
-15	informati	informare	ADJ	A	Gender=Masc|Number=Plur	12	ccomp	_	AlignEnd=1693.762|Speaker=BOI013|TID=889-5
+15	informati	informare	VERB	A	Gender=Masc|Number=Plur	12	ccomp	_	AlignEnd=1693.762|Speaker=BOI013|TID=889-5
 
 # sent_id = 625
 # text = dopo mi ascolto il telegiornaledell' emilia romagna perché è la mia città {P} è la nostra regione
@@ -7604,7 +7604,7 @@
 8	a	a	ADP	E	_	9	case	_	PaceFast=Yes|Speaker=BOI013|TID=893-6
 9	letto	letto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	PaceFast=Yes|Speaker=BOI013|TID=893-7
 10	che	che	SCONJ	CS	_	11	mark	_	PaceFast=Yes|Speaker=BOI013|TID=893-8
-11	dormo	dormare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	acl	_	AlignEnd=1707.702|PaceFast=Yes|Speaker=BOI013|TID=893-9
+11	dormo	dormire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	acl	_	AlignEnd=1707.702|PaceFast=Yes|Speaker=BOI013|TID=893-9
 12	{ride}	-	X	_	_	9	dep	_	AlignEnd=1708.603|Speaker=BOR005|TID=894-0|Type=NLB
 
 # sent_id = 629

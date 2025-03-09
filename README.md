@@ -13,9 +13,13 @@ Eleonora > PBB004 fino a frase 450
 * 503-3, 534-3: cinquantanni
 * avoglia
 * dio capitalized?
+* 627-3 > interrupted?
 
 ### da sistemare su arborator:
 * TODO: sent 502 modificare turn around
+* 564
+* 610-9
+* emilia romagna? 625.8/9
 
 
 ### dubbio audio:
@@ -28,6 +32,8 @@ Eleonora > PBB004 fino a frase 450
 mhmh
 ah
 eh
+oh
 mh
 beh
 vabbè
+ehm
