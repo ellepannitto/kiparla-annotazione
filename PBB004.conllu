@@ -82,7 +82,7 @@
 8	eh	eh	INTJ	I	_	7	discourse	_	AlignEnd=25.813|Speaker=BOI012|TID=16-4
 9	però	però	ADV	B	_	11	advmod	_	AlignBegin=25.86|Speaker=BOI013|TID=17-0
 10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	Speaker=BOI013|TID=17-1
-11	quartiere	quartiere	VERB	V	VerbForm=Inf	0	root	_	Speaker=BOI013|TID=17-2
+11	quartiere	quartiere	NOUN	S	VerbForm=Inf	0	root	_	Speaker=BOI013|TID=17-2
 12	corticella	corticellare	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	AlignEnd=27.392|Overlapping=Yes|Speaker=BOI013|TID=17-3
 
 # sent_id = 8
