@@ -13,7 +13,7 @@
 # sent_id = 1
 # text = riusciamo a trovare una serie di tratti una serie di strutture comuni a tutti questi dialetti
 # jefferson_text = riusciamo a trovare una serie di tratti una serie di strutture, comuni a tutti questi dialetti
-1	riusciamo	riuscira	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=0-8
+1	riusciamo	riuscire	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=0-8
 2	a	a	ADP	E	_	3	mark	_	Speaker=TO017|TID=0-9
 3	trovare	trovare	VERB	V	VerbForm=Inf	1	xcomp	_	Speaker=TO017|TID=0-10
 4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Speaker=TO017|TID=0-11
