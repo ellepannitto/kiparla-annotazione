@@ -5985,7 +5985,7 @@
 5	giovani	giovane	ADJ	A	Number=Plur	4	amod	_	AlignEnd=1302.926|Speaker=BOI013|TID=692-3
 6	con	con	ADP	E	_	7	case	_	AlignBegin=1303.325|Speaker=BOI013|TID=693-0
 7	malattie	malattia	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	AlignEnd=1304.452|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BOI013|TID=693-1
-8	v~	v~	SYM	SYM	_	3	dep	_	AlignBegin=1304.838|Interrupted=Yes|Speaker=BOI013|TID=694-0
+8	v~	v~	X	SYM	_	3	dep	_	AlignBegin=1304.838|Interrupted=Yes|Speaker=BOI013|TID=694-0
 9	eh	eh	INTJ	I	_	12	discourse	_	Prolonged=Yes|Speaker=BOI013|TID=694-1
 10	prima	prima	ADV	B	_	12	advmod	_	Speaker=BOI013|TID=694-2
 11	sconosciute	sconosciuto	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	AlignEnd=1307.21|Intonation=weakly_ascending|Speaker=BOI013|TID=694-3
@@ -6007,7 +6007,7 @@
 6	terminale	terminale	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	Speaker=BOI013|TID=698-4
 7	di	di	ADP	E	_	8	case	_	Speaker=BOI013|TID=698-5
 8	malattie	malattia	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	AlignEnd=1315.347|Prolonged=Yes|Speaker=BOI013|TID=698-6
-9	neo~	neo~	SYM	SYM	_	1	dep	_	AlignBegin=1315.744|Interrupted=Yes|Speaker=BOI013|TID=699-0
+9	neo~	neo~	X	SYM	_	1	dep	_	AlignBegin=1315.744|Interrupted=Yes|Speaker=BOI013|TID=699-0
 10	neoplastiche	neoplastico	ADJ	A	Gender=Fem|Number=Plur	1	amod	_	Intonation=weakly_ascending|Speaker=BOI013|TID=699-1
 
 # sent_id = 514
@@ -6018,7 +6018,7 @@
 3	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	Speaker=BOI013|TID=699-4
 4	anziani	anziano	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	Intonation=weakly_ascending|Speaker=BOI013|TID=699-5
 5	di	di	ADP	E	_	6	case	_	Speaker=BOI013|TID=699-6
-6	c~	c~	SYM	SYM	_	4	nmod	_	Interrupted=Yes|Speaker=BOI013|TID=699-7
+6	c~	c~	X	SYM	_	4	nmod	_	Interrupted=Yes|Speaker=BOI013|TID=699-7
 7	{P}	-	X	_	_	9	dep	_	Speaker=BOI013|TID=699-8|Type=shortpause
 8	novanta	novanta	NUM	DE	PronType=Exc	9	det	_	Speaker=BOI013|TID=699-9
 9	anni	anno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	AlignEnd=1320.276|Speaker=BOI013|TID=699-10
@@ -6062,7 +6062,7 @@
 # text = molti pisi~ molte persone che hanno problemi psichiatrici
 # jefferson_text = molti pisi~ molte persone che hanno problemi:: psichiatrici
 1	molti	molto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	Speaker=BOI013|TID=704-5
-2	pisi~	pisi~	SYM	SYM	_	1	dep	_	AlignEnd=1331.63|Interrupted=Yes|Speaker=BOI013|TID=704-6
+2	pisi~	pisi~	X	SYM	_	1	dep	_	AlignEnd=1331.63|Interrupted=Yes|Speaker=BOI013|TID=704-6
 3	molte	molto	DET	DI	PronType=Ind	4	det	_	AlignBegin=1331.967|Speaker=BOI013|TID=705-0
 4	persone	persona	NOUN	S	Gender=Fem|Number=Plur	1	parataxis	_	Speaker=BOI013|TID=705-1
 5	che	che	PRON	PR	PronType=Rel	6	nsubj	_	Speaker=BOI013|TID=705-2

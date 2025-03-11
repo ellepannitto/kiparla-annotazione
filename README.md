@@ -11,7 +11,7 @@ Eleonora > PBB004 fino a frase 450
 * os, rsa > lemmatizzati come O.S., R.S.A.
 * alcune interruzioni sono palesi (unis~, ~versità, pensio~) > cosa ne facciamo? per ora il lemma è uguale, la PoS è X
 * `basta` > basta1. – Forma impersonale del verbo bastare, usata come esclam.
-* 503-3, 534-3: cinquantanni
+* sent_id = 505 - mh non ci sei con la testa - essere AUX o VERB?
 * avoglia
 * dio capitalized?
 * 627-3 > interrupted?
