@@ -986,7 +986,7 @@
 # sent_id = 91
 # text = x {P} traffico magaric' è più traffico
 # jefferson_text = xxx {P} traffico, magaric' è più [traffico],
-1	x	per	ADP	E	_	3	case	_	AlignBegin=213|Speaker=BOI012|TID=120-0|Type=unknown
+1	x	x	X	E	_	3	case	_	AlignBegin=213|Speaker=BOI012|TID=120-0|Type=unknown
 2	{P}	-	X	_	_	6	dep	_	Speaker=BOI012|TID=120-1|Type=shortpause
 3	traffico	traffico	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	Intonation=weakly_ascending|Speaker=BOI012|TID=120-2
 4	magari	magari	ADV	B	_	6	advmod	_	Speaker=BOI012|TID=120-3
@@ -1764,7 +1764,7 @@
 # jefferson_text = poi [magari] [xxx] [xxx] {ride} non lo so non ho mai abitato da: altre parti
 1	poi	poi	ADV	B	_	2	advmod	_	Speaker=BOI012|TID=217-6
 2	magari	magari	ADV	B	_	8	advmod	_	AlignEnd=389.33|Overlapping=Yes|Speaker=BOI012|TID=217-7
-3	x	per	ADP	E	_	4	case	_	AlignEnd=388.575|Overlapping=Yes|Speaker=BOR005|TID=218-0|Type=unknown
+3	x	x	X	E	_	4	case	_	AlignEnd=388.575|Overlapping=Yes|Speaker=BOR005|TID=218-0|Type=unknown
 4	x	x	SYM	SYM	_	2	obl	_	AlignBegin=388.64|Overlapping=Yes|Speaker=BOI013|TID=219-0|Type=unknown
 5	{ride}	-	X	_	_	8	dep	_	AlignEnd=389.79|Speaker=BOI013|TID=219-1|Type=NLB
 6	non	non	ADV	BN	PronType=Neg	8	advmod	_	AlignBegin=389.975|Speaker=BOI012|TID=220-0
@@ -3881,7 +3881,7 @@
 # jefferson_text = [ah o]kay [x] [no]n so sec' è ancora perché io che non ci vado saran e:h dieci,quindic' anni, forse venti >che non vado su a san luca<
 1	ah	ah	INTJ	I	_	5	discourse	_	AlignBegin=848.105|Overlapping=Yes|Speaker=BOR005|TID=458-0
 2	okay	okay	INTJ	I	_	5	discourse	_	AlignEnd=848.785|Overlapping=Yes|Speaker=BOR005|TID=458-1
-3	x	per	SYM	SYM	_	5	dep	_	AlignEnd=849.565|Overlapping=Yes|Speaker=BOR005|TID=459-0|Type=unknown
+3	x	x	X	SYM	_	5	dep	_	AlignEnd=849.565|Overlapping=Yes|Speaker=BOR005|TID=459-0|Type=unknown
 4	non	non	ADV	BN	PronType=Neg	5	advmod	_	AlignBegin=849.315|Overlapping=Yes|Speaker=BOI012|TID=460-0
 5	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI012|TID=460-1
 6	se	se	SCONJ	CS	_	8	mark	_	Speaker=BOI012|TID=460-2
@@ -3940,7 +3940,7 @@
 # jefferson_text = sì >tanto< xxx >non è che< è sempre uguale
 1	sì	sì	INTJ	I	_	5	discourse	_	AlignEnd=863.28|Speaker=BOI012|TID=467-5
 2	tanto	tanto	ADV	B	_	5	advmod	_	AlignBegin=864.78|PaceFast=Yes|Speaker=BOI013|TID=468-0
-3	x	per	ADP	E	_	5	mark	_	Speaker=BOI013|TID=468-1|Type=unknown
+3	x	x	X	E	_	5	mark	_	Speaker=BOI013|TID=468-1|Type=unknown
 4	non	non	ADV	BN	PronType=Neg	5	advmod	_	PaceFast=Yes|Speaker=BOI013|TID=468-2
 5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	PaceFast=Yes|Speaker=BOI013|TID=468-3
 6	che	che	SCONJ	CS	_	9	mark	_	AlignEnd=866.06|PaceFast=Yes|Speaker=BOI013|TID=468-4
@@ -4889,7 +4889,7 @@
 2	città	città	NOUN	S	Gender=Fem	11	obl	_	Speaker=BOI012|TID=566-8
 3	qua	qua	ADV	B	_	4	advmod	_	Speaker=BOI012|TID=566-9
 4	attorno	attorno	ADV	B	_	2	advmod	_	AlignEnd=1062.129|Speaker=BOI012|TID=566-10
-5	x	per	ADP	E	_	7	case	_	AlignEnd=1060.928|Overlapping=Yes|Speaker=BOI013|TID=567-0|Type=unknown
+5	x	x	X	E	_	7	case	_	AlignEnd=1060.928|Overlapping=Yes|Speaker=BOI013|TID=567-0|Type=unknown
 6	a	a	ADP	E	_	7	case	_	AlignBegin=1062.593|Speaker=BOI012|TID=568-0
 7	ferrara	ferrara	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	Speaker=BOI012|TID=568-1
 8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	Speaker=BOI012|TID=568-2
@@ -8806,7 +8806,7 @@
 8	c'	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	9	expl	_	Clitic=Yes|Overlapping=Yes|PaceFast=Yes|SpaceAfter=No|Speaker=BOI013|TID=1048-1
 9	erano	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	Overlapping=Yes|PaceFast=Yes|Speaker=BOI013|TID=1048-2
 10	prima	prima	ADV	B	_	9	advmod	_	AlignEnd=1993.804|Overlapping=Yes|PaceFast=Yes|Speaker=BOI013|TID=1048-3
-11	x	per	ADP	E	_	12	case	_	AlignBegin=1993.046|Overlapping=Yes|Speaker=BOI012|TID=1049-0|Type=unknown
+11	x	x	X	E	_	12	case	_	AlignBegin=1993.046|Overlapping=Yes|Speaker=BOI012|TID=1049-0|Type=unknown
 12	ti	ti	PRON	PC	Number=Sing|Person=2|PronType=Prs	13	iobj	_	Clitic=Yes|Speaker=BOI012|TID=1049-1
 13	piacciono	piacere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	Speaker=BOI012|TID=1049-2
 14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	Speaker=BOI012|TID=1049-3
@@ -9103,7 +9103,7 @@
 12	non	non	ADV	BN	PronType=Neg	14	advmod	_	Speaker=BOI012|TID=1096-2
 13	c'	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	14	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=BOI012|TID=1096-3
 14	andiamo	andare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	conj	_	Speaker=BOI012|TID=1096-4
-15	x	per	ADP	E	_	17	case	_	Speaker=BOI012|TID=1096-5|Type=unknown
+15	x	x	X	E	_	17	case	_	Speaker=BOI012|TID=1096-5|Type=unknown
 16	cioè	cioè	CCONJ	CC	_	17	cc	_	AlignEnd=2061.303|PaceFast=Yes|Speaker=BOI012|TID=1096-6
 17	centro	centro	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	AlignBegin=2061.467|Speaker=BOI012|TID=1097-0
 18	commerciale	commerciale	ADJ	A	Number=Sing	17	amod	_	AlignEnd=2062.764|Speaker=BOI012|TID=1097-1

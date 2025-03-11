@@ -535,7 +535,7 @@
 30	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	31	det	_	SpaceAfter=No|Speaker=BO118|TID=42-1
 31	atmosfera	atmosfera	NOUN	S	Gender=Fem|Number=Sing	29	obj	_	Speaker=BO118|TID=42-2
 32	familiare	familiare	ADJ	V	VerbForm=Inf	29	advcl	_	Speaker=BO118|TID=42-3
-33	x	per	X	E	_	34	case	_	AlignEnd=169.1|Overlapping=Yes|Speaker=BO118|TID=42-4|Type=unknown
+33	x	x	X	E	_	34	case	_	AlignEnd=169.1|Overlapping=Yes|Speaker=BO118|TID=42-4|Type=unknown
 34	sì	sì	INTJ	I	_	32	obl	_	AlignBegin=168.48|Overlapping=Yes|Speaker=BO140|TID=43-0
 35	sì	sì	INTJ	I	_	32	discourse	_	Overlapping=Yes|Speaker=BO140|TID=43-1
 36	sì	sì	INTJ	I	_	32	discourse	_	Overlapping=Yes|Speaker=BO140|TID=43-2
@@ -1800,7 +1800,7 @@
 2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	26	nsubj	_	Speaker=BO118|TID=128-9
 3	pure	pure	ADV	B	_	4	advmod	_	Speaker=BO118|TID=128-10
 4	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	26	obl	_	AlignEnd=502.19|Intonation=weakly_ascending|Speaker=BO118|TID=128-11
-5	x	per	ADP	E	_	7	mark	_	AlignBegin=502.545|Speaker=BO118|TID=129-0|Type=unknown
+5	x	x	X	E	_	7	mark	_	AlignBegin=502.545|Speaker=BO118|TID=129-0|Type=unknown
 6	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	7	aux	_	Speaker=BO118|TID=129-1
 7	visto	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	advcl	_	Speaker=BO118|TID=129-2
 8	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	Speaker=BO118|TID=129-3
@@ -1837,7 +1837,7 @@
 4	in	in	ADP	E	_	6	case	_	AlignBegin=512.164|Overlapping=Yes|Speaker=BO118|TID=132-0
 5	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	Overlapping=Yes|Speaker=BO118|TID=132-1
 6	via	via	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	Overlapping=Yes|Speaker=BO118|TID=132-2
-7	x	per	ADP	E	_	10	case	_	Overlapping=Yes|Speaker=BO118|TID=132-3|Type=unknown
+7	x	x	X	E	_	10	case	_	Overlapping=Yes|Speaker=BO118|TID=132-3|Type=unknown
 8	in	in	ADP	E	_	10	case	_	Speaker=BO118|TID=132-4
 9	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	Speaker=BO118|TID=132-5
 10	via	via	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	AlignEnd=513.84|Overlapping=Yes|Speaker=BO118|TID=132-6
@@ -2115,7 +2115,7 @@
 12	altra	altro	DET	A	_	13	amod	_	Speaker=BO118|TID=150-17
 13	casa	casa	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	AlignEnd=585.74|Intonation=ascending|Speaker=BO118|TID=150-18
 14	e	e	CCONJ	CC	_	17	cc	_	AlignBegin=586.5|Prolonged=Yes|Speaker=BO140|TID=151-0
-15	x	per	SYM	SYM	_	17	mark	_	AlignEnd=588.165|Speaker=BO140|TID=151-1|Type=unknown
+15	x	x	X	SYM	_	17	mark	_	AlignEnd=588.165|Speaker=BO140|TID=151-1|Type=unknown
 16	sia	essere	SCONJ	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	AlignBegin=588.255|Speaker=BO118|TID=152-0
 17	internamente	internamente	ADV	B	_	5	conj	_	Speaker=BO118|TID=152-1
 18	che	che	SCONJ	CS	_	20	mark	_	Speaker=BO118|TID=152-2
@@ -3914,7 +3914,7 @@
 1	cioè	cioè	CCONJ	CC	_	3	discourse	_	Overlapping=Yes|Speaker=BO140|TID=271-30
 2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignEnd=1070.25|Overlapping=Yes|Prolonged=Yes|Speaker=BO140|TID=271-31
 3	sì	sì	INTJ	I	_	0	root	_	AlignBegin=1069.708|Overlapping=Yes|Speaker=BO118|TID=272-0
-4	x	per	ADP	E	_	7	case	_	AlignEnd=1070.278|Overlapping=Yes|Speaker=BO118|TID=272-1|Type=unknown
+4	x	x	X	E	_	7	case	_	AlignEnd=1070.278|Overlapping=Yes|Speaker=BO118|TID=272-1|Type=unknown
 5	poi	poi	ADV	B	_	7	advmod	_	AlignBegin=1070.498|Speaker=BO118|TID=273-0
 6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Speaker=BO118|TID=273-1
 7	città	città	NOUN	S	Gender=Fem	3	obl	_	Speaker=BO118|TID=273-2
@@ -4260,7 +4260,7 @@
 21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	Speaker=BO118|TID=293-12
 22	miei	mio	NOUN	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	28	det:poss	_	AlignEnd=1161.713|Speaker=BO118|TID=293-13
 23	forse	forse	ADV	B	_	28	advmod	_	AlignBegin=1162.596|Speaker=BO118|TID=294-0
-24	x	per	ADP	E	_	25	case	_	Speaker=BO118|TID=294-1|Type=unknown
+24	x	x	X	E	_	25	case	_	Speaker=BO118|TID=294-1|Type=unknown
 25	più	più	ADV	B	_	28	advmod	_	Speaker=BO118|TID=294-2
 26-27	nel	_	_	_	_	_	_	_	Speaker=BO118|TID=294-3
 26	in	in	ADP	E	_	28	case	_	_
@@ -4682,7 +4682,7 @@
 20	gran~	gran~	X	SYM	_	33	nsubj	_	Interrupted=Yes|Speaker=BO140|TID=316-19
 21	più	più	ADV	B	_	22	advmod	_	Speaker=BO140|TID=316-20
 22	grande	grande	ADJ	A	Number=Plur	20	amod	_	Speaker=BO140|TID=316-21
-23	x	per	ADP	E	_	24	mark	_	Speaker=BO140|TID=316-22|Type=unknown
+23	x	x	X	E	_	24	mark	_	Speaker=BO140|TID=316-22|Type=unknown
 24	diciamo	dire	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	33	advcl	_	Speaker=BO140|TID=316-23
 25	più	più	ADV	B	_	26	advmod	_	Speaker=BO140|TID=316-24
 26	vicina	vicino	ADJ	A	Gender=Fem|Number=Sing	24	xcomp	_	Speaker=BO140|TID=316-25
@@ -5288,7 +5288,7 @@
 # jefferson_text = invece:, pe:saro xx la gente continua a: anzi to:rna perché è una città in cui stai bene. e:::: e quindi sì: abiterei a pesaro.
 1	invece	invece	CCONJ	B	_	2	advmod	_	AlignEnd=1426.5|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=365-30
 2	pesaro	pesaro	PROPN	A	Gender=Masc|Number=Sing	0	root	_	AlignBegin=1427.03|Prolonged=Yes|Speaker=BO140|TID=366-0
-3	x	per	ADP	E	_	6	mark	_	Speaker=BO140|TID=366-1|Type=unknown
+3	x	x	X	E	_	6	mark	_	Speaker=BO140|TID=366-1|Type=unknown
 4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Speaker=BO140|TID=366-2
 5	gente	gente	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	Speaker=BO140|TID=366-3
 6	continua	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	Speaker=BO140|TID=366-4
@@ -6291,7 +6291,7 @@
 # text = e x quella è un po' più particolare rispetto alle altr~ altri edifici
 # jefferson_text = e xx quella è un po' più particolare rispetto a::lle altr~ altri edifici
 1	e	e	CCONJ	CC	_	8	cc	_	AlignBegin=1644.62|Speaker=BO118|TID=433-0
-2	x	per	ADP	E	_	3	case	_	Speaker=BO118|TID=433-1|Type=unknown
+2	x	x	X	E	_	3	case	_	Speaker=BO118|TID=433-1|Type=unknown
 3	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	8	obl	_	Speaker=BO118|TID=433-2
 4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Speaker=BO118|TID=433-3
 5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Speaker=BO118|TID=433-4
@@ -6320,7 +6320,7 @@
 9	sia	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	Speaker=BO118|TID=434-1
 10	anni	anno	NOUN	S	Gender=Masc|Number=Plur	8	parataxis	_	Speaker=BO118|TID=434-2
 11	settanta	settanto	NUM	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	acl	_	Speaker=BO118|TID=434-3
-12	x	per	ADP	E	_	13	case	_	AlignEnd=1653.59|Overlapping=Yes|Speaker=BO118|TID=434-4|Type=unknown
+12	x	x	X	E	_	13	case	_	AlignEnd=1653.59|Overlapping=Yes|Speaker=BO118|TID=434-4|Type=unknown
 13	sì	sì	INTJ	I	_	11	obl	_	AlignEnd=1653.595|Overlapping=Yes|Speaker=BO140|TID=435-0
 14	a	a	ADP	E	_	15	case	_	AlignBegin=1655.83|Speaker=BO140|TID=436-0
 15	caso	caso	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	Speaker=BO140|TID=436-1
@@ -6348,7 +6348,7 @@
 2	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	3	expl	_	Clitic=Yes|Speaker=BO140|TID=438-2
 3	andrò	andare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	Speaker=BO140|TID=438-3
 4	comunque	comunque	ADV	B	_	3	advmod	_	AlignEnd=1661.72|Intonation=descending|Speaker=BO140|TID=438-4
-5	x	per	ADP	E	_	7	mark	_	AlignBegin=1662.011|Speaker=BO140|TID=439-0|Type=unknown
+5	x	x	X	E	_	7	mark	_	AlignBegin=1662.011|Speaker=BO140|TID=439-0|Type=unknown
 6	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	Speaker=BO140|TID=439-1
 7	andare	andare	VERB	V	VerbForm=Inf	3	advcl	_	Prolonged=Yes|Speaker=BO140|TID=439-2
 8	a	a	ADP	E	_	9	case	_	AlignEnd=1663.11|Intonation=weakly_ascending|Speaker=BO140|TID=439-3
