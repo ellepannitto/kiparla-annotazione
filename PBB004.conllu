@@ -5491,17 +5491,17 @@
 # sent_id = 464
 # text = così per conoscerci {ride}
 # jefferson_text = così per conoscerci {ride}
-1	così	così	ADV	B	_	4	advmod	_	AlignBegin=1194.756|Speaker=BOR005|TID=629-0
-2	per	per	ADP	E	_	4	mark	_	Speaker=BOR005|TID=629-1
-3	conoscerci	_	_	_	_	4	dep	_	AlignEnd=1196.267|Speaker=BOR005|TID=629-2
-4	conoscer	conoscere	VERB	V	VerbForm=Inf	0	root	_	_
-5	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes
-6	{ride}	-	X	_	_	4	dep	_	AlignEnd=1196.86|Speaker=BOR005|TID=630-0|Type=NLB
+1	così	così	ADV	B	_	3	advmod	_	AlignBegin=1194.756|Speaker=BOR005|TID=629-0
+2	per	per	ADP	E	_	3	mark	_	Speaker=BOR005|TID=629-1
+3-4	conoscerci	_	_	_	_	_	_	_	AlignEnd=1196.267|Speaker=BOR005|TID=629-2
+3	conoscer	conoscere	VERB	V	VerbForm=Inf	0	root	_	_
+4	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	3	expl	_	Clitic=Yes
+5	{ride}	-	X	_	_	4	dep	_	AlignEnd=1196.86|Speaker=BOR005|TID=630-0|Type=NLB
 
 # sent_id = 465
 # text = che lavoro fate
 # jefferson_text = che lavoro fate?
-1	che	che	DET	DE	PronType=Exc	2	det	_	AlignBegin=1197.045|Speaker=BOR005|TID=631-0
+1	che	che	PRON	DE	PronType=Exc	2	det	_	AlignBegin=1197.045|Speaker=BOR005|TID=631-0
 2	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	Speaker=BOR005|TID=631-1
 3	fate	fare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=1198.236|Intonation=ascending|Speaker=BOR005|TID=631-2
 
@@ -5597,7 +5597,7 @@
 # sent_id = 476
 # text = p~
 # jefferson_text = p~
-1	p~	p~	SYM	SYM	_	0	root	_	AlignBegin=1222.89|Interrupted=Yes|Speaker=BOI012|TID=648-0
+1	p~	p~	X	SYM	_	0	root	_	AlignBegin=1222.89|Interrupted=Yes|Speaker=BOI012|TID=648-0
 
 # sent_id = 477
 # text = ah io monto monto
@@ -5616,7 +5616,7 @@
 4-5	delle	_	_	_	_	_	_	_	Speaker=BOI012|TID=649-4
 4	di	di	ADP	E	_	6	case	_	_
 5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
-6	forbici	forbice	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	Speaker=BOI012|TID=649-5
+6	forbici	forbici	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	Speaker=BOI012|TID=649-5
 7	pneumatiche	pneumatico	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	AlignEnd=1228.511|Speaker=BOI012|TID=649-6
 
 # sent_id = 479
@@ -5683,7 +5683,7 @@
 6-7	delle	_	_	_	_	_	_	_	Speaker=BOI012|TID=655-3
 6	di	di	ADP	E	_	8	case	_	_
 7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
-8	olive	olive	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	Intonation=weakly_ascending|Speaker=BOI012|TID=655-4
+8	olive	oliva	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	Intonation=weakly_ascending|Speaker=BOI012|TID=655-4
 
 # sent_id = 486
 # text = per la potatura degli alberi quelle cose lì
@@ -5707,11 +5707,11 @@
 3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Speaker=BOR005|TID=656-2
 4	tuo	tuo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	Speaker=BOR005|TID=656-3
 5	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	Speaker=BOR005|TID=656-4
-6	gina	Gino	PROPN	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=1247.618|Intonation=ascending|Overlapping=Yes|Speaker=BOR005|TID=656-5
+6	gina	Gina	PROPN	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=1247.618|Intonation=ascending|Overlapping=Yes|Speaker=BOR005|TID=656-5
 7	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	AlignBegin=1247.333|Overlapping=Yes|Speaker=BOI013|TID=657-0
 8	{P}	-	X	_	_	6	dep	_	Overlapping=Yes|Speaker=BOI013|TID=657-1|Type=shortpause
-9	aiuto	aiutare	VERB	S	Gender=Masc|Number=Sing	10	nsubj	_	Speaker=BOI013|TID=657-2
-10	infermiera	infermiera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	AlignEnd=1248.886|Speaker=BOI013|TID=657-3
+9	aiuto	aiuto	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	Speaker=BOI013|TID=657-2
+10	infermiera	infermiere	NOUN	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	AlignEnd=1248.886|Speaker=BOI013|TID=657-3
 11	in	in	ADP	E	_	13	case	_	AlignBegin=1249.771|Speaker=BOI013|TID=658-0
 12	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	Speaker=BOI013|TID=658-1
 13	rsa	R.S.A.	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	AlignEnd=1251.005|Speaker=BOI013|TID=658-2
@@ -5791,7 +5791,7 @@
 # sent_id = 496
 # text = cambiereste lavoro
 # jefferson_text = [cambier]este lavoro?
-1	cambiereste	cambiare	DET	DD	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	AlignBegin=1269.159|Overlapping=Yes|Speaker=BOR005|TID=669-0
+1	cambiereste	cambiare	VERB	DD	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	AlignBegin=1269.159|Overlapping=Yes|Speaker=BOR005|TID=669-0
 2	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	0	root	_	AlignEnd=1270.457|Intonation=ascending|Speaker=BOR005|TID=669-1
 
 # sent_id = 497
@@ -5801,7 +5801,7 @@
 2	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	Overlapping=Yes|Speaker=BOI013|TID=670-1
 3	andare	andare	VERB	V	VerbForm=Inf	0	root	_	Overlapping=Yes|Speaker=BOI013|TID=670-2
 4	in	in	ADP	E	_	5	case	_	Overlapping=Yes|Speaker=BOI013|TID=670-3
-5	pensio~	pensio~	SYM	SYM	_	3	obl	_	Interrupted=Yes|Overlapping=Yes|Speaker=BOI013|TID=670-4
+5	pensio~	pensio~	X	SYM	_	3	obl	_	Interrupted=Yes|Overlapping=Yes|Speaker=BOI013|TID=670-4
 6	{ride}	-	X	_	_	3	dep	_	AlignEnd=1272.213|Speaker=BOI013|TID=670-5|Type=NLB
 
 # sent_id = 498
@@ -5825,7 +5825,7 @@
 # sent_id = 500
 # text = basta io trenta
 # jefferson_text = basta io>] [trenta]
-1	basta	basta	INTJ	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Overlapping=Yes|PaceSlow=Yes|Speaker=BOI012|TID=673-4
+1	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Overlapping=Yes|PaceSlow=Yes|Speaker=BOI012|TID=673-4
 2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	AlignEnd=1276.215|Overlapping=Yes|PaceSlow=Yes|Speaker=BOI012|TID=673-5
 3	trenta	trenta	NUM	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	AlignEnd=1274.467|Overlapping=Yes|Speaker=BOI013|TID=674-0
 
