@@ -5845,19 +5845,18 @@
 9	giovani	giovane	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	AlignEnd=1278.733|Overlapping=Yes|Speaker=BOI013|TID=675-6
 
 # sent_id = 502
-# text = ci vuole il turn around come lo chiamano i in inglese
+# text = ci vuole il turn-around come lo chiamano i in inglese
 # jefferson_text = [ci vuole il t]urn around >come lo chiamano< i:: [in inglese]
 1	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	2	iobj	_	AlignBegin=1277.958|Clitic=Yes|Overlapping=Yes|Speaker=BOI012|TID=676-0
 2	vuole	volere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Overlapping=Yes|Speaker=BOI012|TID=676-1
 3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Overlapping=Yes|Speaker=BOI012|TID=676-2
-4	turn	turno	X	SW	_	2	obj	_	Overlapping=Yes|Speaker=BOI012|TID=676-3
-5	around	aroundi	X	SW	_	2	obl	_	Speaker=BOI012|TID=676-4
-6	come	come	X	SW	_	8	nsubj	_	PaceFast=Yes|Speaker=BOI012|TID=676-5
-7	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|PaceFast=Yes|Speaker=BOI012|TID=676-6
-8	chiamano	chiamare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	PaceFast=Yes|Speaker=BOI012|TID=676-7
-9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	Prolonged=Yes|Speaker=BOI012|TID=676-8
-10	in	in	ADP	E	_	11	case	_	Overlapping=Yes|Speaker=BOI012|TID=676-9
-11	inglese	inglese	NOUN	S	Number=Sing	8	obl	_	AlignEnd=1281.235|Overlapping=Yes|Speaker=BOI012|TID=676-10
+4	turn-around	turn-around	NOUN	_	_	_	_	_	Overlapping=Yes|Speaker=BOI012|TID=TID=676-3,4
+5	come	come	X	SW	_	7	nsubj	_	PaceFast=Yes|Speaker=BOI012|TID=676-5
+6	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	Clitic=Yes|PaceFast=Yes|Speaker=BOI012|TID=676-6
+7	chiamano	chiamare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	PaceFast=Yes|Speaker=BOI012|TID=676-7
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	Prolonged=Yes|Speaker=BOI012|TID=676-8
+9	in	in	ADP	E	_	10	case	_	Overlapping=Yes|Speaker=BOI012|TID=676-9
+10	inglese	inglese	NOUN	S	Number=Sing	7	obl	_	AlignEnd=1281.235|Overlapping=Yes|Speaker=BOI012|TID=676-10
 
 # sent_id = 503
 # text = ma {P} ma il mio lavoro dopo ci vuol del ricambio
@@ -5877,18 +5876,19 @@
 12	ricambio	ricambio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	AlignEnd=1283.285|Overlapping=Yes|PaceSlow=Yes|Prolonged=Yes|Speaker=BOI012|TID=678-3
 
 # sent_id = 504
-# text = dopo i cinquantanni non è più possibile farlo
+# text = dopo i cinquant'anni non è più possibile farlo
 # jefferson_text = dopo i cinquantanni non è più possibile farlo
 1	dopo	dopo	ADP	E	_	3	case	_	AlignBegin=1283.323|Speaker=BOI013|TID=679-0
 2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	Speaker=BOI013|TID=679-1
-3	cinquantanni	cinquantanno	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	Speaker=BOI013|TID=679-2
-4	non	non	ADV	BN	PronType=Neg	7	advmod	_	Speaker=BOI013|TID=679-3
-5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	Speaker=BOI013|TID=679-4
-6	più	più	ADV	B	_	7	advmod	_	Speaker=BOI013|TID=679-5
-7	possibile	possibile	ADJ	A	Number=Sing	0	root	_	Speaker=BOI013|TID=679-6
-8	farlo	_	_	_	_	7	dep	_	AlignEnd=1285.873|Speaker=BOI013|TID=679-7
-9	far	fare	VERB	V	VerbForm=Inf	7	csubj	_	_
-10	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	Clitic=Yes
+3	cinquant'	cinquant'	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No|Speaker=BOI013|TID=679-2
+4	anni	anni	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	Speaker=BOI013|TID=679-2
+5	non	non	ADV	BN	PronType=Neg	8	advmod	_	Speaker=BOI013|TID=679-3
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Speaker=BOI013|TID=679-4
+7	più	più	ADV	B	_	8	advmod	_	Speaker=BOI013|TID=679-5
+8	possibile	possibile	ADJ	A	Number=Sing	0	root	_	Speaker=BOI013|TID=679-6
+9-10	farlo	_	_	_	_	_	_	_	_
+9	far	far	VERB	_	_	8	dep	_	AlignEnd=1285.873|Speaker=BOI013|TID=679-7
+10	lo	lo	PRON	_	_	8	dep	_	AlignEnd=1285.873|Speaker=BOI013|TID=679-7
 
 # sent_id = 505
 # text = mh non ci sei con la testa
