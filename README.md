@@ -8,6 +8,11 @@
 | Manuela | BOA3017 fino a frase 420 | |
 | Eleonora | PBB004 fino a frase 450 | |
 
+## Appunti BOA3017
+
+* [425]: deol, 'ste (lemma questo)
+* [436]: ne (>ne~)
+*
 
 ## Appunti PBB004
 * os, rsa > lemmatizzati come O.S.S., R.S.A.
