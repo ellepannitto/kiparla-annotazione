@@ -78,3 +78,19 @@
 - controllare lemma “sta” (spesso è _essere_)
 - 112—> sempre con tutte ragazze - tutte singole // tutte?
 - primo/primi = quando det e quando num?
+
+- **##Appunti PBB004 (Eleonora)**
+- dialetto?
+- pronomi interrogativi = va bene PRON?
+- _Dove_ relativo = PRON o ADV?
+- sì/no = ADV o INT?
+- lemma degli articoli (ora è _il_ per tutti)?
+- (36 e 182) _visto che_? (adesso è _visto_ VERB e _che_ SCONJ)
+- (69) _che cosa_ (ora PRON entrambe)
+- _tipo_?
+- (84, 84) _c'entrare_ o _centrare_?
+- (244 e 246) _fa_ in _anni fa_ ?
+- _Santo_ / _Don_ nome proprio ?
+- 
+- 
+- 
