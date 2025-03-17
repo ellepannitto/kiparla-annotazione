@@ -78,6 +78,16 @@
 - controllare lemma “sta” (spesso è _essere_)
 - 112—> sempre con tutte ragazze - tutte singole // tutte?
 - primo/primi = quando det e quando num?
+- - addormenta//mme (lemma = mi)
+- interventi modifica forma?
+- essere/avere in tempi composti, entrambi gli elementi sono glossati come AUX
+- piacere/preferire/… + inf —> piace è AUX?
+- il lemma di “lei” di default è “egli”. come si gestisce?
+- uno art. lemmatizzato di default “uno” (controllare)
+- miei (genitori) —> ho messo “miei” come lemma (?)
+- in generale qualche dubbio su num/det (v. frase 240)
+- che cos’è SYM?
+- sìùá = ?
 
 ## Appunti PBB004 (Eleonora)
 - dialetto?
