@@ -61,3 +61,11 @@
 - un- tag: x ma cosa si mette come lemma?
 - dove > ADV (zona dove abito) - correggere?
 - anch’ inserire automaticamente lemma anche
+- - @nomepaese lemmatizzare tutto con PROPN
+- manca @ a nomeluogo (aggiunta in 85 ma correggere sistematicamente)
+- open space si divide (come è ora) o va insieme come N?
+- h come token singolo (?)
+- x?
+- controllare lemma “sta” (spesso è _essere_)
+- 112—> sempre con tutte ragazze - tutte singole // tutte?
+- primo/primi = quando det e quando num?
