@@ -5,14 +5,22 @@
 | Caterina | TOD1005bis fino a frase 372 | |
 | Cristina | TOD1005bis da frase 373 in poi | |
 | Silvia | BOD2018 fino a frase 310 | |
-| Manuela | BOA3017 fino a frase 420 | |
+| Manuela | BOA3017 fino a frase 420 | done |
+| Ludovica | BOA3017 da 421 in poi | done |
 | Eleonora | PBB004 fino a frase 450 | |
 
 ## Appunti BOA3017
 
 * [425]: deol, 'ste (lemma questo)
-* [436]: ne (>ne~)
-*
+* [426]: ne (>ne~)
+* [433]: del la la ragazza
+* [446]: lavorande
+* [448, 450]: je?
+* [451]: parole straniere? yes indeed
+* Wojtyła?
+* [468]: xxxxs?
+* [481]: fo
+* [527]: bellissimo lemma bello o bellissimo?
 
 ## Appunti PBB004
 * os, rsa > lemmatizzati come O.S.S., R.S.A.
@@ -44,13 +52,14 @@
 
 - mhmh
 - ah
-- eh 
+- eh
 - oh
 - mh
 - beh
 - vabbè
 - ehm
 - ihih > forse {ride}?
+- vabbè
 
 
  ## Appunti BOD2018 (Silvia)
