@@ -39,10 +39,20 @@
 
 - mhmh
 - ah
-- eh
+- eh 
 - oh
 - mh
 - beh
 - vabbè
 - ehm
 - ihih > forse {ride}?
+
+
+ ## Appunti BOD2018 (Silvia)
+ - congiunzioni con valore pragmatico-discorsivo?
+- 8: stesso parlante?
+- tipo? (di defautl è ‘noun’)
+- appennini, bologna —> prop. noun e lemma maiuscolo?
+- un- tag: x ma cosa si mette come lemma?
+- dove > ADV (zona dove abito) - correggere?
+- anch’ inserire automaticamente lemma anche
