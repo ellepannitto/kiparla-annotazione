@@ -79,7 +79,7 @@
 - 112—> sempre con tutte ragazze - tutte singole // tutte?
 - primo/primi = quando det e quando num?
 
-- **##Appunti PBB004 (Eleonora)**
+## Appunti PBB004 (Eleonora)
 - dialetto?
 - pronomi interrogativi = va bene PRON?
 - _Dove_ relativo = PRON o ADV?
