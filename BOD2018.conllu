@@ -4491,7 +4491,7 @@
 18	o	o	CCONJ	CC	_	20	cc	_	AlignEnd=1225.41|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=305-12
 19	cioè	cioè	CCONJ	CC	_	20	cc	_	AlignBegin=1226.282|Speaker=BO140|TID=306-0
 20	possibilità	possibilità	NOUN	S	Gender=Fem	17	conj	_	Speaker=BO140|TID=306-1
-21	di	di	ADP	E	_	24	mark	_	Speaker=BO140|TID=306-2
+21	di	di	ADP	E	_	22	mark	_	Speaker=BO140|TID=306-2
 22-23	divertirmi	_	_	_	_	_	_	_	Prolonged=Yes|Speaker=BO140|TID=306-3
 22	divertir	divertir	VERB	_	_	5	dep	_	_
 23	mi	mi	PRON	_	_	5	dep	_	_
