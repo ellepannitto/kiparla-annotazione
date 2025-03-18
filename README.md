@@ -11,15 +11,35 @@
 
 ## Appunti BOA3017
 
-* [425]: deol, 'ste (lemma questo)
+### TODO:
+
+* [46]: pshh
+* (je forse è yeah?), ja wunderbar
+* [194]: mangia in realtà dice magna
+* 462: finalmente l'insalata?
+* tedesca di dresda che abbiamo > secondo me dice avemo
+* comunque pensavo di tornare ... voglia di fare > comunque pensavo di torna ... di fa
+* per cena vorrei essere qua > vorrei esse qua
+* 765 - come devi fare > come devi fa
+* la percentuale deve essere alta > la percentuale deve esse alta
+* a trattenere troppo > a trattene troppo
+* oggi non torni a casa a dormire > a casa a dormi
+* may day > mayday
+* PVU > cambiare con annotazione non verbale
+* ti fa pure schifo perché lo mangi > ti fa pure schifo perché lo magni?
+* sai che ieri io e x abbiamo parlato di myss keta > x è anonimizzato nell'audio, quindi forse propn?
+* uguale per tu 1104
+* 1043 parla tutta così xxxxxs > secondo me va sostituito con comportamento non verbale
+* sparare sempre e comunque > spara sempre e comunque
+* da quando sono nata penso > da quando so nata penso
+* 1114 manca anonimizzazione?
+
+
+* [376]: esse o esse > meglio esseoesse? così poi lemma S.O.S.
+* Angillete?
 * [426]: ne (>ne~)
 * [433]: del la la ragazza
-* [446]: lavorande
-* [448, 450]: je?
-* [451]: parole straniere? yes indeed
-* Wojtyła?
-* [468]: xxxxs?
-* [481]: fo
+
 * [527]: bellissimo lemma bello o bellissimo?
 
 ## Appunti PBB004
@@ -101,6 +121,6 @@
 - (84, 84) _c'entrare_ o _centrare_?
 - (244 e 246) _fa_ in _anni fa_ ?
 - _Santo_ / _Don_ nome proprio ?
-- 
-- 
-- 
+-
+-
+-

@@ -1,9 +1,9 @@
 # sent_id = 0
 # text = eccoci qua
 # jefferson_text = eccoci qua.
-1-2	eccoci	_	_	_	_	_	_	_	_
-1	ecco	ecco	ADV	B	_	0	root	_	AlignBegin=0.4|Speaker=BO139|TID=0-0
-2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	1	expl	_	AlignBegin=0.4|Speaker=BO139|TID=0-0
+1-2	eccoci	_	_	_	_	_	_	_	AlignBegin=0.4|Speaker=BO139|TID=0-0
+1	ecco	ecco	ADV	B	_	0	root	_	_
+2	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	1	expl	_	_
 3	qua	qua	ADV	B	_	1	advmod	_	Intonation=descending|Speaker=BO139|TID=0-1
 
 # sent_id = 1
@@ -823,7 +823,7 @@
 # jefferson_text = devi mettere delle parentesi quadre intorno alle parole ah okay che si sovrappongono come nei sottotitoli
 1	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	AlignBegin=184.972|Speaker=BO139|TID=123-0
 2	mettere	mettere	VERB	V	VerbForm=Inf	0	root	_	Speaker=BO139|TID=123-1
-3	delle	delle	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+3	delle	delle	DET	RI	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	4	det	_	Speaker=BO139|TID=123-2
 4	parentesi	parentesi	NOUN	S	Gender=Fem	2	obl	_	Speaker=BO139|TID=123-3
 5	quadre	quadre	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	Speaker=BO139|TID=123-4
 6	intorno	intorno	ADV	E	_	9	case	_	Speaker=BO139|TID=123-5
@@ -1062,9 +1062,9 @@
 6	lunghe	lungo	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	AlignEnd=237.1|Speaker=BO139|TID=153-7
 7	e	e	CCONJ	CC	_	9	cc	_	AlignBegin=237.65|Speaker=BO139|TID=154-0
 8	poi	poi	ADV	B	_	9	advmod	_	Speaker=BO139|TID=154-1
-9-10	tradurli	_	_	_	_	_	_	_	_
-9	tradur	tradurre	VERB	V	VerbForm=Inf	2	conj	_	Overlapping=Yes|Speaker=BO139|TID=154-2
-10	li	li	PRON	V	PronType=Prs	2	conj	_	Overlapping=Yes|Speaker=BO139|TID=154-2
+9-10	tradurli	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO139|TID=154-2
+9	tradur	tradurre	VERB	V	VerbForm=Inf	2	conj	_	_
+10	li	li	PRON	V	PronType=Prs	2	conj	_	_
 11	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	Overlapping=Yes|Speaker=BO139|TID=154-3
 12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Overlapping=Yes|Speaker=BO139|TID=154-4
 13	ca	ca~	X	SYM	_	9	obj	_	AlignEnd=238.78|Interrupted=Yes|Overlapping=Yes|Speaker=BO139|TID=154-5
@@ -1091,9 +1091,9 @@
 # text = poi tradurli è un casino perché cambia la lunghezza delle parole
 # jefferson_text = poi tradurli è un casino perché cambia la lunghezza delle parole
 1	poi	poi	ADV	B	_	6	advmod	_	AlignBegin=245.421|Speaker=BO139|TID=159-0
-2-3	tradurli	_	_	_	_	_	_	_	_
-2	tradur	tradurre	VERB	V	VerbForm=Inf	6	csubj	_	Speaker=BO139|TID=159-1
-3	li	li	PRON	PC	Clitic=Yes|PronType=Prs	2	obj	_	Speaker=BO139|TID=159-1
+2-3	tradurli	_	_	_	_	_	_	_	Speaker=BO139|TID=159-1
+2	tradur	tradurre	VERB	V	VerbForm=Inf	6	csubj	_	_
+3	li	li	PRON	PC	Clitic=Yes|PronType=Prs	2	obj	_	_
 4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	Speaker=BO139|TID=159-2
 5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Speaker=BO139|TID=159-3
 6	casino	casino	NOUN	S	Gender=Masc|Number=Sing	0	root	_	Speaker=BO139|TID=159-4
@@ -1267,9 +1267,9 @@
 # sent_id = 96
 # text = fottiti se no mh {ride} x è un po' difficile
 # jefferson_text = fottiti se no mh {ride} xx è un po' difficile
-1-2	fottiti	_	_	_	_	_	_	_	_
-1	fotti	fottere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=286.561|Speaker=BO147|TID=177-0
-2	ti	ti	PRON	V	PronType=Prs	1	expl	_	AlignBegin=286.561|Speaker=BO147|TID=177-0
+1-2	fottiti	_	_	_	_	_	_	_	AlignBegin=286.561|Speaker=BO147|TID=177-0
+1	fotti	fottere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ti	ti	PRON	V	PronType=Prs	1	expl	_	_
 3	se	se	SCONJ	CS	_	4	mark	_	Speaker=BO147|TID=177-1
 4	no	no	ADV	I	_	1	discourse	_	AlignEnd=287.4|Speaker=BO147|TID=177-2
 5	mh	mh	INTJ	I	_	1	discourse	_	AlignEnd=287.851|Speaker=BO139|TID=178-0
@@ -1452,9 +1452,9 @@
 1	ma	ma	CCONJ	CC	_	10	cc	_	AlignBegin=352.477|Prolonged=Yes|Speaker=BO147|TID=217-0
 2	oggi	oggi	ADV	B	_	10	advmod	_	Speaker=BO147|TID=217-1
 3	quando	quando	SCONJ	CS	_	7	mark	_	Speaker=BO147|TID=217-2
-4-5	gliel'	_	_	_	_	_	_	_	_
-4	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	Speaker=BO147|TID=217-3|Truncated=Yes
-5	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	Speaker=BO147|TID=217-3|Truncated=Yes
+4-5	gliel'	_	_	_	_	_	_	_	Speaker=BO147|TID=217-3|Truncated=Yes
+4	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+5	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
 6	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	Speaker=BO147|TID=217-4
 7	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	Speaker=BO147|TID=217-5
 8	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	Speaker=BO147|TID=217-6
@@ -1965,9 +1965,9 @@
 # text = ah gliel' ho detto a lara e giuliano
 # jefferson_text = [ah (glie)l' ho de]tto a lara e giuliano
 1	ah	ah	INTJ	I	_	5	discourse	_	AlignBegin=451.619|Overlapping=Yes|Speaker=BO145|TID=293-0
-2-3	gliel'	_	_	_	_	_	_	_	_
-2	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Overlapping=Yes|Speaker=BO145|TID=293-1|Truncated=Yes
-3	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Overlapping=Yes|Speaker=BO145|TID=293-1|Truncated=Yes
+2-3	gliel'	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO145|TID=293-1|Truncated=Yes
+2	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+3	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
 4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	Overlapping=Yes|Speaker=BO145|TID=293-2
 5	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Overlapping=Yes|Speaker=BO145|TID=293-3
 6	a	a	ADP	E	_	7	case	_	Speaker=BO145|TID=293-4
@@ -2368,7 +2368,7 @@
 # text = e 'sta qua
 # jefferson_text = e 'sta qua
 1	e	e	CCONJ	CC	_	2	cc	_	AlignBegin=549.373|Speaker=BO139|TID=359-0
-2	'sta	questo	PRON	V	Gender=Fem|Number=Sing|PronType=Dem	0	root	_	_
+2	'sta	questo	PRON	V	Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Speaker=BO139|TID=359-1
 3	qua	qua	ADV	B	_	2	advmod	_	Speaker=BO139|TID=359-2
 
 # sent_id = 180
@@ -2444,9 +2444,9 @@
 6	non	non	ADV	BN	PronType=Neg	7	advmod	_	Speaker=BO139|TID=364-5
 7	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	Speaker=BO139|TID=364-6
 8	come	come	SCONJ	E	_	9	mark	_	Speaker=BO139|TID=364-7
-9-10	descriverlo	_	_	_	_	_	_	_	_
-9	descriver	descriver	VERB	V	VerbForm=Inf	7	ccomp	_	Intonation=descending|Speaker=BO139|TID=364-8
-10	lo	lo	PRON	PC	Clitic=Yes|PronType=Prs	9	obj	_	Intonation=descending|Speaker=BO139|TID=364-8
+9-10	descriverlo	_	_	_	_	_	_	_	Intonation=descending|Speaker=BO139|TID=364-8
+9	descriver	descriver	VERB	V	VerbForm=Inf	7	ccomp	_	_
+10	lo	lo	PRON	PC	Clitic=Yes|PronType=Prs	9	obj	_	_
 
 # sent_id = 186
 # text = è gottlieb
@@ -2525,7 +2525,7 @@
 7	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	iobj	_	Speaker=BO146|TID=376-6
 8	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=580.397|Speaker=BO146|TID=376-7
 9	no	no	INTJ	I	_	8	discourse	_	AlignEnd=581.302|PaceSlow=Yes|Speaker=BO147|TID=377-0
-10	dai	dare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	discourse	_	_
+10	dai	dare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	discourse	_	Speaker=BO147|TID=378-0
 11	perché	perché	ADV	CS	_	14	mark	_	Speaker=BO147|TID=378-1
 12	x	x	X	E	_	13	case	_	Speaker=BO147|TID=378-2|Type=unknown
 13	ha	ha	INTJ	PR	_	14	obl	_	Overlapping=Yes|Speaker=BO147|TID=378-3
@@ -2619,8 +2619,8 @@
 12	tanto	tanto	ADV	B	_	11	advmod	_	Speaker=BO139|TID=397-11
 
 # sent_id = 202
-# text = e poi non devi trascrivere {canta} {canta}l' angillete {ride} {ride}
-# jefferson_text = e poi non devi trascrivere {canta} {canta}l' (angillete) {ride} {ride}
+# text = e poi non devi trascrivere {canta} {canta} l'angillete {ride} {ride}
+# jefferson_text = e poi non devi trascrivere {canta} {canta} l'(angillete) {ride} {ride}
 # tags = TO DISCUSS
 1	e	e	CCONJ	CC	_	5	cc	_	Speaker=BO139|TID=397-12
 2	poi	poi	ADV	B	_	5	advmod	_	Speaker=BO139|TID=397-13
@@ -2820,38 +2820,35 @@
 5	{ride}	-	X	_	_	4	dep	_	AlignEnd=647.512|Speaker=BO139|TID=434-3|Type=NLB
 
 # sent_id = 215
-# text = che cosa vuoi da me {cantando} {ride}
+# text = che cosa vuoi da me {ride}
 # jefferson_text = che cosa vuoi da me? {cantando} {ride}
-1	che	che	DET	PR	PronType=Int	2	det	_	AlignBegin=647.882|Speaker=BO147|TID=435-0
-2	cosa	cosa	NOUN	PQ	PronType=Int	3	obj	_	Speaker=BO147|TID=435-1
-3	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO147|TID=435-2
-4	da	da	ADP	E	_	5	case	_	Speaker=BO147|TID=435-3
-5	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	obl	_	Intonation=ascending|Speaker=BO147|TID=435-4
-6	{cantando}	-	X	_	_	3	dep	_	AlignEnd=649.61|Speaker=BO147|TID=435-5|Type=_
-7	{ride}	-	X	_	_	3	dep	_	AlignEnd=649.922|Speaker=BO145|TID=436-0|Type=NLB
+1	che	che	DET	PR	PronType=Int	2	det	_	AlignBegin=647.882|Modality=singing|Speaker=BO147|TID=435-0
+2	cosa	cosa	NOUN	PQ	PronType=Int	3	obj	_	Modality=singing|Speaker=BO147|TID=435-1
+3	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Modality=singing|Speaker=BO147|TID=435-2
+4	da	da	ADP	E	_	5	case	_	Modality=singing|Speaker=BO147|TID=435-3
+5	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	obl	_	Intonation=ascending|Modality=singing|Speaker=BO147|TID=435-4
+6	{ride}	-	X	_	_	3	dep	_	AlignEnd=649.922|Speaker=BO145|TID=436-0|Type=NLB
 
 # sent_id = 216
-# text = x che cosa ti aspetti {cantando}
+# text = x che cosa ti aspetti
 # jefferson_text = x [che cosa ti aspe]tti {cantando}
-1	x	x	X	E	_	5	dep	_	AlignEnd=649.922|Speaker=BO139|TID=437-0|Type=unknown
-2	che	che	DET	DQ	PronType=Int	3	det	_	AlignBegin=649.942|Overlapping=Yes|Speaker=BO145|TID=438-0
-3	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	Overlapping=Yes|Speaker=BO145|TID=438-1
-4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	expl	_	Overlapping=Yes|Speaker=BO145|TID=438-2
-5	aspetti	aspettare	VERB	V	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Overlapping=Yes|Speaker=BO145|TID=438-3
-6	{cantando}	-	X	_	_	5	dep	_	AlignEnd=651.382|Speaker=BO145|TID=438-4|Type=_
+1	x	x	X	E	_	5	dep	_	AlignEnd=649.922|Modality=singing|Speaker=BO139|TID=437-0|Type=unknown
+2	che	che	DET	DQ	PronType=Int	3	det	_	AlignBegin=649.942|Modality=singing|Overlapping=Yes|Speaker=BO145|TID=438-0
+3	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	Modality=singing|Overlapping=Yes|Speaker=BO145|TID=438-1
+4	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	expl	_	Modality=singing|Overlapping=Yes|Speaker=BO145|TID=438-2
+5	aspetti	aspettare	VERB	V	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Modality=singing|Overlapping=Yes|Speaker=BO145|TID=438-3
 
 # sent_id = 217
-# text = aspetti dentro di te {cantando} {ride} {ride} {ride} {ride}
+# text = aspetti dentro di te {ride} {ride} {ride} {ride}
 # jefferson_text = [(as)petti] dentro di te {cantando} {ride} {ride} {ride} {ride}
-1	aspetti	aspettare	VERB	S	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=650.987|Overlapping=Yes|Speaker=BO147|TID=439-0
-2	dentro	dentro	ADV	E	_	4	case	_	Speaker=BO147|TID=439-1
-3	di	di	ADP	E	_	4	case	_	Speaker=BO147|TID=439-2
-4	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	1	nmod	_	Speaker=BO147|TID=439-3
-5	{cantando}	-	X	_	_	1	dep	_	Speaker=BO147|TID=439-4|Type=_
-6	{ride}	-	X	_	_	1	dep	_	AlignEnd=654|Speaker=BO147|TID=439-5|Type=NLB
-7	{ride}	-	X	_	_	1	dep	_	AlignEnd=653.017|Speaker=BO145|TID=440-0|Type=NLB
-8	{ride}	-	X	_	_	1	dep	_	AlignEnd=654.858|Speaker=BO139|TID=441-0|Type=NLB
-9	{ride}	-	X	_	_	1	dep	_	AlignEnd=655.808|Speaker=BO147|TID=442-0|Type=NLB
+1	aspetti	aspettare	VERB	S	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=650.987|Modality=singing|Overlapping=Yes|Speaker=BO147|TID=439-0
+2	dentro	dentro	ADV	E	_	4	case	_	Modality=singing|Speaker=BO147|TID=439-1
+3	di	di	ADP	E	_	4	case	_	Modality=singing|Speaker=BO147|TID=439-2
+4	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	1	nmod	_	Modality=singing|Speaker=BO147|TID=439-3
+5	{ride}	-	X	_	_	1	dep	_	AlignEnd=654|Speaker=BO147|TID=439-5|Type=NLB
+6	{ride}	-	X	_	_	1	dep	_	AlignEnd=653.017|Speaker=BO145|TID=440-0|Type=NLB
+7	{ride}	-	X	_	_	1	dep	_	AlignEnd=654.858|Speaker=BO139|TID=441-0|Type=NLB
+8	{ride}	-	X	_	_	1	dep	_	AlignEnd=655.808|Speaker=BO147|TID=442-0|Type=NLB
 
 # sent_id = 218
 # text = perfetta quella canzone
@@ -3154,6 +3151,7 @@
 10	di'	dire	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	Speaker=BO146|TID=501-1|Truncated=Yes
 11	di'	dire	VERB	PC	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	conj	_	AlignEnd=740.157|Speaker=BO146|TID=501-2|Truncated=Yes
 12	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	AlignBegin=740.527|Speaker=BO146|TID=502-0
+13-14	saperla	_	_	_	_	_	_	_	Speaker=BO146|TID=502-0
 13	saper	sapere	VERB	V	VerbForm=Inf	10	parataxis	_	_
 14	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
 
@@ -3184,12 +3182,13 @@
 # jefferson_text = badile può darsi
 1	badile	badile	NOUN	A	Number=Sing	3	nsubj	_	AlignEnd=745.12|Speaker=BO139|TID=506-0
 2	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	AlignBegin=745.282|Speaker=BO146|TID=507-0
+3-4	darsi	_	_	_	_	_	_	_	Speaker=BO146|TID=507-1
 3	dar	dare	VERB	V	VerbForm=Inf	0	root	_	_
 4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl	_	_
 
 # sent_id = 246
 # text = okay allora si vede che nelle mar te no si vede che nelle marche non si usa eh può darsi però badile è è tipo mh cos'è tipo la vanga
-# jefferson_text = okay allora si vede che nelle [mar~] [te]? no [si vede che] nelle marche non si usa [eh] può darsi però ba[dile] [è è=ti]po [mh][cos]' è? tipo la vanga
+# jefferson_text = okay allora si vede che nelle [mar~] [te]? no [si vede che] nelle marche non si usa [eh] può darsi però ba[dile] [è è=ti]po [mh] [cos]'è? tipo la vanga
 # tags = TO DISCUSS
 1	okay	okay	INTJ	I	_	12	discourse	_	AlignEnd=746.772|Speaker=BO139|TID=508-0
 2	allora	allora	ADV	B	_	12	advmod	_	AlignBegin=746.812|Speaker=BO139|TID=509-0
@@ -3583,8 +3582,8 @@
 4	compri	comprare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO145|TID=597-2
 
 # sent_id = 267
-# text = l' uovo mh madonna quant' è buono
-# jefferson_text = l' (uovo)? [m::h (madonna) qua]nt' è (buono)
+# text = l'uovo mh madonna quant' è buono
+# jefferson_text = l'(uovo)? [m::h (madonna) qua]nt' è (buono)
 1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|Speaker=BO145|TID=597-3
 2	uovo	uovo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	AlignEnd=883|Intonation=ascending|Speaker=BO145|TID=597-4
 3	mh	mh	INTJ	I	_	7	discourse	_	AlignBegin=884.715|Overlapping=Yes|Prolonged=Yes|Speaker=BO146|TID=598-0
@@ -3822,9 +3821,9 @@
 9	intero	intero	ADJ	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	Speaker=BO145|TID=623-7
 10	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	9	obj	_	Speaker=BO145|TID=623-8
 11	grosso	grosso	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	Speaker=BO145|TID=623-9
-12-13	gliel'	_	_	_	_	_	_	_	_
-12	glie	glie	PRON	PC	Clitic=Yes|PronType=Prs	15	iobj	_	Speaker=BO145|TID=623-10|Truncated=Yes
-13	l'	l'	PRON	PC	Clitic=Yes|PronType=Prs	15	iobj	_	Speaker=BO145|TID=623-10|Truncated=Yes
+12-13	gliel'	_	_	_	_	_	_	_	Speaker=BO145|TID=623-10|Truncated=Yes
+12	glie	glie	PRON	PC	Clitic=Yes|PronType=Prs	15	iobj	_	_
+13	l'	l'	PRON	PC	Clitic=Yes|PronType=Prs	15	iobj	_	_
 14	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	Speaker=BO145|TID=623-11
 15	portato	portare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO145|TID=623-12
 16	manzo	manzo	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	Speaker=BO145|TID=623-13
@@ -3919,8 +3918,8 @@
 6	braccialetto	braccialetto	NOUN	S	Gender=Masc|Number=Sing	2	ccomp	_	Overlapping=Yes|Speaker=BO147|TID=636-5
 
 # sent_id = 293
-# text = x te non mangil' uovo di pasqua
-# jefferson_text = xx]) [te non ma]ngil' (uovo) (di) pasqua
+# text = x te non mangi l'uovo di pasqua
+# jefferson_text = xx]) [te non ma]ngi l'(uovo) (di) pasqua
 1	x	x	X	E	_	2	case	_	AlignEnd=944.76|Overlapping=Yes|Speaker=BO147|TID=636-6|Type=unknown
 2	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	AlignBegin=944.44|Overlapping=Yes|Speaker=BO145|TID=637-0
 3	non	non	ADV	BN	PronType=Neg	4	advmod	_	Overlapping=Yes|Speaker=BO145|TID=637-1
@@ -3931,8 +3930,8 @@
 8	pasqua	Pasqua	PROPN	SP	_	6	nmod	_	AlignEnd=945.48|Speaker=BO145|TID=637-6
 
 # sent_id = 294
-# text = cioè mh non ti piacel' uovo di pasqua
-# jefferson_text = =>cioè< m:::h non (ti) piacel' (uovo) (di) pasqua?
+# text = cioè mh non ti piace l'uovo di pasqua
+# jefferson_text = =>cioè< m:::h non (ti) piace l'(uovo) (di) pasqua?
 1	cioè	cioè	CCONJ	CC	_	5	cc	_	AlignBegin=945.9|PaceFast=Yes|ProsodicLink=Yes|Speaker=BO139|TID=638-0
 2	mh	mh	INTJ	I	_	5	discourse	_	AlignEnd=947.41|Prolonged=Yes|Speaker=BO139|TID=638-1
 3	non	non	ADV	BN	PronType=Neg	5	advmod	_	AlignBegin=947.57|Speaker=BO147|TID=639-0
@@ -4064,8 +4063,8 @@
 20	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	Speaker=BO147|TID=647-7
 
 # sent_id = 305
-# text = l' uovo di pasqua che c' è {ride}
-# jefferson_text = l' (uovo) (di) [pasqua] [che c' è]? {ride}
+# text = l'uovo di pasqua che c' è {ride}
+# jefferson_text = l'(uovo) (di) [pasqua] [che c' è]? {ride}
 1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|Speaker=BO147|TID=647-8
 2	uovo	uovo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	Speaker=BO147|TID=647-9
 3	di	di	ADP	E	_	4	case	_	Speaker=BO147|TID=647-10
@@ -4475,8 +4474,8 @@
 8	ancora	ancora	ADV	B	_	5	advmod	_	AlignEnd=1119.175|Speaker=BO145|TID=706-4
 
 # sent_id = 335
-# text = ah sì sì ah nonl' avevo visto {ride}
-# jefferson_text = ah sì? sì ah nonl' >avevo< visto {ride}
+# text = ah sì sì ah non l'avevo visto {ride}
+# jefferson_text = ah sì? sì ah non l'>avevo< visto {ride}
 1	ah	ah	INTJ	I	_	3	discourse	_	AlignBegin=1119.245|Speaker=BO139|TID=707-0
 2	sì	sì	INTJ	I	_	3	discourse	_	AlignEnd=1119.745|Intonation=ascending|Speaker=BO139|TID=707-1
 3	sì	sì	INTJ	I	_	8	discourse	_	AlignEnd=1120.015|Speaker=BO145|TID=708-0
@@ -4592,25 +4591,23 @@
 99	x	x	X	E	_	102	case	_	AlignEnd=1161.851|Overlapping=Yes|Speaker=BO145|TID=741-6|Type=unknown
 100	{ride}	-	X	_	_	77	dep	_	AlignEnd=1161.637|Speaker=BO139|TID=742-0|Type=NLB
 101	da	da	ADP	E	_	102	case	_	AlignBegin=1161.673|Overlapping=Yes|Speaker=BO147|TID=743-0
-102	naturasì	NaturaSì	NOUN	S	Gender=Fem|Number=Sing	98	obl	_	Overlapping=Yes|Speaker=BO147|TID=743-1
-103	comprar	comprar	VERB	_	VerbForm=Inf	77	dep	_	Speaker=BO147|TID=743-3
-104	glie	glie	PRON	_	Clitic=Yes|PronType=Prs	77	dep	_	Speaker=BO147|TID=743-3
-105	lo	lo	VERB	_	Clitic=Yes|PronType=Prs	77	dep	_	Speaker=BO147|TID=743-3
+102	naturasì	NaturaSì	NOUN	S	Gender=Fem|Number=Sing	98	obl	_	Overlapping=Yes|Speaker=BO147|TID=743-1,2
+103-105	compraglielo	_	_	_	_	_	_	_	Speaker=BO147|TID=743-3
+103	compra	comprare	VERB	_	VerbForm=Inf	77	dep	_	_
+104	glie	glie	PRON	_	Clitic=Yes|PronType=Prs	77	dep	_	_
+105	lo	lo	PRON	_	Clitic=Yes|PronType=Prs	77	dep	_	_
 106	{ride}	-	X	_	_	77	dep	_	AlignEnd=1163.159|Speaker=BO147|TID=743-4|Type=NLB
 107	{ride}	-	X	_	_	77	dep	_	AlignEnd=1163.486|Speaker=BO139|TID=744-0|Type=NLB
 108	{ride}	-	X	_	_	77	dep	_	AlignEnd=1164.178|Speaker=BO145|TID=745-0|Type=NLB
-109	compra	comprare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	77	parataxis	_	_
 110	{ride}	-	X	_	_	77	dep	_	AlignEnd=1164.711|Speaker=BO147|TID=746-0|Type=NLB
-111	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	109	iobj	_	_
-112	{ride}	-	X	_	_	77	dep	_	AlignEnd=1167.39|Speaker=BO139|TID=747-0|Type=NLB
-113	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	115	det	_	_
-114	{ride}	-	X	_	_	77	dep	_	AlignEnd=1167.723|Speaker=BO147|TID=748-0|Type=NLB
-115	x	x	X	SYM	_	116	nsubj	_	AlignBegin=1167.731|Speaker=BO145|TID=749-0|Type=unknown
-116	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	109	conj	_	Speaker=BO145|TID=749-1
-117	che	che	SCONJ	CS	_	120	mark	_	Speaker=BO145|TID=749-2
-118	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	120	cop	_	Speaker=BO145|TID=749-3
-119	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	120	obl	_	Speaker=BO145|TID=749-4
-120	scemi	scemo	ADJ	A	Gender=Masc|Number=Plur	116	ccomp	_	Speaker=BO145|TID=749-5
+111	{ride}	-	X	_	_	77	dep	_	AlignEnd=1167.39|Speaker=BO139|TID=747-0|Type=NLB
+112	{ride}	-	X	_	_	77	dep	_	AlignEnd=1167.723|Speaker=BO147|TID=748-0|Type=NLB
+113	x	x	X	SYM	_	116	nsubj	_	AlignBegin=1167.731|Speaker=BO145|TID=749-0|Type=unknown
+114	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	109	conj	_	Speaker=BO145|TID=749-1
+115	che	che	SCONJ	CS	_	118	mark	_	Speaker=BO145|TID=749-2
+116	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	118	cop	_	Speaker=BO145|TID=749-3
+117	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	118	obl	_	Speaker=BO145|TID=749-4
+118	scemi	scemo	ADJ	A	Gender=Masc|Number=Plur	116	ccomp	_	Speaker=BO145|TID=749-5
 
 # sent_id = 337
 # text = quelli che vanno da naturasì a parte me {ride} {ride} costerà trenta euro
@@ -4619,7 +4616,7 @@
 2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	Speaker=BO145|TID=749-7
 3	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	Speaker=BO145|TID=749-8
 4	da	da	ADP	E	_	5	case	_	Speaker=BO145|TID=749-9
-5	naturasì	NaturaSì	PROPN	S	Gender=Fem|Number=Sing	3	obl	_	Speaker=BO145|TID=749-10
+5	naturasì	NaturaSì	PROPN	S	Gender=Fem|Number=Sing	3	obl	_	Speaker=BO145|TID=749-10,11
 6	a	a	ADP	E	_	7	case	_	Speaker=BO145|TID=749-12
 7	parte	parte	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	Speaker=BO145|TID=749-13
 8	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	expl	_	AlignEnd=1170.531|Overlapping=Yes|Speaker=BO145|TID=749-14
@@ -4638,7 +4635,7 @@
 3	di	di	ADP	E	_	4	case	_	Speaker=BO147|TID=752-5
 4	marca	marca	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	Speaker=BO147|TID=752-6
 5	da	da	ADP	E	_	6	case	_	Speaker=BO147|TID=752-7
-6	naturasì	NaturaSì	PROPN	S	Gender=Fem|Number=Sing	2	nmod	_	Speaker=BO147|TID=752-8
+6	naturasì	NaturaSì	PROPN	S	Gender=Fem|Number=Sing	2	nmod	_	Speaker=BO147|TID=752-8,9
 7	{ride}	-	X	_	_	2	dep	_	AlignEnd=1171.753|Speaker=BO139|TID=753-0|Type=NLB
 8	cioè	cioè	CCONJ	CC	_	16	cc	_	AlignBegin=1172.853|Speaker=BO145|TID=754-0
 9	{P}	-	X	_	_	2	dep	_	Speaker=BO145|TID=754-1|Type=shortpause
@@ -4850,7 +4847,7 @@
 # text = marcello dai x che {ride} infatti {ride} prima si mangiava i kebab poi ha scoperto che è intollerante al glutine
 # jefferson_text = marcello dai] [xxx che {ride} (>in<)fa]tti {ride} prima (si) (mangiava) i kebab (poi) ha scoperto che è intollerante al glutine
 1	marcello	Marcello	PROPN	S	_	0	root	_	Overlapping=Yes|Speaker=BO145|TID=780-3
-2	dai	dai	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	dep	_	_
+2	dai	dai	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	dep	_	Overlapping=Yes|Speaker=BO145|TID=780-4
 3	x	x	X	SYM	_	1	nmod	_	AlignBegin=1214.228|Overlapping=Yes|Speaker=BO146|TID=781-0|Type=unknown
 4	che	che	SCONJ	PR	PronType=Rel	10	nsubj	_	Overlapping=Yes|Speaker=BO146|TID=781-1
 5	{ride}	-	X	_	_	1	dep	_	Overlapping=Yes|Speaker=BO146|TID=781-2|Type=NLB
@@ -4892,8 +4889,8 @@
 14	{ride}	-	X	_	_	6	dep	_	AlignEnd=1224.645|Speaker=BO139|TID=786-0|Type=NLB
 
 # sent_id = 357
-# text = aun' altra cosa
-# jefferson_text = a(>un<)' altra cosa
+# text = a un'altra cosa
+# jefferson_text = a (>un<)'altra cosa
 1	a	a	INTJ	E	_	4	discourse	_	AlignBegin=1224.512|Speaker=BO147|TID=787-0
 2	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	PaceFast=Yes|SpaceAfter=No|Speaker=BO147|TID=787-1
 3	altra	altro	DET	DI	PronType=Ind	4	det	_	Speaker=BO147|TID=787-2
@@ -5204,7 +5201,7 @@
 16	sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	cop	_	Speaker=BO145|TID=852-1
 17	serio	serio	ADJ	A	Gender=Masc|Number=Sing	2	conj	_	Speaker=BO145|TID=852-2
 18	con	con	ADP	E	_	20	case	_	Speaker=BO145|TID=852-3
-19	'sti	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	20	det	_	_
+19	'sti	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	20	det	_	Speaker=BO145|TID=852-4
 20	capelli	capello	NOUN	S	Gender=Masc|Number=Plur	17	obl	_	Intonation=descending|Speaker=BO145|TID=852-5
 21	pari	parere	VERB	A	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	20	amod	_	Speaker=BO145|TID=852-6
 22	matto	matto	ADJ	B	_	2	dep	_	Speaker=BO145|TID=852-7
@@ -5273,9 +5270,9 @@
 # text = sai farlo
 # jefferson_text = sai farlo
 1	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=1339.371|Speaker=BO139|TID=866-0
-2-3	farlo	_	_	_	_	_	_	_	_
-2	far	far	VERB	V	VerbForm=Inf	1	xcomp	_	AlignBegin=1339.371|Speaker=BO139|TID=866-0
-3	lo	lo	PRON	V	Clitic=Yes|PronType=Prs	2	obj	_	AlignBegin=1339.371|Speaker=BO139|TID=866-0
+2-3	farlo	_	_	_	_	_	_	_	AlignBegin=1339.371|Speaker=BO139|TID=866-0
+2	far	far	VERB	V	VerbForm=Inf	1	xcomp	_	_
+3	lo	lo	PRON	V	Clitic=Yes|PronType=Prs	2	obj	_	_
 
 # sent_id = 391
 # text = tu non so fare
@@ -5447,7 +5444,7 @@
 # text = x dai {ride} testa di cazzo
 # jefferson_text = x[xxxxx] [da:i] {ride} testa di cazzo
 1	x	x	X	E	_	4	case	_	AlignEnd=1387.043|Overlapping=Yes|Speaker=BO145|TID=896-3|Type=unknown
-2	dai	dare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	discourse	_	_
+2	dai	dare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	discourse	_	Overlapping=Yes|Speaker=BO147|TID=897-0
 3	{ride}	-	X	_	_	4	dep	_	AlignEnd=1388.022|Speaker=BO139|TID=898-0|Type=NLB
 4	testa	testa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	AlignBegin=1388.047|Speaker=BO139|TID=899-0
 5	di	di	ADP	E	_	6	case	_	Speaker=BO139|TID=899-1
@@ -5500,7 +5497,7 @@
 8	sacco	sacco	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	AlignEnd=1399.204|Speaker=BO139|TID=906-7
 9	a	a	ADP	E	_	10	mark	_	AlignBegin=1400.196|Speaker=BO139|TID=907-0
 10	far	fare	VERB	V	VerbForm=Inf	6	xcomp	_	Speaker=BO139|TID=907-1
-11	'sta	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	12	det	_	_
+11	'sta	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	12	det	_	Speaker=BO139|TID=907-1
 12	roba	roba	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	Speaker=BO139|TID=907-3
 
 # sent_id = 412
@@ -5730,7 +5727,7 @@
 13	eh	eh	INTJ	I	_	14	discourse	_	AlignBegin=1448.31|Overlapping=Yes|Prolonged=Yes|ProsodicLink=Yes|Speaker=BO139|TID=935-0
 14	mh	mh	INTJ	I	_	12	conj	_	AlignEnd=1449.485|Prolonged=Yes|Speaker=BO139|TID=935-1
 15	e	e	CCONJ	CC	_	18	cc	_	AlignBegin=1449.726|Speaker=BO139|TID=936-0
-16	'ste	'ste	DET	_	_	_	_	_	_
+16	'ste	questo	DET	_	_	_	_	_	Speaker=BO139|TID=936-1
 17	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	18	det:poss	_	Prolonged=Yes|Speaker=BO139|TID=936-2
 18	coinquiline	coinquilino	NOUN	S	Gender=Fem|Number=Plur	12	conj	_	Speaker=BO139|TID=936-3
 19	convinte	convinto	ADJ	A	Number=Sing	18	amod	_	Prolonged=Yes|Speaker=BO139|TID=936-4
@@ -5745,7 +5742,7 @@
 28	perché	perché	SCONJ	CS	_	30	mark	_	Speaker=BO139|TID=936-13
 29	han	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	aux	_	Speaker=BO139|TID=936-14
 30	visto	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	advcl	_	Speaker=BO139|TID=936-15
-31	'sti	'sti	DET	_	_	_	_	_	_
+31	'sti	questo	DET	_	_	_	_	_	Speaker=BO139|TID=936-16
 32	libri	libro	NOUN	S	Gender=Masc|Number=Plur	30	obj	_	Speaker=BO139|TID=936-17
 33	che	che	SCONJ	CS	_	36	mark	_	Speaker=BO139|TID=936-18
 34	lei	egli	PRON	PE	Gender=Fem|Number=Sing|PronType=Prs	36	nsubj	_	Speaker=BO139|TID=936-19
@@ -5774,10 +5771,10 @@
 17	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	acl:relcl	_	Speaker=BO139|TID=937-16
 18	ne	ne	ADP	PC	Clitic=Yes|PronType=Prs	23	iobj	_	Speaker=BO139|TID=937-17
 19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	Speaker=BO139|TID=937-18
-20-22	nel	_	_	_	_	_	_	_	AlignBegin=1461.336|Speaker=BO139|TID=938-0
+20-21	nel	_	_	_	_	_	_	_	AlignBegin=1461.336|Speaker=BO139|TID=938-0
 20	in	in	ADP	E	_	23	case	_	_
-21	{ride}	-	X	_	_	3	dep	_	AlignEnd=1460.858|Speaker=BO139|TID=937-19|Type=NLB
-22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+21	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+22	{ride}	-	X	_	_	3	dep	_	AlignEnd=1460.858|Speaker=BO139|TID=937-19|Type=NLB
 23	cassetto	cassetto	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	AlignEnd=1462.266|Overlapping=Yes|Speaker=BO139|TID=938-1
 
 # sent_id = 427
@@ -5873,7 +5870,7 @@
 # text = poi 'ste qua hanno chiamato la madre della tipa del~ la la ragazza in questione dicendo mh guarda tua figlia fa parte o i di mh cioè fa dei riti satanici in casa
 # jefferson_text = poi 'ste qua hanno chiamato la madre della tipa del~ la la raga[zza in questio]ne >dicendo< [mh] guarda tua figlia fa=(parte=o: i)=di: mh >cioè< fa dei riti satanici in casa
 1	poi	poi	ADV	B	_	5	advmod	_	AlignBegin=1476.456|Speaker=BO139|TID=947-0
-2	'ste	'ste	PRON	_	_	_	_	_	_
+2	'ste	questo	PRON	_	_	_	_	_	Speaker=BO139|TID=947-1
 3	qua	qua	ADV	B	_	5	advmod	_	Speaker=BO139|TID=947-2
 4	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Speaker=BO139|TID=947-3
 5	chiamato	chiamare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO139|TID=947-4
@@ -6087,7 +6084,7 @@
 33	gialli	Gialli	PROPN	S	Gender=Masc|Number=Plur	35	dislocated	_	Speaker=BO145|TID=983-3
 34	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	obj	_	Speaker=BO145|TID=983-4
 35	sente	sentire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	conj	_	Speaker=BO145|TID=983-5
-36	'sto	'sto	DET	_	_	_	_	_	_
+36	'sto	questo	DET	_	_	_	_	_	Speaker=BO145|TID=983-6
 37	pezzo	pezzo	NOUN	S	Gender=Masc|Number=Sing	35	dislocated	_	AlignEnd=1565.535|Intonation=ascending|Speaker=BO145|TID=983-7
 
 # sent_id = 438
@@ -6502,7 +6499,7 @@
 10	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	Speaker=BO147|TID=1048-2
 11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Speaker=BO147|TID=1048-3
 12	polipo	polipo	NOUN	S	Gender=Masc|Number=Sing	4	conj	_	Speaker=BO147|TID=1048-4
-13	'nte	'nte	ADP	_	_	_	_	_	_
+13	'nte	'nte	ADP	_	_	_	_	_	Speaker=BO147|TID=1048-5
 14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Speaker=BO147|TID=1048-6
 15	naso	naso	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	AlignEnd=1646.579|Intonation=ascending|Speaker=BO147|TID=1048-7
 
@@ -6646,9 +6643,9 @@
 5	per	per	ADP	E	_	6	case	_	Speaker=BO146|TID=1075-4
 6	mestiere	mestiere	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	Speaker=BO146|TID=1075-5
 7	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=BO146|TID=1075-6
-8-9	farlo	_	_	_	_	_	_	_	_
-8	far	fare	VERB	_	_	3	dep	_	AlignEnd=1675.43|Speaker=BO146|TID=1075-7
-9	lo	lo	PRON	_	_	3	dep	_	AlignEnd=1675.43|Speaker=BO146|TID=1075-7
+8-9	farlo	_	_	_	_	_	_	_	AlignEnd=1675.43|Speaker=BO146|TID=1075-7
+8	far	fare	VERB	_	_	3	dep	_	_
+9	lo	lo	PRON	_	_	3	dep	_	_
 
 # sent_id = 487
 # text = è come quando vado a casa
@@ -7073,7 +7070,7 @@
 2	scienze	scienza	NOUN	S	Gender=Fem|Number=Plur	0	root	_	AlignBegin=1753.393|Speaker=BO139|TID=1130-0
 3	erboristiche	erboristico	ADJ	A	Gender=Fem|Number=Plur	2	amod	_	Speaker=BO139|TID=1130-1
 4	ad	a	ADP	E	_	5	case	_	Speaker=BO139|TID=1130-2
-5	imola	Imola	PROPN	_	_	_	_	_	_
+5	imola	Imola	PROPN	_	_	_	_	_	Speaker=BO139|TID=1130-3
 6	scienze	scienza	NOUN	S	Gender=Fem|Number=Plur	2	nsubj	_	AlignBegin=1755.243|Overlapping=Yes|PaceSlow=Yes|Speaker=BO147|TID=1131-0
 7	erobistiche	erobistico	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	AlignEnd=1757.643|Intonation=ascending|Overlapping=Yes|PaceSlow=Yes|Speaker=BO147|TID=1131-1
 
@@ -7123,7 +7120,7 @@
 2	ad	a	ADP	E	_	3	case	_	Speaker=BO139|TID=1137-1
 3	i	i~	X	SYM	_	1	nmod	_	Interrupted=Yes|Speaker=BO139|TID=1137-2
 4	a	a	ADP	E	_	5	case	_	Speaker=BO139|TID=1137-3
-5	imola	Imola	PROPN	_	_	_	_	_	_
+5	imola	Imola	PROPN	_	_	_	_	_	Speaker=BO139|TID=1137-4
 6	fan	fare	VERB	S	Gender=Masc	5	nmod	_	Speaker=BO139|TID=1137-5
 7	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Speaker=BO139|TID=1137-6
 
@@ -7156,9 +7153,9 @@
 13	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	15	vocative	_	AlignEnd=1772.249|Overlapping=Yes|Speaker=BO139|TID=1139-2
 14	madonna	madonna	NOUN	S	Gender=Fem|Number=Sing	13	compound	_	AlignBegin=1771.618|Overlapping=Yes|Speaker=BO145|TID=1140-0
 15	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	ccomp	_	Overlapping=Yes|Speaker=BO145|TID=1140-1
-16-17	trasferirsi	_	_	_	_	_	_	_	_
-16	trasferir	trasferir	VERB	S	Gender=Masc|Number=Plur	15	obj	_	Speaker=BO145|TID=1140-2
-17	si	si	PRON	S	Gender=Masc|Number=Plur	15	obj	_	Speaker=BO145|TID=1140-2
+16-17	trasferirsi	_	_	_	_	_	_	_	Speaker=BO145|TID=1140-2
+16	trasferir	trasferir	VERB	S	Gender=Masc|Number=Plur	15	obj	_	_
+17	si	si	PRON	S	Gender=Masc|Number=Plur	15	obj	_	_
 18	a	a	ADP	E	_	19	case	_	Speaker=BO145|TID=1140-3
 19	imola	Imola	PROPN	_	_	7	dep	_	Speaker=BO145|TID=1140-4
 
@@ -7192,7 +7189,7 @@
 1	poi	poi	ADV	B	_	6	advmod	_	AlignBegin=1777.14|Overlapping=Yes|Speaker=BO145|TID=1142-0
 2	a	a	ADP	E	_	3	case	_	Overlapping=Yes|Speaker=BO145|TID=1142-1
 3	parte	parte	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	Overlapping=Yes|Speaker=BO145|TID=1142-2
-4	imola	Imola	PROPN	_	_	_	_	_	_
+4	imola	Imola	PROPN	_	_	_	_	_	Overlapping=Yes|Speaker=BO145|TID=1142-3
 5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	Overlapping=Yes|Speaker=BO145|TID=1142-4
 6	bruttissimo	brutto	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	0	root	_	Overlapping=Yes|Speaker=BO145|TID=1142-5
 7	come	come	ADP	E	_	8	case	_	Speaker=BO145|TID=1142-6
@@ -7373,4 +7370,3 @@
 6	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	Overlapping=Yes|Speaker=BO147|TID=1172-1|Truncated=Yes
 7	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	Overlapping=Yes|Speaker=BO147|TID=1172-2
 8	materiale	materiale	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	AlignEnd=1822.003|Overlapping=Yes|Speaker=BO147|TID=1172-3
-
