@@ -3367,7 +3367,7 @@
 5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Speaker=BO139|TID=535-11
 6	parola	parola	NOUN	S	Gender=Fem|Number=Sing	2	ccomp	_	Speaker=BO139|TID=535-12
 7	x	x	X	E	_	2	dep	_	AlignEnd=782.33|Speaker=BO139|TID=535-13|Type=unknown
-8	{VERSO}	-	X	_	_	2	dep	_	AlignEnd=783.21|Speaker=BO145|TID=536-0|Type=_
+8	{verso}	-	X	_	_	2	dep	_	AlignEnd=783.21|Speaker=BO145|TID=536-0|Type=NLB
 
 # sent_id = 256
 # text = mica sono un esperto di marche {verso}
@@ -3378,7 +3378,7 @@
 4	esperto	esperto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	Speaker=BO139|TID=537-3
 5	di	di	ADP	E	_	6	case	_	Speaker=BO139|TID=537-4
 6	marche	Marche	PROPN	S	_	4	nmod	_	AlignEnd=784.458|Speaker=BO139|TID=537-5
-7	{verso}	-	X	_	_	4	dep	_	AlignEnd=784.843|Speaker=BO145|TID=538-0|Type=_
+7	{verso}	-	X	_	_	4	dep	_	AlignEnd=784.843|Speaker=BO145|TID=538-0|Type=NLB
 
 # sent_id = 257
 # text = e come si dice {ride} eh
@@ -4599,15 +4599,15 @@
 106	{ride}	-	X	_	_	77	dep	_	AlignEnd=1163.159|Speaker=BO147|TID=743-4|Type=NLB
 107	{ride}	-	X	_	_	77	dep	_	AlignEnd=1163.486|Speaker=BO139|TID=744-0|Type=NLB
 108	{ride}	-	X	_	_	77	dep	_	AlignEnd=1164.178|Speaker=BO145|TID=745-0|Type=NLB
-110	{ride}	-	X	_	_	77	dep	_	AlignEnd=1164.711|Speaker=BO147|TID=746-0|Type=NLB
-111	{ride}	-	X	_	_	77	dep	_	AlignEnd=1167.39|Speaker=BO139|TID=747-0|Type=NLB
-112	{ride}	-	X	_	_	77	dep	_	AlignEnd=1167.723|Speaker=BO147|TID=748-0|Type=NLB
-113	x	x	X	SYM	_	116	nsubj	_	AlignBegin=1167.731|Speaker=BO145|TID=749-0|Type=unknown
-114	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	109	conj	_	Speaker=BO145|TID=749-1
-115	che	che	SCONJ	CS	_	118	mark	_	Speaker=BO145|TID=749-2
-116	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	118	cop	_	Speaker=BO145|TID=749-3
-117	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	118	obl	_	Speaker=BO145|TID=749-4
-118	scemi	scemo	ADJ	A	Gender=Masc|Number=Plur	116	ccomp	_	Speaker=BO145|TID=749-5
+109	{ride}	-	X	_	_	77	dep	_	AlignEnd=1164.711|Speaker=BO147|TID=746-0|Type=NLB
+110	{ride}	-	X	_	_	77	dep	_	AlignEnd=1167.39|Speaker=BO139|TID=747-0|Type=NLB
+111	{ride}	-	X	_	_	77	dep	_	AlignEnd=1167.723|Speaker=BO147|TID=748-0|Type=NLB
+112	x	x	X	SYM	_	116	nsubj	_	AlignBegin=1167.731|Speaker=BO145|TID=749-0|Type=unknown
+113	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	109	conj	_	Speaker=BO145|TID=749-1
+114	che	che	SCONJ	CS	_	117	mark	_	Speaker=BO145|TID=749-2
+115	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	117	cop	_	Speaker=BO145|TID=749-3
+116	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	117	obl	_	Speaker=BO145|TID=749-4
+117	scemi	scemo	ADJ	A	Gender=Masc|Number=Plur	116	ccomp	_	Speaker=BO145|TID=749-5
 
 # sent_id = 337
 # text = quelli che vanno da naturasì a parte me {ride} {ride} costerà trenta euro
