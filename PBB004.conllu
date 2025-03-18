@@ -5520,7 +5520,7 @@
 1	mhmh	mhmh	INTJ	I	_	3	discourse	_	AlignEnd=1201.834|Speaker=BOR005|TID=633-0
 2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignEnd=1202.751|Speaker=BOI013|TID=634-0
 3	lavoro	lavorare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=1203.707|Speaker=BOI013|TID=635-0
-4	os	O.S.	NOUN	S	_	3	obj	_	AlignBegin=1203.957|Speaker=BOI013|TID=636-0
+4	os	O.S.S.	NOUN	S	_	3	obj	_	AlignBegin=1203.957|Speaker=BOI013|TID=636-0
 5	in	in	ADP	E	_	7	case	_	Speaker=BOI013|TID=636-1
 6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Speaker=BOI013|TID=636-2
 7	struttura	struttura	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	AlignEnd=1205.702|Speaker=BOI013|TID=636-3
