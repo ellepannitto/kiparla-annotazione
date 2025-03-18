@@ -3133,7 +3133,7 @@
 7	quanto	quanto	ADV	B	_	1	advmod	_	Speaker=BO139|TID=496-1
 8	{ride}	-	X	_	_	1	dep	_	AlignEnd=734.092|Speaker=BO139|TID=496-2|Type=NLB
 9	{ride}	-	X	_	_	1	dep	_	AlignEnd=735.932|Speaker=BO139|TID=497-0|Type=NLB
-10	x	x	ADP	E	_	7	fixed	_	AlignEnd=736.732|Speaker=BO139|TID=498-0|Type=unknown
+10	x	x	X	E	_	7	fixed	_	AlignEnd=736.732|Speaker=BO139|TID=498-0|Type=unknown
 
 # sent_id = 241
 # text = volevo fare una battuta che m' ammazzi {ride} e di' di' voglio saper la
@@ -6582,7 +6582,7 @@
 # text = no x
 # jefferson_text = no [xx]
 1	no	no	INTJ	I	_	0	root	_	AlignBegin=1662.25|Speaker=BO139|TID=1065-0
-2	x	x	ADP	E	_	1	fixed	_	AlignEnd=1662.774|Overlapping=Yes|Speaker=BO139|TID=1065-1|Type=unknown
+2	x	x	X	E	_	1	fixed	_	AlignEnd=1662.774|Overlapping=Yes|Speaker=BO139|TID=1065-1|Type=unknown
 
 # sent_id = 481
 # text = ah certo se le fo io x {ride} vabbè te ti ci ti ci devo fare
@@ -7370,3 +7370,4 @@
 6	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	Overlapping=Yes|Speaker=BO147|TID=1172-1|Truncated=Yes
 7	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	Overlapping=Yes|Speaker=BO147|TID=1172-2
 8	materiale	materiale	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	AlignEnd=1822.003|Overlapping=Yes|Speaker=BO147|TID=1172-3
+

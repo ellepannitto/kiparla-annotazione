@@ -36,7 +36,7 @@
 2	no	no	INTJ	I	_	6	discourse	_	AlignEnd=11.37|Speaker=BOI012|TID=9-0|Volume=low
 3	okay	okay	INTJ	I	_	6	discourse	_	AlignBegin=12.18|Prolonged=Yes|Speaker=BOR005|TID=10-0
 4	prima	prima	ADV	B	_	6	advmod	_	Speaker=BOR005|TID=10-1
-5	dove	dove	ADV	B	_	4	fixed	_	Speaker=BOR005|TID=10-2
+5	dove	dove	PRON	B	_	4	fixed	_	Speaker=BOR005|TID=10-2
 6	abitavate	abitavare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=14|Speaker=BOR005|TID=10-3
 
 # sent_id = 4
@@ -1992,7 +1992,7 @@
 14	giovani	giovane	NOUN	S	Gender=Masc|Number=Plur	12	nsubj	_	Speaker=BOI012|TID=246-7
 15	{P}	-	X	_	_	6	dep	_	Speaker=BOI012|TID=246-8|Type=shortpause
 16	adesso	adesso	ADV	B	_	12	advmod	_	AlignEnd=442.555|Speaker=BOI012|TID=246-9
-17	x	x	ADP	E	_	12	dep	_	AlignEnd=441.185|Overlapping=Yes|Speaker=BOI013|TID=247-0|Type=unknown
+17	x	x	X	E	_	12	dep	_	AlignEnd=441.185|Overlapping=Yes|Speaker=BOI013|TID=247-0|Type=unknown
 
 # sent_id = 158
 # text = ma al mhun' idea in generale che potreste avere

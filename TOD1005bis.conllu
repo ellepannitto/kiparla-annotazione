@@ -687,7 +687,7 @@
 # sent_id = 47
 # text = x okay
 # jefferson_text = xxx oka:y,
-1	x	x	ADP	E	_	2	case	_	AlignEnd=178.658|Speaker=???|TID=74-0|Type=unknown
+1	x	x	X	E	_	2	case	_	AlignEnd=178.658|Speaker=???|TID=74-0|Type=unknown
 2	okay	okay	INTJ	I	_	0	root	_	AlignEnd=179.387|Intonation=weakly_ascending|Prolonged=Yes|Speaker=TO017|TID=75-0
 
 # sent_id = 48
@@ -725,7 +725,7 @@
 29	eh	eh	INTJ	I	_	30	discourse	_	AlignEnd=189.232|Intonation=weakly_ascending|Speaker=TO017|TID=79-0
 30	x	x	X	X	_	23	dep	_	AlignEnd=190.346|Speaker=???|TID=80-0|Type=unknown
 31	okay	okay	INTJ	I	_	30	discourse	_	AlignBegin=190.441|Prolonged=Yes|Speaker=TO017|TID=81-0
-32	x	x	ADP	E	_	33	case	_	AlignEnd=191.98|Speaker=TO017|TID=81-1|Type=unknown
+32	x	x	X	E	_	33	case	_	AlignEnd=191.98|Speaker=TO017|TID=81-1|Type=unknown
 33	okay	okay	INTJ	I	_	30	discourse	_	AlignEnd=192.51|Speaker=TO017|TID=82-0
 
 # sent_id = 49
@@ -1421,7 +1421,7 @@
 10	{P}	-	X	_	_	3	dep	_	Speaker=TO017|TID=172-5|Type=shortpause
 11	x	x	X	X	_	9	obl	_	AlignEnd=384.944|Speaker=TO017|TID=172-6|Type=unknown
 12	eh	eh	INTJ	I	_	14	discourse	_	AlignEnd=386.077|Intonation=weakly_ascending|Prolonged=Yes|Speaker=TO017|TID=173-0
-13	x	x	ADP	E	_	14	case	_	AlignBegin=386.385|Speaker=TO017|TID=174-0|Type=unknown
+13	x	x	X	E	_	14	case	_	AlignBegin=386.385|Speaker=TO017|TID=174-0|Type=unknown
 14	x	x	X	X	_	11	flat:foreign	_	AlignEnd=387.317|Speaker=TO017|TID=174-1|Type=unknown
 15	eh	eh	INTJ	I	_	14	discourse	_	AlignBegin=387.754|Prolonged=Yes|Speaker=TO017|TID=175-0
 
@@ -3024,9 +3024,9 @@
 2	primi	primo	DET	NO	Gender=Masc|Number=Plur|NumType=Ord	4	amod	_	Speaker=TO017|TID=353-1
 3	quattro	quattro	DET	N	NumType=Card	4	nummod	_	Speaker=TO017|TID=353-2
 4	califfi	califfo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	Intonation=weakly_ascending|Speaker=TO017|TID=353-3
-5	x	x	ADP	E	_	6	case	_	AlignEnd=862.41|Intonation=weakly_ascending|Speaker=TO017|TID=353-4|Type=unknown
+5	x	x	X	E	_	6	case	_	AlignEnd=862.41|Intonation=weakly_ascending|Speaker=TO017|TID=353-4|Type=unknown
 6	mh	mh	INTJ	S	_	4	nmod	_	AlignEnd=863.068|Intonation=weakly_ascending|Prolonged=Yes|Speaker=TO017|TID=354-0
-7	x	x	ADP	E	_	8	case	_	AlignEnd=865.348|Speaker=TO017|TID=355-0|Type=unknown
+7	x	x	X	E	_	8	case	_	AlignEnd=865.348|Speaker=TO017|TID=355-0|Type=unknown
 8	eh	eh	INTJ	I	_	6	nmod	_	AlignBegin=866.234|Prolonged=Yes|Speaker=TO017|TID=356-0
 9	x	x	SYM	SYM	_	4	parataxis:hashtag	_	Speaker=TO017|TID=356-1|Type=unknown
 
@@ -3887,7 +3887,7 @@
 4	di	di	ADP	E	_	6	case	_	_
 5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	scritture	scrittura	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	Speaker=???|TID=429-4|Volume=low
-7	x	x	ADP	E	_	2	dep	_	AlignEnd=1106.329|PaceFast=Yes|Speaker=???|TID=429-5|Type=unknown|Volume=low
+7	x	x	X	E	_	2	dep	_	AlignEnd=1106.329|PaceFast=Yes|Speaker=???|TID=429-5|Type=unknown|Volume=low
 
 # sent_id = 264
 # text = sì sì
@@ -4855,7 +4855,7 @@
 11	parlasse	parlare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	acl:relcl	_	Speaker=TO017|TID=519-13
 12	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=519-14|Type=shortpause
 13	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	4	obl	_	Speaker=TO017|TID=519-15
-14	x	x	ADP	E	_	13	dep	_	AlignEnd=1373.985|Speaker=TO017|TID=519-16|Type=unknown
+14	x	x	X	E	_	13	dep	_	AlignEnd=1373.985|Speaker=TO017|TID=519-16|Type=unknown
 
 # sent_id = 325
 # text = quindi questo non è particolamente utile

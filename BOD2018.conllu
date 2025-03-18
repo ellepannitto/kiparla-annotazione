@@ -2139,7 +2139,6 @@
 10	di	di	ADP	E	_	11	case	_	Speaker=BO140|TID=153-9
 11	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	9	nmod	_	Speaker=BO140|TID=153-10
 
-
 # sent_id = 122
 # text = quindi fosse per me in questo momento mi ritrasferirei in centro
 # jefferson_text = quindi: fosse per me in questo momento mi ritrasferirei in centro
@@ -2982,7 +2981,6 @@
 4	co'	con	ADP	E	_	6	case	_	Speaker=BO118|TID=200-16|Truncated=Yes
 5	poca	poco	DET	DI	PronType=Ind	6	det	_	Speaker=BO118|TID=200-17
 6	gente	gente	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	AlignEnd=812.03|Intonation=descending|Speaker=BO118|TID=200-18
-
 
 # sent_id = 168
 # text = mh in che senso dici
@@ -4044,7 +4042,7 @@
 21	vita	vita	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	Speaker=BO140|TID=281-16
 
 # sent_id = 221
-# text = ma neanche in un centro piccolo come @nomepaese. okay perché non vabbè al di là non offre niente @nomepaese
+# text = ma neanche in un centro piccolo come @nomepaese okay perché non vabbè al di là non offre niente @nomepaese
 # jefferson_text = ma:: neanche in un centro piccolo come @nomepaese. °okay° perché non:: vabbè al di là non offre niente @nomepaese
 1	ma	ma	CCONJ	CC	_	5	cc	_	Prolonged=Yes|Speaker=BO140|TID=281-17
 2	neanche	neanche	ADV	B	_	5	advmod	_	Speaker=BO140|TID=281-18
@@ -4054,20 +4052,19 @@
 6	piccolo	piccolo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	Speaker=BO140|TID=281-22
 7	come	come	ADP	E	_	8	case	_	Speaker=BO140|TID=281-23
 8	@nomepaese	@nomepaese	PROPN	S	Gender=Masc|Number=Sing	5	nmod	_	AlignEnd=1101.42|Intonation=descending|Speaker=BO140|TID=281-24
-9	.	.	PUNCT	FS	_	5	punct	_	_
-10	okay	okay	INTJ	B	_	19	advmod	_	AlignEnd=1102.179|Speaker=BO118|TID=282-0|Volume=low
-11	perché	perché	SCONJ	CS	_	13	mark	_	AlignBegin=1102.216|Speaker=BO140|TID=283-0
-12	non	non	ADV	BN	PronType=Neg	13	advmod	_	AlignEnd=1103.523|Prolonged=Yes|Speaker=BO140|TID=283-1
-13	vabbè	vabbere	INTJ	I	_	19	advcl	_	AlignBegin=1104.146|Speaker=BO140|TID=284-0
-14-15	al	_	_	_	_	_	_	_	Speaker=BO140|TID=284-1
-14	a	a	ADP	E	_	17	case	_	_
-15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-16	di	di	ADP	E	_	17	case	_	Speaker=BO140|TID=284-2
-17	là	là	ADV	B	_	13	obl	_	Speaker=BO140|TID=284-3
-18	non	non	ADV	BN	PronType=Neg	19	advmod	_	Speaker=BO140|TID=284-4
-19	offre	offrire	VERB	V	VerbForm=Inf	5	parataxis	_	Speaker=BO140|TID=284-5
-20	niente	niente	PRON	DI	PronType=Ind	21	det	_	Speaker=BO140|TID=284-6
-21	@nomepaese	@nomepaese	PROPN	S	Gender=Masc|Number=Sing	19	obj	_	Speaker=BO140|TID=284-7
+9	okay	okay	INTJ	B	_	18	advmod	_	AlignEnd=1102.179|Speaker=BO118|TID=282-0|Volume=low
+10	perché	perché	SCONJ	CS	_	12	mark	_	AlignBegin=1102.216|Speaker=BO140|TID=283-0
+11	non	non	ADV	BN	PronType=Neg	12	advmod	_	AlignEnd=1103.523|Prolonged=Yes|Speaker=BO140|TID=283-1
+12	vabbè	vabbere	INTJ	I	_	18	advcl	_	AlignBegin=1104.146|Speaker=BO140|TID=284-0
+13-14	al	_	_	_	_	_	_	_	Speaker=BO140|TID=284-1
+13	a	a	ADP	E	_	16	case	_	_
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+15	di	di	ADP	E	_	16	case	_	Speaker=BO140|TID=284-2
+16	là	là	ADV	B	_	12	obl	_	Speaker=BO140|TID=284-3
+17	non	non	ADV	BN	PronType=Neg	18	advmod	_	Speaker=BO140|TID=284-4
+18	offre	offrire	VERB	V	VerbForm=Inf	5	parataxis	_	Speaker=BO140|TID=284-5
+19	niente	niente	PRON	DI	PronType=Ind	20	det	_	Speaker=BO140|TID=284-6
+20	@nomepaese	@nomepaese	PROPN	S	Gender=Masc|Number=Sing	18	obj	_	Speaker=BO140|TID=284-7
 
 # sent_id = 222
 # text = non mh cioè comunque continuano a lavorarci le persone che ci hanno lavorato da una vita
@@ -4239,7 +4236,7 @@
 4	non	non	ADV	BN	PronType=Neg	2	advcl	_	AlignEnd=1156.7|Overlapping=Yes|Prolonged=Yes|Speaker=BO140|TID=291-5
 
 # sent_id = 229
-# text = ma in realtà anch'io a @nomepaese. cioè non ho ricordi che uscissi a @nomepaese o a @nomepaese con i miei forse x più nel paesino nostro ma sempre solite cose
+# text = ma in realtà anch'io a @nomepaese cioè non ho ricordi che uscissi a @nomepaese o a @nomepaese con i miei forse x più nel paesino nostro ma sempre solite cose
 # jefferson_text = [ma] in realtà anch'io a @nomepaese. cioè non ho ricordi che uscissi a @nomepaese o a @nomepaese con i miei forse xx più nel paesi:no nostro::, [ma sem]pre solite co::se:,
 1	ma	ma	CCONJ	CC	_	7	cc	_	AlignBegin=1156.447|Overlapping=Yes|Speaker=BO118|TID=292-0
 2	in	in	ADP	E	_	3	case	_	Speaker=BO118|TID=292-1
@@ -4248,33 +4245,32 @@
 5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Speaker=BO118|TID=292-4
 6	a	a	ADP	E	_	7	case	_	Speaker=BO118|TID=292-5
 7	@nomepaese	@nomepaese	PROPN	S	Gender=Masc|Number=Sing	0	root	_	Speaker=BO118|TID=292-5
-8	.	.	PUNCT	FS	_	7	punct	_	_
-9	cioè	cioè	CCONJ	CC	_	12	cc	_	AlignBegin=1158.17|Speaker=BO118|TID=293-0
-10	non	non	ADV	BN	PronType=Neg	12	advmod	_	Speaker=BO118|TID=293-1
-11	ho	avere	VERB	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	Speaker=BO118|TID=293-2
-12	ricordi	ricordo	NOUN	V	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO118|TID=293-3
-13	che	che	SCONJ	CS	_	14	mark	_	Speaker=BO118|TID=293-4
-14	uscissi	uscire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	ccomp	_	Speaker=BO118|TID=293-5
-15	a	a	ADP	E	_	16	case	_	Speaker=BO118|TID=293-6
-16	@nomepaese	@nomepaese	PROPN	S	Gender=Fem|Number=Plur	14	obl	_	Speaker=BO118|TID=293-7
-17	o	o	CCONJ	CC	_	19	cc	_	Speaker=BO118|TID=293-8
-18	a	a	ADP	E	_	19	case	_	Speaker=BO118|TID=293-9
-19	@nomepaese	@nomepaese	PROPN	S	Gender=Masc|Number=Sing	16	conj	_	Speaker=BO118|TID=293-10
-20	con	con	ADP	E	_	28	case	_	Speaker=BO118|TID=293-11
-21	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	Speaker=BO118|TID=293-12
-22	miei	miei	NOUN	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	28	det:poss	_	AlignEnd=1161.713|Speaker=BO118|TID=293-13
-23	forse	forse	ADV	B	_	28	advmod	_	AlignBegin=1162.596|Speaker=BO118|TID=294-0
-24	x	x	X	E	_	25	case	_	Speaker=BO118|TID=294-1|Type=unknown
-25	più	più	ADV	B	_	28	advmod	_	Speaker=BO118|TID=294-2
-26-27	nel	_	_	_	_	_	_	_	Speaker=BO118|TID=294-3
-26	in	in	ADP	E	_	28	case	_	_
-27	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
-28	paesino	paese	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	Prolonged=Yes|Speaker=BO118|TID=294-4
-29	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	33	det:poss	_	Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO118|TID=294-5
-30	ma	ma	CCONJ	CC	_	32	cc	_	Overlapping=Yes|Speaker=BO118|TID=294-6
-31	sempre	sempre	ADV	B	_	32	advmod	_	Overlapping=Yes|Speaker=BO118|TID=294-7
-32	solite	solito	ADJ	A	Gender=Fem|Number=Plur	33	amod	_	Speaker=BO118|TID=294-8
-33	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	28	obj	_	AlignEnd=1167.01|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO118|TID=294-9
+8	cioè	cioè	CCONJ	CC	_	11	cc	_	AlignBegin=1158.17|Speaker=BO118|TID=293-0
+9	non	non	ADV	BN	PronType=Neg	11	advmod	_	Speaker=BO118|TID=293-1
+10	ho	avere	VERB	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	Speaker=BO118|TID=293-2
+11	ricordi	ricordo	NOUN	V	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO118|TID=293-3
+12	che	che	SCONJ	CS	_	13	mark	_	Speaker=BO118|TID=293-4
+13	uscissi	uscire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	ccomp	_	Speaker=BO118|TID=293-5
+14	a	a	ADP	E	_	15	case	_	Speaker=BO118|TID=293-6
+15	@nomepaese	@nomepaese	PROPN	S	Gender=Fem|Number=Plur	13	obl	_	Speaker=BO118|TID=293-7
+16	o	o	CCONJ	CC	_	18	cc	_	Speaker=BO118|TID=293-8
+17	a	a	ADP	E	_	18	case	_	Speaker=BO118|TID=293-9
+18	@nomepaese	@nomepaese	PROPN	S	Gender=Masc|Number=Sing	15	conj	_	Speaker=BO118|TID=293-10
+19	con	con	ADP	E	_	27	case	_	Speaker=BO118|TID=293-11
+20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	Speaker=BO118|TID=293-12
+21	miei	miei	NOUN	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	27	det:poss	_	AlignEnd=1161.713|Speaker=BO118|TID=293-13
+22	forse	forse	ADV	B	_	27	advmod	_	AlignBegin=1162.596|Speaker=BO118|TID=294-0
+23	x	x	X	E	_	24	case	_	Speaker=BO118|TID=294-1|Type=unknown
+24	più	più	ADV	B	_	27	advmod	_	Speaker=BO118|TID=294-2
+25-26	nel	_	_	_	_	_	_	_	Speaker=BO118|TID=294-3
+25	in	in	ADP	E	_	27	case	_	_
+26	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	paesino	paese	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	Prolonged=Yes|Speaker=BO118|TID=294-4
+28	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	32	det:poss	_	Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO118|TID=294-5
+29	ma	ma	CCONJ	CC	_	31	cc	_	Overlapping=Yes|Speaker=BO118|TID=294-6
+30	sempre	sempre	ADV	B	_	31	advmod	_	Overlapping=Yes|Speaker=BO118|TID=294-7
+31	solite	solito	ADJ	A	Gender=Fem|Number=Plur	32	amod	_	Speaker=BO118|TID=294-8
+32	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	27	obj	_	AlignEnd=1167.01|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO118|TID=294-9
 
 # sent_id = 230
 # text = sì sì sì sì
@@ -4390,7 +4386,7 @@
 # text = veramente x x eh
 # jefferson_text = veramente: [xx xxx] [eh
 1	veramente	veramente	ADV	B	_	3	advmod	_	Prolonged=Yes|Speaker=BO118|TID=300-6
-2	x	x	ADP	E	_	3	case	_	Overlapping=Yes|Speaker=BO118|TID=300-7|Type=unknown
+2	x	x	X	E	_	3	case	_	Overlapping=Yes|Speaker=BO118|TID=300-7|Type=unknown
 3	x	x	SYM	SYM	_	0	root	_	AlignEnd=1198.89|Overlapping=Yes|Speaker=BO118|TID=300-8|Type=unknown
 4	eh	eh	INTJ	I	_	3	discourse	_	AlignBegin=1197.727|Overlapping=Yes|Speaker=BO140|TID=301-0
 
@@ -4467,7 +4463,7 @@
 24	venticinque	venticinque	NUM	B	_	23	advmod	_	Speaker=BO140|TID=304-3
 
 # sent_id = 241
-# text = comunque non cioè non trovo cioè non ho mai trovato dei dei _ grandi eventi o cioè possibilità di divertirmi divertir mi
+# text = comunque non cioè non trovo cioè non ho mai trovato dei dei grandi eventi o cioè possibilità di divertirmi
 # jefferson_text = comunque non:, cioè non trovo cioè non ho mai trovato dei:: dei grandi eventi: o:, cioè possibilità di divertirmi:
 1	comunque	comunque	CCONJ	B	_	5	advmod	_	Speaker=BO140|TID=304-4
 2	non	non	ADV	BN	PronType=Neg	5	advmod	_	AlignEnd=1219.52|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=304-5
@@ -4480,21 +4476,20 @@
 9	mai	mai	ADV	B	_	10	advmod	_	Speaker=BO140|TID=305-6
 10	trovato	trovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	Speaker=BO140|TID=305-7
 11-12	dei	_	_	_	_	_	_	_	Prolonged=Yes|Speaker=BO140|TID=305-8
-11	di	di	ADP	E	_	17	case	_	_
-12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+11	di	di	ADP	E	_	16	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
 13-14	dei	_	_	_	_	_	_	_	Speaker=BO140|TID=305-9
-13	di	di	ADP	E	_	17	case	_	_
-14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
-15	_	_	PUNCT	_	_	_	_	_	_
-16	grandi	grande	ADJ	A	Gender=Masc|Number=Plur	17	amod	_	Speaker=BO140|TID=305-10
-17	eventi	evento	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	Prolonged=Yes|Speaker=BO140|TID=305-11
-18	o	o	CCONJ	CC	_	20	cc	_	AlignEnd=1225.41|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=305-12
-19	cioè	cioè	CCONJ	CC	_	20	cc	_	AlignBegin=1226.282|Speaker=BO140|TID=306-0
-20	possibilità	possibilità	NOUN	S	Gender=Fem	17	conj	_	Speaker=BO140|TID=306-1
-21	di	di	ADP	E	_	22	mark	_	Speaker=BO140|TID=306-2
-22-23	divertirmi	_	_	_	_	_	_	_	Prolonged=Yes|Speaker=BO140|TID=306-3
-22	divertir	divertir	VERB	_	_	5	dep	_	_
-23	mi	mi	PRON	_	_	5	dep	_	_
+13	di	di	ADP	E	_	16	case	_	_
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+15	grandi	grande	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	Speaker=BO140|TID=305-10
+16	eventi	evento	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	Prolonged=Yes|Speaker=BO140|TID=305-11
+17	o	o	CCONJ	CC	_	19	cc	_	AlignEnd=1225.41|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=305-12
+18	cioè	cioè	CCONJ	CC	_	19	cc	_	AlignBegin=1226.282|Speaker=BO140|TID=306-0
+19	possibilità	possibilità	NOUN	S	Gender=Fem	16	conj	_	Speaker=BO140|TID=306-1
+20	di	di	ADP	E	_	21	mark	_	Speaker=BO140|TID=306-2
+21-22	divertirmi	_	_	_	_	_	_	_	Prolonged=Yes|Speaker=BO140|TID=306-3
+21	divertir	divertir	VERB	_	_	5	dep	_	_
+22	mi	mi	PRON	_	_	5	dep	_	_
 
 # sent_id = 242
 # text = anzi quando avevo quattordici anni ce ne erano molti di più
@@ -6458,3 +6453,4 @@
 2	parlato	parlare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO118|TID=451-1
 3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Speaker=BO118|TID=451-2
 4	sacco	sacco	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	AlignEnd=1686.886|Speaker=BO118|TID=451-3
+
