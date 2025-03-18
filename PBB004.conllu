@@ -1009,7 +1009,7 @@
 # sent_id = 93
 # text = enrico ma che in che senso questa differenza
 # jefferson_text = enrico ma che in che senso questa differenza
-1	enrico	enrico	ADJ	A	Gender=Masc|Number=Sing	0	root	_	AlignEnd=219.13|Speaker=BOI013|TID=123-2
+1	enrico	Ettore	ADJ	A	Gender=Masc|Number=Sing	0	root	_	AlignEnd=219.13|Speaker=BOI013|TID=123-2
 2	ma	ma	CCONJ	CC	_	8	cc	_	AlignBegin=220.87|Speaker=BOR005|TID=124-0
 3	che	che	PRON	PR	PronType=Rel	8	nsubj	_	Speaker=BOR005|TID=124-1
 4	in	in	ADP	E	_	6	case	_	Speaker=BOR005|TID=124-2
@@ -1591,6 +1591,7 @@
 # sent_id = 128
 # text = non posso dirlo
 # jefferson_text = non posso dirlo
+# tags = ?
 1	non	non	ADV	BN	PronType=Neg	4	advmod	_	Speaker=BOI012|TID=196-7
 2	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	Speaker=BOI012|TID=196-8
 3	dirlo	_	_	_	_	4	dep	_	AlignEnd=357.995|Speaker=BOI012|TID=196-9
@@ -1695,6 +1696,7 @@
 # sent_id = 136
 # text = certo come fai a saperlo
 # jefferson_text = [°certo°] come fai a saperlo
+# tags = ?
 1	certo	certo	ADV	B	_	3	discourse	_	AlignEnd=374.1|Overlapping=Yes|Speaker=BOI013|TID=208-0|Volume=low
 2	come	come	SCONJ	CS	_	3	mark	_	AlignBegin=375.235|Speaker=BOI012|TID=209-0
 3	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOI012|TID=209-1
@@ -2011,6 +2013,7 @@
 # sent_id = 159
 # text = che potrebbe venirvi in mente pensando un po' in generale ai giovani
 # jefferson_text = che potrebbe venirvi in mente? pensando un po' in generale ai giovani
+# tags = ?
 1	che	che	PRON	PR	PronType=Rel	3	nsubj	_	Speaker=BOR005|TID=250-7
 2	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=BOR005|TID=250-8
 3	venirvi	venirvere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BOR005|TID=250-9
@@ -2474,6 +2477,7 @@
 # sent_id = 190
 # text = adesso hanno il coso di fare i murales in centro
 # jefferson_text = adesso hanno il coso di fare i murales in centro
+# tags = ?
 1	adesso	adesso	ADV	B	_	2	advmod	_	AlignEnd=566|Speaker=BOI013|TID=297-9
 2	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=566.57|Speaker=BOI013|TID=298-0
 3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Speaker=BOI013|TID=298-1
@@ -2512,6 +2516,7 @@
 # sent_id = 193
 # text = sì sì mh verso verso la pela
 # jefferson_text = sì sì mh [>verso< verso] la pela:::
+# tags = ?
 1	sì	sì	INTJ	I	_	3	discourse	_	AlignBegin=571.19|Speaker=BOI013|TID=302-0
 2	sì	sì	INTJ	I	_	3	discourse	_	AlignEnd=571.71|Speaker=BOI013|TID=302-1
 3	mh	mh	INTJ	I	_	0	root	_	AlignEnd=571.85|Speaker=BOR005|TID=303-0
@@ -2666,7 +2671,7 @@
 4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Speaker=BOR005|TID=318-3
 5	capitato	capitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BOR005|TID=318-4
 6	di	di	ADP	E	_	8	mark	_	Speaker=BOR005|TID=318-5
-7	suonarci	_	_	_	_	5	dep	_	AlignEnd=598.59|Intonation=ascending|Speaker=BOR005|TID=318-6
+7	suonarci	_	VERB	_	_	5	dep	_	AlignEnd=598.59|Intonation=ascending|Speaker=BOR005|TID=318-6
 8	suonar	suonare	VERB	V	VerbForm=Inf	5	xcomp	_	_
 9	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	8	obj	_	Clitic=Yes
 
@@ -2751,6 +2756,7 @@
 # sent_id = 220
 # text = sì eh in piazza maggiore anche avoglia
 # jefferson_text = sì eh in piazza, maggiore, anche avo[glia]
+# tags = ?
 1	sì	sì	INTJ	I	_	4	discourse	_	Speaker=BOI012|TID=331-1
 2	eh	eh	INTJ	I	_	4	discourse	_	AlignEnd=619.83|Speaker=BOI012|TID=331-2
 3	in	in	ADP	E	_	4	case	_	AlignBegin=620.32|Speaker=BOI012|TID=332-0
@@ -3963,6 +3969,7 @@
 # sent_id = 335
 # text = beh però dai è una bella passeggiata
 # jefferson_text = beh però dai è >una bella passeggiata
+# tags = ?
 1	beh	beh	INTJ	I	_	8	discourse	_	AlignBegin=870.175|Speaker=BOI012|TID=471-0
 2	però	però	ADV	B	_	8	advmod	_	Speaker=BOI012|TID=471-1
 3-4	dai	_	_	_	_	_	_	_	Speaker=BOI012|TID=471-2
@@ -4009,6 +4016,7 @@
 # sent_id = 338
 # text = sì sì ci vuoll' ambulanza per me {ride} levi ambulanza anzi levi ambula~ {ride}
 # jefferson_text = >sì sì< ci vuoll' ambulanza per me {ride} (levi) ambulanza [anzi] [(levi)] ambula~ {ride}
+# tags = ?
 1	sì	sì	INTJ	I	_	6	discourse	_	AlignBegin=877.9|PaceFast=Yes|Speaker=BOI013|TID=474-0
 2	sì	sì	INTJ	I	_	6	discourse	_	PaceFast=Yes|Speaker=BOI013|TID=474-1
 3	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	6	iobj	_	Clitic=Yes|Speaker=BOI013|TID=474-2
@@ -4756,6 +4764,7 @@
 # sent_id = 399
 # text = che poi pensandoci a cioè a bologna {P} i portici sono dappertutto
 # jefferson_text = che poi:: pensandoci a >cioè< a bologna {P} i portici sono dappertutto
+# tags = ?
 1	che	che	SCONJ	CS	_	3	mark	_	AlignBegin=1036.804|Speaker=BOR005|TID=555-0
 2	poi	poi	ADV	B	_	3	advmod	_	AlignEnd=1037.703|Prolonged=Yes|Speaker=BOR005|TID=555-1
 3	pensandoci	pensandocio	ADJ	A	Number=Plur	12	advcl	_	AlignBegin=1038.17|Speaker=BOR005|TID=556-0
