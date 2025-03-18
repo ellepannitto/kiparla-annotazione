@@ -4487,7 +4487,7 @@
 9	{ride}	-	X	_	_	8	dep	_	AlignEnd=1120.703|Speaker=BO139|TID=709-5|Type=NLB
 
 # sent_id = 336
-# text = vabbè comunque {ride} mh vuoi no no quant' è buono te la sei presa per l' uovo di pasqua sì {ride} se lo se me lo vuoi regalare me lo puoi regalare na e lo prendo io e se lo vuo e s {ride} dani se non lo se non lo vuole regalalo a me x {ride} io non disprezzo {ride} {ride} x eh no che x x cazzo non cioè n non mi era neanche passato mh cioè se me lo prendi {ride} cioè se me lo prendi cioè {ride} {ride} cioè se non me lo prendi x {ride} da natura sì comprar glie lo {ride} {ride} {ride} compra {ride} glie {ride} lo {ride} x guarda che è tutti scemi
+# text = vabbè comunque {ride} mh vuoi no no quant' è buono te la sei presa per l' uovo di pasqua sì {ride} se lo se me lo vuoi regalare me lo puoi regalare na e lo prendo io e se lo vuo e s {ride} dani se non lo se non lo vuole regalalo a me x {ride} io non disprezzo {ride} {ride} x eh no che x x cazzo non cioè n non mi era neanche passato mh cioè se me lo prendi {ride} cioè se me lo prendi cioè {ride} {ride} cioè se non me lo prendi x {ride} da naturasì comprar glie lo {ride} {ride} {ride} compra {ride} glie {ride} lo {ride} x guarda che è tutti scemi
 # jefferson_text = vabbè comunque {ride} m:h vuoi? no no quant' è (buono) te la sei presa per l' uovo di pas[qua] [sì] {ride} (>se lo<) se me lo vuoi regalare me lo puoi regalare [na:] [e lo prendo i]o [e se lo vuo~] e s~ {ride} dan[i se non lo se non lo vuole re]galalo a me [xxxx] {ride} io non disprezzo {ride} {ride} xxxxxxxx[xxxx] ([eh no che] xx) x (cazzo) [non >cioè<=n~ non mi era neanche passat]o: [mh >cioè< se me lo prendi] {ride} >cioè< se me lo [prendi] [>cioè<] {ride} {ride} >cioè< se non me lo prendi xx[xxx] {ride} [da natu]ra sì compraglielo {ride} {ride} {ride} {ride} {ride} {ride} xxx guarda che è tutti scemi
 # tags = TO VERIFY
 1	vabbè	vabbè	INTJ	I	_	5	discourse	_	AlignBegin=1121.335|Speaker=BO139|TID=710-0
@@ -4591,47 +4591,45 @@
 99	x	x	X	E	_	102	case	_	AlignEnd=1161.851|Overlapping=Yes|Speaker=BO145|TID=741-6|Type=unknown
 100	{ride}	-	X	_	_	77	dep	_	AlignEnd=1161.637|Speaker=BO139|TID=742-0|Type=NLB
 101	da	da	ADP	E	_	102	case	_	AlignBegin=1161.673|Overlapping=Yes|Speaker=BO147|TID=743-0
-102	natura	natura	NOUN	S	Gender=Fem|Number=Sing	98	obl	_	Overlapping=Yes|Speaker=BO147|TID=743-1
-103	sì	sì	PROPN	I	_	110	discourse	_	Speaker=BO147|TID=743-2
-104	comprar	comprar	VERB	_	VerbForm=Inf	77	dep	_	Speaker=BO147|TID=743-3
-105	glie	glie	PRON	_	Clitic=Yes|PronType=Prs	77	dep	_	Speaker=BO147|TID=743-3
-106	lo	lo	VERB	_	Clitic=Yes|PronType=Prs	77	dep	_	Speaker=BO147|TID=743-3
-107	{ride}	-	X	_	_	77	dep	_	AlignEnd=1163.159|Speaker=BO147|TID=743-4|Type=NLB
-108	{ride}	-	X	_	_	77	dep	_	AlignEnd=1163.486|Speaker=BO139|TID=744-0|Type=NLB
-109	{ride}	-	X	_	_	77	dep	_	AlignEnd=1164.178|Speaker=BO145|TID=745-0|Type=NLB
-110	compra	comprare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	77	parataxis	_	_
-111	{ride}	-	X	_	_	77	dep	_	AlignEnd=1164.711|Speaker=BO147|TID=746-0|Type=NLB
-112	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	110	iobj	_	_
-113	{ride}	-	X	_	_	77	dep	_	AlignEnd=1167.39|Speaker=BO139|TID=747-0|Type=NLB
-114	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	116	det	_	_
-115	{ride}	-	X	_	_	77	dep	_	AlignEnd=1167.723|Speaker=BO147|TID=748-0|Type=NLB
-116	x	x	X	SYM	_	117	nsubj	_	AlignBegin=1167.731|Speaker=BO145|TID=749-0|Type=unknown
-117	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	110	conj	_	Speaker=BO145|TID=749-1
-118	che	che	SCONJ	CS	_	121	mark	_	Speaker=BO145|TID=749-2
-119	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	121	cop	_	Speaker=BO145|TID=749-3
-120	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	121	obl	_	Speaker=BO145|TID=749-4
-121	scemi	scemo	ADJ	A	Gender=Masc|Number=Plur	117	ccomp	_	Speaker=BO145|TID=749-5
+102	naturasì	NaturaSì	NOUN	S	Gender=Fem|Number=Sing	98	obl	_	Overlapping=Yes|Speaker=BO147|TID=743-1
+103	comprar	comprar	VERB	_	VerbForm=Inf	77	dep	_	Speaker=BO147|TID=743-3
+104	glie	glie	PRON	_	Clitic=Yes|PronType=Prs	77	dep	_	Speaker=BO147|TID=743-3
+105	lo	lo	VERB	_	Clitic=Yes|PronType=Prs	77	dep	_	Speaker=BO147|TID=743-3
+106	{ride}	-	X	_	_	77	dep	_	AlignEnd=1163.159|Speaker=BO147|TID=743-4|Type=NLB
+107	{ride}	-	X	_	_	77	dep	_	AlignEnd=1163.486|Speaker=BO139|TID=744-0|Type=NLB
+108	{ride}	-	X	_	_	77	dep	_	AlignEnd=1164.178|Speaker=BO145|TID=745-0|Type=NLB
+109	compra	comprare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	77	parataxis	_	_
+110	{ride}	-	X	_	_	77	dep	_	AlignEnd=1164.711|Speaker=BO147|TID=746-0|Type=NLB
+111	glie	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	109	iobj	_	_
+112	{ride}	-	X	_	_	77	dep	_	AlignEnd=1167.39|Speaker=BO139|TID=747-0|Type=NLB
+113	lo	lo	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	115	det	_	_
+114	{ride}	-	X	_	_	77	dep	_	AlignEnd=1167.723|Speaker=BO147|TID=748-0|Type=NLB
+115	x	x	X	SYM	_	116	nsubj	_	AlignBegin=1167.731|Speaker=BO145|TID=749-0|Type=unknown
+116	guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	109	conj	_	Speaker=BO145|TID=749-1
+117	che	che	SCONJ	CS	_	120	mark	_	Speaker=BO145|TID=749-2
+118	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	120	cop	_	Speaker=BO145|TID=749-3
+119	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	120	obl	_	Speaker=BO145|TID=749-4
+120	scemi	scemo	ADJ	A	Gender=Masc|Number=Plur	116	ccomp	_	Speaker=BO145|TID=749-5
 
 # sent_id = 337
-# text = quelli che vanno da natura sì a parte me {ride} {ride} costerà trenta euro
+# text = quelli che vanno da naturasì a parte me {ride} {ride} costerà trenta euro
 # jefferson_text = quelli che vanno (da) natura sì a parte m[e] {ride} {ride} [co]sterà trenta euro
-1	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	12	nsubj	_	Speaker=BO145|TID=749-6
+1	quelli	quello	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	11	nsubj	_	Speaker=BO145|TID=749-6
 2	che	che	PRON	PR	PronType=Rel	3	nsubj	_	Speaker=BO145|TID=749-7
 3	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	Speaker=BO145|TID=749-8
 4	da	da	ADP	E	_	5	case	_	Speaker=BO145|TID=749-9
-5	natura	Natura	PROPN	S	Gender=Fem|Number=Sing	3	obl	_	Speaker=BO145|TID=749-10
-6	sì	Sì	PROPN	I	_	12	discourse	_	Speaker=BO145|TID=749-11
-7	a	a	ADP	E	_	8	case	_	Speaker=BO145|TID=749-12
-8	parte	parte	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	Speaker=BO145|TID=749-13
-9	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	expl	_	AlignEnd=1170.531|Overlapping=Yes|Speaker=BO145|TID=749-14
-10	{ride}	-	X	_	_	12	dep	_	AlignEnd=1168.544|Speaker=BO139|TID=750-0|Type=NLB
-11	{ride}	-	X	_	_	12	dep	_	AlignEnd=1170.365|Speaker=BO147|TID=751-0|Type=NLB
-12	costerà	costare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	AlignBegin=1170.382|Overlapping=Yes|Speaker=BO147|TID=752-0
-13	trenta	trenta	NUM	SP	NumType=Card	12	obj	_	Speaker=BO147|TID=752-1
-14	euro	euro	NOUN	SP	_	13	flat:name	_	Speaker=BO147|TID=752-2
+5	naturasì	NaturaSì	PROPN	S	Gender=Fem|Number=Sing	3	obl	_	Speaker=BO145|TID=749-10
+6	a	a	ADP	E	_	7	case	_	Speaker=BO145|TID=749-12
+7	parte	parte	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	Speaker=BO145|TID=749-13
+8	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	expl	_	AlignEnd=1170.531|Overlapping=Yes|Speaker=BO145|TID=749-14
+9	{ride}	-	X	_	_	11	dep	_	AlignEnd=1168.544|Speaker=BO139|TID=750-0|Type=NLB
+10	{ride}	-	X	_	_	11	dep	_	AlignEnd=1170.365|Speaker=BO147|TID=751-0|Type=NLB
+11	costerà	costare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	AlignBegin=1170.382|Overlapping=Yes|Speaker=BO147|TID=752-0
+12	trenta	trenta	NUM	SP	NumType=Card	11	obj	_	Speaker=BO147|TID=752-1
+13	euro	euro	NOUN	SP	_	12	flat:name	_	Speaker=BO147|TID=752-2
 
 # sent_id = 338
-# text = un uovo di marca da natura sì {ride} cioè {P} a parte me {ride} è tutti vola tutti per aria con le calze tutte colorate
+# text = un uovo di marca da naturasì {ride} cioè {P} a parte me {ride} è tutti vola tutti per aria con le calze tutte colorate
 # jefferson_text = un uovo (di) marca da natura sì {ride} cioè {P} a parte me {ride} è tutti: vola tutti per aria, con le calze: tutte colorate,
 # tags = TO DISCUSS, TO DISCUSS
 1	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Speaker=BO147|TID=752-3
@@ -4639,26 +4637,25 @@
 3	di	di	ADP	E	_	4	case	_	Speaker=BO147|TID=752-5
 4	marca	marca	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	Speaker=BO147|TID=752-6
 5	da	da	ADP	E	_	6	case	_	Speaker=BO147|TID=752-7
-6	natura	Natura	PROPN	S	Gender=Fem|Number=Sing	2	nmod	_	Speaker=BO147|TID=752-8
-7	sì	Sì	PROPN	I	_	17	discourse	_	AlignEnd=1172.698|Speaker=BO147|TID=752-9
-8	{ride}	-	X	_	_	2	dep	_	AlignEnd=1171.753|Speaker=BO139|TID=753-0|Type=NLB
-9	cioè	cioè	CCONJ	CC	_	17	cc	_	AlignBegin=1172.853|Speaker=BO145|TID=754-0
-10	{P}	-	X	_	_	2	dep	_	Speaker=BO145|TID=754-1|Type=shortpause
-11	a	a	ADP	E	_	12	case	_	Speaker=BO145|TID=754-2
-12	parte	parte	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	Speaker=BO145|TID=754-3
-13	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	AlignEnd=1174.053|Speaker=BO145|TID=754-4
-14	{ride}	-	X	_	_	2	dep	_	AlignEnd=1173.774|Speaker=BO139|TID=755-0|Type=NLB
-15	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	AlignBegin=1174.107|Speaker=BO145|TID=756-0
-16	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	17	obl	_	Prolonged=Yes|Speaker=BO145|TID=756-1
-17	vola	volare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	Speaker=BO145|TID=756-2
-18	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	17	obl	_	Speaker=BO145|TID=756-3
-19	per	per	ADP	E	_	20	case	_	Speaker=BO145|TID=756-4
-20	aria	aria	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	Intonation=weakly_ascending|Speaker=BO145|TID=756-5
-21	con	con	ADP	E	_	23	case	_	Speaker=BO145|TID=756-6
-22	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	Speaker=BO145|TID=756-7
-23	calze	calzo	NOUN	S	Gender=Fem|Number=Plur	17	obl	_	Prolonged=Yes|Speaker=BO145|TID=756-8
-24	tutte	tutto	ADV	PI	Gender=Fem|Number=Plur|PronType=Ind	25	nsubj	_	Speaker=BO145|TID=756-9
-25	colorate	colorare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	23	acl	_	AlignEnd=1177.616|Intonation=weakly_ascending|Speaker=BO145|TID=756-10
+6	naturasì	NaturaSì	PROPN	S	Gender=Fem|Number=Sing	2	nmod	_	Speaker=BO147|TID=752-8
+7	{ride}	-	X	_	_	2	dep	_	AlignEnd=1171.753|Speaker=BO139|TID=753-0|Type=NLB
+8	cioè	cioè	CCONJ	CC	_	16	cc	_	AlignBegin=1172.853|Speaker=BO145|TID=754-0
+9	{P}	-	X	_	_	2	dep	_	Speaker=BO145|TID=754-1|Type=shortpause
+10	a	a	ADP	E	_	11	case	_	Speaker=BO145|TID=754-2
+11	parte	parte	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	Speaker=BO145|TID=754-3
+12	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	AlignEnd=1174.053|Speaker=BO145|TID=754-4
+13	{ride}	-	X	_	_	2	dep	_	AlignEnd=1173.774|Speaker=BO139|TID=755-0|Type=NLB
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	AlignBegin=1174.107|Speaker=BO145|TID=756-0
+15	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	16	obl	_	Prolonged=Yes|Speaker=BO145|TID=756-1
+16	vola	volare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	Speaker=BO145|TID=756-2
+17	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	16	obl	_	Speaker=BO145|TID=756-3
+18	per	per	ADP	E	_	19	case	_	Speaker=BO145|TID=756-4
+19	aria	aria	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	Intonation=weakly_ascending|Speaker=BO145|TID=756-5
+20	con	con	ADP	E	_	22	case	_	Speaker=BO145|TID=756-6
+21	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	Speaker=BO145|TID=756-7
+22	calze	calzo	NOUN	S	Gender=Fem|Number=Plur	16	obl	_	Prolonged=Yes|Speaker=BO145|TID=756-8
+23	tutte	tutto	ADV	PI	Gender=Fem|Number=Plur|PronType=Ind	24	nsubj	_	Speaker=BO145|TID=756-9
+24	colorate	colorare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	22	acl	_	AlignEnd=1177.616|Intonation=weakly_ascending|Speaker=BO145|TID=756-10
 
 # sent_id = 339
 # text = ma che cazz mh mh scemi
