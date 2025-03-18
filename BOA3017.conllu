@@ -2627,7 +2627,7 @@
 6	{canta}	-	X	_	_	5	dep	_	AlignEnd=604.418|Speaker=BO146|TID=398-0|Type=_
 7	{canta}	-	X	_	_	5	dep	_	AlignEnd=604.413|Speaker=BO145|TID=399-0|Type=_
 8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	AlignBegin=605.613|SpaceAfter=No|Speaker=BO146|TID=400-0
-9	angillete	angillete	PROPN	SP	_	5	obj	_	AlignEnd=606.703|Speaker=BO146|TID=400-1
+9	angillete	Angillete	PROPN	SP	_	5	obj	_	AlignEnd=606.703|Speaker=BO146|TID=400-1
 10	{ride}	-	X	_	_	5	dep	_	AlignEnd=609.27|Speaker=BO147|TID=401-0|Type=NLB
 11	{ride}	-	X	_	_	5	dep	_	AlignEnd=608.503|Speaker=BO139|TID=402-0|Type=NLB
 
@@ -2957,7 +2957,7 @@
 # jefferson_text = come trascrivere shining {ride} {ride}
 1	come	come	ADP	E	_	2	mark	_	AlignBegin=673.28|Speaker=BO139|TID=458-0
 2	trascrivere	trascrivere	VERB	V	VerbForm=Inf	0	root	_	Speaker=BO139|TID=458-1
-3	shining	shining	PROPN	S	Gender=Masc	2	obj	_	AlignEnd=674.58|Speaker=BO139|TID=458-2
+3	shining	Shining	PROPN	S	Gender=Masc	2	obj	_	AlignEnd=674.58|Speaker=BO139|TID=458-2
 4	{ride}	-	X	_	_	2	dep	_	AlignEnd=675.575|Speaker=BO147|TID=459-0|Type=NLB
 5	{ride}	-	X	_	_	2	dep	_	AlignEnd=676.46|Speaker=BO146|TID=460-0|Type=NLB
 
@@ -3097,7 +3097,7 @@
 1	se	se	SCONJ	CS	_	6	mark	_	Speaker=BO145|TID=488-8
 2	no	no	INTJ	I	_	6	discourse	_	Speaker=BO145|TID=488-9
 3	dopo	dopo	ADP	E	_	4	case	_	Prolonged=Yes|Speaker=BO145|TID=488-10
-4	andrea	andrea	PROPN	SP	_	6	obl	_	Speaker=BO145|TID=488-11
+4	andrea	Andrea	PROPN	SP	_	6	obl	_	Speaker=BO145|TID=488-11
 5	non	non	ADV	BN	PronType=Neg	6	advmod	_	Speaker=BO145|TID=488-12
 6	sente	sentire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=718.857|Speaker=BO145|TID=488-13
 7	fate	fare	VERB	SW	_	6	obj	_	AlignBegin=719.442|Speaker=BO139|TID=489-0
@@ -3317,7 +3317,7 @@
 6-7	dalle	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO139|TID=531-10
 6	da	da	ADP	E	_	8	case	_	_
 7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
-8	marche	marche	PROPN	S	Gender=Fem|Number=Plur	2	obl	_	AlignEnd=773.988|Overlapping=Yes|Speaker=BO139|TID=531-11
+8	marche	Marche	PROPN	S	Gender=Fem|Number=Plur	2	obl	_	AlignEnd=773.988|Overlapping=Yes|Speaker=BO139|TID=531-11
 9	eh	eh	INTJ	I	_	11	discourse	_	AlignBegin=771.998|Overlapping=Yes|Speaker=BO145|TID=532-0
 10	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	Overlapping=Yes|Speaker=BO145|TID=532-1
 11	capito	capitare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	Overlapping=Yes|Speaker=BO145|TID=532-2
@@ -3411,7 +3411,7 @@
 3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Speaker=BO145|TID=547-2
 4	tedesca	tedesca	NOUN	A	Gender=Fem|Number=Sing	0	root	_	Speaker=BO145|TID=547-3
 5	di	di	ADP	E	_	6	case	_	Speaker=BO145|TID=547-4
-6	dresda	dresda	PROPN	S	Gender=Fem|Number=Sing	4	obl	_	Speaker=BO145|TID=547-5
+6	dresda	Dresda	PROPN	S	Gender=Fem|Number=Sing	4	obl	_	Speaker=BO145|TID=547-5
 
 # sent_id = 260
 # text = che abbiamo conosciuto {ride} x mh
@@ -3474,10 +3474,10 @@
 44	tedesca	tedesca	ADJ	A	Gender=Fem|Number=Sing	41	obl	_	AlignBegin=833.873|Speaker=BO147|TID=573-0
 45	x	x	X	E	_	47	case	_	Speaker=BO147|TID=573-1|Type=unknown
 46	{ride}	-	X	_	_	3	dep	_	AlignEnd=834.63|Speaker=BO147|TID=573-2|Type=NLB
-47	anna	anna	PROPN	SP	_	41	obl	_	AlignEnd=835.463|Intonation=ascending|Speaker=BO139|TID=574-0
-48	anna	anna	PROPN	SP	_	47	flat:name	_	AlignBegin=835.943|Speaker=BO145|TID=575-0
+47	anna	Anna	PROPN	SP	_	41	obl	_	AlignEnd=835.463|Intonation=ascending|Speaker=BO139|TID=574-0
+48	anna	Anna	PROPN	SP	_	47	flat:name	_	AlignBegin=835.943|Speaker=BO145|TID=575-0
 49	x	x~	X	SYM	_	50	dep	_	Interrupted=Yes|Speaker=BO145|TID=575-1
-50	anna	anna	PROPN	SP	_	59	nsubj	_	AlignEnd=837.18|Speaker=BO145|TID=575-2
+50	anna	Anna	PROPN	SP	_	59	nsubj	_	AlignEnd=837.18|Speaker=BO145|TID=575-2
 51	mh	mh	INTJ	I	_	50	discourse	_	AlignEnd=837.628|Speaker=BO139|TID=576-0
 52	x	x	ADP	E	_	53	case	_	AlignBegin=837.668|Speaker=BO145|TID=577-0|Type=unknown
 53	x	x	X	X	_	50	flat:foreign	_	Overlapping=Yes|Speaker=BO145|TID=577-1|Type=unknown
@@ -3524,8 +3524,8 @@
 14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Speaker=BO139|TID=584-1
 15	film	film	NOUN	S	Gender=Masc	12	nmod	_	Speaker=BO139|TID=584-2
 16	di	di	ADP	E	_	17	case	_	Speaker=BO139|TID=584-3
-17	sergio	sergio	PROPN	S	Gender=Masc|Number=Sing	15	nmod	_	Speaker=BO139|TID=584-4
-18	leone	leone	PROPN	S	Gender=Fem|Number=Plur	2	nsubj	_	AlignEnd=853.563|Speaker=BO139|TID=584-5
+17	sergio	Sergio	PROPN	S	Gender=Masc|Number=Sing	15	nmod	_	Speaker=BO139|TID=584-4
+18	leone	Leone	PROPN	S	Gender=Fem|Number=Plur	2	nsubj	_	AlignEnd=853.563|Speaker=BO139|TID=584-5
 
 # sent_id = 264
 # text = c' è anche la canzone di jason derulo che si chiama x x x x {ride} x x è proprio gold
@@ -3536,8 +3536,8 @@
 4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Speaker=BO147|TID=585-3
 5	canzone	canzone	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	Speaker=BO147|TID=585-4
 6	di	di	ADP	E	_	7	case	_	Speaker=BO147|TID=585-5
-7	jason	jason	PROPN	SP	_	5	nmod	_	Speaker=BO147|TID=585-6
-8	derulo	derulo	PROPN	SP	_	7	flat:name	_	Speaker=BO147|TID=585-7
+7	jason	Jason	PROPN	SP	_	5	nmod	_	Speaker=BO147|TID=585-6
+8	derulo	Derulo	PROPN	SP	_	7	flat:name	_	Speaker=BO147|TID=585-7
 9	che	che	SCONJ	PR	PronType=Rel	11	nsubj	_	Speaker=BO147|TID=585-8
 10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	Speaker=BO147|TID=585-9
 11	chiama	chiamare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	Speaker=BO147|TID=585-10
@@ -3663,7 +3663,7 @@
 6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	Speaker=BO145|TID=607-5
 7	compravi	comprare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	Speaker=BO145|TID=607-6
 8	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	expl	_	Speaker=BO145|TID=607-7
-9	andre	andre	PROPN	V	VerbForm=Inf	3	xcomp	_	AlignEnd=900.985|Speaker=BO145|TID=607-8
+9	andre	Andre	PROPN	V	VerbForm=Inf	3	xcomp	_	AlignEnd=900.985|Speaker=BO145|TID=607-8
 10	eh	eh	INTJ	I	_	9	discourse	_	AlignBegin=901.325|Speaker=BO147|TID=608-0
 11	beh	beh	INTJ	I	_	14	discourse	_	Speaker=BO147|TID=608-1
 12	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	14	iobj	_	Speaker=BO147|TID=608-2
@@ -3922,7 +3922,7 @@
 5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No|Speaker=BO145|TID=637-3
 6	uovo	uovo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	Speaker=BO145|TID=637-4
 7	di	di	ADP	E	_	8	case	_	Speaker=BO145|TID=637-5
-8	pasqua	pasqua	PROPN	SP	_	6	nmod	_	AlignEnd=945.48|Speaker=BO145|TID=637-6
+8	pasqua	Pasqua	PROPN	SP	_	6	nmod	_	AlignEnd=945.48|Speaker=BO145|TID=637-6
 
 # sent_id = 294
 # text = cioè mh non ti piacel' uovo di pasqua
@@ -3935,7 +3935,7 @@
 6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No|Speaker=BO147|TID=639-3
 7	uovo	uovo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	Speaker=BO147|TID=639-4
 8	di	di	ADP	E	_	9	case	_	Speaker=BO147|TID=639-5
-9	pasqua	pasqua	PROPN	SP	_	7	nmod	_	AlignEnd=948.73|Intonation=ascending|Speaker=BO147|TID=639-6
+9	pasqua	Pasqua	PROPN	SP	_	7	nmod	_	AlignEnd=948.73|Intonation=ascending|Speaker=BO147|TID=639-6
 
 # sent_id = 295
 # text = no sì mi piace
@@ -4063,7 +4063,7 @@
 1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|Speaker=BO147|TID=647-8
 2	uovo	uovo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	Speaker=BO147|TID=647-9
 3	di	di	ADP	E	_	4	case	_	Speaker=BO147|TID=647-10
-4	pasqua	pasqua	PROPN	SP	_	2	nmod	_	AlignEnd=967.57|Overlapping=Yes|Speaker=BO147|TID=647-11
+4	pasqua	Pasqua	PROPN	SP	_	2	nmod	_	AlignEnd=967.57|Overlapping=Yes|Speaker=BO147|TID=647-11
 5	che	che	SCONJ	PR	PronType=Rel	7	nsubj	_	AlignBegin=966.98|Overlapping=Yes|Speaker=BO139|TID=648-0
 6	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	Overlapping=Yes|Speaker=BO139|TID=648-1|Truncated=Yes
 7	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	Intonation=ascending|Overlapping=Yes|Speaker=BO139|TID=648-2
@@ -4502,7 +4502,7 @@
 16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	Speaker=BO139|TID=716-5|Truncated=Yes
 17	uovo	uovo	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	Speaker=BO139|TID=716-6
 18	di	di	ADP	E	_	19	case	_	Speaker=BO139|TID=716-7
-19	pasqua	pasqua	PROPN	SP	_	17	nmod	_	AlignEnd=1140.278|Overlapping=Yes|Speaker=BO139|TID=716-8
+19	pasqua	Pasqua	PROPN	SP	_	17	nmod	_	AlignEnd=1140.278|Overlapping=Yes|Speaker=BO139|TID=716-8
 20	sì	sì	INTJ	I	_	5	discourse	_	AlignEnd=1140.278|Overlapping=Yes|Speaker=BO145|TID=717-0
 21	{ride}	-	X	_	_	77	dep	_	AlignEnd=1141.059|Speaker=BO145|TID=718-0|Type=NLB
 22	se	se	SCONJ	CS	_	23	mark	_	AlignBegin=1140.727|PaceFast=Yes|Speaker=BO139|TID=719-0
@@ -4528,7 +4528,7 @@
 42	e	e	CCONJ	CC	_	43	cc	_	AlignBegin=1144.715|Speaker=BO139|TID=724-0
 43	s	s~	X	SYM	_	32	conj	_	AlignEnd=1145.187|Interrupted=Yes|Speaker=BO139|TID=724-1
 44	{ride}	-	X	_	_	77	dep	_	AlignEnd=1146.11|Speaker=BO139|TID=725-0|Type=NLB
-45	dani	dani	PROPN	B	_	60	advmod	_	AlignBegin=1146.2|Overlapping=Yes|Speaker=BO147|TID=726-0
+45	dani	Dani	PROPN	B	_	60	advmod	_	AlignBegin=1146.2|Overlapping=Yes|Speaker=BO147|TID=726-0
 46	se	se	SCONJ	CS	_	48	mark	_	Overlapping=Yes|Speaker=BO147|TID=726-1
 47	non	non	ADV	BN	PronType=Neg	48	advmod	_	Overlapping=Yes|Speaker=BO147|TID=726-2
 48	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	60	advcl	_	Overlapping=Yes|Speaker=BO147|TID=726-3
@@ -4585,8 +4585,8 @@
 99	x	x	X	E	_	102	case	_	AlignEnd=1161.851|Overlapping=Yes|Speaker=BO145|TID=741-6|Type=unknown
 100	{ride}	-	X	_	_	77	dep	_	AlignEnd=1161.637|Speaker=BO139|TID=742-0|Type=NLB
 101	da	da	ADP	E	_	102	case	_	AlignBegin=1161.673|Overlapping=Yes|Speaker=BO147|TID=743-0
-102	natura	natura	PROPN	S	Gender=Fem|Number=Sing	98	obl	_	Overlapping=Yes|Speaker=BO147|TID=743-1
-103	sì	sì	PROPN	I	_	108	discourse	_	Speaker=BO147|TID=743-2
+102	natura	Natura	PROPN	S	Gender=Fem|Number=Sing	98	obl	_	Overlapping=Yes|Speaker=BO147|TID=743-1
+103	sì	Sì	PROPN	I	_	108	discourse	_	Speaker=BO147|TID=743-2
 104	compraglielo	_	VERB	_	_	77	dep	_	Speaker=BO147|TID=743-3
 105	{ride}	-	X	_	_	77	dep	_	AlignEnd=1163.159|Speaker=BO147|TID=743-4|Type=NLB
 106	{ride}	-	X	_	_	77	dep	_	AlignEnd=1163.486|Speaker=BO139|TID=744-0|Type=NLB
@@ -4611,8 +4611,8 @@
 2	che	che	SCONJ	PR	PronType=Rel	3	nsubj	_	Speaker=BO145|TID=749-7
 3	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	Speaker=BO145|TID=749-8
 4	da	da	ADP	E	_	5	case	_	Speaker=BO145|TID=749-9
-5	natura	natura	PROPN	S	Gender=Fem|Number=Sing	3	obl	_	Speaker=BO145|TID=749-10
-6	sì	sì	PROPN	I	_	12	discourse	_	Speaker=BO145|TID=749-11
+5	natura	Natura	PROPN	S	Gender=Fem|Number=Sing	3	obl	_	Speaker=BO145|TID=749-10
+6	sì	Sì	PROPN	I	_	12	discourse	_	Speaker=BO145|TID=749-11
 7	a	a	ADP	E	_	8	case	_	Speaker=BO145|TID=749-12
 8	parte	parte	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	Speaker=BO145|TID=749-13
 9	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	12	expl	_	AlignEnd=1170.531|Overlapping=Yes|Speaker=BO145|TID=749-14
@@ -4631,8 +4631,8 @@
 3	di	di	ADP	E	_	4	case	_	Speaker=BO147|TID=752-5
 4	marca	marca	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	Speaker=BO147|TID=752-6
 5	da	da	ADP	E	_	6	case	_	Speaker=BO147|TID=752-7
-6	natura	natura	PROPN	S	Gender=Fem|Number=Sing	2	nmod	_	Speaker=BO147|TID=752-8
-7	sì	sì	PROPN	I	_	17	discourse	_	AlignEnd=1172.698|Speaker=BO147|TID=752-9
+6	natura	Natura	PROPN	S	Gender=Fem|Number=Sing	2	nmod	_	Speaker=BO147|TID=752-8
+7	sì	Sì	PROPN	I	_	17	discourse	_	AlignEnd=1172.698|Speaker=BO147|TID=752-9
 8	{ride}	-	X	_	_	2	dep	_	AlignEnd=1171.753|Speaker=BO139|TID=753-0|Type=NLB
 9	cioè	cioè	CCONJ	CC	_	17	cc	_	AlignBegin=1172.853|Speaker=BO145|TID=754-0
 10	{P}	-	X	_	_	2	dep	_	Speaker=BO145|TID=754-1|Type=shortpause
@@ -4826,7 +4826,7 @@
 1	mh	mh	INTJ	I	_	7	discourse	_	AlignBegin=1206.072|Speaker=BO147|TID=775-0
 2	mh	mh	INTJ	I	_	7	discourse	_	AlignEnd=1206.497|Speaker=BO147|TID=775-1
 3	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	AlignBegin=1209.179|Speaker=BO145|TID=776-0
-4	stefania	stefania	PROPN	I	_	7	discourse	_	Speaker=BO145|TID=776-1
+4	stefania	Stefania	PROPN	I	_	7	discourse	_	Speaker=BO145|TID=776-1
 5	non	non	ADV	BN	PronType=Neg	7	advmod	_	Prolonged=Yes|Speaker=BO145|TID=776-2
 6	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	Speaker=BO145|TID=776-3|Truncated=Yes
 7	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO145|TID=776-4
@@ -4838,7 +4838,7 @@
 # jefferson_text = ah manco marcello xx[xx] [sussidio] di c[azzi
 1	ah	ah	INTJ	I	_	3	discourse	_	AlignEnd=1211.6|Speaker=BO147|TID=777-0
 2	manco	manco	ADV	B	_	3	advmod	_	AlignBegin=1211.866|Speaker=BO145|TID=778-0
-3	marcello	marcello	PROPN	S	Gender=Masc|Number=Sing	0	root	_	AlignEnd=1212.641|Speaker=BO145|TID=778-1
+3	marcello	Marcello	PROPN	S	Gender=Masc|Number=Sing	0	root	_	AlignEnd=1212.641|Speaker=BO145|TID=778-1
 4	x	x	X	E	_	5	case	_	AlignEnd=1214.107|Overlapping=Yes|Speaker=BO147|TID=779-0|Type=unknown
 5	sussidio	sussidio	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	AlignBegin=1213.603|Overlapping=Yes|Speaker=BO145|TID=780-0
 6	di	di	ADP	E	_	7	case	_	Speaker=BO145|TID=780-1
@@ -4847,7 +4847,7 @@
 # sent_id = 355
 # text = marcello dai x che {ride} infatti {ride} prima si mangiava i kebab poi ha scoperto che è intollerante al glutine
 # jefferson_text = marcello dai] [xxx che {ride} (>in<)fa]tti {ride} prima (si) (mangiava) i kebab (poi) ha scoperto che è intollerante al glutine
-1	marcello	marcello	PROPN	S	Gender=Masc|Number=Sing	0	root	_	Overlapping=Yes|Speaker=BO145|TID=780-3
+1	marcello	Marcello	PROPN	S	Gender=Masc|Number=Sing	0	root	_	Overlapping=Yes|Speaker=BO145|TID=780-3
 2-3	dai	_	_	_	_	_	_	_	AlignEnd=1215.516|Overlapping=Yes|Speaker=BO145|TID=780-4
 2	da	da	ADP	E	_	4	case	_	_
 3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
@@ -4882,7 +4882,7 @@
 5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	AlignEnd=1220.628|Overlapping=Yes|Prolonged=Yes|Speaker=BO145|TID=783-17
 6	mh	mh	INTJ	I	_	0	root	_	AlignBegin=1219.924|Overlapping=Yes|Speaker=BO146|TID=784-0
 7	no	no	INTJ	I	_	8	discourse	_	Overlapping=Yes|Prolonged=Yes|Speaker=BO146|TID=784-1
-8	madonna	madonna	PROPN	S	Gender=Fem|Number=Sing	6	parataxis	_	Overlapping=Yes|Speaker=BO146|TID=784-2
+8	madonna	Madonna	PROPN	S	Gender=Fem|Number=Sing	6	parataxis	_	Overlapping=Yes|Speaker=BO146|TID=784-2
 9	intollerante	intollerante	ADJ	A	Number=Sing	8	amod	_	Speaker=BO146|TID=784-3
 10-11	al	_	_	_	_	_	_	_	Speaker=BO146|TID=784-4
 10	a	a	ADP	E	_	12	case	_	_
@@ -5307,7 +5307,7 @@
 3	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	6	obl	_	Speaker=BO139|TID=872-2
 4	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	Speaker=BO139|TID=872-3|Truncated=Yes
 5	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	Speaker=BO139|TID=872-4
-6	livia	livia	PROPN	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO139|TID=872-5
+6	livia	Livia	PROPN	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO139|TID=872-5
 7	che	che	SCONJ	CS	_	8	mark	_	AlignEnd=1349.444|Speaker=BO139|TID=872-6
 8	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	ccomp	_	AlignBegin=1349.577|Speaker=BO145|TID=873-0
 9	basta	bastare	INTJ	S	Gender=Fem|Number=Sing	8	obj	_	Speaker=BO145|TID=873-1
@@ -5563,7 +5563,7 @@
 3-4	della	_	_	_	_	_	_	_	Speaker=BO146|TID=913-8
 3	di	di	ADP	E	_	5	case	_	_
 4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	lindt	lindt	PROPN	X	_	2	nmod	_	AlignEnd=1412.066|Intonation=ascending|Speaker=BO146|TID=913-9
+5	lindt	Lindt	PROPN	X	_	2	nmod	_	AlignEnd=1412.066|Intonation=ascending|Speaker=BO146|TID=913-9
 
 # sent_id = 419
 # text = sì no
@@ -5709,7 +5709,7 @@
 13-14	nella	_	_	_	_	_	_	_	Speaker=BO139|TID=933-5
 13	in	in	ADP	E	_	15	case	_	_
 14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	sicilia	sicilia	PROPN	S	Gender=Fem|Number=Sing	11	nmod	_	Speaker=BO139|TID=933-6
+15	sicilia	Sicilia	PROPN	S	Gender=Fem|Number=Sing	11	nmod	_	Speaker=BO139|TID=933-6
 
 # sent_id = 425
 # text = tipo dell' ottoce metti una roba deol genere è già pericolosa eh mh e 'ste sue coinquiline convinte che lei fosse parte di una setta satanica perché han visto 'sti libri che lei stava studiando
@@ -6165,9 +6165,9 @@
 # text = sinceramente giulia giulia neri
 # jefferson_text = sinceramente] [giulia]? giulia neri
 1	sinceramente	sinceramente	ADV	B	_	3	advmod	_	AlignEnd=1579.187|Overlapping=Yes|Speaker=BO139|TID=993-20
-2	giulia	giulia	PROPN	SP	_	3	nsubj	_	AlignEnd=1579.187|Intonation=ascending|Overlapping=Yes|Speaker=BO145|TID=994-0
-3	giulia	giulia	PROPN	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=1579.291|Speaker=BO139|TID=995-0
-4	neri	nero	PROPN	S	Gender=Masc|Number=Plur	3	obj	_	AlignEnd=1580.141|Speaker=BO139|TID=995-1
+2	giulia	Giulia	PROPN	SP	_	3	nsubj	_	AlignEnd=1579.187|Intonation=ascending|Overlapping=Yes|Speaker=BO145|TID=994-0
+3	giulia	Giulia	PROPN	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=1579.291|Speaker=BO139|TID=995-0
+4	neri	Neri	PROPN	S	Gender=Masc|Number=Plur	3	obj	_	AlignEnd=1580.141|Speaker=BO139|TID=995-1
 
 # sent_id = 443
 # text = ah beh potrebbe essere un si sta scaricando il telefono
@@ -6344,7 +6344,7 @@
 # text = a wojtyla
 # jefferson_text = a wojtyla
 1	a	a	ADP	E	_	2	case	_	AlignBegin=1620.602|Speaker=BO145|TID=1027-0
-2	wojtyla	wojtyla	PROPN	S	Gender=Fem|Number=Sing	0	root	_	AlignEnd=1621.443|Speaker=BO145|TID=1027-1
+2	wojtyla	Wojtyla	PROPN	S	Gender=Fem|Number=Sing	0	root	_	AlignEnd=1621.443|Speaker=BO145|TID=1027-1
 
 # sent_id = 457
 # text = no {ride} {ride} {ride} aveva il corpo di cristo
