@@ -4,7 +4,7 @@
 1	dovresti	dovere	AUX	S	Gender=Masc|Number=Plur	0	root	_	AlignBegin=0.96|Speaker=BO118|TID=0-0
 2-3	parlarmi	_	_	_	_	_	_	_	Speaker=BO118|TID=0-1
 2	parlar	parlare	VERB	A	Gender=Masc|Number=Plur	1	amod	_	_
-3	mi	mi	PRON	A	Gender=Masc|Number=Plur	1	amod	_
+3	mi	mi	PRON	A	Gender=Masc|Number=Plur	1	amod	_	_
 4-5	della	_	_	_	_	_	_	_	Speaker=BO118|TID=0-2
 4	di	di	ADP	E	_	7	case	_	_
 5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
