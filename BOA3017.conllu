@@ -5880,7 +5880,7 @@
 8	di	di	ADP	E	_	10	case	_	_
 9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	tipa	tipo	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	Speaker=BO139|TID=947-8
-11	del	del~	ADP	SYM	_	5	dep	_	Interrupted=Yes|Speaker=BO139|TID=947-9
+11	del	del~	X	SYM	_	5	dep	_	Interrupted=Yes|Speaker=BO139|TID=947-9
 12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	Speaker=BO139|TID=947-10
 13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	Speaker=BO139|TID=947-11
 14	ragazza	ragazzo	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Overlapping=Yes|Speaker=BO139|TID=947-12
