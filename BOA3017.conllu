@@ -5634,7 +5634,7 @@
 14	cristiane	cristiano	ADJ	A	Gender=Fem|Number=Plur	10	xcomp	_	Speaker=BO139|TID=926-7
 
 # sent_id = 423
-# text = che tipo le avevano rubato un pr un eh non mh un dildo che lei aveva nel eh {ride} {ride} nel comodino perché col sospetto che lei lei stava studiando delle cose di magia nel senso cioè {P} di antropologia
+# text = che tipo le avevano rubato un pr un eh non mh un dildo che lei aveva nel eh {ride} nel comodino perché col sospetto che lei lei stava studiando delle cose di magia nel senso cioè {P} di antropologia
 # jefferson_text = che tipo le avevano rubato un pr~=un eh non mh un dildo che lei aveva=nel eh {ride} {ride} nel comodino perché col sospetto che lei lei stava studiando delle cose di magia nel sen[so >cioè< {P} di antropologia]
 1	che	che	CCONJ	DE	PronType=Exc	2	det	_	Speaker=BO139|TID=926-8
 2	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	AlignEnd=1430.326|Speaker=BO139|TID=926-9
@@ -5673,18 +5673,17 @@
 32	stava	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	33	aux	_	Speaker=BO139|TID=930-6
 33	studiando	studiare	VERB	V	VerbForm=Ger	28	acl	_	Speaker=BO139|TID=930-7
 34	delle	del	DET	_	_	_	_	_	Speaker=BO139|TID=930-8
-35	remove	remove	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	36	det	_	_
-36	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	33	obl	_	Speaker=BO139|TID=930-9
-37	di	di	ADP	E	_	38	case	_	Speaker=BO139|TID=930-10
-38	magia	magia	NOUN	S	Gender=Fem|Number=Sing	36	nmod	_	Speaker=BO139|TID=930-11
-39-40	nel	_	_	_	_	_	_	_	Speaker=BO139|TID=930-12
-39	in	in	ADP	E	_	41	case	_	_
-40	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
-41	senso	senso	NOUN	S	Gender=Masc|Number=Sing	33	obl	_	Overlapping=Yes|Speaker=BO139|TID=930-13
-42	cioè	cioè	CCONJ	CC	_	45	cc	_	Overlapping=Yes|PaceFast=Yes|Speaker=BO139|TID=930-14
-43	{P}	-	X	_	_	11	dep	_	Overlapping=Yes|Speaker=BO139|TID=930-15|Type=shortpause
-44	di	di	ADP	E	_	45	case	_	Overlapping=Yes|Speaker=BO139|TID=930-16
-45	antropologia	antropologia	NOUN	S	Gender=Fem|Number=Sing	41	conj	_	AlignEnd=1443.235|Overlapping=Yes|Speaker=BO139|TID=930-17
+35	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	33	obl	_	Speaker=BO139|TID=930-9
+36	di	di	ADP	E	_	37	case	_	Speaker=BO139|TID=930-10
+37	magia	magia	NOUN	S	Gender=Fem|Number=Sing	35	nmod	_	Speaker=BO139|TID=930-11
+38-39	nel	_	_	_	_	_	_	_	Speaker=BO139|TID=930-12
+38	in	in	ADP	E	_	40	case	_	_
+39	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
+40	senso	senso	NOUN	S	Gender=Masc|Number=Sing	33	obl	_	Overlapping=Yes|Speaker=BO139|TID=930-13
+41	cioè	cioè	CCONJ	CC	_	44	cc	_	Overlapping=Yes|PaceFast=Yes|Speaker=BO139|TID=930-14
+42	{P}	-	X	_	_	11	dep	_	Overlapping=Yes|Speaker=BO139|TID=930-15|Type=shortpause
+43	di	di	ADP	E	_	44	case	_	Overlapping=Yes|Speaker=BO139|TID=930-16
+44	antropologia	antropologia	NOUN	S	Gender=Fem|Number=Sing	40	conj	_	AlignEnd=1443.235|Overlapping=Yes|Speaker=BO139|TID=930-17
 
 # sent_id = 424
 # text = ah me l' hai raccontato eh uno studio sui riti magici nella sicilia
@@ -5866,7 +5865,7 @@
 2	sì	sì	INTJ	I	_	0	root	_	AlignEnd=1473.81|Overlapping=Yes|Speaker=BO139|TID=946-1
 
 # sent_id = 433
-# text = poi 'ste qua hanno chiamato la madre della tipa del~ la la ragazza in questione dicendo mh guarda tua figlia fa parte o i di mh cioè fa dei riti satanici in casa
+# text = poi 'ste qua hanno chiamato la madre della tipa del la la ragazza in questione dicendo mh guarda tua figlia fa parte o i di mh cioè fa dei riti satanici in casa
 # jefferson_text = poi 'ste qua hanno chiamato la madre della tipa del~ la la raga[zza in questio]ne >dicendo< [mh] guarda tua figlia fa=(parte=o: i)=di: mh >cioè< fa dei riti satanici in casa
 1	poi	poi	ADV	B	_	5	advmod	_	AlignBegin=1476.456|Speaker=BO139|TID=947-0
 2	'ste	questo	PRON	_	_	_	_	_	Speaker=BO139|TID=947-1
@@ -5899,11 +5898,10 @@
 28	cioè	cioè	CCONJ	CC	_	29	cc	_	PaceFast=Yes|Speaker=BO139|TID=949-9
 29	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	conj	_	Speaker=BO139|TID=949-10
 30	dei	del	DET	_	_	_	_	_	Speaker=BO139|TID=949-11
-31	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	_
-32	riti	rito	NOUN	S	Gender=Masc|Number=Plur	29	obl	_	Speaker=BO139|TID=949-12
-33	satanici	satanico	ADJ	A	Gender=Masc|Number=Plur	32	amod	_	Speaker=BO139|TID=949-13
-34	in	in	ADP	E	_	35	case	_	Speaker=BO139|TID=949-14
-35	casa	casa	NOUN	S	Gender=Fem|Number=Sing	32	nmod	_	Speaker=BO139|TID=949-15
+31	riti	rito	NOUN	S	Gender=Masc|Number=Plur	29	obl	_	Speaker=BO139|TID=949-12
+32	satanici	satanico	ADJ	A	Gender=Masc|Number=Plur	31	amod	_	Speaker=BO139|TID=949-13
+33	in	in	ADP	E	_	34	case	_	Speaker=BO139|TID=949-14
+34	casa	casa	NOUN	S	Gender=Fem|Number=Sing	31	nmod	_	Speaker=BO139|TID=949-15
 
 # sent_id = 434
 # text = così non è che le han detto guarda abbiam visto questi libri x solo l' informazione mi immagino la madre {ride} x x l' informazione solo la loro lettura la accurata quanto l' autolettura del gas
@@ -6762,13 +6760,12 @@
 4	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	Overlapping=Yes|Speaker=BO145|TID=1087-3|Truncated=Yes
 5	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Overlapping=Yes|Speaker=BO145|TID=1087-4
 6	dei	del	DET	_	_	_	_	_	Overlapping=Yes|Speaker=BO145|TID=1087-5
-7	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
-8	pregiudizi	pregiudizio	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	Overlapping=Yes|PaceSlow=Yes|Speaker=BO145|TID=1087-6
-9-10	nei	_	_	_	_	_	_	_	PaceSlow=Yes|Speaker=BO145|TID=1087-7
-9	in	in	ADP	E	_	12	case	_	_
-10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
-11	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	12	det:poss	_	PaceSlow=Yes|Speaker=BO145|TID=1087-8
-12	confronti	confronto	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	PaceSlow=Yes|Speaker=BO145|TID=1087-9
+7	pregiudizi	pregiudizio	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	Overlapping=Yes|PaceSlow=Yes|Speaker=BO145|TID=1087-6
+8-9	nei	_	_	_	_	_	_	_	PaceSlow=Yes|Speaker=BO145|TID=1087-7
+8	in	in	ADP	E	_	11	case	_	_
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+10	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	det:poss	_	PaceSlow=Yes|Speaker=BO145|TID=1087-8
+11	confronti	confronto	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	PaceSlow=Yes|Speaker=BO145|TID=1087-9
 
 # sent_id = 497
 # text = da quando sono nata penso x mh mh {ride} e poi daniela non devi avere pregiudizi su di me

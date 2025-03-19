@@ -258,31 +258,30 @@
 3	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Speaker=BO140|TID=24-16
 4	costruito	costruire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO140|TID=24-17
 5	delle	del	DET	_	_	_	_	_	Speaker=BO140|TID=24-18_
-6	remove	remove	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
-7	villette	villa	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	Speaker=BO140|TID=24-19
-8	sopra	sopra	ADP	E	_	9	case	_	Speaker=BO140|TID=24-20
-9	casa	casa	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	Speaker=BO140|TID=24-21
-10	mia	mio	DET	A	Gender=Fem|Number=Sing	9	amod	_	Prolonged=Yes|Speaker=BO140|TID=24-22
-11	e	e	CCONJ	CC	_	15	cc	_	Speaker=BO140|TID=24-23
-12	quindi	quindi	CCONJ	B	_	15	advmod	_	Prolonged=Yes|Speaker=BO140|TID=24-24
-13	si	si	PRON	PC	Person=3|PronType=Prs	15	expl	_	Clitic=Yes|Speaker=BO140|TID=24-25
-14	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	Speaker=BO140|TID=24-26
-15	persa	perdere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	Speaker=BO140|TID=24-27
-16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Speaker=BO140|TID=24-28
-17	percezione	percezione	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	Speaker=BO140|TID=24-29
-18-19	della	_	_	_	_	_	_	_	Speaker=BO140|TID=24-30
-18	di	di	ADP	E	_	20	case	_	_
-19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-20	strada	strada	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	AlignEnd=84.27|Prolonged=Yes|Speaker=BO140|TID=24-31
-21	eh	eh	INTJ	I	_	22	discourse	_	AlignBegin=84.66|Prolonged=Yes|Speaker=BO140|TID=25-0
-22	nazionale	nazionale	ADJ	A	Number=Sing	17	amod	_	Prolonged=Yes|Speaker=BO140|TID=25-1
-23	che	che	SCONJ	CS	_	24	mark	_	Speaker=BO140|TID=25-2
-24	collega	collegare	VERB	S	Number=Sing	17	acl	_	Speaker=BO140|TID=25-3
-25	@nomepaese	@nomepaese	PROPN	A	Number=Sing	24	amod	_	Speaker=BO140|TID=25-4
-26	con	con	ADP	E	_	29	case	_	Speaker=BO140|TID=25-5
-27	altre	altro	DET	DI	PronType=Ind	29	det	_	Prolonged=Yes|Speaker=BO140|TID=25-6
-28	altri	altro	DET	DI	PronType=Ind	29	det	_	Speaker=BO140|TID=25-7
-29	paesi	paese	NOUN	S	Gender=Masc|Number=Plur	24	nmod	_	AlignEnd=89.35|Speaker=BO140|TID=25-8
+6	villette	villa	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	Speaker=BO140|TID=24-19
+7	sopra	sopra	ADP	E	_	8	case	_	Speaker=BO140|TID=24-20
+8	casa	casa	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	Speaker=BO140|TID=24-21
+9	mia	mio	DET	A	Gender=Fem|Number=Sing	8	amod	_	Prolonged=Yes|Speaker=BO140|TID=24-22
+10	e	e	CCONJ	CC	_	14	cc	_	Speaker=BO140|TID=24-23
+11	quindi	quindi	CCONJ	B	_	14	advmod	_	Prolonged=Yes|Speaker=BO140|TID=24-24
+12	si	si	PRON	PC	Person=3|PronType=Prs	14	expl	_	Clitic=Yes|Speaker=BO140|TID=24-25
+13	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	Speaker=BO140|TID=24-26
+14	persa	perdere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	Speaker=BO140|TID=24-27
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	Speaker=BO140|TID=24-28
+16	percezione	percezione	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	Speaker=BO140|TID=24-29
+17-18	della	_	_	_	_	_	_	_	Speaker=BO140|TID=24-30
+17	di	di	ADP	E	_	19	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	strada	strada	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	AlignEnd=84.27|Prolonged=Yes|Speaker=BO140|TID=24-31
+20	eh	eh	INTJ	I	_	21	discourse	_	AlignBegin=84.66|Prolonged=Yes|Speaker=BO140|TID=25-0
+21	nazionale	nazionale	ADJ	A	Number=Sing	16	amod	_	Prolonged=Yes|Speaker=BO140|TID=25-1
+22	che	che	SCONJ	CS	_	23	mark	_	Speaker=BO140|TID=25-2
+23	collega	collegare	VERB	S	Number=Sing	16	acl	_	Speaker=BO140|TID=25-3
+24	@nomepaese	@nomepaese	PROPN	A	Number=Sing	23	amod	_	Speaker=BO140|TID=25-4
+25	con	con	ADP	E	_	28	case	_	Speaker=BO140|TID=25-5
+26	altre	altro	DET	DI	PronType=Ind	28	det	_	Prolonged=Yes|Speaker=BO140|TID=25-6
+27	altri	altro	DET	DI	PronType=Ind	28	det	_	Speaker=BO140|TID=25-7
+28	paesi	paese	NOUN	S	Gender=Masc|Number=Plur	23	nmod	_	AlignEnd=89.35|Speaker=BO140|TID=25-8
 
 # sent_id = 13
 # text = okay e tipo fuori da casa tua che c'è
@@ -1015,17 +1014,16 @@
 5	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	Speaker=BO140|TID=75-24
 6	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	Speaker=BO140|TID=75-25
 7	possibile	possibile	ADJ	A	Number=Sing	0	root	_	Speaker=BO140|TID=75-26
-8	perché	perché	SCONJ	CS	_	16	mark	_	Speaker=BO140|TID=75-27
-9	poi	poi	ADV	B	_	16	advmod	_	Speaker=BO140|TID=75-28
+8	perché	perché	SCONJ	CS	_	15	mark	_	Speaker=BO140|TID=75-27
+9	poi	poi	ADV	B	_	15	advmod	_	Speaker=BO140|TID=75-28
 10	di	di	ADP	E	_	11	case	_	Speaker=BO140|TID=75-29
 11	sera	sera	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	Speaker=BO140|TID=75-30
-12	comunque	comunque	CCONJ	B	_	16	advmod	_	Prolonged=Yes|Speaker=BO140|TID=75-31
-13	son	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	Speaker=BO140|TID=75-32
+12	comunque	comunque	CCONJ	B	_	15	advmod	_	Prolonged=Yes|Speaker=BO140|TID=75-31
+13	son	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	Speaker=BO140|TID=75-32
 14	delle	del	DET	_	_	_	_	_	Speaker=BO140|TID=75-33
-15	remove	remove	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
-16	strade	strada	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	Prolonged=Yes|Speaker=BO140|TID=75-34
-17	abbastanza	abbastanza	ADV	B	_	18	advmod	_	Speaker=BO140|TID=75-35
-18	buie	buio	ADJ	A	Gender=Fem|Number=Plur	16	amod	_	AlignEnd=308.71|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=75-36
+15	strade	strada	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	Prolonged=Yes|Speaker=BO140|TID=75-34
+16	abbastanza	abbastanza	ADV	B	_	17	advmod	_	Speaker=BO140|TID=75-35
+17	buie	buio	ADJ	A	Gender=Fem|Number=Plur	15	amod	_	AlignEnd=308.71|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=75-36
 
 # sent_id = 50
 # text = è brutto tornare a piedi
@@ -1450,12 +1448,11 @@
 # sent_id = 76
 # text = cioè sono delle pendenze normali
 # jefferson_text = cioè sono delle pendenze norma:li
-1	cioè	cioè	CCONJ	CC	_	5	cc	_	Speaker=BO140|TID=101-6
-2	sono	essere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	Speaker=BO140|TID=101-7
+1	cioè	cioè	CCONJ	CC	_	4	cc	_	Speaker=BO140|TID=101-6
+2	sono	essere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	Speaker=BO140|TID=101-7
 3	delle	del	DET	_	_	_	_	_	Speaker=BO140|TID=101-8
-4	remove	remove	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
-5	pendenze	pendenza	NOUN	S	Gender=Fem|Number=Plur	0	root	_	Speaker=BO140|TID=101-9
-6	normali	normale	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	Prolonged=Yes|Speaker=BO140|TID=101-10
+4	pendenze	pendenza	NOUN	S	Gender=Fem|Number=Plur	0	root	_	Speaker=BO140|TID=101-9
+5	normali	normale	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	Prolonged=Yes|Speaker=BO140|TID=101-10
 
 # sent_id = 77
 # text = diciamo okay cioè da fare in bici è diver~
@@ -1998,10 +1995,9 @@
 20	cui	cui	PRON	PR	PronType=Rel	22	obl	_	Prolonged=Yes|Speaker=BO140|TID=144-10
 21	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	Speaker=BO140|TID=144-11
 22	abitato	abitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	acl:relcl	_	Speaker=BO140|TID=144-12
-23	anche	anche	ADV	B	_	26	advmod	_	Prolonged=Yes|Speaker=BO140|TID=144-13
+23	anche	anche	ADV	B	_	25	advmod	_	Prolonged=Yes|Speaker=BO140|TID=144-13
 24	degli	del	DET	_	_	_	_	_	Speaker=BO140|TID=144-14
-25	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
-26	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	22	obl	_	AlignEnd=558.18|Intonation=weakly_ascending|Speaker=BO140|TID=144-15
+25	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	22	obl	_	AlignEnd=558.18|Intonation=weakly_ascending|Speaker=BO140|TID=144-15
 
 # sent_id = 114
 # text = ehm
@@ -2031,10 +2027,9 @@
 7	che	che	SCONJ	CS	_	9	mark	_	Speaker=BO140|TID=147-1
 8	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	9	expl	_	Clitic=Yes|Speaker=BO140|TID=147-2
 9	siano	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	Speaker=BO140|TID=147-3
-10	anche	anche	ADV	B	_	13	advmod	_	Speaker=BO140|TID=147-4
+10	anche	anche	ADV	B	_	12	advmod	_	Speaker=BO140|TID=147-4
 11	degli	del	DET	_	_	_	_	_	Speaker=BO140|TID=147-5
-12	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
-13	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	Intonation=weakly_ascending|Speaker=BO140|TID=147-6
+12	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	9	obl	_	Intonation=weakly_ascending|Speaker=BO140|TID=147-6
 
 # sent_id = 117
 # text = mentre nell'altra comunque essendo in due doppie e eravamo più contente di dormire tra donne che avere un uomo in casa
@@ -2176,17 +2171,16 @@
 3	devi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	Speaker=BO140|TID=154-17
 4	muovere	muovere	VERB	V	VerbForm=Inf	0	root	_	Speaker=BO140|TID=154-18
 5	comunque	comunque	ADV	B	_	4	advmod	_	Speaker=BO140|TID=154-19
-6	o	o	CCONJ	CC	_	10	cc	_	Speaker=BO140|TID=154-20
-7	con	con	ADP	E	_	10	case	_	Speaker=BO140|TID=154-21
+6	o	o	CCONJ	CC	_	9	cc	_	Speaker=BO140|TID=154-20
+7	con	con	ADP	E	_	9	case	_	Speaker=BO140|TID=154-21
 8	dei	del	DET	_	_	_	_	_	Speaker=BO140|TID=154-22
-9	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
-10	mezzi	mezzo	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	Intonation=weakly_ascending|Speaker=BO140|TID=154-23
-11	o	o	CCONJ	CC	_	13	cc	_	Speaker=BO140|TID=154-24
-12	a	a	ADP	E	_	13	case	_	Speaker=BO140|TID=154-25
-13	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	10	conj	_	Intonation=weakly_ascending|Speaker=BO140|TID=154-26
-14	o	o	CCONJ	CC	_	16	cc	_	Speaker=BO140|TID=154-27
-15	in	in	ADP	E	_	16	case	_	Speaker=BO140|TID=154-28
-16	bicicletta	bicicletta	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	Speaker=BO140|TID=154-29
+9	mezzi	mezzo	NOUN	S	Gender=Masc|Number=Plur	4	conj	_	Intonation=weakly_ascending|Speaker=BO140|TID=154-23
+10	o	o	CCONJ	CC	_	12	cc	_	Speaker=BO140|TID=154-24
+11	a	a	ADP	E	_	12	case	_	Speaker=BO140|TID=154-25
+12	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	Intonation=weakly_ascending|Speaker=BO140|TID=154-26
+13	o	o	CCONJ	CC	_	15	cc	_	Speaker=BO140|TID=154-27
+14	in	in	ADP	E	_	15	case	_	Speaker=BO140|TID=154-28
+15	bicicletta	bicicletta	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	Speaker=BO140|TID=154-29
 
 # sent_id = 125
 # text = ma comunque i tempi sono sempre più prolungati
@@ -2591,16 +2585,15 @@
 2	se	se	SCONJ	CS	_	4	mark	_	Speaker=BO140|TID=176-1
 3	volevo	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	Speaker=BO140|TID=176-2
 4-5	ritagliarmi	_	_	_	_	_	_	_	Speaker=BO140|TID=176-3
-4	ritagliar	ritagliare	VERB	V	VerbForm=Inf	12	advcl	_	_
+4	ritagliar	ritagliare	VERB	V	VerbForm=Inf	11	advcl	_	_
 5	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	4	expl	_	_
-6	anche	anche	ADV	B	_	9	advmod	_	Speaker=BO140|TID=176-4
+6	anche	anche	ADV	B	_	8	advmod	_	Speaker=BO140|TID=176-4
 7	dei	del	DET	_	_	_	_	_	Speaker=BO140|TID=176-5
-8	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
-9	momenti	momento	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	Speaker=BO140|TID=176-6
-10	miei	mio	DET	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	9	nmod	_	Prolonged=Yes|Speaker=BO140|TID=176-7
-11	non	non	ADV	BN	PronType=Neg	12	advmod	_	Speaker=BO140|TID=176-8
-12	facevo	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Prolonged=Yes|Speaker=BO140|TID=176-9
-13	difficoltà	difficoltà	NOUN	S	Gender=Fem	12	obj	_	AlignEnd=725.56|Intonation=descending|Speaker=BO140|TID=176-10
+8	momenti	momento	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	Speaker=BO140|TID=176-6
+9	miei	mio	DET	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	nmod	_	Prolonged=Yes|Speaker=BO140|TID=176-7
+10	non	non	ADV	BN	PronType=Neg	11	advmod	_	Speaker=BO140|TID=176-8
+11	facevo	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Prolonged=Yes|Speaker=BO140|TID=176-9
+12	difficoltà	difficoltà	NOUN	S	Gender=Fem	11	obj	_	AlignEnd=725.56|Intonation=descending|Speaker=BO140|TID=176-10
 
 # sent_id = 147
 # text = però sì diciamo che crescendo hai bisogno di avere uno spazio più privato
@@ -2852,17 +2845,16 @@
 19	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	aux	_	Speaker=BO140|TID=193-8
 20	vissuto	vivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	Speaker=BO140|TID=193-9
 21	sempre	sempre	ADV	B	_	20	advmod	_	Speaker=BO140|TID=193-10
-22	con	con	ADP	E	_	25	case	_	Speaker=BO140|TID=193-11
+22	con	con	ADP	E	_	24	case	_	Speaker=BO140|TID=193-11
 23	delle	del	DET	_	_	_	_	_	Speaker=BO140|TID=193-12
-24	remove	remove	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	_	_
-25	persone	persona	NOUN	S	Gender=Fem|Number=Plur	20	obl	_	Prolonged=Yes|Speaker=BO140|TID=193-13
-26	tranquille	tranquillo	ADJ	A	Gender=Fem|Number=Plur	25	amod	_	Speaker=BO140|TID=193-14
-27	che	che	SCONJ	PR	PronType=Rel	29	nsubj	_	Speaker=BO140|TID=193-15
-28	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	29	iobj	_	Clitic=Yes|Speaker=BO140|TID=193-16
-29	lasciavano	lasciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	Speaker=BO140|TID=193-17
-30	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	Speaker=BO140|TID=193-18
-31	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	32	det:poss	_	Speaker=BO140|TID=193-19
-32	spazi	spazio	NOUN	S	Gender=Masc|Number=Plur	29	obj	_	AlignEnd=792.33|Overlapping=Yes|Speaker=BO140|TID=193-20
+24	persone	persona	NOUN	S	Gender=Fem|Number=Plur	20	obl	_	Prolonged=Yes|Speaker=BO140|TID=193-13
+25	tranquille	tranquillo	ADJ	A	Gender=Fem|Number=Plur	24	amod	_	Speaker=BO140|TID=193-14
+26	che	che	SCONJ	PR	PronType=Rel	28	nsubj	_	Speaker=BO140|TID=193-15
+27	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	28	iobj	_	Clitic=Yes|Speaker=BO140|TID=193-16
+28	lasciavano	lasciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	Speaker=BO140|TID=193-17
+29	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	31	det	_	Speaker=BO140|TID=193-18
+30	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	31	det:poss	_	Speaker=BO140|TID=193-19
+31	spazi	spazio	NOUN	S	Gender=Masc|Number=Plur	28	obj	_	AlignEnd=792.33|Overlapping=Yes|Speaker=BO140|TID=193-20
 
 # sent_id = 162
 # text = sì sì ma anch'io però era proprio l'esigenza de sta da sola in dei momenti sì
@@ -2881,11 +2873,10 @@
 12	sta	stare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	Overlapping=Yes|Speaker=BO118|TID=194-11
 13	da	da	ADP	E	_	14	case	_	Overlapping=Yes|Speaker=BO118|TID=194-12
 14	sola	solo	ADJ	A	Gender=Fem|Number=Sing	12	obl	_	Overlapping=Yes|Speaker=BO118|TID=194-13
-15	in	in	ADP	E	_	18	case	_	Overlapping=Yes|Speaker=BO118|TID=194-14
+15	in	in	ADP	E	_	17	case	_	Overlapping=Yes|Speaker=BO118|TID=194-14
 16	dei	del	DET	_	_	_	_	_	Overlapping=Yes|Speaker=BO118|TID=194-15
-17	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
-18	momenti	momento	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	AlignEnd=795.63|Overlapping=Yes|Speaker=BO118|TID=194-16
-19	sì	sì	INTJ	I	_	10	discourse	_	AlignBegin=794.208|Overlapping=Yes|Speaker=BO140|TID=195-0
+17	momenti	momento	NOUN	S	Gender=Masc|Number=Plur	12	obl	_	AlignEnd=795.63|Overlapping=Yes|Speaker=BO118|TID=194-16
+18	sì	sì	INTJ	I	_	10	discourse	_	AlignBegin=794.208|Overlapping=Yes|Speaker=BO140|TID=195-0
 
 # sent_id = 163
 # text = di stare da sola di non parla~ di non vedere in faccia nessuno
@@ -3283,11 +3274,10 @@
 15	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	16	expl	_	Clitic=Yes|Speaker=BO140|TID=228-9
 16	abitan	abitare	ADV	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	Speaker=BO140|TID=228-10
 17	delle	del	DET	_	_	_	_	_	Speaker=BO140|TID=228-11
-18	remove	remove	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
-19	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	16	obl	_	Prolonged=Yes|Speaker=BO140|TID=228-12
-20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	Speaker=BO140|TID=228-13
-21	non	non	ADV	BN	PronType=Neg	22	advmod	_	Speaker=BO140|TID=228-14
-22	studenti	studente	NOUN	A	Gender=Masc|Number=Plur	16	nsubj	_	Speaker=BO140|TID=228-15
+18	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	16	obl	_	Prolonged=Yes|Speaker=BO140|TID=228-12
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	Speaker=BO140|TID=228-13
+20	non	non	ADV	BN	PronType=Neg	21	advmod	_	Speaker=BO140|TID=228-14
+21	studenti	studente	NOUN	A	Gender=Masc|Number=Plur	16	nsubj	_	Speaker=BO140|TID=228-15
 
 # sent_id = 191
 # text = quindi sì cioè se vuoi anche più tranquillità ti sposti verso fuori
@@ -3557,27 +3547,26 @@
 11	e	e	CCONJ	CC	_	12	cc	_	Prolonged=Yes|Speaker=BO140|TID=251-9
 12	incontrare	incontrare	VERB	V	VerbForm=Inf	7	conj	_	Speaker=BO140|TID=251-10
 13	delle	del	DET	_	_	_	_	_	Speaker=BO140|TID=251-11
-14	remove	remove	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
-15	persone	persona	NOUN	S	Gender=Fem|Number=Plur	12	obl	_	AlignEnd=968.84|Intonation=descending|Speaker=BO140|TID=251-12
-16	cioè	cioè	CCONJ	CC	_	17	cc	_	AlignBegin=969.29|Speaker=BO140|TID=252-0
-17-18	farci	_	_	_	_	_	_	_	Speaker=BO140|TID=252-1
-17	far	fare	VERB	V	VerbForm=Inf	12	conj	_	_
-18	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	17	expl	_	Clitic=Yes
-19	due	due	DET	N	NumType=Card	20	nummod	_	Speaker=BO140|TID=252-2
-20	chiacchiere	chiacchiera	NOUN	S	Gender=Fem|Number=Plur	17	obj	_	Speaker=BO140|TID=252-3
-21	magari	magari	ADV	B	_	22	advmod	_	Prolonged=Yes|Speaker=BO140|TID=252-4
-22	così	così	ADV	B	_	17	advmod	_	AlignEnd=971.62|Intonation=descending|Speaker=BO140|TID=252-5
-23	che	che	SCONJ	CS	_	30	mark	_	AlignBegin=972.145|Speaker=BO140|TID=253-0
-24	poi	poi	ADV	B	_	30	advmod	_	Speaker=BO140|TID=253-1
-25	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	Speaker=BO140|TID=253-2
-26	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	27	det:poss	_	Speaker=BO140|TID=253-3
-27	spazi	spazio	NOUN	S	Gender=Masc|Number=Plur	30	nsubj	_	Speaker=BO140|TID=253-4
-28	me	me	PRON	PC	Number=Sing|Person=1|PronType=Prs	30	expl	_	Clitic=Yes|Speaker=BO140|TID=253-5
-29	li	li	PRON	PC	Gender=Masc|Number=Plur|Person=3|PronType=Prs	30	obj	_	Clitic=Yes|Speaker=BO140|TID=253-6
-30	ritaglio	ritagliare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	ccomp	_	Prolonged=Yes|Speaker=BO140|TID=253-7
-31	a	a	ADP	E	_	32	case	_	Speaker=BO140|TID=253-8
-32	casa	casa	NOUN	S	Gender=Fem|Number=Sing	30	obl	_	Speaker=BO140|TID=253-9
-33	mia	mio	ADJ	A	Gender=Fem|Number=Sing	32	amod	_	Speaker=BO140|TID=253-10
+14	persone	persona	NOUN	S	Gender=Fem|Number=Plur	12	obl	_	AlignEnd=968.84|Intonation=descending|Speaker=BO140|TID=251-12
+15	cioè	cioè	CCONJ	CC	_	16	cc	_	AlignBegin=969.29|Speaker=BO140|TID=252-0
+16-17	farci	_	_	_	_	_	_	_	Speaker=BO140|TID=252-1
+16	far	fare	VERB	V	VerbForm=Inf	12	conj	_	_
+17	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	16	expl	_	Clitic=Yes
+18	due	due	DET	N	NumType=Card	19	nummod	_	Speaker=BO140|TID=252-2
+19	chiacchiere	chiacchiera	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	Speaker=BO140|TID=252-3
+20	magari	magari	ADV	B	_	21	advmod	_	Prolonged=Yes|Speaker=BO140|TID=252-4
+21	così	così	ADV	B	_	16	advmod	_	AlignEnd=971.62|Intonation=descending|Speaker=BO140|TID=252-5
+22	che	che	SCONJ	CS	_	29	mark	_	AlignBegin=972.145|Speaker=BO140|TID=253-0
+23	poi	poi	ADV	B	_	29	advmod	_	Speaker=BO140|TID=253-1
+24	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	Speaker=BO140|TID=253-2
+25	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	26	det:poss	_	Speaker=BO140|TID=253-3
+26	spazi	spazio	NOUN	S	Gender=Masc|Number=Plur	29	nsubj	_	Speaker=BO140|TID=253-4
+27	me	me	PRON	PC	Number=Sing|Person=1|PronType=Prs	29	expl	_	Clitic=Yes|Speaker=BO140|TID=253-5
+28	li	li	PRON	PC	Gender=Masc|Number=Plur|Person=3|PronType=Prs	29	obj	_	Clitic=Yes|Speaker=BO140|TID=253-6
+29	ritaglio	ritagliare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	ccomp	_	Prolonged=Yes|Speaker=BO140|TID=253-7
+30	a	a	ADP	E	_	31	case	_	Speaker=BO140|TID=253-8
+31	casa	casa	NOUN	S	Gender=Fem|Number=Sing	29	obl	_	Speaker=BO140|TID=253-9
+32	mia	mio	ADJ	A	Gender=Fem|Number=Sing	31	amod	_	Speaker=BO140|TID=253-10
 
 # sent_id = 205
 # text = ecco magari sì
@@ -3604,21 +3593,20 @@
 13	in	in	ADP	E	_	15	case	_	Speaker=BO140|TID=254-14
 14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Speaker=BO140|TID=254-15
 15	posto	posto	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	Prolonged=Yes|Speaker=BO140|TID=254-16
-16	con	con	ADP	E	_	20	case	_	Speaker=BO140|TID=254-17
+16	con	con	ADP	E	_	19	case	_	Speaker=BO140|TID=254-17
 17	del	del	DET	_	_	_	_	_	Speaker=BO140|TID=254-18
-18	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-19	verde	verde	ADJ	A	Number=Sing	20	amod	_	AlignEnd=982.08|Intonation=descending|Speaker=BO140|TID=254-19
-20	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	15	nmod	_	AlignBegin=982.48|Prolonged=Yes|Speaker=BO118|TID=255-0
-21	cioè	cioè	CCONJ	CC	_	24	cc	_	Speaker=BO118|TID=255-1
-22	ma	ma	CCONJ	CC	_	24	cc	_	Speaker=BO118|TID=255-2
-23	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	Speaker=BO118|TID=255-3
-24	via	via	NOUN	S	Gender=Fem|Number=Sing	20	conj	_	Speaker=BO118|TID=255-4
-25	di	di	ADP	E	_	26	case	_	Speaker=BO118|TID=255-5
-26	mezzo	mezzo	ADJ	S	Gender=Masc|Number=Sing	24	nmod	_	Prolonged=Yes|Speaker=BO118|TID=255-6
-27	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	24	nmod	_	Speaker=BO118|TID=255-7
-28	mh	mh	INTJ	S	_	27	compound	_	Prolonged=Yes|Speaker=BO118|TID=255-8
-29	a	a	ADP	E	_	30	case	_	Speaker=BO118|TID=255-9
-30	firenze	Firenze	PROPN	SP	_	28	nmod	_	Speaker=BO118|TID=255-10
+18	verde	verde	ADJ	A	Number=Sing	19	amod	_	AlignEnd=982.08|Intonation=descending|Speaker=BO140|TID=254-19
+19	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	15	nmod	_	AlignBegin=982.48|Prolonged=Yes|Speaker=BO118|TID=255-0
+20	cioè	cioè	CCONJ	CC	_	23	cc	_	Speaker=BO118|TID=255-1
+21	ma	ma	CCONJ	CC	_	23	cc	_	Speaker=BO118|TID=255-2
+22	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	Speaker=BO118|TID=255-3
+23	via	via	NOUN	S	Gender=Fem|Number=Sing	19	conj	_	Speaker=BO118|TID=255-4
+24	di	di	ADP	E	_	25	case	_	Speaker=BO118|TID=255-5
+25	mezzo	mezzo	ADJ	S	Gender=Masc|Number=Sing	23	nmod	_	Prolonged=Yes|Speaker=BO118|TID=255-6
+26	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	23	nmod	_	Speaker=BO118|TID=255-7
+27	mh	mh	INTJ	S	_	26	compound	_	Prolonged=Yes|Speaker=BO118|TID=255-8
+28	a	a	ADP	E	_	29	case	_	Speaker=BO118|TID=255-9
+29	firenze	Firenze	PROPN	SP	_	27	nmod	_	Speaker=BO118|TID=255-10
 
 # sent_id = 207
 # text = dove dove m'hanno ospitato cioè a pistoia
@@ -4182,12 +4170,11 @@
 15	a	a	ADP	E	_	16	case	_	Speaker=BO140|TID=288-13
 16	livello	livello	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	Speaker=BO140|TID=288-14
 17	giovanile	giovanile	ADJ	A	Number=Sing	5	xcomp	_	Speaker=BO140|TID=288-15
-18	ma	ma	CCONJ	CC	_	23	cc	_	Speaker=BO140|TID=288-16
-19	anche	anche	ADV	B	_	23	advmod	_	Speaker=BO140|TID=288-17
-20	per	per	ADP	E	_	23	case	_	Speaker=BO140|TID=288-18
+18	ma	ma	CCONJ	CC	_	22	cc	_	Speaker=BO140|TID=288-16
+19	anche	anche	ADV	B	_	22	advmod	_	Speaker=BO140|TID=288-17
+20	per	per	ADP	E	_	22	case	_	Speaker=BO140|TID=288-18
 21	delle	del	DET	_	_	_	_	_	Speaker=BO140|TID=288-19
-22	remove	remove	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
-23	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	17	conj	_	AlignEnd=1145.65|Speaker=BO140|TID=288-20
+22	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	17	conj	_	AlignEnd=1145.65|Speaker=BO140|TID=288-20
 
 # sent_id = 227
 # text = cioè io non ho ricordi di quando son piccola che uscivo con i miei in centro a @nomepaese no perché non
@@ -4414,9 +4401,8 @@
 17	di	di	ADP	E	_	18	mark	_	Speaker=BO140|TID=302-17
 18	far	fare	VERB	V	VerbForm=Inf	16	xcomp	_	Speaker=BO140|TID=302-18
 19	dei	del	DET	_	_	_	_	_	Speaker=BO140|TID=302-19
-20	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
-21	passi	passo	NOUN	S	Gender=Masc|Number=Plur	18	obl	_	Speaker=BO140|TID=302-20
-22	avanti	avanti	ADV	B	_	18	advmod	_	AlignEnd=1207.47|Speaker=BO140|TID=302-21
+20	passi	passo	NOUN	S	Gender=Masc|Number=Plur	18	obl	_	Speaker=BO140|TID=302-20
+21	avanti	avanti	ADV	B	_	18	advmod	_	AlignEnd=1207.47|Speaker=BO140|TID=302-21
 
 # sent_id = 240
 # text = però da quando ero adolescente dai diciamo dai boh quattordici anni ho cominciato a uscire fino ad adesso che ne ho venticinque
@@ -4462,18 +4448,16 @@
 9	mai	mai	ADV	B	_	10	advmod	_	Speaker=BO140|TID=305-6
 10	trovato	trovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	Speaker=BO140|TID=305-7
 11	dei	del	DET	_	_	_	_	_	Prolonged=Yes|Speaker=BO140|TID=305-8
-12	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
-13	dei	del	DET	_	_	_	_	_	Speaker=BO140|TID=305-9
-14	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
-15	grandi	grande	ADJ	A	Gender=Masc|Number=Plur	16	amod	_	Speaker=BO140|TID=305-10
-16	eventi	evento	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	Prolonged=Yes|Speaker=BO140|TID=305-11
-17	o	o	CCONJ	CC	_	19	cc	_	AlignEnd=1225.41|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=305-12
-18	cioè	cioè	CCONJ	CC	_	19	cc	_	AlignBegin=1226.282|Speaker=BO140|TID=306-0
-19	possibilità	possibilità	NOUN	S	Gender=Fem	16	conj	_	Speaker=BO140|TID=306-1
-20	di	di	ADP	E	_	21	mark	_	Speaker=BO140|TID=306-2
-21-22	divertirmi	_	_	_	_	_	_	_	Prolonged=Yes|Speaker=BO140|TID=306-3
-21	divertir	divertir	VERB	_	_	5	dep	_	_
-22	mi	mi	PRON	_	_	5	dep	_	_
+12	dei	del	DET	_	_	_	_	_	Speaker=BO140|TID=305-9
+13	grandi	grande	ADJ	A	Gender=Masc|Number=Plur	14	amod	_	Speaker=BO140|TID=305-10
+14	eventi	evento	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	Prolonged=Yes|Speaker=BO140|TID=305-11
+15	o	o	CCONJ	CC	_	17	cc	_	AlignEnd=1225.41|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=305-12
+16	cioè	cioè	CCONJ	CC	_	17	cc	_	AlignBegin=1226.282|Speaker=BO140|TID=306-0
+17	possibilità	possibilità	NOUN	S	Gender=Fem	14	conj	_	Speaker=BO140|TID=306-1
+18	di	di	ADP	E	_	19	mark	_	Speaker=BO140|TID=306-2
+19-20	divertirmi	_	_	_	_	_	_	_	Prolonged=Yes|Speaker=BO140|TID=306-3
+19	divertir	divertir	VERB	_	_	5	dep	_	_
+20	mi	mi	PRON	_	_	5	dep	_	_
 
 # sent_id = 242
 # text = anzi quando avevo quattordici anni ce ne erano molti di più
@@ -4494,10 +4478,9 @@
 # text = organizzavano anche dei concerti
 # jefferson_text = organizzavano anche dei concer[ti::]
 1	organizzavano	organizzare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO140|TID=306-15
-2	anche	anche	ADV	B	_	5	advmod	_	Speaker=BO140|TID=306-16
+2	anche	anche	ADV	B	_	4	advmod	_	Speaker=BO140|TID=306-16
 3	dei	del	DET	_	_	_	_	_	Speaker=BO140|TID=306-17
-4	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
-5	concerti	concerto	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	AlignEnd=1233.32|Overlapping=Yes|Prolonged=Yes|Speaker=BO140|TID=306-18
+4	concerti	concerto	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	AlignEnd=1233.32|Overlapping=Yes|Prolonged=Yes|Speaker=BO140|TID=306-18
 
 # sent_id = 244
 # text = sì sì l'università organizzava dei concerti e lasciavano molto più liberi gli universitari di esprimersi e anche a livello proprio organizzativo
@@ -4508,25 +4491,24 @@
 4	università	università	NOUN	S	Gender=Fem	2	nsubj	_	Overlapping=Yes|Speaker=BO140|TID=308-2
 5	organizzava	organizzare	VERB	A	Gender=Fem|Number=Sing	4	amod	_	Speaker=BO140|TID=308-3
 6	dei	del	DET	_	_	_	_	_	Speaker=BO140|TID=308-4
-7	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
-8	concerti	concerto	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	Speaker=BO140|TID=308-5
-9	e	e	CCONJ	CC	_	10	cc	_	Speaker=BO140|TID=308-6
-10	lasciavano	lasciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	Speaker=BO140|TID=308-7
-11	molto	molto	ADV	B	_	12	advmod	_	Prolonged=Yes|Speaker=BO140|TID=308-8
-12	più	più	ADV	B	_	13	advmod	_	Speaker=BO140|TID=308-9
-13	liberi	libero	ADJ	A	Gender=Masc|Number=Plur	10	xcomp	_	Speaker=BO140|TID=308-10
-14	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	Speaker=BO140|TID=308-11
-15	universitari	universitario	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	Speaker=BO140|TID=308-12
-16	di	di	ADP	E	_	17	case	_	Speaker=BO140|TID=308-13
-17-18	esprimersi	_	_	_	_	_	_	_	_
-17	esprimer	esprimere	VERB	S	Gender=Masc|Number=Plur	15	nmod	_	Speaker=BO140|TID=308-14
-18	si	si	PRON	S	Gender=Masc|Number=Plur	15	nmod	_	Speaker=BO140|TID=308-14
-19	e	e	CCONJ	CC	_	22	cc	_	Speaker=BO140|TID=308-15
-20	anche	anche	ADV	B	_	22	advmod	_	Speaker=BO140|TID=308-16
-21	a	a	ADP	E	_	22	case	_	Speaker=BO140|TID=308-17
-22	livello	livello	NOUN	S	Gender=Masc|Number=Sing	10	conj	_	Speaker=BO140|TID=308-18
-23	proprio	proprio	ADV	B	_	24	advmod	_	Speaker=BO140|TID=308-19
-24	organizzativo	organizzativo	ADJ	A	Gender=Masc|Number=Sing	22	amod	_	AlignEnd=1240.22|Speaker=BO140|TID=308-20
+7	concerti	concerto	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	Speaker=BO140|TID=308-5
+8	e	e	CCONJ	CC	_	9	cc	_	Speaker=BO140|TID=308-6
+9	lasciavano	lasciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	Speaker=BO140|TID=308-7
+10	molto	molto	ADV	B	_	11	advmod	_	Prolonged=Yes|Speaker=BO140|TID=308-8
+11	più	più	ADV	B	_	12	advmod	_	Speaker=BO140|TID=308-9
+12	liberi	libero	ADJ	A	Gender=Masc|Number=Plur	9	xcomp	_	Speaker=BO140|TID=308-10
+13	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	Speaker=BO140|TID=308-11
+14	universitari	universitario	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	Speaker=BO140|TID=308-12
+15	di	di	ADP	E	_	16	case	_	Speaker=BO140|TID=308-13
+16-17	esprimersi	_	_	_	_	_	_	_	_
+16	esprimer	esprimere	VERB	S	Gender=Masc|Number=Plur	14	nmod	_	Speaker=BO140|TID=308-14
+17	si	si	PRON	S	Gender=Masc|Number=Plur	14	nmod	_	Speaker=BO140|TID=308-14
+18	e	e	CCONJ	CC	_	21	cc	_	Speaker=BO140|TID=308-15
+19	anche	anche	ADV	B	_	21	advmod	_	Speaker=BO140|TID=308-16
+20	a	a	ADP	E	_	21	case	_	Speaker=BO140|TID=308-17
+21	livello	livello	NOUN	S	Gender=Masc|Number=Sing	9	conj	_	Speaker=BO140|TID=308-18
+22	proprio	proprio	ADV	B	_	23	advmod	_	Speaker=BO140|TID=308-19
+23	organizzativo	organizzativo	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	AlignEnd=1240.22|Speaker=BO140|TID=308-20
 
 # sent_id = 245
 # text = ah mentre adesso gli stanno tagliando le gambe ovunque a chiunque e non c'è più niente
@@ -4899,8 +4881,7 @@
 5	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	6	expl	_	Clitic=Yes|Speaker=BO118|TID=336-3
 6	stanno	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO118|TID=336-4
 7	delle	_	_	_	_	_	_	_	Speaker=BO118|TID=336-5
-8	remove	remove	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
-9	università	università	NOUN	S	Gender=Fem	6	obl	_	AlignEnd=1345.948|Intonation=ascending|Prolonged=Yes|Speaker=BO118|TID=336-6
+8	università	università	NOUN	S	Gender=Fem	6	obl	_	AlignEnd=1345.948|Intonation=ascending|Prolonged=Yes|Speaker=BO118|TID=336-6
 
 # sent_id = 261
 # text = a pesaro ci sono un paio di università due o tre facoltà insomma ma sono dei corsi di laurea di di ancona e di urbino
@@ -4918,19 +4899,18 @@
 11	tre	tre	DET	N	NumType=Card	9	conj	_	Speaker=BO140|TID=337-10
 12	facoltà	facoltà	NOUN	S	Gender=Fem	8	nmod	_	Speaker=BO140|TID=337-11
 13	insomma	insomma	ADV	B	_	12	advmod	_	Speaker=BO140|TID=337-12
-14	ma	ma	CCONJ	CC	_	18	cc	_	Speaker=BO140|TID=337-13
-15	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	Speaker=BO140|TID=337-14
+14	ma	ma	CCONJ	CC	_	17	cc	_	Speaker=BO140|TID=337-13
+15	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	Speaker=BO140|TID=337-14
 16	dei	del	DET	_	_	_	_	_	Speaker=BO140|TID=337-15
-17	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
-18	corsi	corso	NOUN	S	Gender=Masc|Number=Plur	4	parataxis	_	Speaker=BO140|TID=337-16
-19	di	di	ADP	E	_	20	case	_	Speaker=BO140|TID=337-17
-20	laurea	laurea	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	Prolonged=Yes|Speaker=BO140|TID=337-18
-21	di	di	ADP	E	_	23	case	_	Prolonged=Yes|Speaker=BO140|TID=337-19
-22	di	di	ADP	E	_	23	case	_	Speaker=BO140|TID=337-20
-23	ancona	Ancona	PROPN	S	Gender=Fem|Number=Sing	20	nmod	_	Speaker=BO140|TID=337-21
-24	e	e	CCONJ	CC	_	26	cc	_	Speaker=BO140|TID=337-22
-25	di	di	ADP	E	_	26	case	_	Speaker=BO140|TID=337-23
-26	urbino	Urbino	PROPN	S	Gender=Masc|Number=Sing	23	conj	_	AlignEnd=1354.18|Intonation=descending|Speaker=BO140|TID=337-24
+17	corsi	corso	NOUN	S	Gender=Masc|Number=Plur	4	parataxis	_	Speaker=BO140|TID=337-16
+18	di	di	ADP	E	_	19	case	_	Speaker=BO140|TID=337-17
+19	laurea	laurea	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	Prolonged=Yes|Speaker=BO140|TID=337-18
+20	di	di	ADP	E	_	22	case	_	Prolonged=Yes|Speaker=BO140|TID=337-19
+21	di	di	ADP	E	_	22	case	_	Speaker=BO140|TID=337-20
+22	ancona	Ancona	PROPN	S	Gender=Fem|Number=Sing	19	nmod	_	Speaker=BO140|TID=337-21
+23	e	e	CCONJ	CC	_	25	cc	_	Speaker=BO140|TID=337-22
+24	di	di	ADP	E	_	25	case	_	Speaker=BO140|TID=337-23
+25	urbino	Urbino	PROPN	S	Gender=Masc|Number=Sing	22	conj	_	AlignEnd=1354.18|Intonation=descending|Speaker=BO140|TID=337-24
 
 # sent_id = 262
 # text = mh mh cioè pesaro come città non ha un'università propria
@@ -5944,9 +5924,8 @@
 18	a	a	ADP	E	_	19	case	_	Speaker=BO118|TID=412-10
 19	consegna'	consegnà	NOUN	S	Gender=Fem	17	obl	_	Speaker=BO118|TID=412-11|Truncated=Yes
 20	dei	del	DET	_	_	_	_	_	Speaker=BO118|TID=412-12
-21	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
-22	documenti	documento	NOUN	S	Gender=Masc|Number=Plur	19	nmod	_	AlignEnd=1571.46|Intonation=weakly_ascending|Speaker=BO118|TID=412-13
-23	ehm	ehm	INTJ	I	_	3	discourse	_	AlignBegin=1571.846|Prolonged=Yes|Speaker=BO118|TID=413-0
+21	documenti	documento	NOUN	S	Gender=Masc|Number=Plur	19	nmod	_	AlignEnd=1571.46|Intonation=weakly_ascending|Speaker=BO118|TID=412-13
+22	ehm	ehm	INTJ	I	_	3	discourse	_	AlignBegin=1571.846|Prolonged=Yes|Speaker=BO118|TID=413-0
 
 # sent_id = 348
 # text = però è carina
