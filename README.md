@@ -33,11 +33,8 @@
 
 * 1114 manca anonimizzazione?
 
-## Appunti BOD2018
-
-rimuovere punct dopo nomepaese
-
 ## Appunti PBB004
+
 * os, rsa > lemmatizzati come O.S.S., R.S.A.
 * alcune interruzioni sono palesi (unis~, ~versità, pensio~) > cosa ne facciamo? per ora il lemma è uguale, la PoS è X
 * `basta` > basta1. – Forma impersonale del verbo bastare, usata come esclam.
@@ -48,17 +45,15 @@ rimuovere punct dopo nomepaese
 * ho X anni > ho VERB? io direi AUX. Verb se "possiedo", eg. ho una casa
 
 ### da sistemare su arborator:
+
 * TODO: sent 502 modificare turn around
 * 564
 * 610-9
 * emilia romagna? 625.8/9
 
-
-
 ### scelte diverse
 
 * te > lemma tu, ci > lemma noi, vi > lemma voi
-
 
 ## Fillers
 
@@ -82,24 +77,22 @@ rimuovere punct dopo nomepaese
 - un- tag: x ma cosa si mette come lemma?
 - dove > ADV (zona dove abito) - correggere?
 - open space si divide (come è ora) o va insieme come N?
-- h come token singolo (?)
-- x?
+
 - 112—> sempre con tutte ragazze - tutte singole // tutte?
 - primo/primi = quando det e quando num?
 - addormenta//mme (lemma = mi)
-- interventi modifica forma?
+
 - essere/avere in tempi composti, entrambi gli elementi sono glossati come AUX
 - piacere/preferire/… + inf —> piace è AUX?
 - il lemma di “lei” di default è “egli”. come si gestisce?
 - uno art. lemmatizzato di default “uno” (controllare)
 - miei (genitori) —> ho messo “miei” come lemma (?) --------- [Ludovica] metterei mio e PRON
 - in generale qualche dubbio su num/det (v. frase 240)
-- che cos’è SYM?
 
-- sìùá = ?
-- appennini, bologna —> prop. noun e lemma maiuscolo?
 - anch’ inserire automaticamente lemma anche
-- - controllare lemma “sta” (spesso è _essere_)
+- controllare lemma “sta” (spesso è _essere_)
+
+- interventi modifica forma?
 
 ## Appunti PBB004 (Eleonora)
 

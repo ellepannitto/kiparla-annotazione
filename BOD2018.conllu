@@ -1655,7 +1655,7 @@
 34	bello	bello	ADJ	A	Gender=Masc|Number=Sing	28	conj	_	Speaker=BO140|TID=122-5
 
 # sent_id = 91
-# text = cioè mh l'ambiente era familiare e comunque c'erano un paio di divani eh la televisione il tavolo da cucina e h stavam sempre tutte insieme
+# text = cioè mh l'ambiente era familiare e comunque c'erano un paio di divani eh la televisione il tavolo da cucina eh stavam sempre tutte insieme
 # jefferson_text = cioè:: mh:: l'ambiente era familia:re: e comunque c'erano un paio di divani, eh: la televisione:, il tavolo da cucina::, e h: stavam sempre tutte insieme.
 1	cioè	cioè	CCONJ	CC	_	6	discourse	_	Prolonged=Yes|Speaker=BO140|TID=122-6
 2	mh	mh	INTJ	I	_	6	discourse	_	Prolonged=Yes|Speaker=BO140|TID=122-7
@@ -1678,8 +1678,8 @@
 19	tavolo	tavolo	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	Speaker=BO140|TID=123-4
 20	da	da	ADP	E	_	21	case	_	Speaker=BO140|TID=123-5
 21	cucina	cucina	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=123-6
-22	e	e	CCONJ	CC	_	23	cc	_	Speaker=BO140|TID=123-7
-23	h	h	X	SP	_	19	conj	_	Prolonged=Yes|Speaker=BO140|TID=123-8
+22	eh	e	INTJ	CC	_	22	cc	_	Prolonged=Yes|Speaker=BO140|TID=123-7,8
+23	REMOVE	remove	_	_	_	_	_	_	Speaker=BO140|TID=123-8
 24	stavam	stare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	parataxis	_	Speaker=BO140|TID=123-9
 25	sempre	sempre	ADV	B	_	24	advmod	_	Speaker=BO140|TID=123-10
 26	tutte	tutto	PRON	PI	Gender=Fem|Number=Plur|PronType=Ind	24	obj	_	Speaker=BO140|TID=123-11
@@ -1855,8 +1855,8 @@
 5	sì	sì	INTJ	I	_	4	discourse	_	AlignEnd=515.049|Intonation=descending|Speaker=BO140|TID=133-5
 
 # sent_id = 104
-# text = ma anche perché in via nomeluogo cioè via nomeluogo è una è una via che è stata costruita in quegli anni secondo me cioè le vie storiche sono dai zamboni castiglione san vitale
-# jefferson_text = ma anche perché in via nomeluogo cioè via nomeluogo è una::: è una via che è stata costruita in quegli a:nni secondo me. cioè: le vie sto:riche sono: dai zambo:ni:, [ca]stiglio:ne, san vitale,
+# text = ma anche perché in via @nomeluogo cioè via @nomeluogo è una è una via che è stata costruita in quegli anni secondo me cioè le vie storiche sono dai zamboni castiglione san vitale
+# jefferson_text = ma anche perché in via @nomeluogo cioè via @nomeluogo è una::: è una via che è stata costruita in quegli a:nni secondo me. cioè: le vie sto:riche sono: dai zambo:ni:, [ca]stiglio:ne, san vitale,
 1	ma	ma	CCONJ	CC	_	33	cc	_	AlignBegin=515.308|Speaker=BO140|TID=134-0
 2	anche	anche	ADV	B	_	33	advmod	_	Speaker=BO140|TID=134-1
 3	perché	perché	ADV	CS	_	33	mark	_	Speaker=BO140|TID=134-2
@@ -2155,8 +2155,8 @@
 11	centro	centro	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	AlignEnd=598.83|Speaker=BO140|TID=153-21
 
 # sent_id = 123
-# text = perché questa casa comunque essendo zona nomeluogo e per andare in centro ti muovi generalmen~
-# jefferson_text = perché: questa casa comunque essendo zona nomeluogo e:: pe:r andare in centro: ti muovi generalmen~
+# text = perché questa casa comunque essendo zona @nomeluogo e per andare in centro ti muovi generalmen~
+# jefferson_text = perché: questa casa comunque essendo zona @nomeluogo e:: pe:r andare in centro: ti muovi generalmen~
 1	perché	perché	SCONJ	CS	_	6	mark	_	AlignBegin=599.69|Prolonged=Yes|Speaker=BO140|TID=154-0
 2	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Speaker=BO140|TID=154-1
 3	casa	casa	NOUN	S	Gender=Fem|Number=Sing	6	nsubj	_	Speaker=BO140|TID=154-2
