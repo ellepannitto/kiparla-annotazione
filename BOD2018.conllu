@@ -92,7 +92,7 @@
 # sent_id = 5
 # text = okay quindi è fatta su diversi piani
 # jefferson_text = <okay> quindi è fatta su diversi piani?
-1	okay	okay	INTJ	I	_	4	discourse	_	AlignBegin=30.54|PaceSlow=Yes|Speaker=BO118|TID=11-0
+1	okay	ok	INTJ	I	_	4	discourse	_	AlignBegin=30.54|PaceSlow=Yes|Speaker=BO118|TID=11-0
 2	quindi	quindi	CCONJ	CC	_	4	cc	_	Speaker=BO118|TID=11-1
 3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Speaker=BO118|TID=11-2
 4	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO118|TID=11-3
@@ -132,7 +132,7 @@
 # sent_id = 7
 # text = okay è fatta in mattoni
 # jefferson_text = <oka:y> è fatta in matto:ni:
-1	okay	okay	INTJ	I	_	3	discourse	_	AlignEnd=42.354|PaceSlow=Yes|Prolonged=Yes|Speaker=BO118|TID=15-0
+1	okay	ok	INTJ	I	_	3	discourse	_	AlignEnd=42.354|PaceSlow=Yes|Prolonged=Yes|Speaker=BO118|TID=15-0
 2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	AlignBegin=42.508|Speaker=BO140|TID=16-0
 3	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO140|TID=16-1
 4	in	in	ADP	E	_	5	case	_	Speaker=BO140|TID=16-2
@@ -153,7 +153,7 @@
 9	anni	anno	NOUN	S	Gender=Masc|Number=Plur	11	obl	_	Prolonged=Yes|Speaker=BO140|TID=16-11
 10	cinquanta	cinquanta	NUM	PR	PronType=Rel	11	obj	_	Speaker=BO140|TID=16-12
 11	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	AlignEnd=49.35|Speaker=BO140|TID=16-13
-12	okay	okay	INTJ	I	_	11	discourse	_	AlignEnd=50.42|Speaker=BO118|TID=17-0
+12	okay	ok	INTJ	I	_	11	discourse	_	AlignEnd=50.42|Speaker=BO118|TID=17-0
 13	e	e	CCONJ	CC	_	15	cc	_	AlignBegin=50.735|Speaker=BO118|TID=18-0
 14	si	si	PRON	PC	Person=3|PronType=Prs	15	expl:impers	_	Clitic=Yes|Speaker=BO118|TID=18-1
 15	trova	trovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	Speaker=BO118|TID=18-2
@@ -203,7 +203,7 @@
 13	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	11	nmod	_	Speaker=BO140|TID=20-10
 14	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	15	expl	_	Clitic=Yes|Speaker=BO140|TID=20-11
 15	metto	mettere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	AlignEnd=62.86|Speaker=BO140|TID=20-12
-16	okay	okay	INTJ	B	_	15	advmod	_	AlignEnd=64.11|Overlapping=Yes|Speaker=BO118|TID=21-0|Volume=low
+16	okay	ok	INTJ	B	_	15	advmod	_	AlignEnd=64.11|Overlapping=Yes|Speaker=BO118|TID=21-0|Volume=low
 17	e	e	CCONJ	CC	_	19	cc	_	AlignBegin=63.597|Overlapping=Yes|Prolonged=Yes|Speaker=BO140|TID=22-0
 18	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	Speaker=BO140|TID=22-1
 19	bella	bello	ADJ	A	Gender=Fem|Number=Sing	15	conj	_	Prolonged=Yes|Speaker=BO140|TID=22-2
@@ -288,7 +288,7 @@
 # sent_id = 13
 # text = okay e tipo fuori da casa tua che c'è
 # jefferson_text = okay. e:: tipo fuori da casa tua che c'è
-1	okay	okay	INTJ	I	_	0	root	_	AlignEnd=90.17|Intonation=descending|Speaker=BO118|TID=26-0
+1	okay	ok	INTJ	I	_	0	root	_	AlignEnd=90.17|Intonation=descending|Speaker=BO118|TID=26-0
 2	e	e	CCONJ	CC	_	3	cc	_	AlignBegin=90.413|Prolonged=Yes|Speaker=BO118|TID=27-0
 3	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	Speaker=BO118|TID=27-1
 4	fuori	fuori	ADV	B	_	6	case	_	Speaker=BO118|TID=27-2
@@ -389,7 +389,7 @@
 # sent_id = 18
 # text = okay quindi ehm per questo è immer~ cioè è immersa nella natura
 # jefferson_text = oka[y] [qui]ndi: e::hm per questo è immer~ cioè è immersa nella natura
-1	okay	okay	INTJ	I	_	10	discourse	_	AlignEnd=119.803|Overlapping=Yes|Speaker=BO118|TID=33-0
+1	okay	ok	INTJ	I	_	10	discourse	_	AlignEnd=119.803|Overlapping=Yes|Speaker=BO118|TID=33-0
 2	quindi	quindi	CCONJ	CC	_	10	cc	_	AlignBegin=119.576|Overlapping=Yes|Prolonged=Yes|Speaker=BO140|TID=34-0
 3	ehm	ehm	INTJ	I	_	7	discourse	_	Prolonged=Yes|Speaker=BO140|TID=34-1
 4	per	per	ADP	E	_	5	case	_	Speaker=BO140|TID=34-2
@@ -529,7 +529,7 @@
 22	di	di	ADP	E	_	23	case	_	Prolonged=Yes|Speaker=BO140|TID=40-6
 23	convenevoli	convenevole	NOUN	S	Gender=Masc|Number=Plur	17	conj	_	Prolonged=Yes|Speaker=BO140|TID=40-7
 24	e	e	CCONJ	CC	_	25	cc	_	AlignEnd=164.897|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=40-8
-25	okay	okay	INTJ	I	_	17	conj	_	AlignBegin=164.9|Speaker=BO118|TID=41-0
+25	okay	ok	INTJ	I	_	17	conj	_	AlignBegin=164.9|Speaker=BO118|TID=41-0
 26	però	però	CCONJ	CC	_	29	cc	_	Speaker=BO118|TID=41-1
 27	comunque	comunque	CCONJ	B	_	29	advmod	_	Prolonged=Yes|Speaker=BO118|TID=41-2
 28	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	AlignEnd=166.7|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO118|TID=41-3
@@ -593,7 +593,7 @@
 # sent_id = 28
 # text = okay sicuramente non
 # jefferson_text = <ok[ay]> [si]curamente no:n
-1	okay	okay	INTJ	I	_	3	discourse	_	AlignEnd=185.08|Overlapping=Yes|PaceSlow=Yes|Speaker=BO118|TID=46-0
+1	okay	ok	INTJ	I	_	3	discourse	_	AlignEnd=185.08|Overlapping=Yes|PaceSlow=Yes|Speaker=BO118|TID=46-0
 2	sicuramente	sicuramente	ADV	B	_	3	advmod	_	AlignBegin=184.826|Overlapping=Yes|Speaker=BO140|TID=47-0
 3	non	non	ADV	BN	PronType=Neg	0	root	_	Prolonged=Yes|Speaker=BO140|TID=47-1
 
@@ -604,7 +604,7 @@
 2	portiamo	portare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Prolonged=Yes|Speaker=BO140|TID=47-3
 3	rancore	rancore	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	Speaker=BO140|TID=47-4
 4	o	o	CCONJ	CC	_	5	cc	_	AlignEnd=189.19|Intonation=weakly_ascending|Speaker=BO140|TID=47-5
-5	okay	okay	NOUN	I	_	3	conj	_	AlignBegin=190.84|Prolonged=Yes|Speaker=BO118|TID=48-0
+5	okay	ok	NOUN	I	_	3	conj	_	AlignBegin=190.84|Prolonged=Yes|Speaker=BO118|TID=48-0
 
 # sent_id = 30
 # text = e qual è la tua stanza preferita nella tua casa
@@ -840,7 +840,7 @@
 # sent_id = 41
 # text = okay ehm quindi stai vicina al centro e vai spesso in centro o o resti più nella zona dove dove abiti
 # jefferson_text = <oka:y> e::hm quindi stai vicina al ce:ntro:: e: vai spesso in centro: o:: o resti più nella zona dove: dove abiti?
-1	okay	okay	INTJ	I	_	4	discourse	_	AlignEnd=256.7|PaceSlow=Yes|Prolonged=Yes|Speaker=BO118|TID=65-0
+1	okay	ok	INTJ	I	_	4	discourse	_	AlignEnd=256.7|PaceSlow=Yes|Prolonged=Yes|Speaker=BO118|TID=65-0
 2	ehm	ehm	INTJ	I	_	4	discourse	_	AlignBegin=258.505|Prolonged=Yes|Speaker=BO118|TID=66-0
 3	quindi	quindi	CCONJ	B	_	4	advmod	_	Speaker=BO118|TID=66-1
 4	stai	stare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO118|TID=66-2
@@ -951,7 +951,7 @@
 # sent_id = 45
 # text = okay per for~
 # jefferson_text = [okay] [per for~
-1	okay	okay	INTJ	I	_	0	root	_	AlignEnd=289.302|Overlapping=Yes|Speaker=BO118|TID=72-0
+1	okay	ok	INTJ	I	_	0	root	_	AlignEnd=289.302|Overlapping=Yes|Speaker=BO118|TID=72-0
 2	per	per	ADP	E	_	3	case	_	AlignBegin=289.727|Overlapping=Yes|Speaker=BO118|TID=73-0
 3	for~	for~	X	SYM	_	1	nmod	_	Interrupted=Yes|Overlapping=Yes|Speaker=BO118|TID=73-1
 
@@ -1464,7 +1464,7 @@
 # text = diciamo okay cioè da fare in bici è diver~
 # jefferson_text = diciamo. okay cioè da fare in bi:ci è diver~
 1	diciamo	dire	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=408.62|Intonation=descending|Speaker=BO140|TID=101-11
-2	okay	okay	INTJ	I	_	1	discourse	_	AlignEnd=408.865|Speaker=BO118|TID=102-0
+2	okay	ok	INTJ	I	_	1	discourse	_	AlignEnd=408.865|Speaker=BO118|TID=102-0
 3	cioè	cioè	CCONJ	CC	_	5	cc	_	AlignBegin=408.87|Speaker=BO140|TID=103-0
 4	da	da	ADP	E	_	5	mark	_	Speaker=BO140|TID=103-1
 5	fare	fare	VERB	V	VerbForm=Inf	1	conj	_	Speaker=BO140|TID=103-2
@@ -1546,7 +1546,7 @@
 # sent_id = 85
 # text = okay la prima casa era in via e la prima casa era in via @nomeluogo
 # jefferson_text = oka:y la prima casa era? in via, e: la prima casa era in via @nomeluogo,
-1	okay	okay	INTJ	B	_	4	advmod	_	AlignEnd=427.79|Prolonged=Yes|Speaker=BO118|TID=110-1
+1	okay	ok	INTJ	B	_	4	advmod	_	AlignEnd=427.79|Prolonged=Yes|Speaker=BO118|TID=110-1
 2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	AlignBegin=428.26|Speaker=BO118|TID=111-0
 3	prima	primo	NUM	NO	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	Speaker=BO118|TID=111-1
 4	casa	casa	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	Speaker=BO118|TID=111-2
@@ -1565,7 +1565,7 @@
 # sent_id = 86
 # text = okay e proprio in centro nella zona universitaria
 # jefferson_text = okay e: proprio in centro: nella zona universitaria,
-1	okay	okay	INTJ	I	_	0	root	_	AlignEnd=432.75|Speaker=BO118|TID=113-0
+1	okay	ok	INTJ	I	_	0	root	_	AlignEnd=432.75|Speaker=BO118|TID=113-0
 2	e	e	CCONJ	CC	_	5	cc	_	AlignBegin=432.84|Prolonged=Yes|Speaker=BO140|TID=114-0
 3	proprio	proprio	ADV	B	_	5	advmod	_	Speaker=BO140|TID=114-1
 4	in	in	ADP	E	_	5	case	_	Speaker=BO140|TID=114-2
@@ -1688,7 +1688,7 @@
 # sent_id = 92
 # text = okay quindi eran sala e cucina insieme
 # jefferson_text = okay quindi eran sala e cucina insieme?
-1	okay	okay	INTJ	I	_	4	discourse	_	AlignBegin=474.43|Speaker=BO118|TID=124-0
+1	okay	ok	INTJ	I	_	4	discourse	_	AlignBegin=474.43|Speaker=BO118|TID=124-0
 2	quindi	quindi	CCONJ	B	_	4	advmod	_	Speaker=BO118|TID=124-1
 3	eran	essere	VERB	A	Number=Sing	4	amod	_	Speaker=BO118|TID=124-2
 4	sala	sala	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=BO118|TID=124-3
@@ -2588,7 +2588,7 @@
 # sent_id = 145
 # text = okay
 # jefferson_text = [okay]
-1	okay	okay	INTJ	I	_	0	root	_	AlignEnd=716.12|Overlapping=Yes|Speaker=BO118|TID=175-0
+1	okay	ok	INTJ	I	_	0	root	_	AlignEnd=716.12|Overlapping=Yes|Speaker=BO118|TID=175-0
 
 # sent_id = 146
 # text = e se volevo ritagliarmi anche dei momenti miei non facevo difficoltà
@@ -3719,7 +3719,7 @@
 5	abito	abitare	VERB	B	_	6	advmod	_	Speaker=BO118|TID=261-3
 6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	Speaker=BO118|TID=261-4
 7	che	che	SCONJ	PR	PronType=Rel	8	nsubj	_	Speaker=BO118|TID=261-5
-8	okay	okay	INTJ	I	_	15	discourse	_	Prolonged=Yes|Speaker=BO118|TID=261-6
+8	okay	ok	INTJ	I	_	15	discourse	_	Prolonged=Yes|Speaker=BO118|TID=261-6
 9-10	alla	_	_	_	_	_	_	_	Speaker=BO118|TID=261-7
 9	a	a	ADP	E	_	11	case	_	_
 10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
@@ -4052,7 +4052,7 @@
 6	piccolo	piccolo	ADJ	A	Gender=Masc|Number=Sing	5	amod	_	Speaker=BO140|TID=281-22
 7	come	come	ADP	E	_	8	case	_	Speaker=BO140|TID=281-23
 8	@nomepaese	@nomepaese	PROPN	S	Gender=Masc|Number=Sing	5	nmod	_	AlignEnd=1101.42|Intonation=descending|Speaker=BO140|TID=281-24
-9	okay	okay	INTJ	B	_	18	advmod	_	AlignEnd=1102.179|Speaker=BO118|TID=282-0|Volume=low
+9	okay	ok	INTJ	B	_	18	advmod	_	AlignEnd=1102.179|Speaker=BO118|TID=282-0|Volume=low
 10	perché	perché	SCONJ	CS	_	12	mark	_	AlignBegin=1102.216|Speaker=BO140|TID=283-0
 11	non	non	ADV	BN	PronType=Neg	12	advmod	_	AlignEnd=1103.523|Prolonged=Yes|Speaker=BO140|TID=283-1
 12	vabbè	vabbere	INTJ	I	_	18	advcl	_	AlignBegin=1104.146|Speaker=BO140|TID=284-0
@@ -4970,7 +4970,7 @@
 # sent_id = 263
 # text = okay accoglie solo nelle sedi dei corsi
 # jefferson_text = o:kay accoglie solo: nelle sedi: dei corsi
-1	okay	okay	INTJ	I	_	2	discourse	_	AlignEnd=1358.43|Prolonged=Yes|Speaker=BO118|TID=340-0
+1	okay	ok	INTJ	I	_	2	discourse	_	AlignEnd=1358.43|Prolonged=Yes|Speaker=BO118|TID=340-0
 2	accoglie	accogliere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=1358.437|Speaker=BO140|TID=341-0
 3	solo	solo	ADV	B	_	6	advmod	_	Prolonged=Yes|Speaker=BO140|TID=341-1
 4-5	nelle	_	_	_	_	_	_	_	Speaker=BO140|TID=341-2
@@ -5067,7 +5067,7 @@
 # sent_id = 269
 # text = okay
 # jefferson_text = <okay>
-1	okay	okay	INTJ	I	_	0	root	_	AlignEnd=1382.13|PaceSlow=Yes|Speaker=BO118|TID=350-0
+1	okay	ok	INTJ	I	_	0	root	_	AlignEnd=1382.13|PaceSlow=Yes|Speaker=BO118|TID=350-0
 
 # sent_id = 270
 # text = e pesaro diciamo che è un po' la la cioè la sì il compromesso giusto
@@ -5690,7 +5690,7 @@
 # text = ah okay
 # jefferson_text = ah okay
 1	ah	ah	INTJ	I	_	2	discourse	_	AlignBegin=1517.91|Speaker=BO140|TID=394-0
-2	okay	okay	INTJ	I	_	0	root	_	AlignEnd=1518.68|Speaker=BO140|TID=394-1
+2	okay	ok	INTJ	I	_	0	root	_	AlignEnd=1518.68|Speaker=BO140|TID=394-1
 
 # sent_id = 325
 # text = però c'è poca gente
@@ -5734,7 +5734,7 @@
 # text = ah okay
 # jefferson_text = ah okay
 1	ah	ah	INTJ	I	_	2	discourse	_	AlignBegin=1523.67|Speaker=BO140|TID=398-0
-2	okay	okay	INTJ	I	_	0	root	_	AlignEnd=1524.45|Speaker=BO140|TID=398-1
+2	okay	ok	INTJ	I	_	0	root	_	AlignEnd=1524.45|Speaker=BO140|TID=398-1
 
 # sent_id = 331
 # text = e a ancona ci stanno quasi tutte le università tranne quelle umanistiche
