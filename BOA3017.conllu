@@ -5672,9 +5672,8 @@
 31	lei	lei	PRON	PE	Gender=Fem|Number=Sing|PronType=Prs	33	nsubj	_	Speaker=BO139|TID=930-5
 32	stava	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	33	aux	_	Speaker=BO139|TID=930-6
 33	studiando	studiare	VERB	V	VerbForm=Ger	28	acl	_	Speaker=BO139|TID=930-7
-34-35	delle	_	_	_	_	_	_	_	Speaker=BO139|TID=930-8
-34	di	di	ADP	E	_	36	case	_	_
-35	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	36	det	_	_
+34	delle	del	DET	_	_	_	_	_	Speaker=BO139|TID=930-8
+35	remove	remove	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	36	det	_	_
 36	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	33	obl	_	Speaker=BO139|TID=930-9
 37	di	di	ADP	E	_	38	case	_	Speaker=BO139|TID=930-10
 38	magia	magia	NOUN	S	Gender=Fem|Number=Sing	36	nmod	_	Speaker=BO139|TID=930-11
@@ -5899,9 +5898,8 @@
 27	mh	mh	INTJ	S	_	25	nmod	_	Speaker=BO139|TID=949-8
 28	cioè	cioè	CCONJ	CC	_	29	cc	_	PaceFast=Yes|Speaker=BO139|TID=949-9
 29	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	conj	_	Speaker=BO139|TID=949-10
-30-31	dei	_	_	_	_	_	_	_	Speaker=BO139|TID=949-11
-30	di	di	ADP	E	_	32	case	_	_
-31	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	_
+30	dei	del	DET	_	_	_	_	_	Speaker=BO139|TID=949-11
+31	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	_
 32	riti	rito	NOUN	S	Gender=Masc|Number=Plur	29	obl	_	Speaker=BO139|TID=949-12
 33	satanici	satanico	ADJ	A	Gender=Masc|Number=Plur	32	amod	_	Speaker=BO139|TID=949-13
 34	in	in	ADP	E	_	35	case	_	Speaker=BO139|TID=949-14
@@ -6763,9 +6761,8 @@
 3	mamma	mamma	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	Overlapping=Yes|Speaker=BO145|TID=1087-2
 4	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	Overlapping=Yes|Speaker=BO145|TID=1087-3|Truncated=Yes
 5	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Overlapping=Yes|Speaker=BO145|TID=1087-4
-6-7	dei	_	_	_	_	_	_	_	Overlapping=Yes|Speaker=BO145|TID=1087-5
-6	di	di	ADP	E	_	8	case	_	_
-7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+6	dei	del	DET	_	_	_	_	_	Overlapping=Yes|Speaker=BO145|TID=1087-5
+7	remove	remove	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	pregiudizi	pregiudizio	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	Overlapping=Yes|PaceSlow=Yes|Speaker=BO145|TID=1087-6
 9-10	nei	_	_	_	_	_	_	_	PaceSlow=Yes|Speaker=BO145|TID=1087-7
 9	in	in	ADP	E	_	12	case	_	_
