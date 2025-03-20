@@ -5,7 +5,7 @@
 | Caterina | TOD1005bis fino a frase 372 | | |
 | Cristina | TOD1005bis da frase 373 in poi | | |
 | Silvia | BOD2018 fino a frase 310 | done | done |
-| Manuela | BOD2018 da 311 in poi |  |  |
+| Manuela | BOD2018 da 311 in poi |  | done |
 | Manuela | BOA3017 fino a frase 420 | done | done |
 | Ludovica | BOA3017 da 421 in poi | done | done |
 | Eleonora | PBB004 fino a frase 450 | | |
