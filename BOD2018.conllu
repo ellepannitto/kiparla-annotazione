@@ -5500,7 +5500,7 @@
 2	forse	forse	ADV	B	_	5	advmod	_	Speaker=BO140|TID=384-1
 3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Speaker=BO140|TID=384-2
 4	più	più	ADV	B	_	5	advmod	_	Speaker=BO140|TID=384-3
-5	lontano	lontano	ADJ	A	Gender=Masc|Number=Sing	0	root	_	Speaker=BO140|TID=384-4
+5	lontano	lontano	ADV	A	Gender=Masc|Number=Sing	0	root	_	Speaker=BO140|TID=384-4
 6	da	da	ADP	E	_	7	case	_	Speaker=BO140|TID=384-5
 7	casa	casa	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	Speaker=BO140|TID=384-6
 8	tua	tuo	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	Speaker=BO140|TID=384-7
