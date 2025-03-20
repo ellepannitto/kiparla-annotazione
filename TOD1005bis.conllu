@@ -31,8 +31,8 @@
 16	dialetti	dialetto	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	AlignEnd=8.119|Speaker=TO017|TID=1-4
 
 # sent_id = 2
-# text = mh tutti i dialetti cel' hanno
-# jefferson_text = mh, tutti i dialetti cel' hanno
+# text = mh tutti i dialetti ce l'hanno
+# jefferson_text = mh, tutti i dialetti ce l'hanno
 1	mh	mh	INTJ	I	_	7	discourse	_	AlignEnd=8.549|Intonation=weakly_ascending|Speaker=TO017|TID=2-0
 2	tutti	tutto	DET	DI	PronType=Ind	4	det:predet	_	AlignBegin=8.6|Speaker=TO017|TID=3-0
 3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	Speaker=TO017|TID=3-1
@@ -53,8 +53,8 @@
 7	semitica	semitico	ADJ	S	Gender=Fem	2	nmod	_	AlignEnd=12.41|Speaker=TO017|TID=4-4
 
 # sent_id = 4
-# text = perché altrim~ cioè noi abbiamo bisogno di qualcosa che identifichil' arabo come una realtà linguistica indipendente dal resto della famiglia semitica
-# jefferson_text = >perché< altrim~ cioè noi abbiamo bisogno di qualcosa che identifichi,l' arabo, co:me, una realtà linguistica indipendente dal resto della famiglia semitica.
+# text = perché altrim~ cioè noi abbiamo bisogno di qualcosa che identifichi l'arabo come una realtà linguistica indipendente dal resto della famiglia semitica
+# jefferson_text = >perché< altrim~ cioè noi abbiamo bisogno di qualcosa che identifichi, l'arabo, co:me, una realtà linguistica indipendente dal resto della famiglia semitica.
 1	perché	perché	SCONJ	CS	_	5	mark	_	AlignBegin=12.863|PaceFast=Yes|Speaker=TO017|TID=5-0
 2	altrim~	altrim~	X	SYM	_	5	parataxis:hashtag	_	AlignEnd=13.462|Interrupted=Yes|Speaker=TO017|TID=5-1
 3	cioè	cioè	CCONJ	CC	_	5	cc	_	AlignBegin=13.488|Speaker=TO017|TID=6-0
@@ -106,8 +106,8 @@
 8	infinito	infinito	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	AlignEnd=28.045|Intonation=weakly_ascending|Speaker=TO017|TID=11-7
 
 # sent_id = 7
-# text = c' è qualcuno chec' ha provato comunque
-# jefferson_text = c' è qualcuno chec' ha provato: comunque,
+# text =  c'è qualcuno che c'ha provato comunque
+# jefferson_text =  c'è qualcuno che c'ha provato: comunque,
 1	c'	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	2	expl	_	AlignBegin=28.547|Clitic=Yes|SpaceAfter=No|Speaker=TO017|TID=12-0
 2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=12-1
 3	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	Speaker=TO017|TID=12-2
@@ -160,13 +160,13 @@
 21	dialetti	dialetto	NOUN	S	Gender=Masc|Number=Plur	18	nmod	_	AlignEnd=40.743|Intonation=descending|Speaker=TO017|TID=15-19
 
 # sent_id = 11
-# text = eh possiamo dareun' ochhiata se volete dire quanto sono intanto che ore sono questa prima domanda fondamentale
-# jefferson_text = e:::h possiamo dareun' ochhiata se volete dire quanto sono, intanto che ore sono questa prima domanda fondamentale
+# text = eh possiamo dare un'occhiata se volete dire quanto sono intanto che ore sono questa prima domanda fondamentale
+# jefferson_text = e:::h possiamo dare un'occhiata se volete dire quanto sono, intanto che ore sono questa prima domanda fondamentale
 1	eh	eh	INTJ	I	_	3	discourse	_	AlignEnd=41.899|Prolonged=Yes|Speaker=TO017|TID=16-0
 2	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	AlignBegin=41.998|Speaker=TO017|TID=17-0
 3	dare	dare	VERB	V	VerbForm=Inf	0	root	_	Speaker=TO017|TID=17-1
 4	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No|Speaker=TO017|TID=17-2
-5	ochhiata	ochhiata	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	Speaker=TO017|TID=17-3
+5	occhiata	occhiata	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	Speaker=TO017|TID=17-3
 6	se	se	SCONJ	CS	_	8	mark	_	Speaker=TO017|TID=17-4
 7	volete	volere	AUX	VM	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	Speaker=TO017|TID=17-5
 8	dire	dire	VERB	V	VerbForm=Inf	11	advcl	_	Speaker=TO017|TID=17-6
@@ -189,7 +189,7 @@
 
 # sent_id = 13
 # text = okay quanto sono diversi i dialetti unodall' altro
-# jefferson_text = okay° quanto sono diversi? i dialetti? unodall' altro?
+# jefferson_text = okay° quanto sono diversi? i dialetti? uno dall'altro?
 1	okay	okay	INTJ	I	_	6	discourse	_	AlignEnd=48.154|Speaker=TO017|TID=20-2|Volume=low
 2	quanto	quanto	ADJ	B	_	6	advmod	_	AlignBegin=49.046|Speaker=TO017|TID=21-0
 3	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	Speaker=TO017|TID=21-1
@@ -315,7 +315,7 @@
 
 # sent_id = 24
 # text = noterete chel' ho scritto in alfabeto latino con dei segni particolari e non in alfabeto arabo
-# jefferson_text = noterete chel' ho scritto in alfabeto latino con dei segni particolari e non in alfabeto arabo
+# jefferson_text = noterete che l'ho scritto in alfabeto latino con dei segni particolari e non in alfabeto arabo
 1	noterete	notare	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=88.21|Speaker=TO017|TID=40-0
 2	che	che	SCONJ	CS	_	5	mark	_	Speaker=TO017|TID=40-1
 3	l'	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Clitic=Yes|SpaceAfter=No|Speaker=TO017|TID=40-2
@@ -403,7 +403,7 @@
 
 # sent_id = 29
 # text = chel' alfabeto {P} arabo è perfetto per scriverel' arabo standard
-# jefferson_text = chel' alfabeto {P} arabo, è perfetto per scriverel' arabo standard,
+# jefferson_text = che l'alfabeto {P} arabo, è perfetto per scrivere l'arabo standard,
 1	che	che	SCONJ	CS	_	7	mark	_	Speaker=TO017|TID=45-5
 2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No|Speaker=TO017|TID=45-6
 3	alfabeto	alfabeto	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	Speaker=TO017|TID=45-7
@@ -797,7 +797,7 @@
 
 # sent_id = 53
 # text = allora {P}c' è da dire che questo è il lessico di base
-# jefferson_text = allora {P}c' è da dire che questo è il lessico di base
+# jefferson_text = allora {P} c'è da dire che questo è il lessico di base
 1	allora	allora	CCONJ	B	_	4	advmod	_	AlignBegin=214.211|Speaker=TO017|TID=98-0
 2	{P}	-	X	_	_	4	dep	_	Speaker=TO017|TID=98-1|Type=shortpause
 3	c'	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=TO017|TID=98-2
@@ -831,7 +831,7 @@
 
 # sent_id = 55
 # text = è fatto di parole come pidginizzazioned' accordo pidginizzazione è una parola che tende a rimanere uguale
-# jefferson_text = è fatto di parole, come, pidginizzaz:ione°d' accordo°, pidginizzazione è una parola che tende a rimanere ugua:le
+# jefferson_text = è fatto di parole, come, pidginizzaz:ione° d'accordo°, pidginizzazione è una parola che tende a rimanere ugua:le
 1	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	AlignBegin=220.606|Speaker=TO017|TID=99-0
 2	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=TO017|TID=99-1
 3	di	di	ADP	E	_	4	case	_	Speaker=TO017|TID=99-2
@@ -1014,7 +1014,7 @@
 
 # sent_id = 67
 # text = c' è giustoun' idea nel {P} baghdadino
-# jefferson_text = c' è giustoun' idea, nel {P} baghdadino.
+# jefferson_text = c'è giusto un'idea, nel {P} baghdadino.
 1	c'	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	2	expl	_	AlignBegin=270.011|Clitic=Yes|SpaceAfter=No|Speaker=TO017|TID=125-0
 2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=125-1
 3	giusto	giusto	ADV	B	_	2	advmod	_	Speaker=TO017|TID=125-2
@@ -1183,7 +1183,7 @@
 
 # sent_id = 77
 # text = tutti questi dialetti cel' hanno ancora
-# jefferson_text = tutti questi dialetti cel' hanno ancora,
+# jefferson_text = tutti questi dialetti ce l'hanno ancora,
 1	tutti	tutto	DET	DI	PronType=Ind	3	det:predet	_	AlignBegin=319.046|Speaker=TO017|TID=145-0
 2	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	3	det	_	Speaker=TO017|TID=145-1
 3	dialetti	dialetto	NOUN	S	Gender=Masc|Number=Plur	6	nsubj	_	Speaker=TO017|TID=145-2
@@ -1212,7 +1212,7 @@
 
 # sent_id = 79
 # text = perché abbiamo anche alcuni dialettidell' uzbe~ un dialettodell' uzbekistan e vedete che ne avete di tutti i colori
-# jefferson_text = perché abbiamo anche alcuni dialettidell' uzbe~ un dialettodell' uzbekistan, e vedete che ne avete, di tutti i colori,
+# jefferson_text = perché abbiamo anche alcuni dialettidell' uzbe~ un dialetto dell'uzbekistan, e vedete che ne avete, di tutti i colori,
 1	perché	perché	SCONJ	CS	_	2	mark	_	Speaker=TO017|TID=147-5
 2	abbiamo	avere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=147-6
 3	anche	anche	ADV	B	_	5	advmod	_	Speaker=TO017|TID=147-7
@@ -1259,7 +1259,7 @@
 
 # sent_id = 81
 # text = il xdell' arabo standard vedete x x avete un co a palmira nella palestina rurale la palestina
-# jefferson_text = il xxdell' arabo standard (vedete) xx xx, avete un co:, a palmira, nella palestina rurale la palestina
+# jefferson_text = il xx dell'arabo standard (vedete) xx xx, avete un co:, a palmira, nella palestina rurale la palestina
 1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Speaker=TO017|TID=152-9
 2	x	sinitra	SYM	SYM	_	7	nsubj	_	AlignEnd=338.517|Speaker=TO017|TID=152-10|Type=unknown
 3-4	dell'	_	_	_	_	_	_	_	AlignBegin=338.658|SpaceAfter=No|Speaker=TO017|TID=153-0
@@ -1371,7 +1371,7 @@
 
 # sent_id = 86
 # text = eh x sempre in arabia saudita per quello che riguarda i pronomi indipendenti avete il tipico e molto siriano x con questa enne finale probabilmente vienedall' aramaico non si sa
-# jefferson_text = e::::h xxx sempre in arabia saudita, per quello che riguarda i pronomi indipendenti:, avete il tipico e molto siriano xxx, con questa enne finale probabilmente vienedall' aramaico non si sa,
+# jefferson_text = e::::h xxx sempre in arabia saudita, per quello che riguarda i pronomi indipendenti:, avete il tipico e molto siriano xxx, con questa enne finale probabilmente viene dall'aramaico non si sa,
 1	eh	eh	INTJ	I	_	5	discourse	_	AlignEnd=368.042|Prolonged=Yes|Speaker=TO017|TID=166-0
 2	x	x	X	E	_	3	case	_	AlignBegin=368.741|Speaker=TO017|TID=167-0|Type=unknown
 3	sempre	sempre	ADV	B	_	5	advmod	_	Speaker=TO017|TID=167-1
@@ -1535,7 +1535,7 @@
 
 # sent_id = 96
 # text = per ora la risposta alla nostra domanda {P} di possiamo trovare qualcosa che tutti i i dialetti inclusol' arabo standard hanno in comune
-# jefferson_text = per ora la risposta alla nostra domanda {P} di possiamo trovare qualcosa che tutti i i dialetti. inclusol' arabo standard hanno in comune,
+# jefferson_text = per ora la risposta alla nostra domanda {P} di possiamo trovare qualcosa che tutti i i dialetti. incluso l'arabo standard hanno in comune,
 1	per	per	ADP	E	_	2	case	_	Speaker=TO017|TID=190-3
 2	ora	ora	ADV	B	_	23	advmod	_	Speaker=TO017|TID=190-4
 3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Speaker=TO017|TID=190-5
@@ -1761,7 +1761,7 @@
 
 # sent_id = 114
 # text = se avete fatto un corso di eh linguistica sapete che a un certo punto qualcuno si è accorto che {P} mh ma come mai ill' italiano somiglia così tantoall' inglese
-# jefferson_text = se avete fatto un corso di e:h linguistica sapete che a un certo punto qualcuno si è accorto che {P} m:h ma come mai? i:ll' italiano somiglia così tantoall' inglese
+# jefferson_text = se avete fatto un corso di e:h linguistica sapete che a un certo punto qualcuno si è accorto che {P} m:h ma come mai? i:ll' italiano somiglia così tanto all'inglese
 1	se	se	SCONJ	CS	_	3	mark	_	AlignBegin=483.997|Speaker=TO017|TID=215-0
 2	avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	Speaker=TO017|TID=215-1
 3	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	Speaker=TO017|TID=215-2
@@ -1820,7 +1820,7 @@
 
 # sent_id = 116
 # text = mh forse queste lingue hannoun' origine comune {P}
-# jefferson_text = m:h forse queste lingue hannoun' origine comune {P}
+# jefferson_text = m:h forse queste lingue hanno un'origine comune {P}
 1	mh	mh	INTJ	I	_	5	discourse	_	AlignEnd=497.789|Prolonged=Yes|Speaker=TO017|TID=218-9
 2	forse	forse	ADV	B	_	5	advmod	_	AlignBegin=498.075|Speaker=TO017|TID=219-0
 3	queste	questo	DET	VM	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	5	aux	_	Speaker=TO017|TID=219-1
@@ -1833,7 +1833,7 @@
 
 # sent_id = 117
 # text = hanno passato duecento anni a fare alberi genealogici finché non solo hanno dimostrato che queste lingue {P} effettivamente hanno {P}un' origine comune ma hanno {P} anche {P} proposto la ricostruzione di questa lingua {P} ormai estinta che sarebbe la lingua nonno
-# jefferson_text = hanno passato <duecento> anni a fare alberi genealogici finché, non <solo> hanno dimostra:to che queste lingue {P} effettivamente hanno {P}un' origine comune, ma hanno {P} anche {P} proposto la ricostruzione, di questa <lingua> {P} ormai estinta che sarebbe la lingua nonno
+# jefferson_text = hanno passato <duecento> anni a fare alberi genealogici finché, non <solo> hanno dimostra:to che queste lingue {P} effettivamente hanno {P} un'origine comune, ma hanno {P} anche {P} proposto la ricostruzione, di questa <lingua> {P} ormai estinta che sarebbe la lingua nonno
 1	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	Speaker=TO017|TID=219-8
 2	passato	passare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=TO017|TID=219-9
 3	duecento	duecento	DET	S	Gender=Masc|Number=Sing	2	obj	_	PaceSlow=Yes|Speaker=TO017|TID=219-10
@@ -1956,7 +1956,7 @@
 
 # sent_id = 122
 # text = ci sono delle regole di cambiamento nel~ al~ al che sono state studiate nelle lingue del mondo prevalentemente nel proto in~nell' indoeuropeonell' indoeuropeistica la linguistica storica
-# jefferson_text = ci sono delle re:gole di cambiamento, nel~ al~ al che sono state studiate nelle lingue del mondo °prevalentemente nel proto in~nell' indoeuropeo°<nell' indoeuropeistica> la linguistica storica,
+# jefferson_text = ci sono delle re:gole di cambiamento, nel~ al~ al che sono state studiate nelle lingue del mondo °prevalentemente nel proto in~ nell'indoeuropeo° <nell'indoeuropeistica> la linguistica storica,
 1	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	2	expl	_	AlignBegin=544.653|Clitic=Yes|Speaker=TO017|TID=235-0
 2	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=235-1
 3-4	delle	_	_	_	_	_	_	_	Speaker=TO017|TID=235-2
@@ -2002,7 +2002,7 @@
 
 # sent_id = 123
 # text = e si prova {P} a ricostruireall' indietro partendo da quello che abbiamo adesso e dai documenti scritti~ che abb~ vecchi
-# jefferson_text = e si prova {P} a ricostruireall' indietro partendo da quello che abbiamo adesso e dai documenti scritti~ (che abb~) vecchi,
+# jefferson_text = e si prova {P} a ricostruire all'indietro partendo da quello che abbiamo adesso e dai documenti scritti~ (che abb~) vecchi,
 1	e	e	CCONJ	CC	_	3	cc	_	AlignBegin=559.124|Speaker=TO017|TID=239-0
 2	si	si	PRON	PC	Person=3|PronType=Prs	3	expl:impers	_	Clitic=Yes|Speaker=TO017|TID=239-1
 3	prova	provare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=239-2
@@ -2103,7 +2103,7 @@
 
 # sent_id = 130
 # text = checos' èl' arabo
-# jefferson_text = checos' èl' arabo,
+# jefferson_text = che cos'è l'arabo,
 1	che	che	ADJ	CS	_	5	mark	_	Speaker=TO017|TID=246-1
 2	cos'	cosa	PRON	B	_	5	advmod	_	SpaceAfter=No|Speaker=TO017|TID=246-2
 3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Speaker=TO017|TID=246-3
@@ -2112,7 +2112,7 @@
 
 # sent_id = 131
 # text = l' arabo son tutte le lingue che der~ che son~ che di~ discendono dal proto arabo
-# jefferson_text = l' arabo son tutte le lingue che der~ che son~ che di~ discendono dal proto arabo.
+# jefferson_text = l'arabo son tutte le lingue che der~ che son~ che di~ discendono dal proto arabo.
 1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|Speaker=TO017|TID=246-6
 2	arabo	arabo	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	Speaker=TO017|TID=246-7
 3	son	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=246-8
@@ -2285,7 +2285,7 @@
 
 # sent_id = 144
 # text = l' iscrizione i nabatei {P}
-# jefferson_text = l' iscrizione:: i nabatei {P}
+# jefferson_text = l'iscrizione:: i nabatei {P}
 1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	AlignBegin=650.293|SpaceAfter=No|Speaker=???|TID=274-0
 2	iscrizione	iscrizione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	AlignEnd=651.56|Prolonged=Yes|Speaker=???|TID=274-1
 3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	AlignBegin=653.05|Speaker=TO017|TID=275-0
@@ -2302,7 +2302,7 @@
 
 # sent_id = 146
 # text = l' iscrizione del re imru al qays
-# jefferson_text = l' iscrizione del re imru al qays
+# jefferson_text = l'iscrizione del re imru al qays
 1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	AlignBegin=654.818|SpaceAfter=No|Speaker=???|TID=276-0
 2	iscrizione	iscrizione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=???|TID=276-1
 3-4	del	_	_	_	_	_	_	_	Speaker=???|TID=276-2
@@ -2317,7 +2317,7 @@
 
 # sent_id = 147
 # text = l' iscrizione del re imru al qays
-# jefferson_text = l' iscrizione del re imru al qays
+# jefferson_text = l'iscrizione del re imru al qays
 1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	AlignBegin=657.099|SpaceAfter=No|Speaker=TO017|TID=277-0
 2	iscrizione	iscrizione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Speaker=TO017|TID=277-1
 3-4	del	_	_	_	_	_	_	_	Speaker=TO017|TID=277-2
@@ -2394,7 +2394,7 @@
 
 # sent_id = 153
 # text = quindi primadell' islam eh {P}
-# jefferson_text = quindi primadell' islam e::h {P}
+# jefferson_text = quindi prima dell'islam e::h {P}
 1	quindi	quindi	CCONJ	CC	_	5	cc	_	Speaker=TO017|TID=285-4
 2	prima	prima	ADV	B	_	5	case	_	Speaker=TO017|TID=285-5
 3-4	dell'	_	_	_	_	_	_	_	SpaceAfter=No|Speaker=TO017|TID=285-6
@@ -2484,7 +2484,7 @@
 
 # sent_id = 157
 # text = l' amorreo x lui ci colpisce conl' amo rreo che èun' altra lingua semitica estinta {P} dai tempi che furono {parla_in_arabo} peròl' amorreo {parla_in_arabo}
-# jefferson_text = °l' amorreo° xxx lui ci colpisce, conl'=amo rr:eo che èun' altra lingua semitica estinta {P} dai tempi che furono, {parla_in_arabo} peròl' amorreo {parla_in_arabo}
+# jefferson_text = °l'amorreo° xxx lui ci colpisce, con l'=amorr:eo che è un'altra lingua semitica estinta {P} dai tempi che furono, {parla_in_arabo} però l'amorreo {parla_in_arabo}
 1	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	AlignBegin=696.481|SpaceAfter=No|Speaker=???|TID=291-0|Volume=low
 2	amorreo	amorreo	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	AlignEnd=697.098|Speaker=???|TID=291-1|Volume=low
 3	x	x	X	E	_	4	case	_	AlignEnd=699.5|Speaker=???|TID=292-0|Type=unknown
@@ -2493,8 +2493,8 @@
 6	colpisce	colpire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=700.868|Intonation=weakly_ascending|Speaker=TO017|TID=293-2
 7	con	con	ADP	E	_	9	case	_	AlignBegin=701.282|Speaker=TO017|TID=294-0
 8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No|Speaker=TO017|TID=294-1
-9	amo	amo	X	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	obl	_	ProsodicLink=Yes|Speaker=TO017|TID=294-2
-10	rreo	rreare	X	S	Gender=Masc|Number=Sing	9	obj	_	Prolonged=Yes|Speaker=TO017|TID=294-3
+9	amorreo	amorreo	NOUN	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	obl	_	ProsodicLink=Yes|Speaker=TO017|TID=294-2
+10	X	X	X	S	Gender=Masc|Number=Sing	9	obj	_	Prolonged=Yes|Speaker=TO017|TID=294-3
 11	che	che	SCONJ	CS	_	16	mark	_	Speaker=TO017|TID=294-4
 12	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	Speaker=TO017|TID=294-5
 13	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No|Speaker=TO017|TID=294-6
@@ -2517,7 +2517,7 @@
 
 # sent_id = 158
 # text = io non mi esprimo in propositodell' amorreo perché ho fatto poca filologia semitica
-# jefferson_text = io non mi esprimo in propositodell' amorreo perché, ho fatto poca filologia semitica
+# jefferson_text = io non mi esprimo in proposito dell'amorreo perché, ho fatto poca filologia semitica
 1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=712.241|Speaker=TO017|TID=298-0
 2	non	non	ADV	BN	PronType=Neg	4	advmod	_	Speaker=TO017|TID=298-1
 3	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	4	iobj	_	Clitic=Yes|Speaker=TO017|TID=298-2
@@ -2537,7 +2537,7 @@
 
 # sent_id = 159
 # text = mal' amorreo {P} ci dicono i semitisti che era una lingua diversadall' arabo
-# jefferson_text = mal' amorreo {P} ci dicono i semitisti, che era una lingua diversadall' arabo.
+# jefferson_text = mal' amorreo {P} ci dicono i semitisti, che era una lingua diversa dall'arabo.
 1	ma	ma	CCONJ	CC	_	6	cc	_	Speaker=TO017|TID=299-5
 2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No|Speaker=TO017|TID=299-6
 3	amorreo	amorreo	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	Speaker=TO017|TID=299-7
@@ -2558,7 +2558,7 @@
 
 # sent_id = 160
 # text = c' è anche il suda~ sudarabico nordarabico
-# jefferson_text = c' è anche il suda~ sudarabico nordarabico?
+# jefferson_text = c'è anche il suda~ sudarabico nordarabico?
 1	c'	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	2	expl	_	AlignBegin=721.823|Clitic=Yes|SpaceAfter=No|Speaker=???|TID=302-0
 2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=???|TID=302-1
 3	anche	anche	ADV	B	_	5	advmod	_	Speaker=???|TID=302-2
@@ -2575,7 +2575,7 @@
 
 # sent_id = 162
 # text = perchéc' erano le attestazioni al sudarabico nordarabico
-# jefferson_text = perché.c' erano (le) [attestazioni]. [al >sudarabico] nordarabico<
+# jefferson_text = perché. c'erano (le) [attestazioni]. [al >sudarabico] nordarabico<
 1	perché	perché	SCONJ	CS	_	3	mark	_	AlignEnd=726.145|Intonation=descending|Speaker=TO017|TID=304-2
 2	c'	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	3	expl	_	AlignBegin=726.787|Clitic=Yes|SpaceAfter=No|Speaker=???|TID=305-0
 3	erano	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=???|TID=305-1
@@ -2589,7 +2589,7 @@
 
 # sent_id = 163
 # text = ci arriviamoall' amorreo {P}
-# jefferson_text = ci arriviamo.all' amorreo {P}
+# jefferson_text = ci arriviamo. all'amorreo {P}
 1	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	2	expl	_	Clitic=Yes|Speaker=TO017|TID=306-3
 2	arriviamo	arrivare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Intonation=descending|Speaker=TO017|TID=306-4
 3-4	all'	_	_	_	_	_	_	_	SpaceAfter=No|Speaker=TO017|TID=306-5
@@ -2631,10 +2631,10 @@
 13	prima	prima	ADV	B	_	12	advmod	_	AlignEnd=737.811|Speaker=TO017|TID=309-5
 
 # sent_id = 166
-# text = quand' é che una lingua smette di essere questa lingua per diventareun' altra
-# jefferson_text = quand' é che una lingua smette di essere, questa lingua per diventareun' altra?
+# text = quand' è che una lingua smette di essere questa lingua per diventareun' altra
+# jefferson_text = quand'è che una lingua smette di essere, questa lingua per diventare un'altra?
 1	quand'	quando	ADV	B	_	2	advmod	_	AlignBegin=737.924|SpaceAfter=No|Speaker=TO017|TID=310-0
-2	é	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=310-1
+2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=310-1
 3	che	che	SCONJ	CS	_	6	mark	_	Speaker=TO017|TID=310-2
 4	una	uno	DET	PI	Gender=Fem|Number=Sing|PronType=Ind	6	obj	_	Speaker=TO017|TID=310-3
 5	lingua	lingua	NOUN	PP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	nsubj	_	Speaker=TO017|TID=310-4
@@ -2676,7 +2676,7 @@
 
 # sent_id = 168
 # text = e nonc' è nessun motivo per cui non dovremmo farlo se non il fatto che abbiamo trenta ore e no e non possiamo pensare a tutto quanto però non è così malposta la~ la~ il problema
-# jefferson_text = e nonc' è nessun motivo per cui non dovremmo farlo se non il fatto che abbiamo trenta ore, e no °e° non possiamo pensare a tutto quanto però: non è:: così malposta la~ la~ il problema.
+# jefferson_text = e non c'è nessun motivo per cui non dovremmo farlo se non il fatto che abbiamo trenta ore, e no °e° non possiamo pensare a tutto quanto però: non è:: così malposta la~ la~ il problema.
 1	e	e	CCONJ	CC	_	4	cc	_	Speaker=TO017|TID=315-6
 2	non	non	ADV	BN	PronType=Neg	4	advmod	_	Speaker=TO017|TID=315-7
 3	c'	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=TO017|TID=315-8
@@ -2745,7 +2745,7 @@
 
 # sent_id = 171
 # text = dov' è lo straccetto per comodità
-# jefferson_text = dov' è lo straccetto, per comodità,
+# jefferson_text = dov'è lo straccetto, per comodità,
 1	dov'	dove	ADV	B	_	4	advmod	_	AlignBegin=776.089|SpaceAfter=No|Speaker=TO017|TID=321-0
 2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Speaker=TO017|TID=321-1
 3	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Speaker=TO017|TID=321-2
@@ -2755,7 +2755,7 @@
 
 # sent_id = 172
 # text = cerchiamo adesso di ricos~ di ripercorre brevemente la storiadell' arabo
-# jefferson_text = cerchiamo adesso di ricos~ di ripercorre breveme:nte la storiadell' arabo.
+# jefferson_text = cerchiamo adesso di ricos~ di ripercorre breveme:nte la storia dell'arabo.
 1	cerchiamo	cercare	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=786.418|Speaker=TO017|TID=323-0
 2	adesso	adesso	ADV	B	_	4	advmod	_	Speaker=TO017|TID=323-1
 3	di	di	ADP	E	_	4	case	_	Speaker=TO017|TID=323-2
@@ -2842,7 +2842,7 @@
 
 # sent_id = 178
 # text = nel caledario gregoriano e nel calendariodell' e~ egira
-# jefferson_text = nel caledario gregoriano (e) nel calendariodell' e~ egira
+# jefferson_text = nel caledario gregoriano (e) nel calendario dell'e~ egira
 1-2	nel	_	_	_	_	_	_	_	Speaker=TO017|TID=336-2
 1	in	in	ADP	E	_	3	case	_	_
 2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
@@ -2954,7 +2954,7 @@
 
 # sent_id = 187
 # text = i primi anni {P}dell' islam
-# jefferson_text = i primi anni {P}dell' islam
+# jefferson_text = i primi anni {P} dell'islam
 1	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	Speaker=TO017|TID=346-2
 2	primi	primo	DET	NO	Gender=Masc|Number=Plur|NumType=Ord	3	amod	_	Speaker=TO017|TID=346-3
 3	anni	anno	NOUN	S	Gender=Masc|Number=Plur	0	root	_	Speaker=TO017|TID=346-4
@@ -3102,7 +3102,7 @@
 
 # sent_id = 197
 # text = e poic' è il periodo islamico
-# jefferson_text = e poic' è il periodo >islamico<
+# jefferson_text = e poi c'è il periodo >islamico<
 1	e	e	CCONJ	CC	_	4	cc	_	AlignBegin=881.674|Speaker=TO017|TID=361-0
 2	poi	poi	ADV	B	_	4	advmod	_	Speaker=TO017|TID=361-1
 3	c'	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=TO017|TID=361-2
@@ -3171,7 +3171,7 @@
 
 # sent_id = 202
 # text = o mi ditequand' é la prima attestazione
-# jefferson_text = o mi dite,quand' é la prima attestazione
+# jefferson_text = o mi dite, quand'é la prima attestazione
 1	o	o	CCONJ	CC	_	3	cc	_	Speaker=TO017|TID=369-16
 2	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	3	iobj	_	Clitic=Yes|Speaker=TO017|TID=369-17
 3	dite	dire	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=904.675|Intonation=weakly_ascending|Speaker=TO017|TID=369-18
@@ -3236,7 +3236,7 @@
 
 # sent_id = 208
 # text = poi lo vediamo dopo ne parliamo dopo diquest' iscrizione eh è la x ultima offerta
-# jefferson_text = poi lo vediamo dopo ne parliamo dopo diquest' iscrizione, e::::h è la x ultima offerta?
+# jefferson_text = poi lo vediamo dopo ne parliamo dopo di quest'iscrizione, e::::h è la x ultima offerta?
 1	poi	poi	ADV	B	_	3	advmod	_	Speaker=TO017|TID=379-10
 2	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Clitic=Yes|Speaker=TO017|TID=379-11
 3	vediamo	vedere	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=379-12
@@ -3256,7 +3256,7 @@
 
 # sent_id = 209
 # text = l' accendiamo
-# jefferson_text = l' accendiamo?
+# jefferson_text = l'accendiamo?
 1	l'	il	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Clitic=Yes|SpaceAfter=No|Speaker=TO017|TID=381-5
 2	accendiamo	accendiamo	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignEnd=938.497|Intonation=ascending|Speaker=TO017|TID=381-6
 
@@ -3442,7 +3442,7 @@
 
 # sent_id = 225
 # text = ovvero su studio sulla variazione nel lessicocom' è
-# jefferson_text = (ovvero) su studio sulla variazione nel lessico,com' è?
+# jefferson_text = (ovvero) su studio sulla variazione nel lessico, com'è?
 1	ovvero	ovvero	CCONJ	CC	_	3	cc	_	Speaker=TO017|TID=397-17
 2	su	su	ADP	E	_	3	case	_	Speaker=TO017|TID=397-18
 3	studio	studio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	Speaker=TO017|TID=397-19
@@ -3599,7 +3599,7 @@
 
 # sent_id = 239
 # text = qua però nel trecentoventotto dopo cristo nonc' era nessuno che andava in giro con grossi registratori costosi come questo
-# jefferson_text = qua però n:::el trecentoventotto dopo cristo nonc' era nessuno che andava in giro con grossi registratori costosi come questo.
+# jefferson_text = qua però n:::el trecentoventotto dopo cristo non c'era nessuno che andava in giro con grossi registratori costosi come questo.
 1	qua	qua	ADV	B	_	5	advmod	_	Speaker=TO017|TID=407-3
 2	però	però	CCONJ	B	_	5	advmod	_	AlignEnd=1026.267|Speaker=TO017|TID=407-4
 3-4	nel	_	_	_	_	_	_	_	AlignBegin=1026.664|Prolonged=Yes|Speaker=TO017|TID=408-0
@@ -3828,7 +3828,7 @@
 
 # sent_id = 259
 # text = okay la poesia el' altro testo direi piuttosto importante del passato della lingua araba
-# jefferson_text = okay. la poesi:a e:l' altro, testo direi piuttosto importa:nte del passato della lingua araba,
+# jefferson_text = okay. la poesi:a e: l'altro, testo direi piuttosto importa:nte del passato della lingua araba,
 1	okay	okay	INTJ	B	_	3	advmod	_	Intonation=descending|Speaker=TO017|TID=423-4
 2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Speaker=TO017|TID=423-5
 3	poesia	poesia	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	AlignEnd=1087.673|Prolonged=Yes|Speaker=TO017|TID=423-6
@@ -3867,7 +3867,7 @@
 
 # sent_id = 262
 # text = tucos' è che hai detto {P} scusa
-# jefferson_text = tu,cos' è che hai detto, {P} scusa,
+# jefferson_text = tu, cos'è che hai detto, {P} scusa,
 1	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	AlignBegin=1100.665|Intonation=weakly_ascending|Speaker=TO017|TID=428-0
 2	cos'	cosa	PRON	PQ	PronType=Int	3	nsubj	_	SpaceAfter=No|Speaker=TO017|TID=428-1
 3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=TO017|TID=428-2
@@ -3931,7 +3931,7 @@
 
 # sent_id = 268
 # text = qualcosinac' è poca roba
-# jefferson_text = qualcosi:nac' è. poca roba
+# jefferson_text = qualcosi:na c'è. poca roba
 1	qualcosina	qualcosina	PRON	S	Gender=Fem|Number=Sing	3	obl	_	AlignBegin=1114.187|Prolonged=Yes|Speaker=TO017|TID=431-0
 2	c'	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	3	expl	_	Clitic=Yes|SpaceAfter=No|Speaker=TO017|TID=431-1
 3	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Intonation=descending|Speaker=TO017|TID=431-2

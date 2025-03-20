@@ -1266,7 +1266,7 @@
 
 # sent_id = 63
 # text = infatti non vedevo l'ora di prender la patente quando c'avevo diciotto anni
-# jefferson_text = infatti non vedevo l' ra di prender la patente quando c'avevo diciotto [anni].
+# jefferson_text = infatti non vedevo l'ora di prender la patente quando c'avevo diciotto [anni].
 1	infatti	infatti	CCONJ	B	_	3	advmod	_	Speaker=BO118|TID=89-6
 2	non	non	ADV	BN	PronType=Neg	3	advmod	_	Speaker=BO118|TID=89-7
 3	vedevo	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO118|TID=89-8
@@ -5892,8 +5892,8 @@
 4	niente	niente	PRON	PI	PronType=Ind	3	nsubj	_	AlignEnd=1562.26|Speaker=BO118|TID=410-28
 
 # sent_id = 346
-# text = però in realtà iol' ho vista due volte
-# jefferson_text = però in realtà iol' ho vista due volte:
+# text = però in realtà io l'ho vista due volte
+# jefferson_text = però in realtà io l'ho vista due volte:
 1	però	però	CCONJ	B	_	7	cc	_	AlignBegin=1562.636|Speaker=BO118|TID=411-0
 2	in	in	ADP	E	_	3	case	_	Speaker=BO118|TID=411-1
 3	realtà	realtà	NOUN	S	Gender=Fem	7	obl	_	Speaker=BO118|TID=411-2
@@ -5982,8 +5982,8 @@
 14	mortorio	mortorio	NOUN	S	Gender=Masc|Number=Sing	2	parataxis	_	AlignEnd=1581.82|Intonation=descending|Speaker=BO118|TID=414-15
 
 # sent_id = 353
-# text = però è carina perchéc' è il mare
-# jefferson_text = pe:rò è carina perchéc' è il ma:re::
+# text = però è carina perché c'è il mare
+# jefferson_text = pe:rò è carina perché c'è il ma:re::
 1	però	però	CCONJ	B	_	3	cc	_	AlignBegin=1582.495|Prolonged=Yes|Speaker=BO118|TID=415-0
 2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Speaker=BO118|TID=415-1
 3	carina	carino	ADJ	A	Gender=Fem|Number=Sing	0	root	_	Speaker=BO118|TID=415-2
@@ -6060,7 +6060,7 @@
 
 # sent_id = 361
 # text = c'è tipo un pub esatto che fa le serate
-# jefferson_text = c' è tipo] un pu:b esatto che fa: le [serate],
+# jefferson_text = c'è tipo] un pu:b esatto che fa: le [serate],
 # tags = TO DISCUSS
 1	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	2	expl	_	Overlapping=Yes|SpaceAfter=No|Speaker=BO118|TID=418-1
 2	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Overlapping=Yes|Speaker=BO118|TID=418-2
