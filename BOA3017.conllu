@@ -366,7 +366,7 @@
 9	c'	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	10	expl	_	SpaceAfter=No|Speaker=BO146|TID=57-8|Truncated=Yes
 10	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Speaker=BO146|TID=57-9
 11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Speaker=BO146|TID=57-10
-12	granché	granché	NOUN	_	PronType=Ind	14	nsubj	_	Speaker=BO146|TID=57-11
+12	granché	granché	PRON	_	PronType=Ind	14	nsubj	_	Speaker=BO146|TID=57-11
 13	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	iobj	_	Speaker=BO146|TID=57-12
 14	pare	parere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	AlignEnd=81|Speaker=BO146|TID=57-13
 
@@ -859,7 +859,7 @@
 3	potresti	potere	AUX	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	Overlapping=Yes|Speaker=BO147|TID=129-2
 4	fare	fare	VERB	_	VerbForm=Inf	0	root	_	Speaker=BO147|TID=129-3
 5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Speaker=BO147|TID=129-4
-6	sottoxx	sottoxx	NOUN	_	Gender=Fem	7	nsubj	_	Speaker=BO147|TID=129-5
+6	sotto	sotto	NOUN	_	Gender=Fem	7	nsubj	_	Interrupted=Yes|Speaker=BO147|TID=129-5
 7	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	4	obj	_	Speaker=BO147|TID=129-6
 8	che	che	SCONJ	_	PronType=Rel	9	nsubj	_	Speaker=BO147|TID=129-7
 9	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	Speaker=BO147|TID=129-8
@@ -3036,7 +3036,7 @@
 7	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No|Speaker=BO146|TID=478-2|Truncated=Yes
 8	uovo	uovo	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	AlignEnd=702.792|Speaker=BO146|TID=478-3
 9	mh	mh	INTJ	_	_	6	discourse	_	AlignEnd=703.522|Overlapping=Yes|Prolonged=Yes|Speaker=BO147|TID=479-0
-10	da'	dare	NOUN	_	Gender=Fem	6	vocative	_	AlignBegin=702.897|Intonation=descending|Overlapping=Yes|Speaker=BO145|TID=480-0
+10	da'	dare	VERB	_	Gender=Fem	6	vocative	_	AlignBegin=702.897|Intonation=descending|Overlapping=Yes|Speaker=BO145|TID=480-0
 
 # sent_id = 233
 # text = okay
@@ -3091,7 +3091,7 @@
 5	dovete	dovere	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	Speaker=BO145|TID=488-4
 6	parlare	parlare	VERB	_	VerbForm=Inf	3	ccomp	_	Speaker=BO145|TID=488-5
 7	forte	forte	ADJ	_	Number=Sing	6	xcomp	_	Speaker=BO145|TID=488-6
-8	raga	ragazzo	NOUN	_	Gender=Fem|Number=Sing	3	vocative	_	Speaker=BO145|TID=488-7
+8	raga	ragazzo	NOUN	_	Number=Plur	3	vocative	_	Speaker=BO145|TID=488-7
 
 # sent_id = 238
 # text = se no dopo andrea non sente fate normale {ride}
@@ -4591,7 +4591,7 @@
 99	x	x	X	_	_	102	case	_	AlignEnd=1161.851|Overlapping=Yes|Speaker=BO145|TID=741-6|Type=unknown
 100	{ride}	-	X	_	_	77	dep	_	AlignEnd=1161.637|Speaker=BO139|TID=742-0|Type=NLB
 101	da	da	ADP	_	_	102	case	_	AlignBegin=1161.673|Overlapping=Yes|Speaker=BO147|TID=743-0
-102	naturasì	NaturaSì	NOUN	_	Gender=Fem|Number=Sing	98	obl	_	Overlapping=Yes|Speaker=BO147|TID=743-1,2
+102	naturasì	NaturaSì	PROPN	_	Gender=Fem|Number=Sing	98	obl	_	Overlapping=Yes|Speaker=BO147|TID=743-1,2
 103-105	compraglielo	_	_	_	_	_	_	_	Speaker=BO147|TID=743-3
 103	compra	comprare	VERB	_	VerbForm=Inf	77	dep	_	_
 104	glie	glie	PRON	_	Clitic=Yes|PronType=Prs	77	dep	_	_
@@ -5162,14 +5162,11 @@
 7	{ride}	-	X	_	_	1	dep	_	AlignEnd=1304.75|Speaker=BO146|TID=838-0|Type=NLB
 
 # sent_id = 381
-# text = may day may day may day {ride}
-# jefferson_text = may day may day may day {ride}
-1	may	may	NOUN	_	_	0	root	_	AlignBegin=1304.312|Speaker=BO139|TID=839-0
-2	day	day	NOUN	_	_	1	flat:foreign	_	Speaker=BO139|TID=839-1
-3	may	may	NOUN	_	_	1	flat:foreign	_	Speaker=BO139|TID=839-2
-4	day	day	NOUN	_	_	1	flat:foreign	_	Speaker=BO139|TID=839-3
-5	may	may	NOUN	_	_	_	_	_	Speaker=BO139|TID=839-4
-6	day	day	NOUN	_	_	_	_	_	AlignEnd=1305.662|Speaker=BO139|TID=839-5
+# text = mayday mayday mayday {ride}
+# jefferson_text = mayday mayday mayday {ride}
+1	mayday	mayday	NOUN	_	_	0	root	_	AlignBegin=1304.312|Speaker=BO139|TID=839-0,1
+3	mayday	mayday	NOUN	_	_	1	flat:foreign	_	Speaker=BO139|TID=839-2,3
+5	mayday	mayday	NOUN	_	_	_	_	_	Speaker=BO139|TID=839-4,5
 7	{ride}	-	X	_	_	_	_	_	AlignEnd=1305.65|Speaker=BO147|TID=840-0|Type=NLB
 
 # sent_id = 382
@@ -5488,7 +5485,7 @@
 # jefferson_text = oh raga (sappiate che mi divertirò) un sacco a far 'sta roba
 # tags = TO VERIFY
 1	oh	oh	INTJ	_	_	3	discourse	_	AlignBegin=1397.312|Speaker=BO139|TID=906-0
-2	raga	ragazzo	NOUN	_	Gender=Fem|Number=Sing	3	vocative	_	Speaker=BO139|TID=906-1
+2	raga	ragazzo	NOUN	_	Number=Plur	3	vocative	_	Speaker=BO139|TID=906-1
 3	sappiate	sapere	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO139|TID=906-2
 4	che	che	SCONJ	_	_	6	mark	_	Speaker=BO139|TID=906-3
 5	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	expl	_	Speaker=BO139|TID=906-4
@@ -5892,7 +5889,7 @@
 22	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	parataxis	_	Speaker=BO139|TID=949-3
 23	parte	parte	NOUN	_	Gender=Fem|Number=Sing	22	obj	_	ProsodicLink=Yes|Speaker=BO139|TID=949-4
 24	o	o	CCONJ	_	_	25	cc	_	Prolonged=Yes|ProsodicLink=Yes|Speaker=BO139|TID=949-5
-25	i	il	NOUN	_	Gender=Fem|Number=Plur	23	conj	_	Speaker=BO139|TID=949-6
+25	i	il	DET	_	Gender=Fem|Number=Plur	23	conj	_	Speaker=BO139|TID=949-6
 26	di	di	ADP	_	_	27	case	_	Prolonged=Yes|ProsodicLink=Yes|Speaker=BO139|TID=949-7
 27	mh	mh	INTJ	_	_	25	nmod	_	Speaker=BO139|TID=949-8
 28	cioè	cioè	CCONJ	_	_	29	cc	_	PaceFast=Yes|Speaker=BO139|TID=949-9
@@ -6396,7 +6393,7 @@
 # text = tipo tpo m'ha detto eh è strano
 # jefferson_text = ti]po tpo m'ha detto e::h è strano
 1	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	5	vocative	_	Overlapping=Yes|Speaker=BO145|TID=1036-1
-2	tpo	tpo	NOUN	_	Gender=Masc	5	nsubj	_	Speaker=BO145|TID=1036-2
+2	tipo	tpo	NOUN	_	Gender=Masc	5	nsubj	_	Speaker=BO145|TID=1036-2
 3	m'	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	SpaceAfter=No|Speaker=BO145|TID=1036-3|Truncated=Yes
 4	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Speaker=BO145|TID=1036-4
 5	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO145|TID=1036-5
@@ -6672,7 +6669,7 @@
 8	lei	egli	PRON	_	Gender=Fem|Number=Sing|PronType=Prs	3	obl	_	Speaker=BO146|TID=1077-8
 9	e	e	CCONJ	_	_	11	cc	_	Speaker=BO146|TID=1077-9
 10	la	la	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	Speaker=BO146|TID=1077-10
-11	fa	fare	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	Speaker=BO146|TID=1077-11
+11	fa	fare	VERB	_	Gender=Fem|Number=Sing	3	conj	_	Speaker=BO146|TID=1077-11
 12	incazzare	incazzare	VERB	_	Gender=Fem|Number=Plur	11	amod	_	Speaker=BO146|TID=1077-12
 
 # sent_id = 490
