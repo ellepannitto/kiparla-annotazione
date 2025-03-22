@@ -104,6 +104,11 @@
 
 ^((?!TID|#).)*$
 
+## Appunti Caterina TOD1005bis
+- 4: nessun altra lingua - ho lasciato DET DET NOUN, anche se sonon stata in dubbio se sostituire 'altra' con ADJ
+- 7: richerebbe > corretto in 'richiederebbe'
+- 8: che SCONJ > PRON
+-
 
 ## Da controllare
 
