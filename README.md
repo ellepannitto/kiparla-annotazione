@@ -105,11 +105,16 @@
 ^((?!TID|#).)*$
 
 ## Appunti Caterina TOD1005bis
+numero righe a sinistra (1,2....)
 - 4: nessun altra lingua - ho lasciato DET DET NOUN, anche se sonon stata in dubbio se sostituire 'altra' con ADJ
 - 7: richerebbe > corretto in 'richiederebbe'
 - 8: che SCONJ > PRON
 - 10: li PRON > lemmatizzazione? non tocco i pronomi...
 - 12: forse questa unità va spezzata, molto lunga!
+- 28: che SCONJ > PRON, per PREP > SCONJ
+- 30: per PREP > SCONJ
+- 34: quale lemma per foni?
+- 36: spezzare!!!
 - 
 
 ## Da controllare
