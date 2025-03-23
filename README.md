@@ -111,11 +111,11 @@ numero righe a sinistra (1,2....)
 - 8: che SCONJ > PRON
 - 10: li PRON > lemmatizzazione? non tocco i pronomi...
 - 12: forse questa unità va spezzata, molto lunga!
-- 28: che SCONJ > PRON, per PREP > SCONJ
+- 28: che SCONJ > PRON (sostituszione che ho fatto in modo sistematico), per PREP > SCONJ
 - 30: per PREP > SCONJ
 - 34: quale lemma per foni?
 - 36: spezzare!!!
-- 
+- 77: reti?? > check, forse radici
 
 ## Da controllare
 
