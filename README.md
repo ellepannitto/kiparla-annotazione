@@ -116,6 +116,7 @@ numero righe a sinistra (1,2....)
 - 34: quale lemma per foni?
 - 36: spezzare!!!
 - 77: reti?? > check, forse radici
+- 118: spezzare!
 
 ## Da controllare
 
