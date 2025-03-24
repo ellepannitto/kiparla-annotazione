@@ -602,7 +602,7 @@
 2	portiamo	portare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Prolonged=Yes|Speaker=BO140|TID=47-3
 3	rancore	rancore	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	Speaker=BO140|TID=47-4
 4	o	o	CCONJ	_	_	5	cc	_	AlignEnd=189.19|Intonation=weakly_ascending|Speaker=BO140|TID=47-5
-5	okay	ok	NOUN	_	_	3	conj	_	AlignBegin=190.84|Prolonged=Yes|Speaker=BO118|TID=48-0
+5	okay	ok	INTJ	_	_	3	conj	_	AlignBegin=190.84|Prolonged=Yes|Speaker=BO118|TID=48-0
 
 # sent_id = 30
 # text = e qual è la tua stanza preferita nella tua casa
@@ -5207,13 +5207,13 @@
 4	sì	sì	INTJ	_	_	3	discourse	_	Prolonged=Yes|Speaker=BO140|TID=365-3
 
 # sent_id = 285
-# text = ah in realtà di abitantipaese ce ne sono quindicimila e non ce ne son più
-# jefferson_text = ah in realtà di abitantipaese ce ne sono quindicimila:: e non ce ne son più
+# text = ah in realtà di @abitantipaese ce ne sono quindicimila e non ce ne son più
+# jefferson_text = ah in realtà di @abitantipaese ce ne sono quindicimila:: e non ce ne son più
 1	ah	ah	INTJ	_	_	9	discourse	_	Speaker=BO140|TID=365-4
 2	in	in	ADP	_	_	3	case	_	Speaker=BO140|TID=365-5
 3	realtà	realtà	NOUN	_	Gender=Fem	9	obl	_	Speaker=BO140|TID=365-6
 4	di	di	ADP	_	_	5	case	_	Speaker=BO140|TID=365-7
-5	abitantipaese	abitantipaese	ADJ	_	Gender=Masc|Number=Plur	3	nmod	_	Speaker=BO140|TID=365-8
+5	@abitantipaese	@abitantipaese	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	Speaker=BO140|TID=365-8
 6	ce	ce	PRON	_	Number=Plur|Person=1|PronType=Prs	9	expl	_	Clitic=Yes|Speaker=BO140|TID=365-9
 7	ne	ne	PRON	_	PronType=Prs	9	iobj	_	Clitic=Yes|Speaker=BO140|TID=365-10
 8	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	Speaker=BO140|TID=365-11
@@ -6359,7 +6359,7 @@
 7	e	e	CCONJ	_	_	8	cc	_	Prolonged=Yes|Speaker=BO140|TID=442-13
 8	visiterò	visitare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	4	conj	_	Speaker=BO140|TID=442-14
 9	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Speaker=BO140|TID=442-15
-10	citta	città	NOUN	_	Gender=Fem	8	obj	_	AlignEnd=1673.51|Intonation=descending|Speaker=BO140|TID=442-16
+10	città	città	NOUN	_	Gender=Fem	8	obj	_	AlignEnd=1673.51|Intonation=descending|Speaker=BO140|TID=442-16
 
 # sent_id = 378
 # text = ah
