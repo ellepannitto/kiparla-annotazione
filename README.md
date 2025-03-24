@@ -15,8 +15,8 @@
 | --- | ---        | ---  | ---     | --- |
 | Caterina | TOD1005bis fino a frase 372 | | | |
 | Cristina | TOD1005bis da frase 373 in poi | | | |
-| Silvia | BOD2018 fino a frase 310 | done | done | |
-| Manuela | BOD2018 da 311 in poi | done | done | |
+| Silvia | BOD2018 fino a frase 310 | done | done | done (*mancano pronomi) |
+| Manuela | BOD2018 da 311 in poi | done | done | done (*mancano pronomi) |
 | Manuela | BOA3017 fino a frase 420 | done | done | |
 | Ludovica | BOA3017 da 421 in poi | done | done | |
 | Eleonora | PBB004 fino a frase 450 | done | done | |
@@ -120,28 +120,10 @@ numero righe a sinistra (1,2....)
 
 ## Da controllare
 
-### BOA3017
+### BOD2018
 
-
-547:2 > verb
-268:4 > INTJ
-135:1 > INTJ
-473:5 > VERB
-326:13 > ADV
-547:2 > NOUN
-284:16 > ADJ
-325:1 > ADV
-
-
-    Name of repository?
-
-    Next steps
-
-    Morphological features –> table built via new script, then Ludovica does the merge
-
-    Language Specific pos? Can we remove them?
-
-    Syntax -> parse again with gold features with udpipe 2
+da solo
+po'
 
 ISSUES up to now
 
