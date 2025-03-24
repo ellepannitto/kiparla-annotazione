@@ -637,7 +637,7 @@
 13	mh	mh	INTJ	I	_	0	discourse	_	AlignEnd=139.847|Overlapping=Yes|Speaker=BO145|TID=92-0
 14	eh	eh	INTJ	I	_	0	discourse	_	AlignEnd=140.337|Overlapping=Yes|Speaker=BO147|TID=93-0
 
-# sent_id = 57_b_
+# sent_id = 57_b
 # text = ne fai una di dodici ore mh
 # jefferson_text = volete stare in bisca fino alle quattro [del ma]tt[ino stano]tte? [mh] [eh] ne fai una (di) dodici ore mh parlare costantemente per dodici ore però è {P} tosta eh mh per me non è un problema
 1	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	2	iobj	_	AlignBegin=141.177|Speaker=BO145|TID=94-0
