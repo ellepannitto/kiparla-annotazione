@@ -5121,12 +5121,10 @@
 6	che	che	SCONJ	CS	_	9	mark	_	AlignBegin=1292.28|Speaker=BO145|TID=827-0
 7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	AlignEnd=1292.588|Intonation=ascending|Speaker=BO145|TID=827-1
 8	{ride}	-	X	_	_	9	dep	_	AlignEnd=1293.897|Speaker=BO145|TID=828-0|Type=NLB
-9	esse	esse	NOUN	VA	_	3	ccomp	_	AlignBegin=1293.993|Speaker=BO139|TID=829-0
-10	o	o	SYM	CC	_	9	fixed	_	Speaker=BO139|TID=829-1
-11	esse	esse	NOUN	VA	_	9	fixed	_	AlignEnd=1294.776|Speaker=BO139|TID=829-2
-12	{ride}	-	X	_	_	3	dep	_	AlignEnd=1295.63|Speaker=BO139|TID=830-0|Type=NLB
-13	{ride}	-	X	_	_	3	dep	_	AlignEnd=1297.467|Speaker=BO146|TID=831-0|Type=NLB
-14	{ride}	-	X	_	_	3	dep	_	AlignEnd=1298.546|Speaker=BO147|TID=832-0|Type=NLB
+9	esseoesse	S.O.S.	NOUN	VA	_	3	ccomp	_	AlignBegin=1293.993|AlignEnd=1294.776|Speaker=BO139|TID=829-0,1,2
+10	{ride}	-	X	_	_	3	dep	_	AlignEnd=1295.63|Speaker=BO139|TID=830-0|Type=NLB
+11	{ride}	-	X	_	_	3	dep	_	AlignEnd=1297.467|Speaker=BO146|TID=831-0|Type=NLB
+12	{ride}	-	X	_	_	3	dep	_	AlignEnd=1298.546|Speaker=BO147|TID=832-0|Type=NLB
 
 # sent_id = 377
 # text = stiamo precipitando
