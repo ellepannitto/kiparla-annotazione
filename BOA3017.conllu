@@ -7321,18 +7321,18 @@
 4	comunicazioni	comunicazione	NOUN	S	Gender=Fem|Number=Plur	0	root	_	AlignEnd=1816.758|Overlapping=Yes|Speaker=BO139|TID=1168-1
 
 # sent_id = 549
-# text = a quanti minuti
-# jefferson_text = [a] quanti minuti
+# text = a quanti minuti siamo
+# jefferson_text = [a] quanti minuti siamo?
 1	a	a	ADP	E	_	3	case	_	AlignBegin=1816.617|Overlapping=Yes|Speaker=BO145|TID=1169-0
 2	quanti	quanto	ADV	DE	PronType=Exc	3	det	_	Speaker=BO145|TID=1169-1
 3	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	Speaker=BO145|TID=1169-2
+4	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	AlignEnd=1817.683|Intonation=ascending|Speaker=BO145|TID=1169-3
 
 # sent_id = 550
-# text = siamo trenta minuti
-# jefferson_text = siamo? trenta minuti
-1	siamo	essere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	AlignEnd=1817.683|Intonation=ascending|Speaker=BO145|TID=1169-3
-2	trenta	trento	NUM	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	AlignBegin=1817.716|Speaker=BO139|TID=1170-0
-3	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	Speaker=BO139|TID=1170-1
+# text = trenta minuti
+# jefferson_text = trenta minuti
+1	trenta	trento	NUM	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	AlignBegin=1817.716|Speaker=BO139|TID=1170-0
+2	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	Speaker=BO139|TID=1170-1
 
 # sent_id = 551
 # text = e dicia venti secondi
