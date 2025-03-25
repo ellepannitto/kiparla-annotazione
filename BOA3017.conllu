@@ -5614,7 +5614,7 @@
 # sent_id = 422_a
 # text = certo
 # jefferson_text = certo
-1	certo	certo	ADJ	B	_	5	advmod	_	AlignEnd=1425.406|Speaker=BO145|TID=924-0
+1	certo	certo	ADJ	B	_	0	root	_	AlignEnd=1425.406|Speaker=BO145|TID=924-0
 
 # sent_id = 422_b_423
 # text = la prima c' e {ride} una ragazza che raccontava di ex coinquiline cristiane che tipo le avevano rubato un pr un eh non mh un dildo che lei aveva nel eh {ride} {ride} nel comodino perché col sospetto che lei lei stava studiando delle cose di magia nel senso cioè {P} di antropologia
