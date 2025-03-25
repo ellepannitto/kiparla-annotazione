@@ -5592,94 +5592,66 @@
 23	cazzo	cazzo	INTJ	I	_	7	discourse	_	AlignEnd=1421.541|Overlapping=Yes|Speaker=BO145|TID=918-3
 24	eh	eh	INTJ	I	_	7	discourse	_	AlignEnd=1419.825|Overlapping=Yes|Speaker=BO139|TID=919-0
 
-# sent_id = 421
-# text = adesso mi divertirò anche riascoltando l'audio di {ride} questa è molto più colorita {ride}
-# jefferson_text = [adesso mi di]vertirò anche riascoltando l'a[udio di] {ride} [questa è mo]lto più colorita {ride}
-1	adesso	adesso	ADV	B	_	3	advmod	_	AlignBegin=1420.894|Overlapping=Yes|Speaker=BO139|TID=920-0
-2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	Overlapping=Yes|Speaker=BO139|TID=920-1
-3	divertirò	divertire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	Overlapping=Yes|Speaker=BO139|TID=920-2
-4	anche	anche	ADV	B	_	5	advmod	_	Speaker=BO139|TID=920-3
-5	riascoltando	riascoltare	VERB	V	VerbForm=Ger	3	advcl	_	Speaker=BO139|TID=920-4
-6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No|Speaker=BO139|TID=920-5|Truncated=Yes
-7	audio	audio	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	Overlapping=Yes|Speaker=BO139|TID=920-6
-8	di	di	ADP	E	_	10	case	_	AlignEnd=1423.127|Overlapping=Yes|Speaker=BO139|TID=920-7
-9	{ride}	-	X	_	_	3	dep	_	AlignEnd=1422.356|Speaker=BO145|TID=921-0|Type=NLB
-10	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	7	nmod	_	AlignBegin=1422.731|Overlapping=Yes|Speaker=BO147|TID=922-0
-11	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	Overlapping=Yes|Speaker=BO147|TID=922-1
-12	molto	molto	ADV	B	_	13	advmod	_	Overlapping=Yes|Speaker=BO147|TID=922-2
-13	più	più	ADV	B	_	14	advmod	_	Speaker=BO147|TID=922-3
-14	colorita	colorito	ADJ	A	Gender=Fem|Number=Sing	3	parataxis	_	AlignEnd=1424.323|Speaker=BO147|TID=922-4
-15	{ride}	-	X	_	_	3	dep	_	AlignEnd=1425.381|Speaker=BO139|TID=923-0|Type=NLB
-
-# sent_id = 422
-# text = certo la prima c'e {ride} una ragazza che raccontava di ex coinquiline cristiane
-# jefferson_text = certo la prima c'e~ {ride} una ragazza che: raccontava di ex coinquiline cristiane
-1	certo	certo	ADJ	B	_	5	advmod	_	AlignEnd=1425.406|Speaker=BO145|TID=924-0
-2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	AlignBegin=1425.481|Speaker=BO139|TID=925-0
-3	prima	primo	PRON	NO	Gender=Fem|Number=Sing|NumType=Ord	5	amod	_	Speaker=BO139|TID=925-1
-4	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	SpaceAfter=No|Speaker=BO139|TID=925-2|Truncated=Yes
-5	e	e~	X	SYM	_	0	root	_	Interrupted=Yes|Speaker=BO139|TID=925-3
-6	{ride}	-	X	_	_	5	dep	_	AlignEnd=1426.564|Speaker=BO139|TID=925-4|Type=NLB
-7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	AlignBegin=1426.793|Speaker=BO139|TID=926-0
-8	ragazza	ragazzo	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	Speaker=BO139|TID=926-1
-9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	Prolonged=Yes|Speaker=BO139|TID=926-2
-10	raccontava	raccontare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	acl:relcl	_	Speaker=BO139|TID=926-3
-11	di	di	ADP	E	_	13	case	_	Speaker=BO139|TID=926-4
-12	ex	ex	ADJ	A	_	13	amod	_	Speaker=BO139|TID=926-5
-13	coinquiline	coinquilino	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	Speaker=BO139|TID=926-6
-14	cristiane	cristiano	ADJ	A	Gender=Fem|Number=Plur	10	xcomp	_	Speaker=BO139|TID=926-7
-
-# sent_id = 423
-# text = che tipo le avevano rubato un pr un eh non mh un dildo che lei aveva nel eh {ride} nel comodino perché col sospetto che lei lei stava studiando delle cose di magia nel senso cioè {P} di antropologia
-# jefferson_text = che tipo le avevano rubato un pr~=un eh non mh un dildo che lei aveva=nel eh {ride} {ride} nel comodino perché col sospetto che lei lei stava studiando delle cose di magia nel sen[so >cioè< {P} di antropologia]
-1	che	che	CCONJ	DE	PronType=Exc	2	det	_	Speaker=BO139|TID=926-8
-2	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	AlignEnd=1430.326|Speaker=BO139|TID=926-9
-3	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	5	iobj	_	AlignBegin=1430.45|Speaker=BO139|TID=927-0
-4	avevano	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	Speaker=BO139|TID=927-1
-5	rubato	rubare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO139|TID=927-2
-6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Speaker=BO139|TID=927-3
-7	pr	pr~	X	SYM	_	5	obj	_	Interrupted=Yes|Speaker=BO139|TID=927-4
-8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	ProsodicLink=Yes|Speaker=BO139|TID=927-5
-9	eh	eh	INTJ	I	_	11	discourse	_	Speaker=BO139|TID=927-6
-10	non	non	ADV	BN	PronType=Neg	11	advmod	_	Speaker=BO139|TID=927-7
-11	mh	mh	INTJ	I	_	0	root	_	Speaker=BO139|TID=927-8
-12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Speaker=BO139|TID=927-9
-13	dildo	dildo	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	Speaker=BO139|TID=927-10
-14	che	che	SCONJ	PR	PronType=Rel	16	obj	_	Speaker=BO139|TID=927-11
-15	lei	lei	PRON	PE	Gender=Fem|Number=Sing|PronType=Prs	16	nsubj	_	Speaker=BO139|TID=927-12
-16	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	acl:relcl	_	Speaker=BO139|TID=927-13
-17-18	nel	_	_	_	_	_	_	_	ProsodicLink=Yes|Speaker=BO139|TID=927-14
-17	in	in	ADP	E	_	19	case	_	_
-18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-19	eh	eh	INTJ	S	_	16	obl	_	Speaker=BO139|TID=927-15
-20	{ride}	-	X	_	_	11	dep	_	AlignEnd=1435.1|Speaker=BO139|TID=927-16|Type=NLB
-21-23	nel	_	_	_	_	_	_	_	AlignBegin=1436.185|Speaker=BO139|TID=929-0
-21	in	in	ADP	E	_	24	case	_	_
-22	{ride}	-	X	_	_	11	dep	_	AlignEnd=1438.124|Speaker=BO147|TID=928-0|Type=NLB
-23	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
-24	comodino	comodo	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	AlignEnd=1437.01|Speaker=BO139|TID=929-1
-25	perché	perché	SCONJ	CS	_	28	mark	_	AlignBegin=1437.835|Speaker=BO139|TID=930-0
-26-27	col	_	_	_	_	_	_	_	Speaker=BO139|TID=930-1
-26	con	con	ADP	E	_	28	case	_	_
-27	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
-28	sospetto	sospetto	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	Speaker=BO139|TID=930-2
-29	che	che	SCONJ	CS	_	33	mark	_	Speaker=BO139|TID=930-3
-30	lei	lei	PRON	PE	Gender=Fem|Number=Sing|PronType=Prs	33	nsubj	_	Speaker=BO139|TID=930-4
-31	lei	lei	PRON	PE	Gender=Fem|Number=Sing|PronType=Prs	33	nsubj	_	Speaker=BO139|TID=930-5
-32	stava	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	33	aux	_	Speaker=BO139|TID=930-6
-33	studiando	studiare	VERB	V	VerbForm=Ger	28	acl	_	Speaker=BO139|TID=930-7
-34	delle	del	DET	_	_	_	_	_	Speaker=BO139|TID=930-8
-35	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	33	obl	_	Speaker=BO139|TID=930-9
-36	di	di	ADP	E	_	37	case	_	Speaker=BO139|TID=930-10
-37	magia	magia	NOUN	S	Gender=Fem|Number=Sing	35	nmod	_	Speaker=BO139|TID=930-11
-38-39	nel	_	_	_	_	_	_	_	Speaker=BO139|TID=930-12
-38	in	in	ADP	E	_	40	case	_	_
-39	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
-40	senso	senso	NOUN	S	Gender=Masc|Number=Sing	33	obl	_	Overlapping=Yes|Speaker=BO139|TID=930-13
-41	cioè	cioè	CCONJ	CC	_	44	cc	_	Overlapping=Yes|PaceFast=Yes|Speaker=BO139|TID=930-14
-42	{P}	-	X	_	_	11	dep	_	Overlapping=Yes|Speaker=BO139|TID=930-15|Type=shortpause
-43	di	di	ADP	E	_	44	case	_	Overlapping=Yes|Speaker=BO139|TID=930-16
-44	antropologia	antropologia	NOUN	S	Gender=Fem|Number=Sing	40	conj	_	AlignEnd=1443.235|Overlapping=Yes|Speaker=BO139|TID=930-17
+# sent_id = 422_b_423
+# text = la prima c' e {ride} una ragazza che raccontava di ex coinquiline cristiane che tipo le avevano rubato un pr un eh non mh un dildo che lei aveva nel eh {ride} {ride} nel comodino perché col sospetto che lei lei stava studiando delle cose di magia nel senso cioè {P} di antropologia
+# jefferson_text = certo la prima c'e~ {ride} una ragazza che: raccontava di ex coinquiline cristiane che tipo le avevano rubato un pr~=un eh non mh un dildo che lei aveva=nel eh {ride} {ride} nel comodino perché col sospetto che lei lei stava studiando delle cose di magia nel sen[so >cioè< {P} di antropologia]
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=1425.481|Speaker=BO139|TID=925-0
+2	prima	primo	PRON	NO	Gender=Fem|Number=Sing|NumType=Ord	4	obl	_	Speaker=BO139|TID=925-1
+3	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	4	expl	_	Speaker=BO139|TID=925-2|Truncated=Yes
+4	e	e~	X	SYM	_	0	root	_	Interrupted=Yes|Speaker=BO139|TID=925-3
+5	{ride}	-	X	_	_	4	dep	_	AlignEnd=1426.564|Speaker=BO139|TID=925-4|Type=NLB
+6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=1426.793|Speaker=BO139|TID=926-0
+7	ragazza	ragazzo	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	Speaker=BO139|TID=926-1
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	Prolonged=Yes|Speaker=BO139|TID=926-2
+9	raccontava	raccontare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	acl:relcl	_	Speaker=BO139|TID=926-3
+10	di	di	ADP	E	_	12	case	_	Speaker=BO139|TID=926-4
+11	ex	ex	ADJ	A	_	12	amod	_	Speaker=BO139|TID=926-5
+12	coinquiline	coinquilino	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	Speaker=BO139|TID=926-6
+13	cristiane	cristiano	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	Speaker=BO139|TID=926-7
+14	che	che	CCONJ	DE	PronType=Exc	15	det	_	Speaker=BO139|TID=926-8
+15	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	18	nsubj	_	AlignEnd=1430.326|Speaker=BO139|TID=926-9
+16	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	18	iobj	_	AlignBegin=1430.45|Speaker=BO139|TID=927-0
+17	avevano	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	aux	_	Speaker=BO139|TID=927-1
+18	rubato	rubare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO139|TID=927-2
+19	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Speaker=BO139|TID=927-3
+20	pr	pr~	X	SYM	_	18	obj	_	Interrupted=Yes|Speaker=BO139|TID=927-4
+21	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	ProsodicLink=Yes|Speaker=BO139|TID=927-5
+22	eh	eh	INTJ	I	_	24	discourse	_	Speaker=BO139|TID=927-6
+23	non	non	ADV	BN	PronType=Neg	24	advmod	_	Speaker=BO139|TID=927-7
+24	mh	mh	INTJ	I	_	0	root	_	Speaker=BO139|TID=927-8
+25	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	Speaker=BO139|TID=927-9
+26	dildo	dildo	NOUN	S	Gender=Masc|Number=Sing	24	nmod	_	Speaker=BO139|TID=927-10
+27	che	che	SCONJ	PR	PronType=Rel	29	obj	_	Speaker=BO139|TID=927-11
+28	lei	lei	PRON	PE	Gender=Fem|Number=Sing|PronType=Prs	29	nsubj	_	Speaker=BO139|TID=927-12
+29	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	acl:relcl	_	Speaker=BO139|TID=927-13
+30	in	in	ADP	E	_	32	case	_	_
+31	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+32	eh	eh	INTJ	S	_	29	obl	_	Speaker=BO139|TID=927-15
+33	{ride}	-	X	_	_	24	dep	_	AlignEnd=1435.1|Speaker=BO139|TID=927-16|Type=NLB
+34	in	in	ADP	E	_	37	case	_	_
+35	{ride}	-	X	_	_	24	dep	_	AlignEnd=1438.124|Speaker=BO147|TID=928-0|Type=NLB
+36	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
+37	comodino	comodo	NOUN	S	Gender=Masc|Number=Sing	29	obl	_	AlignEnd=1437.01|Speaker=BO139|TID=929-1
+38	perché	perché	SCONJ	CS	_	41	mark	_	AlignBegin=1437.835|Speaker=BO139|TID=930-0
+39	con	con	ADP	E	_	41	case	_	_
+40	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
+41	sospetto	sospetto	NOUN	S	Gender=Masc|Number=Sing	29	obl	_	Speaker=BO139|TID=930-2
+42	che	che	SCONJ	CS	_	46	mark	_	Speaker=BO139|TID=930-3
+43	lei	lei	PRON	PE	Gender=Fem|Number=Sing|PronType=Prs	46	nsubj	_	Speaker=BO139|TID=930-4
+44	lei	lei	PRON	PE	Gender=Fem|Number=Sing|PronType=Prs	46	nsubj	_	Speaker=BO139|TID=930-5
+45	stava	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	46	aux	_	Speaker=BO139|TID=930-6
+46	studiando	studiare	VERB	V	VerbForm=Ger	41	acl	_	Speaker=BO139|TID=930-7
+47	delle	del	DET	_	_	_	_	_	Speaker=BO139|TID=930-8
+48	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	46	obl	_	Speaker=BO139|TID=930-9
+49	di	di	ADP	E	_	50	case	_	Speaker=BO139|TID=930-10
+50	magia	magia	NOUN	S	Gender=Fem|Number=Sing	48	nmod	_	Speaker=BO139|TID=930-11
+51	in	in	ADP	E	_	53	case	_	_
+52	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	53	det	_	_
+53	senso	senso	NOUN	S	Gender=Masc|Number=Sing	46	obl	_	Overlapping=Yes|Speaker=BO139|TID=930-13
+54	cioè	cioè	CCONJ	CC	_	57	cc	_	Overlapping=Yes|PaceFast=Yes|Speaker=BO139|TID=930-14
+55	{P}	-	X	_	_	24	dep	_	Overlapping=Yes|Speaker=BO139|TID=930-15|Type=shortpause
+56	di	di	ADP	E	_	57	case	_	Overlapping=Yes|Speaker=BO139|TID=930-16
+57	antropologia	antropologia	NOUN	S	Gender=Fem|Number=Sing	53	conj	_	AlignEnd=1443.235|Overlapping=Yes|Speaker=BO139|TID=930-17
 
 # sent_id = 424
 # text = ah me l'hai raccontato eh uno studio sui riti magici nella sicilia
@@ -7360,4 +7332,41 @@
 6	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	expl	_	Overlapping=Yes|SpaceAfter=No|Speaker=BO147|TID=1172-1|Truncated=Yes
 7	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	Overlapping=Yes|Speaker=BO147|TID=1172-2
 8	materiale	materiale	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	AlignEnd=1822.003|Overlapping=Yes|Speaker=BO147|TID=1172-3
+
+# sent_id = 421
+# text = adesso mi divertirò anche riascoltando l'audio di {ride} questa è molto più colorita {ride}
+# jefferson_text = [adesso mi di]vertirò anche riascoltando l'a[udio di] {ride} [questa è mo]lto più colorita {ride}
+1	adesso	adesso	ADV	B	_	3	advmod	_	AlignBegin=1420.894|Overlapping=Yes|Speaker=BO139|TID=920-0
+2	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	Overlapping=Yes|Speaker=BO139|TID=920-1
+3	divertirò	divertire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	Overlapping=Yes|Speaker=BO139|TID=920-2
+4	anche	anche	ADV	B	_	5	advmod	_	Speaker=BO139|TID=920-3
+5	riascoltando	riascoltare	VERB	V	VerbForm=Ger	3	advcl	_	Speaker=BO139|TID=920-4
+6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No|Speaker=BO139|TID=920-5|Truncated=Yes
+7	audio	audio	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	Overlapping=Yes|Speaker=BO139|TID=920-6
+8	di	di	ADP	E	_	10	case	_	AlignEnd=1423.127|Overlapping=Yes|Speaker=BO139|TID=920-7
+9	{ride}	-	X	_	_	3	dep	_	AlignEnd=1422.356|Speaker=BO145|TID=921-0|Type=NLB
+10	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	7	nmod	_	AlignBegin=1422.731|Overlapping=Yes|Speaker=BO147|TID=922-0
+11	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	Overlapping=Yes|Speaker=BO147|TID=922-1
+12	molto	molto	ADV	B	_	13	advmod	_	Overlapping=Yes|Speaker=BO147|TID=922-2
+13	più	più	ADV	B	_	14	advmod	_	Speaker=BO147|TID=922-3
+14	colorita	colorito	ADJ	A	Gender=Fem|Number=Sing	3	parataxis	_	AlignEnd=1424.323|Speaker=BO147|TID=922-4
+15	{ride}	-	X	_	_	3	dep	_	AlignEnd=1425.381|Speaker=BO139|TID=923-0|Type=NLB
+
+# sent_id = 422
+# text = certo la prima c'e {ride} una ragazza che raccontava di ex coinquiline cristiane
+# jefferson_text = certo la prima c'e~ {ride} una ragazza che: raccontava di ex coinquiline cristiane
+1	certo	certo	ADJ	B	_	5	advmod	_	AlignEnd=1425.406|Speaker=BO145|TID=924-0
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	AlignBegin=1425.481|Speaker=BO139|TID=925-0
+3	prima	primo	PRON	NO	Gender=Fem|Number=Sing|NumType=Ord	5	amod	_	Speaker=BO139|TID=925-1
+4	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	expl	_	SpaceAfter=No|Speaker=BO139|TID=925-2|Truncated=Yes
+5	e	e~	X	SYM	_	0	root	_	Interrupted=Yes|Speaker=BO139|TID=925-3
+6	{ride}	-	X	_	_	5	dep	_	AlignEnd=1426.564|Speaker=BO139|TID=925-4|Type=NLB
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	AlignBegin=1426.793|Speaker=BO139|TID=926-0
+8	ragazza	ragazzo	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	Speaker=BO139|TID=926-1
+9	che	che	PRON	PR	PronType=Rel	10	nsubj	_	Prolonged=Yes|Speaker=BO139|TID=926-2
+10	raccontava	raccontare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	acl:relcl	_	Speaker=BO139|TID=926-3
+11	di	di	ADP	E	_	13	case	_	Speaker=BO139|TID=926-4
+12	ex	ex	ADJ	A	_	13	amod	_	Speaker=BO139|TID=926-5
+13	coinquiline	coinquilino	NOUN	S	Gender=Fem|Number=Plur	10	obl	_	Speaker=BO139|TID=926-6
+14	cristiane	cristiano	ADJ	A	Gender=Fem|Number=Plur	10	xcomp	_	Speaker=BO139|TID=926-7
 
