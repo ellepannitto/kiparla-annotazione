@@ -5653,67 +5653,64 @@
 56	di	di	ADP	E	_	57	case	_	Overlapping=Yes|Speaker=BO139|TID=930-16
 57	antropologia	antropologia	NOUN	S	Gender=Fem|Number=Sing	53	conj	_	AlignEnd=1443.235|Overlapping=Yes|Speaker=BO139|TID=930-17
 
-# sent_id = 424
-# text = ah me l'hai raccontato eh uno studio sui riti magici nella sicilia
-# jefferson_text = [a:h me l'hai raccontato] eh uno studio sui riti magici nella sicilia
+# sent_id = 424_a
+# text = ah me l' hai raccontato
+# jefferson_text = [a:h me l' hai raccontato] eh uno studio sui riti magici nella sicilia
 1	ah	ah	INTJ	I	_	5	discourse	_	AlignBegin=1441.589|Overlapping=Yes|Prolonged=Yes|Speaker=BO145|TID=931-0
 2	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	expl	_	Overlapping=Yes|Speaker=BO145|TID=931-1
 3	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Overlapping=Yes|SpaceAfter=No|Speaker=BO145|TID=931-2|Truncated=Yes
 4	hai	avere	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	Overlapping=Yes|Speaker=BO145|TID=931-3
 5	raccontato	raccontare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	AlignEnd=1443.298|Overlapping=Yes|Speaker=BO145|TID=931-4
-6	eh	eh	INTJ	I	_	8	discourse	_	AlignEnd=1443.981|Speaker=BO139|TID=932-0
-7	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	AlignBegin=1444.014|Speaker=BO139|TID=933-0
-8	studio	studio	NOUN	S	Gender=Masc|Number=Sing	5	parataxis	_	Speaker=BO139|TID=933-1
-9-10	sui	_	_	_	_	_	_	_	Speaker=BO139|TID=933-2
-9	su	su	ADP	E	_	11	case	_	_
-10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
-11	riti	rito	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	Speaker=BO139|TID=933-3
-12	magici	magico	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	Speaker=BO139|TID=933-4
-13-14	nella	_	_	_	_	_	_	_	Speaker=BO139|TID=933-5
-13	in	in	ADP	E	_	15	case	_	_
-14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	sicilia	Sicilia	PROPN	S	Gender=Fem|Number=Sing	11	nmod	_	Speaker=BO139|TID=933-6
 
-# sent_id = 425
-# text = tipo dell'ottoce metti una roba del genere è già pericolosa eh mh e 'ste sue coinquiline convinte che lei fosse parte di una setta satanica perché han visto 'sti libri che lei stava studiando
-# jefferson_text = tipo dell'ottoce~ metti una roba deol genere è già pericolos[a]=[e]:h m:h e 'ste sue: coinquiline convinte: che lei fosse >parte di una setta satanica< perché han visto 'sti libri che lei stava studiando
-1	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	Speaker=BO139|TID=933-7
-2-3	dell'	_	_	_	_	_	_	_	Speaker=BO139|TID=933-8|Truncated=Yes
-2	di	di	ADP	E	_	4	case	_	_
-3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
-4	ottoce	ottoce~	X	SYM	_	1	nmod	_	Interrupted=Yes|Speaker=BO139|TID=933-9
-5	metti	mettere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO139|TID=933-10
-6	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Speaker=BO139|TID=933-11
-7	roba	roba	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	Speaker=BO139|TID=933-12
-8	del	del	ADP	B	_	12	advmod	_	Speaker=BO139|TID=933-13
-9	genere	genere	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	AlignEnd=1447.531|Speaker=BO139|TID=933-14
-10	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	AlignBegin=1447.626|Speaker=BO145|TID=934-0
-11	già	già	ADV	B	_	12	advmod	_	Speaker=BO145|TID=934-1
-12	pericolosa	pericoloso	ADJ	A	Gender=Fem|Number=Sing	5	parataxis	_	AlignEnd=1448.468|Overlapping=Yes|Speaker=BO145|TID=934-2
-13	eh	eh	INTJ	I	_	14	discourse	_	AlignBegin=1448.31|Overlapping=Yes|Prolonged=Yes|ProsodicLink=Yes|Speaker=BO139|TID=935-0
-14	mh	mh	INTJ	I	_	12	conj	_	AlignEnd=1449.485|Prolonged=Yes|Speaker=BO139|TID=935-1
-15	e	e	CCONJ	CC	_	18	cc	_	AlignBegin=1449.726|Speaker=BO139|TID=936-0
-16	'ste	questo	DET	_	_	_	_	_	Speaker=BO139|TID=936-1
-17	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	18	det:poss	_	Prolonged=Yes|Speaker=BO139|TID=936-2
-18	coinquiline	coinquilino	NOUN	S	Gender=Fem|Number=Plur	12	conj	_	Speaker=BO139|TID=936-3
-19	convinte	convinto	ADJ	A	Number=Sing	18	amod	_	Prolonged=Yes|Speaker=BO139|TID=936-4
-20	che	che	SCONJ	CS	_	22	mark	_	Speaker=BO139|TID=936-5
-21	lei	egli	PRON	PE	Gender=Fem|Number=Sing|PronType=Prs	22	nsubj	_	Speaker=BO139|TID=936-6
-22	fosse	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	acl	_	Speaker=BO139|TID=936-7
-23	parte	parte	NOUN	S	Gender=Fem|Number=Sing	22	obj	_	PaceFast=Yes|Speaker=BO139|TID=936-8
-24	di	di	ADP	E	_	26	case	_	PaceFast=Yes|Speaker=BO139|TID=936-9
-25	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	26	det	_	PaceFast=Yes|Speaker=BO139|TID=936-10
-26	setta	setta	NOUN	S	Gender=Fem|Number=Sing	23	nmod	_	PaceFast=Yes|Speaker=BO139|TID=936-11
-27	satanica	satanico	ADJ	A	Gender=Fem|Number=Sing	26	amod	_	PaceFast=Yes|Speaker=BO139|TID=936-12
-28	perché	perché	SCONJ	CS	_	30	mark	_	Speaker=BO139|TID=936-13
-29	han	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	aux	_	Speaker=BO139|TID=936-14
-30	visto	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	advcl	_	Speaker=BO139|TID=936-15
-31	'sti	questo	DET	_	_	_	_	_	Speaker=BO139|TID=936-16
-32	libri	libro	NOUN	S	Gender=Masc|Number=Plur	30	obj	_	Speaker=BO139|TID=936-17
-33	che	che	SCONJ	CS	_	36	mark	_	Speaker=BO139|TID=936-18
-34	lei	egli	PRON	PE	Gender=Fem|Number=Sing|PronType=Prs	36	nsubj	_	Speaker=BO139|TID=936-19
-35	stava	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	36	aux	_	Speaker=BO139|TID=936-20
-36	studiando	studiare	VERB	V	VerbForm=Ger	32	acl	_	AlignEnd=1455.501|Speaker=BO139|TID=936-21
+# sent_id = 424_b_425
+# text = eh uno studio su i riti magici in la sicilia tipo dell' ottoce metti una roba del genere è già pericolosa eh mh e 'ste sue coinquiline convinte che lei fosse parte di una setta satanica perché han visto 'sti libri che lei stava studiando
+# jefferson_text = [a:h me l' hai raccontato] eh uno studio sui riti magici nella sicilia tipo dell' ottoce~ metti una roba deol genere è già pericolos[a]=[e]:h m:h e 'ste sue: coinquiline convinte: che lei fosse >parte di una setta satanica< perché han visto 'sti libri che lei stava studiando
+1	eh	eh	INTJ	I	_	3	discourse	_	AlignEnd=1443.981|Speaker=BO139|TID=932-0
+2	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	AlignBegin=1444.014|Speaker=BO139|TID=933-0
+3	studio	studio	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Speaker=BO139|TID=933-1
+4	su	su	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	riti	rito	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	Speaker=BO139|TID=933-3
+7	magici	magico	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	Speaker=BO139|TID=933-4
+8	in	in	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	sicilia	Sicilia	PROPN	S	Gender=Fem|Number=Sing	6	nmod	_	Speaker=BO139|TID=933-6
+11	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	15	nsubj	_	Speaker=BO139|TID=933-7
+12	di	di	ADP	E	_	14	case	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+14	ottoce	ottoce~	X	SYM	_	11	nmod	_	Interrupted=Yes|Speaker=BO139|TID=933-9
+15	metti	mettere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO139|TID=933-10
+16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Speaker=BO139|TID=933-11
+17	roba	roba	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	Speaker=BO139|TID=933-12
+18	del	del	ADP	B	_	22	advmod	_	Speaker=BO139|TID=933-13
+19	genere	genere	NOUN	S	Gender=Masc|Number=Sing	22	nsubj	_	AlignEnd=1447.531|Speaker=BO139|TID=933-14
+20	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	AlignBegin=1447.626|Speaker=BO145|TID=934-0
+21	già	già	ADV	B	_	22	advmod	_	Speaker=BO145|TID=934-1
+22	pericolosa	pericoloso	ADJ	A	Gender=Fem|Number=Sing	15	parataxis	_	AlignEnd=1448.468|Overlapping=Yes|Speaker=BO145|TID=934-2
+23	eh	eh	INTJ	I	_	24	discourse	_	AlignBegin=1448.31|Overlapping=Yes|Prolonged=Yes|ProsodicLink=Yes|Speaker=BO139|TID=935-0
+24	mh	mh	INTJ	I	_	22	conj	_	AlignEnd=1449.485|Prolonged=Yes|Speaker=BO139|TID=935-1
+25	e	e	CCONJ	CC	_	28	cc	_	AlignBegin=1449.726|Speaker=BO139|TID=936-0
+26	'ste	questo	DET	_	_	_	_	_	Speaker=BO139|TID=936-1
+27	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	28	det:poss	_	Prolonged=Yes|Speaker=BO139|TID=936-2
+28	coinquiline	coinquilino	NOUN	S	Gender=Fem|Number=Plur	22	conj	_	Speaker=BO139|TID=936-3
+29	convinte	convinto	ADJ	A	Number=Sing	28	amod	_	Prolonged=Yes|Speaker=BO139|TID=936-4
+30	che	che	SCONJ	CS	_	32	mark	_	Speaker=BO139|TID=936-5
+31	lei	egli	PRON	PE	Gender=Fem|Number=Sing|PronType=Prs	32	nsubj	_	Speaker=BO139|TID=936-6
+32	fosse	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	28	acl	_	Speaker=BO139|TID=936-7
+33	parte	parte	NOUN	S	Gender=Fem|Number=Sing	32	obj	_	PaceFast=Yes|Speaker=BO139|TID=936-8
+34	di	di	ADP	E	_	36	case	_	PaceFast=Yes|Speaker=BO139|TID=936-9
+35	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	36	det	_	PaceFast=Yes|Speaker=BO139|TID=936-10
+36	setta	setta	NOUN	S	Gender=Fem|Number=Sing	33	nmod	_	PaceFast=Yes|Speaker=BO139|TID=936-11
+37	satanica	satanico	ADJ	A	Gender=Fem|Number=Sing	36	amod	_	PaceFast=Yes|Speaker=BO139|TID=936-12
+38	perché	perché	SCONJ	CS	_	40	mark	_	Speaker=BO139|TID=936-13
+39	han	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	40	aux	_	Speaker=BO139|TID=936-14
+40	visto	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	28	advcl	_	Speaker=BO139|TID=936-15
+41	'sti	questo	DET	_	_	_	_	_	Speaker=BO139|TID=936-16
+42	libri	libro	NOUN	S	Gender=Masc|Number=Plur	40	obj	_	Speaker=BO139|TID=936-17
+43	che	che	SCONJ	CS	_	46	mark	_	Speaker=BO139|TID=936-18
+44	lei	egli	PRON	PE	Gender=Fem|Number=Sing|PronType=Prs	46	nsubj	_	Speaker=BO139|TID=936-19
+45	stava	stare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	46	aux	_	Speaker=BO139|TID=936-20
+46	studiando	studiare	VERB	V	VerbForm=Ger	42	acl	_	AlignEnd=1455.501|Speaker=BO139|TID=936-21
 
 # sent_id = 426
 # text = ah son andate in camera di lei le han sequestrato tutto compreso il dildo che c'aveva ne il {ride} nel cassetto
