@@ -1908,9 +1908,9 @@
 7	guardare	guardare	VERB	V	VerbForm=Inf	4	xcomp	_	Speaker=BO146|TID=286-17
 
 # sent_id = 131
-# text = lui fa vabbè ve lo dico x vabbè ma tanto {P}
-# jefferson_text = (lui) fa vabbè ve (lo) dico xxx[xx] [vab]bè ma tanto {P}
-1	lui	egli	PRON	PE	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Speaker=BO146|TID=286-18
+# text = pia fa vabbè ve lo dico x vabbè ma tanto {P}
+# jefferson_text = (pia) fa vabbè ve (lo) dico xxx[xx] [vab]bè ma tanto {P}
+1	pia	Pia	PROPN	PE	_	2	nsubj	_	Speaker=BO146|TID=286-18
 2	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Speaker=BO146|TID=286-19
 3	vabbè	vabbè	INTJ	I	_	6	discourse	_	Speaker=BO146|TID=286-20
 4	ve	ve	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	6	iobj	_	Speaker=BO146|TID=286-21
@@ -6349,14 +6349,14 @@
 2	keta	Keta	PROPN	A	Gender=Fem|Number=Sing	1	amod	_	AlignEnd=1624.691|Overlapping=Yes|Speaker=BO145|TID=1032-1
 
 # sent_id = 459
-# text = sai che ieri io e x abbiamo parlato di myss keta
-# jefferson_text = sai che ieri io e xxxx abbiamo parlato (di) myss keta?
+# text = sai che ieri io e ingrid abbiamo parlato di myss keta
+# jefferson_text = sai che ieri io e ingrid abbiamo parlato (di) myss keta?
 1	sai	sapere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=1625.496|Speaker=BO145|TID=1033-0
 2	che	che	SCONJ	CS	_	8	mark	_	Speaker=BO145|TID=1033-1
 3	ieri	ieri	ADV	B	_	4	advmod	_	Speaker=BO145|TID=1033-2
 4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Speaker=BO145|TID=1033-3
 5	e	e	CCONJ	CC	_	6	cc	_	Speaker=BO145|TID=1033-4
-6	x	x	X	SYM	_	4	conj	_	Speaker=BO145|TID=1033-5|Type=unknown
+6	ingrid	Ingrid	PROPN	SYM	_	4	conj	_	Speaker=BO145|TID=1033-5|Type=unknown
 7	abbiamo	avere	AUX	VA	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	Speaker=BO145|TID=1033-6
 8	parlato	parlare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	Speaker=BO145|TID=1033-7
 9	di	di	ADP	E	_	10	case	_	Speaker=BO145|TID=1033-8
@@ -6971,7 +6971,7 @@
 3	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Speaker=BO145|TID=1114-2
 4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	Speaker=BO145|TID=1114-3
 5	conosce	conoscere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	Speaker=BO145|TID=1114-4
-6	lia	Lia	PROPN	S	Gender=Fem|Number=Sing	5	obj	_	AlignEnd=1738.668|Speaker=BO145|TID=1114-5
+6	lia	Lia	PROPN	S	_	5	obj	_	AlignEnd=1738.668|Speaker=BO145|TID=1114-5
 
 # sent_id = 513
 # text = ma chi è
