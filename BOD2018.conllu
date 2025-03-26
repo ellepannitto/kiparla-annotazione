@@ -1966,7 +1966,7 @@
 4	vissuto	vivere	VERB	_	Tense=Past|VerbForm=Part	0	root	_	Speaker=BO118|TID=142-3
 5	sempre	sempre	ADV	_	_	4	advmod	_	Speaker=BO118|TID=142-4
 6	con	con	ADP	_	_	8	case	_	Speaker=BO118|TID=142-5
-7	tutte	tutto	DET	_	Gender=Fem|PronType=Ind	8	det	_	Speaker=BO118|TID=142-6
+7	tutte	tutto	ADJ	_	Gender=Fem|PronType=Ind	8	det	_	Speaker=BO118|TID=142-6
 8	ragazze	ragazzo	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	AlignEnd=546.52|Intonation=ascending|Speaker=BO118|TID=142-7
 
 # sent_id = 113

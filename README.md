@@ -7,7 +7,8 @@
 * teniamo le strutture **non proiettive** senza alterare la sintassi per ottenere la proiettività
 * parole interrotte (es `~versità` o `pensio~`): nel caso in cui è facilmente intuibile dal contesto quale sia la parola in questione, usiamo quella come lemma e la PoS che avremmo attribuito come PoS. Se il contesto non è abbastanza informativo, usiamo `X` come PoS e la stessa form come lemma. L'informazione che fosse una parola interrotta comunque non viene sovrascritta perché c'è una feature apposita nel MISC
 * dialetto e parole straniere: teniamo la PoS che ha quella parola in italiano. Per il lemma, lo teniamo uguale alla form. Usiamo `OrigLang=[ISO|dia|unknown]` nel MISC per i casi di code switching (i.e., non i prestiti o i forestierismi). Questo per i casi dove la questione è palese. Se il token è ambiguo non lo segniamo e ci sarà comunque il metadato `# contains variation` a livello di maximal unit (ovvero, quando almeno una delle unità contenute iniziava per cancelletto)
-* repairs/restarts: `reparandum` solo per le parole interrotte, negli altri casi ??
+* tipo, raga etc... > siamo conservative (ma non conservatrici)
+*
 
 ## Assignments
 
@@ -40,7 +41,6 @@
 * sparare sempre e comunque > spara sempre e comunque
 * da quando sono nata penso > da quando so nata penso
 
-
 ## Appunti PBB004
 
 * sent_id = 505 - mh non ci sei con la testa - essere AUX o VERB?
@@ -60,47 +60,17 @@
 - ihih > forse {ride}?
 - vabbè
 
-
  ## Appunti BOD2018 (Silvia)
 
-- congiunzioni con valore pragmatico-discorsivo?
-- 8: stesso parlante?
-- tipo? (di default è ‘noun’)
-- un- tag: x ma cosa si mette come lemma?
-- dove > ADV (zona dove abito) - correggere?
-- open space si divide (come è ora) o va insieme come N?
-
 - 112—> sempre con tutte ragazze - tutte singole // tutte?
-- primo/primi = quando det e quando num?
-- addormenta//mme (lemma = mi)
 
-- essere/avere in tempi composti, entrambi gli elementi sono glossati come AUX
-
-- piacere/preferire/… + inf —> piace è AUX? ------------------------ [Ludovica] https://universal.grew.fr/?custom=67dc3e9bd3fd0
-- il lemma di “lei” di default è “egli”. come si gestisce? -------------- [Ludovica] https://universal.grew.fr/?custom=67dc401e6bc1f
 - uno art. lemmatizzato di default “uno” (controllare)
-- miei (genitori) —> ho messo “miei” come lemma (?) ---------  metteremmo mio e PRON
-
-- in generale qualche dubbio su num/det (v. frase 240)
-
 
 ## Appunti PBB004 (Eleonora)
 
-
-- pronomi interrogativi = va bene PRON?
-- _Dove_ relativo = PRON o ADV?
-- sì/no = ADV
-- lemma degli articoli (ora è _il_ per tutti)?
-- (36 e 182) _visto che_? (adesso è _visto_ VERB e _che_ SCONJ)
-- (69) _che cosa_ (ora PRON entrambe)
-- _tipo_?
 - (84, 84) _c'entrare_ o _centrare_?
 - (244 e 246) _fa_ in _anni fa_ ?
 - _Santo_ / _Don_ nome proprio ? --------------------- [Ludovica] io l'ho trattato come aggettivo (san) o nome (don)
-- mi rimangono molti dubbi su _come_:
-  - (48) e {P} voi principalmente cove *come* mi vi muovete in città > PRON
-  - (60) ah eh ti sposti in auto come *come* da tutte le altre parti > ADP? CCONJ?
-  - (164) mo andare l'ultimo dell'anno in piazza maggiore è come rischiare > ?
 
 ## Appunti Ludovica
 
