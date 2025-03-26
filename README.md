@@ -21,7 +21,6 @@
 | Ludovica | BOA3017 da 421 in poi | done | done | |
 | Eleonora | PBB004 fino a frase 450 | done | done | |
 
-
 ## Dubbi sui file
 
 ### BOA3017
@@ -109,8 +108,7 @@
 
 ## Appunti Caterina TOD1005bis
 numero righe a sinistra (1,2....)
-- 4: nessun altra lingua - ho lasciato DET DET NOUN, anche se sonon stata in dubbio se sostituire 'altra' con ADJ
-- 7: richerebbe > corretto in 'richiederebbe'
+- 4: nessun altra lingua - ho lasciato DET DET NOUN, anche se sonon stata in dubbio se sostituire 'altra' con ADJ > [Ludovica] https://universal.grew.fr/?custom=67e3cbf89dcc1
 - 8: che SCONJ > PRON
 - 10: li PRON > lemmatizzazione? non tocco i pronomi...
 - 12: forse questa unità va spezzata, molto lunga!
@@ -120,6 +118,8 @@ numero righe a sinistra (1,2....)
 - 36: spezzare!!!
 - 77: reti?? > check, forse radici
 - 118: spezzare!
+
+- 7: richerebbe > corretto in 'richiederebbe'
 
 ## Da controllare
 
