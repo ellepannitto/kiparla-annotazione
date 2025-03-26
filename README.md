@@ -99,8 +99,8 @@
 - _Santo_ / _Don_ nome proprio ? --------------------- [Ludovica] io l'ho trattato come aggettivo (san) o nome (don)
 - mi rimangono molti dubbi su _come_:
   - (48) e {P} voi principalmente cove *come* mi vi muovete in città > PRON
-  - (61) ah eh ti sposti in auto come *come* da tutte le altre parti > ADP? CCONJ?
-  - (165) mo andare l'ultimo dell'anno in piazza maggiore è come rischiare > ?
+  - (60) ah eh ti sposti in auto come *come* da tutte le altre parti > ADP? CCONJ?
+  - (164) mo andare l'ultimo dell'anno in piazza maggiore è come rischiare > ?
 
 ## Appunti Ludovica
 
