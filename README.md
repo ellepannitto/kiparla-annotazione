@@ -7,8 +7,14 @@
 * teniamo le strutture **non proiettive** senza alterare la sintassi per ottenere la proiettività
 * parole interrotte (es `~versità` o `pensio~`): nel caso in cui è facilmente intuibile dal contesto quale sia la parola in questione, usiamo quella come lemma e la PoS che avremmo attribuito come PoS. Se il contesto non è abbastanza informativo, usiamo `X` come PoS e la stessa form come lemma. L'informazione che fosse una parola interrotta comunque non viene sovrascritta perché c'è una feature apposita nel MISC
 * dialetto e parole straniere: teniamo la PoS che ha quella parola in italiano. Per il lemma, lo teniamo uguale alla form. Usiamo `OrigLang=[ISO|dia|unknown]` nel MISC per i casi di code switching (i.e., non i prestiti o i forestierismi). Questo per i casi dove la questione è palese. Se il token è ambiguo non lo segniamo e ci sarà comunque il metadato `# contains variation` a livello di maximal unit (ovvero, quando almeno una delle unità contenute iniziava per cancelletto)
-* tipo, raga etc... > siamo conservative (ma non conservatrici)
-*
+* `tipo`, `raga`, congiunzioni con valore discorsivo etc... > siamo conservative e teniamo la PoS da dizionario
+* `come` > `ADP` per casi tipo "sì vedi un po' come i laureandi non devono andare sulla torre degli asinelli" e "ci vuole il turn-around come lo chiamano i in inglese" e `PRON` per "voi principalmente come vi muovete in città?"
+* `mio`, `tuo` etc... > `ADJ`
+* `chi`, `dove`, `quando` etc > `PRON`
+* `che` > `PRON` quando dipende da nome, `SCONJ` quando dipende da altro
+* numeri tutti `NUM`
+* articoli > lemma `il`
+* pronomi > lemma uguale alla form
 
 ## Assignments
 
@@ -40,12 +46,6 @@
 * ti fa pure schifo perché lo mangi > ti fa pure schifo perché lo magni?
 * sparare sempre e comunque > spara sempre e comunque
 * da quando sono nata penso > da quando so nata penso
-
-## Appunti PBB004
-
-* sent_id = 505 - mh non ci sei con la testa - essere AUX o VERB?
-* avoglia
-* ho X anni > ho VERB? io direi AUX. Verb se "possiedo", eg. ho una casa
 
 ## Fillers
 
