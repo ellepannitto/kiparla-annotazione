@@ -1605,19 +1605,18 @@
 12	paio	paio	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	Speaker=BO140|TID=122-17
 13	di	di	ADP	_	_	14	case	_	Speaker=BO140|TID=122-18
 14	divani	divano	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	AlignEnd=469.61|Intonation=weakly_ascending|Speaker=BO140|TID=122-19
-15	eh	eh	INTJ	_	_	24	discourse	_	AlignBegin=470.262|Prolonged=Yes|Speaker=BO140|TID=123-0
+15	eh	eh	INTJ	_	_	23	discourse	_	AlignBegin=470.262|Prolonged=Yes|Speaker=BO140|TID=123-0
 16	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Speaker=BO140|TID=123-1
-17	televisione	televisione	NOUN	_	Gender=Fem|Number=Sing	24	nsubj	_	Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=123-2
+17	televisione	televisione	NOUN	_	Gender=Fem|Number=Sing	23	nsubj	_	Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=123-2
 18	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Speaker=BO140|TID=123-3
 19	tavolo	tavolo	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	Speaker=BO140|TID=123-4
 20	da	da	ADP	_	_	21	case	_	Speaker=BO140|TID=123-5
 21	cucina	cucina	NOUN	_	Gender=Fem|Number=Sing	19	nmod	_	Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=123-6
 22	eh	e	INTJ	_	_	22	cc	_	Prolonged=Yes|Speaker=BO140|TID=123-7,8
-23	REMOVE	remove	_	_	_	_	_	_	Speaker=BO140|TID=123-8
-24	stavam	stare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	parataxis	_	Speaker=BO140|TID=123-9
-25	sempre	sempre	ADV	_	_	24	advmod	_	Speaker=BO140|TID=123-10
-26	tutte	tutto	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	24	obj	_	Speaker=BO140|TID=123-11
-27	insieme	insieme	ADV	_	_	24	advmod	_	AlignEnd=474.43|Intonation=descending|Speaker=BO140|TID=123-12
+23	stavam	stare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	parataxis	_	Speaker=BO140|TID=123-9
+24	sempre	sempre	ADV	_	_	23	advmod	_	Speaker=BO140|TID=123-10
+25	tutte	tutto	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	23	obj	_	Speaker=BO140|TID=123-11
+26	insieme	insieme	ADV	_	_	23	advmod	_	AlignEnd=474.43|Intonation=descending|Speaker=BO140|TID=123-12
 
 # sent_id = 92
 # text = okay quindi eran sala e cucina insieme
