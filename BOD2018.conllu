@@ -31,64 +31,6 @@
 8	chi	chi	PRON	_	PronType=Int	3	obl	_	Speaker=BO118|TID=3-7
 9	vivi	vivo	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	amod	_	AlignEnd=8.61|Intonation=weakly_ascending|Speaker=BO118|TID=3-8
 
-# sent_id = 3
-# text = allora
-# jefferson_text = allora
-1	allora	allora	ADV	_	_	0	root	_	AlignBegin=9.19|Speaker=BO140|TID=4-0
-
-# sent_id = 4
-# text = la mia casa è una villa mh in mezzo alla natura ci viviamo in un po' di famiglie che sono eh la mia famiglia mhmh mia nonna mh i miei cugini quindi due famiglie e la nonna dei miei cugini quindi ci sono cinque famiglie
-# jefferson_text = la mia ca:sa:: è::: una: villa:: mh: in mezzo alla natura, ci viviamo: in: un po' di famiglie, che sono::, eh:: la mia famiglia, mh[mh] [mi]a nonna, mh i miei cugini quindi due famiglie: e la nonna dei miei cugini quindi ci sono cinque famiglie
-1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Speaker=BO140|TID=4-1
-2	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	Speaker=BO140|TID=4-2
-3	casa	casa	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	Prolonged=Yes|Speaker=BO140|TID=4-3
-4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	Prolonged=Yes|Speaker=BO140|TID=4-4
-5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Prolonged=Yes|Speaker=BO140|TID=4-5
-6	villa	villa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignEnd=13.92|Prolonged=Yes|Speaker=BO140|TID=4-6
-7	mh	mh	INTJ	_	_	14	discourse	_	AlignBegin=14.54|Prolonged=Yes|Speaker=BO140|TID=5-0
-8	in	in	ADP	_	_	9	case	_	Speaker=BO140|TID=5-1
-9	mezzo	mezzo	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	Speaker=BO140|TID=5-2
-10-11	alla	_	_	_	_	_	_	_	Speaker=BO140|TID=5-3
-10	a	a	ADP	_	_	12	case	_	_
-11	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	natura	natura	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	AlignEnd=16.62|Intonation=weakly_ascending|Speaker=BO140|TID=5-4
-13	ci	ci	PRON	_	Clitic=Yes|PronType=Prs	14	expl	_	AlignBegin=17|Clitic=Yes|Speaker=BO140|TID=6-0
-14	viviamo	vivere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	parataxis	_	Prolonged=Yes|Speaker=BO140|TID=6-1
-15	in	in	ADP	_	_	17	case	_	Prolonged=Yes|Speaker=BO140|TID=6-2
-16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	Speaker=BO140|TID=6-3
-17	po'	po'	NOUN	_	Gender=Masc|Number=Sing	14	advmod	_	Speaker=BO140|TID=6-4
-18	di	di	ADP	_	_	19	case	_	Speaker=BO140|TID=6-5
-19	famiglie	famiglia	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	Intonation=weakly_ascending|Speaker=BO140|TID=6-6
-20	che	che	PRON	_	PronType=Rel	25	nsubj	_	Speaker=BO140|TID=6-7
-21	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	AlignEnd=20.76|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=6-8
-22	eh	eh	INTJ	_	_	25	discourse	_	AlignBegin=21.332|Prolonged=Yes|Speaker=BO140|TID=7-0
-23	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	Speaker=BO140|TID=7-1
-24	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	25	det:poss	_	Speaker=BO140|TID=7-2
-25	famiglia	famiglia	NOUN	_	Gender=Fem|Number=Sing	19	acl:relcl	_	AlignEnd=22.63|Intonation=weakly_ascending|Speaker=BO140|TID=7-3
-26	mhmh	mhmh	INTJ	_	_	28	discourse	_	AlignEnd=23.28|Overlapping=Yes|Speaker=BO118|TID=8-0
-27	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	28	det:poss	_	AlignBegin=23.11|Overlapping=Yes|Speaker=BO140|TID=9-0
-28	nonna	nonno	NOUN	_	Gender=Fem|Number=Sing	25	parataxis	_	AlignEnd=23.93|Intonation=weakly_ascending|Speaker=BO140|TID=9-1
-29	mh	mh	INTJ	_	_	28	discourse	_	AlignBegin=24.725|Speaker=BO140|TID=10-0
-30	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	Speaker=BO140|TID=10-1
-31	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	32	det:poss	_	Speaker=BO140|TID=10-2
-32	cugini	cugino	NOUN	_	Gender=Masc|Number=Plur	45	nsubj	_	Speaker=BO140|TID=10-3
-33	quindi	quindi	CCONJ	_	_	35	advmod	_	Speaker=BO140|TID=10-4
-34	due	due	NUM	_	NumType=Card	35	nummod	_	Speaker=BO140|TID=10-5
-35	famiglie	famiglia	NOUN	_	Gender=Fem|Number=Plur	45	obl	_	Prolonged=Yes|Speaker=BO140|TID=10-6
-36	e	e	CCONJ	_	_	38	cc	_	Speaker=BO140|TID=10-7
-37	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	38	det	_	Speaker=BO140|TID=10-8
-38	nonna	nonno	NOUN	_	Gender=Fem|Number=Sing	35	conj	_	Speaker=BO140|TID=10-9
-39-40	dei	_	_	_	_	_	_	_	Speaker=BO140|TID=10-10
-39	di	di	ADP	_	_	42	case	_	_
-40	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	42	det	_	_
-41	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	42	det:poss	_	Speaker=BO140|TID=10-11
-42	cugini	cugino	NOUN	_	Gender=Masc|Number=Plur	38	nmod	_	Speaker=BO140|TID=10-12
-43	quindi	quindi	CCONJ	_	_	45	advmod	_	Speaker=BO140|TID=10-13
-44	ci	ci	PRON	_	Clitic=Yes|PronType=Prs	45	expl	_	Clitic=Yes|Speaker=BO140|TID=10-14
-45	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	parataxis	_	Speaker=BO140|TID=10-15
-46	cinque	cinque	NUM	_	NumType=Card	47	nummod	_	Speaker=BO140|TID=10-16
-47	famiglie	famiglia	NOUN	_	Gender=Fem|Number=Plur	45	nsubj	_	AlignEnd=30.51|Speaker=BO140|TID=10-17
-
 # sent_id = 5
 # text = okay quindi è fatta su diversi piani
 # jefferson_text = <okay> quindi è fatta su diversi piani?
@@ -129,42 +71,40 @@
 23	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	24	det:poss	_	Speaker=BO140|TID=14-15
 24	zii	zio	NOUN	_	Gender=Masc|Number=Plur	20	nmod	_	AlignEnd=41.26|Speaker=BO140|TID=14-16
 
-# sent_id = 7
-# text = okay è fatta in mattoni
-# jefferson_text = <oka:y> è fatta in matto:ni:
+# sent_id = 7_8_a
+# text = okay è fatta in mattoni è è una casa costruita intorno a gli anni cinquanta credo okay
+# jefferson_text = <oka:y> è fatta in matto:ni: è:: è una casa costruita: intorno agli anni: cinquanta credo okay
 1	okay	ok	INTJ	_	_	3	discourse	_	AlignEnd=42.354|PaceSlow=Yes|Prolonged=Yes|Speaker=BO118|TID=15-0
 2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	AlignBegin=42.508|Speaker=BO140|TID=16-0
 3	fatta	fare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Speaker=BO140|TID=16-1
 4	in	in	ADP	_	_	5	case	_	Speaker=BO140|TID=16-2
 5	mattoni	mattone	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	Prolonged=Yes|Speaker=BO140|TID=16-3
+6	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	Prolonged=Yes|Speaker=BO140|TID=16-4
+7	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	Speaker=BO140|TID=16-5
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	Speaker=BO140|TID=16-6
+9	casa	casa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Speaker=BO140|TID=16-7
+10	costruita	costruire	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	9	amod	_	Prolonged=Yes|Speaker=BO140|TID=16-8
+11	intorno	intorno	ADV	_	_	16	mark	_	Speaker=BO140|TID=16-9
+12	a	a	ADP	_	_	14	case	_	_
+13	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	anni	anno	NOUN	_	Gender=Masc|Number=Plur	16	obl	_	Prolonged=Yes|Speaker=BO140|TID=16-11
+15	cinquanta	cinquanta	NUM	_	NumType=Card	16	obj	_	Speaker=BO140|TID=16-12
+16	credo	credere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	advcl	_	AlignEnd=49.35|Speaker=BO140|TID=16-13
+17	okay	ok	INTJ	_	_	16	discourse	_	AlignEnd=50.42|Speaker=BO118|TID=17-0
 
-# sent_id = 8
-# text = è è una casa costruita intorno agli anni cinquanta credo okay e si trova in centro alla città o fuori
-# jefferson_text = è:: è una casa costruita: intorno agli anni: cinquanta credo okay e si trova in centro: alla città: o fuori?
-1	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Prolonged=Yes|Speaker=BO140|TID=16-4
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Speaker=BO140|TID=16-5
-3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Speaker=BO140|TID=16-6
-4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Speaker=BO140|TID=16-7
-5	costruita	costruire	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	4	amod	_	Prolonged=Yes|Speaker=BO140|TID=16-8
-6	intorno	intorno	ADV	_	_	11	mark	_	Speaker=BO140|TID=16-9
-7-8	agli	_	_	_	_	_	_	_	Speaker=BO140|TID=16-10
-7	a	a	ADP	_	_	9	case	_	_
-8	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
-9	anni	anno	NOUN	_	Gender=Masc|Number=Plur	11	obl	_	Prolonged=Yes|Speaker=BO140|TID=16-11
-10	cinquanta	cinquanta	NUM	_	NumType=Card	11	obj	_	Speaker=BO140|TID=16-12
-11	credo	credere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	AlignEnd=49.35|Speaker=BO140|TID=16-13
-12	okay	ok	INTJ	_	_	11	discourse	_	AlignEnd=50.42|Speaker=BO118|TID=17-0
-13	e	e	CCONJ	_	_	15	cc	_	AlignBegin=50.735|Speaker=BO118|TID=18-0
-14	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	15	expl:impers	_	Clitic=Yes|Speaker=BO118|TID=18-1
-15	trova	trovare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	Speaker=BO118|TID=18-2
-16	in	in	ADP	_	_	17	case	_	Speaker=BO118|TID=18-3
-17	centro	centro	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	Prolonged=Yes|Speaker=BO118|TID=18-4
-18-19	alla	_	_	_	_	_	_	_	Speaker=BO118|TID=18-5
-18	a	a	ADP	_	_	20	case	_	_
-19	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-20	città	città	NOUN	_	Gender=Fem	15	obl	_	Prolonged=Yes|Speaker=BO118|TID=18-6
-21	o	o	CCONJ	_	_	22	cc	_	Speaker=BO118|TID=18-7
-22	fuori	fuori	ADV	_	_	20	conj	_	AlignEnd=53.755|Intonation=ascending|Speaker=BO118|TID=18-8
+# sent_id = 8_b
+# text = e si trova in centro a la città o fuori
+# jefferson_text = e si trova in centro: alla città: o fuori?
+1	e	e	CCONJ	_	_	3	cc	_	AlignBegin=50.735|Speaker=BO118|TID=18-0
+2	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	Clitic=Yes|Speaker=BO118|TID=18-1
+3	trova	trovare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Speaker=BO118|TID=18-2
+4	in	in	ADP	_	_	5	case	_	Speaker=BO118|TID=18-3
+5	centro	centro	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	Prolonged=Yes|Speaker=BO118|TID=18-4
+6	a	a	ADP	_	_	8	case	_	_
+7	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	città	città	NOUN	_	Gender=Fem	3	obl	_	Prolonged=Yes|Speaker=BO118|TID=18-6
+9	o	o	CCONJ	_	_	10	cc	_	Speaker=BO118|TID=18-7
+10	fuori	fuori	ADV	_	_	8	conj	_	AlignEnd=53.755|Intonation=ascending|Speaker=BO118|TID=18-8
 
 # sent_id = 9
 # text = no
@@ -6415,4 +6355,56 @@
 2	parlato	parlare	VERB	_	Tense=Past|VerbForm=Part	0	root	_	Speaker=BO118|TID=451-1
 3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Speaker=BO118|TID=451-2
 4	sacco	sacco	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	AlignEnd=1686.886|Speaker=BO118|TID=451-3
+
+# sent_id = 3_4
+# text = allora la mia casa è una villa mh in mezzo alla natura ci viviamo in un po' di famiglie che sono eh la mia famiglia mhmh mia nonna mh i miei cugini quindi due famiglie e la nonna dei miei cugini quindi ci sono cinque famiglie
+# jefferson_text = allora la mia ca:sa:: è::: una: villa:: mh: in mezzo alla natura, ci viviamo: in: un po' di famiglie, che sono::, eh:: la mia famiglia, mh[mh] [mi]a nonna, mh i miei cugini quindi due famiglie: e la nonna dei miei cugini quindi ci sono cinque famiglie
+1	allora	allora	ADV	_	_	0	root	_	AlignBegin=9.19|Speaker=BO140|TID=4-0
+2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Speaker=BO140|TID=4-1
+3	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	Speaker=BO140|TID=4-2
+4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	Prolonged=Yes|Speaker=BO140|TID=4-3
+5	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	Prolonged=Yes|Speaker=BO140|TID=4-4
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Prolonged=Yes|Speaker=BO140|TID=4-5
+7	villa	villa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignEnd=13.92|Prolonged=Yes|Speaker=BO140|TID=4-6
+8	mh	mh	INTJ	_	_	15	discourse	_	AlignBegin=14.54|Prolonged=Yes|Speaker=BO140|TID=5-0
+9	in	in	ADP	_	_	10	case	_	Speaker=BO140|TID=5-1
+10	mezzo	mezzo	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	Speaker=BO140|TID=5-2
+11	a	a	ADP	_	_	13	case	_	_
+12	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	natura	natura	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	AlignEnd=16.62|Intonation=weakly_ascending|Speaker=BO140|TID=5-4
+14	ci	ci	PRON	_	Clitic=Yes|PronType=Prs	15	expl	_	AlignBegin=17|Clitic=Yes|Speaker=BO140|TID=6-0
+15	viviamo	vivere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	parataxis	_	Prolonged=Yes|Speaker=BO140|TID=6-1
+16	in	in	ADP	_	_	18	case	_	Prolonged=Yes|Speaker=BO140|TID=6-2
+17	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Speaker=BO140|TID=6-3
+18	po'	po'	NOUN	_	Gender=Masc|Number=Sing	15	advmod	_	Speaker=BO140|TID=6-4
+19	di	di	ADP	_	_	20	case	_	Speaker=BO140|TID=6-5
+20	famiglie	famiglia	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	Intonation=weakly_ascending|Speaker=BO140|TID=6-6
+21	che	che	PRON	_	PronType=Rel	26	nsubj	_	Speaker=BO140|TID=6-7
+22	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	AlignEnd=20.76|Intonation=weakly_ascending|Prolonged=Yes|Speaker=BO140|TID=6-8
+23	eh	eh	INTJ	_	_	26	discourse	_	AlignBegin=21.332|Prolonged=Yes|Speaker=BO140|TID=7-0
+24	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	Speaker=BO140|TID=7-1
+25	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	26	det:poss	_	Speaker=BO140|TID=7-2
+26	famiglia	famiglia	NOUN	_	Gender=Fem|Number=Sing	20	acl:relcl	_	AlignEnd=22.63|Intonation=weakly_ascending|Speaker=BO140|TID=7-3
+27	mhmh	mhmh	INTJ	_	_	29	discourse	_	AlignEnd=23.28|Overlapping=Yes|Speaker=BO118|TID=8-0
+28	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	29	det:poss	_	AlignBegin=23.11|Overlapping=Yes|Speaker=BO140|TID=9-0
+29	nonna	nonno	NOUN	_	Gender=Fem|Number=Sing	26	parataxis	_	AlignEnd=23.93|Intonation=weakly_ascending|Speaker=BO140|TID=9-1
+30	mh	mh	INTJ	_	_	29	discourse	_	AlignBegin=24.725|Speaker=BO140|TID=10-0
+31	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	Speaker=BO140|TID=10-1
+32	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	33	det:poss	_	Speaker=BO140|TID=10-2
+33	cugini	cugino	NOUN	_	Gender=Masc|Number=Plur	46	nsubj	_	Speaker=BO140|TID=10-3
+34	quindi	quindi	CCONJ	_	_	36	advmod	_	Speaker=BO140|TID=10-4
+35	due	due	NUM	_	NumType=Card	36	nummod	_	Speaker=BO140|TID=10-5
+36	famiglie	famiglia	NOUN	_	Gender=Fem|Number=Plur	46	obl	_	Prolonged=Yes|Speaker=BO140|TID=10-6
+37	e	e	CCONJ	_	_	39	cc	_	Speaker=BO140|TID=10-7
+38	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	Speaker=BO140|TID=10-8
+39	nonna	nonno	NOUN	_	Gender=Fem|Number=Sing	36	conj	_	Speaker=BO140|TID=10-9
+40	di	di	ADP	_	_	43	case	_	_
+41	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	43	det	_	_
+42	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	43	det:poss	_	Speaker=BO140|TID=10-11
+43	cugini	cugino	NOUN	_	Gender=Masc|Number=Plur	39	nmod	_	Speaker=BO140|TID=10-12
+44	quindi	quindi	CCONJ	_	_	46	advmod	_	Speaker=BO140|TID=10-13
+45	ci	ci	PRON	_	Clitic=Yes|PronType=Prs	46	expl	_	Clitic=Yes|Speaker=BO140|TID=10-14
+46	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	parataxis	_	Speaker=BO140|TID=10-15
+47	cinque	cinque	NUM	_	NumType=Card	48	nummod	_	Speaker=BO140|TID=10-16
+48	famiglie	famiglia	NOUN	_	Gender=Fem|Number=Plur	46	nsubj	_	AlignEnd=30.51|Speaker=BO140|TID=10-17
 
