@@ -4501,7 +4501,7 @@
 26	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	28	nsubj	_	Speaker=TO017|TID=485-17
 27	non	non	ADV	_	PronType=Neg	28	advmod	_	Speaker=TO017|TID=485-18
 28	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	conj	_	Speaker=TO017|TID=485-19
-29	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	Speaker=TO017|TID=485-20
+29	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	Speaker=TO017|TID=485-20
 30	neoassiro	neoassiro	NOUN	_	_	28	obj	_	Speaker=TO017|TID=485-21,22
 
 # sent_id = 306
