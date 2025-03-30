@@ -171,3 +171,12 @@ ISSUES up to now
 94:23
 
 383:4 frantumi?
+
+
+PBB004
+48:5 - ascoltare audio
+84:2
+210:7
+564:5
+83:4
+
