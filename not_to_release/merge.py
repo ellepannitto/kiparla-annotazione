@@ -1,9 +1,9 @@
 import csv
 
 # File paths
-linguistic_path = 'lemmas/PBB004.tsv'
-rich_path = '/home/ludop/Documents/KIParla/ParlaBO_parsed/PBB004.vert.vert.tsv'
-output_path = 'PBB004.merged.tsv'
+linguistic_path = 'lemmas/BOD2018.tsv'
+rich_path = '/Users/ludovica/Documents/projects/KIParla/KIP_parsed/BOD2018.vert.tsv'
+output_path = 'BOD2018.merged.tsv'
 
 # Step 1: Load linguistic.tsv into a dictionary using TID as key
 linguistic_data = {}
