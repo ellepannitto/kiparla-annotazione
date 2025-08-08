@@ -1,0 +1,1295 @@
+Sentence not part of conllu:
+# sent_id = 1
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 3
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 14
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 16
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 17
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 18
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 19
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 23
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 30
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 37
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 63
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 65
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 76
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 77
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 80
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 83
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 84
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 90
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 101
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 102
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 103
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 105
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 156
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 179
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 186
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 199
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 201
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 203
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 204
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 205
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 209
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 213
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 216
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 220
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 228
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 229
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 232
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 236
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 237
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 242
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 243
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 245
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 246
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 248
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 249
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 251
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 265
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 269
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 272
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 273
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 294
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 295
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 296
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 300
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 301
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 302
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 303
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 306
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 307
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 315
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 321
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 323
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 328
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 332
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 344
+# text = 
+# jefferson_text = {tossisce}
+
+Sentence not part of conllu:
+# sent_id = 348
+# text = 
+# jefferson_text = {tossisce}
+
+Sentence not part of conllu:
+# sent_id = 351
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 356
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 366
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 369
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 381
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 382
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 383
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 384
+# text = 
+# jefferson_text = {tossisce}
+
+Sentence not part of conllu:
+# sent_id = 389
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 390
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 393
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 395
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 396
+# text = 
+# jefferson_text = {canta}
+
+Sentence not part of conllu:
+# sent_id = 398
+# text = 
+# jefferson_text = {canta}
+
+Sentence not part of conllu:
+# sent_id = 399
+# text = 
+# jefferson_text = {canta}
+
+Sentence not part of conllu:
+# sent_id = 401
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 402
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 404
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 406
+# text = 
+# jefferson_text = {canta}
+
+Sentence not part of conllu:
+# sent_id = 407
+# text = 
+# jefferson_text = {canta}
+
+Sentence not part of conllu:
+# sent_id = 409
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 411
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 418
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 421
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 422
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 423
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 425
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 429
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 431
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 436
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 440
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 441
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 442
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 445
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 446
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 450
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 452
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 459
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 460
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 476
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 490
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 497
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 500
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 524
+# text = 
+# jefferson_text = °{ride}°
+
+Sentence not part of conllu:
+# sent_id = 534
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 536
+# text = 
+# jefferson_text = {VERSO}
+
+Sentence not part of conllu:
+# sent_id = 538
+# text = 
+# jefferson_text = {verso}
+
+Sentence not part of conllu:
+# sent_id = 540
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 542
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 544
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 548
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 553
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 555
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 557
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 560
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 561
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 563
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 564
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 566
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 568
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 570
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 588
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 593
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 600
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 617
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 633
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 646
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 654
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 657
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 676
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 688
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 711
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 718
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 725
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 728
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 730
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 731
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 737
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 740
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 742
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 744
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 745
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 746
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 747
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 748
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 750
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 751
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 753
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 755
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 758
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 782
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 785
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 786
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 789
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 791
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 792
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 794
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 795
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 797
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 800
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 802
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 803
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 804
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 812
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 814
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 815
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 817
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 819
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 820
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 826
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 828
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 830
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 831
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 832
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 834
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 835
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 836
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 837
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 838
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 840
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 842
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 845
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 846
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 848
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 849
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 851
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 854
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 856
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 857
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 860
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 861
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 862
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 863
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 865
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 869
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 870
+# text = 
+# jefferson_text = {schiocca_un_bacio}
+
+Sentence not part of conllu:
+# sent_id = 871
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 874
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 875
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 876
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 877
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 878
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 879
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 881
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 882
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 891
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 893
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 898
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 900
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 904
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 921
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 923
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 928
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 952
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 958
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 959
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 960
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 964
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 965
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 981
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 986
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 988
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 989
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 990
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 991
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1002
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1019
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1029
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1030
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1038
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1039
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1041
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1045
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1051
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1054
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1058
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1059
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1063
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1064
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1070
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1074
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1078
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1079
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1080
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1086
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1090
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1093
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1095
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1096
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1099
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1119
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1143
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 1145
+# text = 
+# jefferson_text = {ride}
+

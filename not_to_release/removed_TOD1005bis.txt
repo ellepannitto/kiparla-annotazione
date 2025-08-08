@@ -1,0 +1,50 @@
+Sentence not part of conllu:
+# sent_id = 32
+# text = 
+# jefferson_text = {ride}
+
+Sentence not part of conllu:
+# sent_id = 117
+# text = 
+# jefferson_text = {parla_in_arabo}
+
+Sentence not part of conllu:
+# sent_id = 119
+# text = 
+# jefferson_text = {parla_in_arabo}
+
+Sentence not part of conllu:
+# sent_id = 121
+# text = 
+# jefferson_text = {parla_in_arabo}
+
+Sentence not part of conllu:
+# sent_id = 295
+# text = 
+# jefferson_text = {parla_in_arabo}
+
+Sentence not part of conllu:
+# sent_id = 297
+# text = 
+# jefferson_text = {parla_in_arabo}
+
+Sentence not part of conllu:
+# sent_id = 650
+# text = 
+# jefferson_text = {schiarisce_la_voce}
+
+Sentence not part of conllu:
+# sent_id = 678
+# text = 
+# jefferson_text = {parla_in_arabo}
+
+Sentence not part of conllu:
+# sent_id = 713
+# text = 
+# jefferson_text = {parla_in_arabo}
+
+Sentence not part of conllu:
+# sent_id = 724
+# text = 
+# jefferson_text = {parla_in_arabo}
+
