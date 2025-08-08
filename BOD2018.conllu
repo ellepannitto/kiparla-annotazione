@@ -158,7 +158,7 @@
 # speaker_id = BO140
 1	e	e	CCONJ	_	_	7	cc	_	Begin=35.477|KID=14-0|OverlappingGroup=1
 2	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	4	det	_	KID=14-1|OverlappingGroup=1|Truncated=Yes
-3	ultimo	ultimo	ADJ	_	Gender=Masc|NumType=Ord|Number=Sing	4	amod	_	KID=14-2|OverlappingGroup=1
+3	ultimo	ultimo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	KID=14-2|OverlappingGroup=1
 4	piano	piano	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	KID=14-3|Prolonged=Yes
 5	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	KID=14-4|Prolonged=Yes
 6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=14-5
@@ -569,14 +569,14 @@
 27	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	28	det	_	KID=37-25
 28	parentela	parentela	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	KID=37-26
 29	di	di	ADP	_	_	31	case	_	KID=37-27
-30	primo	primo	NUM	_	Gender=Masc|NumType=Ord|Number=Sing	31	amod	_	KID=37-28
+30	primo	primo	NUM	_	Gender=Masc|Number=Sing|NumType=Ord	31	amod	_	KID=37-28
 31	grado	grado	NOUN	_	Gender=Masc|Number=Sing	28	nmod	_	KID=37-29
 32	ma	ma	CCONJ	_	_	35	cc	_	KID=37-30
 33	comunque	comunque	CCONJ	_	_	35	advmod	_	KID=37-31
 34	di	di	ADP	_	_	35	case	_	KID=37-32
 35	secron~	secron~	X	_	_	8	conj	_	Interrupted=Yes|KID=37-33
 36	di	di	ADP	_	_	38	case	_	KID=37-34
-37	secondo	secondo	NUM	_	Gender=Masc|NumType=Ord|Number=Sing	38	amod	_	KID=37-35
+37	secondo	secondo	NUM	_	Gender=Masc|Number=Sing|NumType=Ord	38	amod	_	KID=37-35
 38	grado	grado	NOUN	_	Gender=Masc|Number=Sing	35	nmod	_	KID=37-36
 39	quindi	quindi	CCONJ	_	_	8	advmod	_	KID=37-37
 40	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	41	det	_	KID=37-38
@@ -1770,7 +1770,7 @@
 # jefferson_text = la prima casa era? in via,
 # speaker_id = BO118
 1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Begin=428.26|KID=111-0
-2	prima	primo	NUM	_	Gender=Fem|NumType=Ord|Number=Sing	3	amod	_	KID=111-1
+2	prima	primo	NUM	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	KID=111-1
 3	casa	casa	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	KID=111-2
 4	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	Intonation=rising|KID=111-3
 5	in	in	ADP	_	_	6	case	_	KID=111-4
@@ -1782,7 +1782,7 @@
 # speaker_id = BO140
 1	e	e	CCONJ	_	_	7	cc	_	Begin=430.08|KID=112-0|Prolonged=Yes
 2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=112-1
-3	prima	primo	NUM	_	Gender=Fem|NumType=Ord|Number=Sing	4	amod	_	KID=112-2
+3	prima	primo	NUM	_	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	KID=112-2
 4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	KID=112-3
 5	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	KID=112-4
 6	in	in	ADP	_	_	7	case	_	KID=112-5
@@ -1855,7 +1855,7 @@
 # jefferson_text = i primi miei quattro anni:: abbiamo cambiato abbastanza coinquiline in realtà,
 # speaker_id = BO140
 1	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	Begin=444.31|KID=119-0
-2	primi	primo	DET	_	Gender=Masc|NumType=Ord|Number=Plur	5	amod	_	KID=119-1
+2	primi	primo	DET	_	Gender=Masc|Number=Plur|NumType=Ord	5	amod	_	KID=119-1
 3	miei	mio	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det:poss	_	KID=119-2
 4	quattro	quattro	DET	_	NumType=Card	5	nummod	_	KID=119-3
 5	anni	anno	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	KID=119-4|Prolonged=Yes
@@ -2100,7 +2100,7 @@
 1	in	in	ADP	_	_	3	case	_	Begin=512.164|KID=132-0|OverlappingGroup=20
 2	quella	quello	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	KID=132-1|OverlappingGroup=20
 3	via	via	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=132-2|OverlappingGroup=20
-4	x	x	X	_	NumType=Ord|Number=Sing	3	amod	_	KID=132-3|OverlappingGroup=20|Unintelligible=Yes
+4	x	x	X	_	Number=Sing|NumType=Ord	3	amod	_	KID=132-3|OverlappingGroup=20|Unintelligible=Yes
 5	in	in	ADP	_	_	7	case	_	KID=132-4
 6	quella	quello	DET	_	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	KID=132-5
 7	via	via	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	End=513.84|KID=132-6|OverlappingGroup=21
@@ -2254,7 +2254,7 @@
 2-3	nella	_	_	_	_	_	_	_	KID=143-1
 2	in	in	ADP	_	_	5	case	_	KID=143-1a
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=143-1b
-4	prima	primo	NUM	_	Gender=Fem|NumType=Ord|Number=Sing	5	amod	_	KID=143-2
+4	prima	primo	NUM	_	Gender=Fem|Number=Sing|NumType=Ord	5	amod	_	KID=143-2
 5	casa	casa	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	KID=143-3
 6	si	si	INTJ	_	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	KID=143-4
 7	eravam	essere	VERB	_	_	9	advmod	_	KID=143-5
@@ -2713,7 +2713,7 @@
 3	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	7	nsubj	_	KID=167-2
 4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	KID=167-3
 5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=167-4
-6	primo	primo	NUM	_	Gender=Masc|NumType=Ord|Number=Sing	7	amod	_	KID=167-5
+6	primo	primo	NUM	_	Gender=Masc|Number=Sing|NumType=Ord	7	amod	_	KID=167-5
 7	anno	anno	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=167-6
 8	che	che	SCONJ	_	PronType=Rel	9	nsubj	_	KID=167-7
 9	sto	stare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl:relcl	_	KID=167-8
@@ -2749,7 +2749,7 @@
 7	differenza	differenza	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	KID=169-6
 8	anzi	anzi	CCONJ	_	_	11	case	_	KID=169-7|Prolonged=Yes
 9	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	KID=169-8
-10	primi	primo	NUM	_	Gender=Masc|NumType=Ord|Number=Plur	11	amod	_	KID=169-9
+10	primi	primo	NUM	_	Gender=Masc|Number=Plur|NumType=Ord	11	amod	_	KID=169-9
 11	giorni	giorno	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	End=686.01|Intonation=weakly_rising|KID=169-10|Prolonged=Yes
 
 # sent_id = BOD2018_170
@@ -2819,7 +2819,7 @@
 24	pri~	pri~	X	_	_	29	nmod	_	Interrupted=Yes|KID=172-23
 25	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	KID=172-24
 26	miei	mio	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	29	det:poss	_	KID=172-25
-27	primi	primo	NUM	_	Gender=Masc|NumType=Ord|Number=Plur	28	amod	_	KID=172-26
+27	primi	primo	NUM	_	Gender=Masc|Number=Plur|NumType=Ord	28	amod	_	KID=172-26
 28	tre	tre	DET	_	NumType=Card	29	nummod	_	KID=172-27
 29	anni	anno	NOUN	_	Gender=Masc|Number=Plur	21	nmod	_	KID=172-28
 30	diciamo	dire	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	End=701.81|Intonation=weakly_rising|KID=172-29
@@ -2935,7 +2935,7 @@
 # jefferson_text = i primi anni son più belli: si condivide sempre di pi[ù::] sei ancora nella fase del,
 # speaker_id = BO140
 1	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	Begin=733.256|KID=178-0
-2	primi	primo	NUM	_	Gender=Masc|NumType=Ord|Number=Plur	3	amod	_	KID=178-1
+2	primi	primo	NUM	_	Gender=Masc|Number=Plur|NumType=Ord	3	amod	_	KID=178-1
 3	anni	anno	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	KID=178-2
 4	son	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=178-3
 5	più	più	ADV	_	_	6	advmod	_	KID=178-4
@@ -4823,7 +4823,7 @@
 # jefferson_text = forse xx più nel paesi:no nostro::, [ma sem]pre solite co::se:,
 # speaker_id = BO118
 1	forse	forse	ADV	_	_	2	advmod	_	Begin=1162.596|KID=294-0
-2	x	x	X	_	NumType=Ord|Number=Sing	11	amod	_	KID=294-1|Unintelligible=Yes
+2	x	x	X	_	Number=Sing|NumType=Ord	11	amod	_	KID=294-1|Unintelligible=Yes
 3	più	più	ADV	_	_	6	advmod	_	KID=294-2
 4-5	nel	_	_	_	_	_	_	_	KID=294-3
 4	in	in	ADP	_	_	6	case	_	KID=294-3a
@@ -4978,7 +4978,7 @@
 9-10	negli	_	_	_	_	_	_	_	KID=302-7
 9	in	in	ADP	_	_	13	case	_	KID=302-7a
 10	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	KID=302-7b
-11	ultimi	ultimo	ADJ	_	Gender=Masc|NumType=Ord|Number=Plur	13	amod	_	KID=302-8
+11	ultimi	ultimo	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	13	amod	_	KID=302-8
 12	due	due	DET	_	NumType=Card	13	nummod	_	KID=302-9
 13	anni	anno	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	KID=302-10
 14	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	expl	_	KID=302-11
@@ -5303,7 +5303,7 @@
 11	ci	ci	PRON	_	Clitic=Yes|PronType=Prs	8	expl	_	KID=318-10
 12	metti	mettere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	KID=318-11
 13	tre	tre	DET	_	NumType=Card	12	obj	_	KID=318-12
-14	quarti	quarte	ADJ	_	Gender=Masc|NumType=Ord|Number=Plur	13	amod	_	KID=318-13
+14	quarti	quarte	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	13	amod	_	KID=318-13
 15	d'	di	ADP	_	_	16	case	_	KID=318-14|Truncated=Yes
 16	ora	ora	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	End=1283.21|Intonation=falling|KID=318-15|Prolonged=Yes
 
@@ -6563,7 +6563,7 @@
 # speaker_id = BO118
 1	potevo	potere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	cop	_	Begin=1552.688|KID=409-0
 2-3	anda'	andare	VERB	_	_	_	_	_	KID=409-1|Truncated=Yes
-2	REMOVE	_	_	_	Gender=Fem|NumType=Ord|Number=Sing	0	root	_	KID=409-1a
+2	REMOVE	_	_	_	Gender=Fem|Number=Sing|NumType=Ord	0	root	_	KID=409-1a
 3	REMOVE	_	_	_	_	2	punct	_	KID=409-1b
 4	solamente	solamente	ADV	_	_	2	advmod	_	KID=409-2
 5	o	o	CCONJ	_	_	7	cc	_	KID=409-3

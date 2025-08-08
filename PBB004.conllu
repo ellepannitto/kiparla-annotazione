@@ -74,7 +74,7 @@
 # jefferson_text = oka:y prima dove abitavate
 # speaker_id = BOR005
 1	okay	okay	NOUN	_	_	0	root	_	Begin=12.18|KID=10-0|Prolonged=Yes
-2	prima	primo	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	1	amod	_	KID=10-1
+2	prima	primo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	1	amod	_	KID=10-1
 3	dove	dove	ADV	_	_	4	advmod	_	KID=10-2
 4	abitavate	abitavato	ADJ	_	Gender=Fem|Number=Plur	1	amod	_	End=14.0|KID=10-3
 
@@ -208,7 +208,7 @@
 5	vivono	vivere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=24-4
 6	ancora	ancora	ADV	_	_	5	advmod	_	KID=24-5
 7-8	nei	_	_	_	_	_	_	_	KID=24-6
-7	in	in	ADP	E		9	case	_	KID=24-6a
+7	in	in	ADP	E	_	9	case	_	KID=24-6a
 8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	KID=24-6b
 9	quartieri	quartiere	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	KID=24-7
 10	dove	dove	ADV	_	_	11	advmod	_	KID=24-8
@@ -344,7 +344,7 @@
 8	far	fare	VERB	_	VerbForm=Inf	6	acl	_	KID=38-7
 9	venire	venire	VERB	_	VerbForm=Inf	8	ccomp	_	KID=38-8
 10-11	dei	_	_	_	_	_	_	_	KID=38-9
-10	di	di	ADP	E		12	case	_	KID=38-9a
+10	di	di	ADP	E	_	12	case	_	KID=38-9a
 11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	KID=38-9b
 12	negozi	negozio	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	KID=38-10
 13	e	e	CCONJ	_	_	15	cc	_	KID=38-11
@@ -403,7 +403,7 @@
 1	e	e	CCONJ	_	_	7	cc	_	Begin=80.705|KID=45-0
 2	oltre	oltre	ADV	_	_	5	case	_	KID=45-1
 3-4	al	_	_	_	_	_	_	_	KID=45-2
-3	a	a	ADP	E		2	fixed	_	KID=45-2a
+3	a	a	ADP	E	_	2	fixed	_	KID=45-2a
 4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=45-2b
 5	traffico	traffico	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	KID=45-3
 6	ci	ci	PRON	_	Clitic=Yes|PronType=Prs	7	expl	_	KID=45-4
@@ -489,7 +489,7 @@
 1	quan~	quan~	PROPN	_	_	0	root	_	Begin=95.17|Interrupted=Yes|KID=54-0
 2	e	e	CCONJ	_	_	4	cc	_	KID=54-1|Prolonged=Yes
 3-4	nel	_	_	_	_	_	_	_	End=96.55|KID=54-2|PaceSlow=Yes
-3	in	in	ADP	E		4	case	_	KID=54-2a
+3	in	in	ADP	E	_	4	case	_	KID=54-2a
 4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	conj	_	KID=54-2b
 
 # sent_id = PBB004_55
@@ -536,7 +536,7 @@
 3	trovate	trovare	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=58-2|PaceFast=Yes
 4	qua	qua	ADV	_	_	3	advmod	_	KID=58-3|PaceFast=Yes
 5-6	nelle	_	_	_	_	_	_	_	KID=58-4|PaceFast=Yes
-5	in	in	ADP	E		7	case	_	KID=58-4a
+5	in	in	ADP	E	_	7	case	_	KID=58-4a
 6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	KID=58-4b
 7	vicinanze	vicinanza	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	KID=58-5|PaceFast=Yes
 8	o	o	CCONJ	_	_	10	cc	_	KID=58-6
@@ -563,7 +563,7 @@
 # jefferson_text = nelle vicinanze ma::: necessita l'automobile comunque
 # speaker_id = BOI012
 1-2	nelle	_	_	_	_	_	_	_	Begin=107.385|KID=61-0
-1	in	in	ADP	E		3	case	_	KID=61-0a
+1	in	in	ADP	E	_	3	case	_	KID=61-0a
 2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	KID=61-0b
 3	vicinanze	vicinanza	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	KID=61-1
 4	ma	ma	CCONJ	_	_	5	cc	_	KID=61-2|Prolonged=Yes
@@ -803,7 +803,7 @@
 6	cambiata	cambiare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	KID=82-5
 7	molto	molto	ADV	_	_	6	advmod	_	KID=82-6
 8-9	negli	_	_	_	_	_	_	_	KID=82-7
-8	in	in	ADP	E		11	case	_	KID=82-7a
+8	in	in	ADP	E	_	11	case	_	KID=82-7a
 9	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	KID=82-7b
 10	ultimi	ultimo	ADJ	_	Gender=Masc|Number=Plur	11	amod	_	KID=82-8|OverlappingGroup=13
 11	anni	anno	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	End=157.59|Intonation=rising|KID=82-9|OverlappingGroup=13
@@ -863,7 +863,7 @@
 4	insomma	insomma	ADV	_	_	5	advmod	_	KID=89-3|Prolonged=Yes
 5	dipende	dipendere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=89-4
 6-7	dai	_	_	_	_	_	_	_	KID=89-5
-6	da	da	ADP	E		8	case	_	KID=89-5a
+6	da	da	ADP	E	_	8	case	_	KID=89-5a
 7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	KID=89-5b
 8	punti	punto	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	KID=89-6
 9	di	di	ADP	_	_	10	case	_	KID=89-7
@@ -1010,7 +1010,7 @@
 # jefferson_text = alla sera,
 # speaker_id = BOI013
 1-2	alla	_	_	_	_	_	_	_	Begin=192.0|KID=101-0
-1	a	a	ADP	E		3	case	_	KID=101-0a
+1	a	a	ADP	E	_	3	case	_	KID=101-0a
 2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=101-0b
 3	sera	sera	NOUN	_	Gender=Fem|Number=Sing	0	root	_	End=192.95|Intonation=weakly_rising|KID=101-1
 
@@ -1048,7 +1048,7 @@
 11	tutti	tutto	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	12	nsubj	_	KID=104-10|PaceFast=Yes
 12	vanno	andare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	KID=104-11|PaceFast=Yes
 13-14	all'	_	_	_	_	_	_	_	KID=104-12|PaceFast=Yes|SpaceAfter=No
-13	a	a	ADP	E		15	case	_	KID=104-12a
+13	a	a	ADP	E	_	15	case	_	KID=104-12a
 14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	KID=104-12b
 15	este~	este~	PROPN	_	_	12	obl	_	Interrupted=Yes|KID=104-13|PaceFast=Yes
 16	e	e	CCONJ	_	_	18	cc	_	KID=104-14
@@ -1390,7 +1390,7 @@
 # jefferson_text = l'ultima volta in centro
 # speaker_id = BOI012
 1	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	Begin=246.59|KID=139-0|SpaceAfter=No
-2	ultima	ultimo	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	3	amod	_	KID=139-1
+2	ultima	ultimo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	KID=139-1
 3	volta	volta	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=139-2
 4	in	in	ADP	_	_	5	case	_	KID=139-3
 5	centro	centro	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	End=247.66|KID=139-4
@@ -1456,10 +1456,10 @@
 6	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=144-5
 7	sottopassaggio	sottopassaggio	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	KID=144-6
 8-9	della	_	_	_	_	_	_	_	KID=144-7|Prolonged=Yes
-8	di	di	ADP	E		9	case	_	KID=144-7a
+8	di	di	ADP	E	_	9	case	_	KID=144-7a
 9	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nmod	_	KID=144-7b
 10-11	all'	_	_	_	_	_	_	_	KID=144-8|SpaceAfter=No
-10	a	a	ADP	E		12	case	_	KID=144-8a
+10	a	a	ADP	E	_	12	case	_	KID=144-8a
 11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	KID=144-8b
 12	autostazione	autostazione	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	End=258.02|Intonation=weakly_rising|KID=144-9
 
@@ -1495,7 +1495,7 @@
 2	ti	ti	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	KID=148-1
 3	danno	dare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=148-2
 4-5	della	_	_	_	_	_	_	_	End=261.96|KID=148-3
-4	di	di	ADP	E		5	case	_	KID=148-3a
+4	di	di	ADP	E	_	5	case	_	KID=148-3a
 5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	advmod	_	KID=148-3b
 
 # sent_id = PBB004_149
@@ -1519,7 +1519,7 @@
 6	vut	vut	NOUN	_	Gender=Masc	5	obj	_	KID=150-5|PauseAfter=Yes
 7	{P}	_	_	_	_	_	_	_	Type=shortpause
 8-9	dalla	_	_	_	_	_	_	_	KID=150-7
-8	da	da	ADP	E		10	case	_	KID=150-7a
+8	da	da	ADP	E	_	10	case	_	KID=150-7a
 9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	KID=150-7b
 10	vita	vita	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	End=266.48|KID=150-8
 
@@ -1740,7 +1740,7 @@
 3	a~	a~	PROPN	_	_	0	root	_	Interrupted=Yes|KID=169-2
 4	dedite	dedire	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	KID=169-3
 5-6	allo	_	_	_	_	_	_	_	KID=169-4
-5	a	a	ADP	E		7	case	_	KID=169-4a
+5	a	a	ADP	E	_	7	case	_	KID=169-4a
 6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=169-4b
 7	spaccio	spaccio	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	KID=169-5
 8	ma	ma	CCONJ	_	_	12	cc	_	KID=169-6
@@ -1749,7 +1749,7 @@
 11	in	in	ADP	_	_	12	case	_	KID=169-9
 12	piazza	piazza	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	KID=169-10|Prolonged=Yes
 13-14	dell'	_	_	_	_	_	_	_	KID=169-11|SpaceAfter=No
-13	di	di	ADP	E		15	case	_	KID=169-11a
+13	di	di	ADP	E	_	15	case	_	KID=169-11a
 14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	KID=169-11b
 15	unità	unità	NOUN	_	Gender=Fem	12	nmod	_	End=313.59|Intonation=weakly_rising|KID=169-12
 
@@ -1867,7 +1867,7 @@
 # speaker_id = BOI012
 1	vedo	vedere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Begin=330.53|KID=181-0
 2-3	della	_	_	_	_	_	_	_	KID=181-1
-2	di	di	ADP	E		4	case	_	KID=181-1a
+2	di	di	ADP	E	_	4	case	_	KID=181-1a
 3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=181-1b
 4	gente	gente	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	KID=181-2
 5	che	che	PRON	_	PronType=Rel	7	nsubj	_	KID=181-3
@@ -1957,7 +1957,7 @@
 2	a	a	ADP	_	_	3	case	_	KID=188-1
 3	bologna	bologna	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	KID=188-2
 4-5	della	_	_	_	_	_	_	_	KID=188-3|OverlappingGroup=41
-4	di	di	ADP	E		6	case	_	KID=188-3a
+4	di	di	ADP	E	_	6	case	_	KID=188-3a
 5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=188-3b
 6	città	città	NOUN	_	Gender=Fem	3	nmod	_	KID=188-4|OverlappingGroup=41
 7	in	in	ADP	_	_	8	case	_	KID=188-5
@@ -2252,13 +2252,13 @@
 # text = x
 # jefferson_text = [xxx]
 # speaker_id = BOR005
-1	x	x	X	_	NumType=Ord|Number=Sing	0	root	_	Begin=387.785|End=388.575|KID=217-0|OverlappingGroup=50|Unintelligible=Yes
+1	x	x	X	_	Number=Sing|NumType=Ord	0	root	_	Begin=387.785|End=388.575|KID=217-0|OverlappingGroup=50|Unintelligible=Yes
 
 # sent_id = PBB004_218
 # text = x
 # jefferson_text = xxx {ride}
 # speaker_id = BOI013
-1	x	x	X	_	NumType=Ord|Number=Sing	0	root	_	Begin=388.64|End=389.79|KID=218-0|Unintelligible=Yes
+1	x	x	X	_	Number=Sing|NumType=Ord	0	root	_	Begin=388.64|End=389.79|KID=218-0|Unintelligible=Yes
 2	{ride}	_	_	_	_	_	_	_	Type=nonverbalbehavior
 
 # sent_id = PBB004_219
@@ -2487,7 +2487,7 @@
 # jefferson_text = nello stesso modo in cui lo vivevate voi da giovani?
 # speaker_id = BOR005
 1-2	nello	_	_	_	_	_	_	_	Begin=431.22|KID=241-0
-1	in	in	ADP	E		4	case	_	KID=241-0a
+1	in	in	ADP	E	_	4	case	_	KID=241-0a
 2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=241-0b
 3	stesso	stesso	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	KID=241-1
 4	modo	modo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=241-2
@@ -2522,13 +2522,13 @@
 6	giovani	giovane	NOUN	_	Number=Plur	7	obj	_	KID=243-5|Prolonged=Yes
 7	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	KID=243-6
 8-9	coi	_	_	_	_	_	_	_	KID=243-7
-8	con	con	ADP	E		10	case	_	KID=243-7a
+8	con	con	ADP	E	_	10	case	_	KID=243-7a
 9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	KID=243-7b
 10	giovani	giovane	NOUN	_	Number=Plur	12	obl	_	KID=243-8
 11	non	non	ADV	_	PronType=Neg	12	advmod	_	KID=243-9
 12	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	KID=243-10
 13-14	dei	_	_	_	_	_	_	_	KID=243-11
-13	di	di	ADP	E		16	case	_	KID=243-11a
+13	di	di	ADP	E	_	16	case	_	KID=243-11a
 14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	KID=243-11b
 15	gran	grande	ADJ	_	Number=Sing	16	amod	_	KID=243-12
 16	contatti	contatto	NOUN	_	Gender=Masc|Number=Plur	12	obl	_	KID=243-13|OverlappingGroup=55
@@ -2563,7 +2563,7 @@
 # text = x
 # jefferson_text = xx]
 # speaker_id = BOI013
-1	x	x	X	_	NumType=Ord|Number=Sing	0	root	_	Begin=440.635|End=441.185|KID=246-0|Unintelligible=Yes
+1	x	x	X	_	Number=Sing|NumType=Ord	0	root	_	Begin=440.635|End=441.185|KID=246-0|Unintelligible=Yes
 
 # sent_id = PBB004_247
 # text = ma
@@ -2576,7 +2576,7 @@
 # jefferson_text = al mh
 # speaker_id = BOR005
 1-2	al	_	_	_	_	_	_	_	Begin=444.075|KID=248-0
-1	a	a	ADP	E		3	case	_	KID=248-0a
+1	a	a	ADP	E	_	3	case	_	KID=248-0a
 2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	KID=248-0b
 3	mh	mh	NOUN	_	Gender=Masc	0	root	_	End=444.555|KID=248-1
 
@@ -2595,7 +2595,7 @@
 9	potrebbe	potere	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	KID=249-8
 10-11	venirvi	_	_	_	_	_	_	_	KID=249-9
 10	venir	venire	VERB	V	VerbForm=Inf	7	ccomp	_	KID=249-9a
-11	vi	vi	ADV	B		10	advmod	_	KID=249-9b
+11	vi	vi	ADV	B	_	10	advmod	_	KID=249-9b
 12	in	in	ADP	_	_	13	case	_	KID=249-10
 13	mente	menta	NOUN	_	Gender=Fem|Number=Plur	10	obl	_	End=449.055|Intonation=rising|KID=249-11
 
@@ -2609,7 +2609,7 @@
 4	in	in	ADP	_	_	3	case	_	KID=250-3
 5	generale	generale	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	KID=250-4
 6-7	ai	_	_	_	_	_	_	_	KID=250-5
-6	a	a	ADP	E		8	case	_	KID=250-5a
+6	a	a	ADP	E	_	8	case	_	KID=250-5a
 7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	KID=250-5b
 8	giovani	giovane	NOUN	_	Number=Plur	1	obl	_	End=451.205|KID=250-6
 
@@ -2649,15 +2649,15 @@
 # jefferson_text = nelle discoteche, [nei cir]coli, nel e::h
 # speaker_id = BOI013
 1-2	nelle	_	_	_	_	_	_	_	Begin=461.06|KID=254-0
-1	in	in	ADP	E		3	case	_	KID=254-0a
+1	in	in	ADP	E	_	3	case	_	KID=254-0a
 2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	KID=254-0b
 3	discoteche	discoteca	NOUN	_	Gender=Fem|Number=Plur	0	root	_	Intonation=weakly_rising|KID=254-1
 4-5	nei	_	_	_	_	_	_	_	KID=254-2|OverlappingGroup=57
-4	in	in	ADP	E		6	case	_	KID=254-2a
+4	in	in	ADP	E	_	6	case	_	KID=254-2a
 5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	KID=254-2b
 6	circoli	circolo	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	Intonation=weakly_rising|KID=254-3|OverlappingGroup=57
 7-8	nel	_	_	_	_	_	_	_	KID=254-4
-7	in	in	ADP	E		9	case	_	KID=254-4a
+7	in	in	ADP	E	_	9	case	_	KID=254-4a
 8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	KID=254-4b
 9	eh	eh	NOUN	_	_	3	nmod	_	End=463.63|KID=254-5|Prolonged=Yes
 
@@ -2672,7 +2672,7 @@
 # jefferson_text = nei vari gruppi, prima:::
 # speaker_id = BOI013
 1-2	nei	_	_	_	_	_	_	_	Begin=464.195|KID=256-0
-1	in	in	ADP	E		4	case	_	KID=256-0a
+1	in	in	ADP	E	_	4	case	_	KID=256-0a
 2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	KID=256-0b
 3	vari	vario	ADJ	_	Gender=Masc|Number=Plur	4	amod	_	KID=256-1
 4	gruppi	gruppo	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	Intonation=weakly_rising|KID=256-2
@@ -2686,7 +2686,7 @@
 2	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	KID=257-1|SpaceAfter=No
 3	ultimo	ultimo	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	KID=257-2
 4-5	dell'	_	_	_	_	_	_	_	KID=257-3|SpaceAfter=No
-4	di	di	ADP	E		6	case	_	KID=257-3a
+4	di	di	ADP	E	_	6	case	_	KID=257-3a
 5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	KID=257-3b
 6	anno	anno	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	KID=257-4
 7	te	te	PRON	_	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	9	expl	_	KID=257-5
@@ -2714,7 +2714,7 @@
 2	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	KID=259-1|SpaceAfter=No
 3	ultimo	ultimo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	KID=259-2
 4-5	dell'	_	_	_	_	_	_	_	KID=259-3|SpaceAfter=No
-4	di	di	ADP	E		6	case	_	KID=259-3a
+4	di	di	ADP	E	_	6	case	_	KID=259-3a
 5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	KID=259-3b
 6	anno	anno	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	KID=259-4
 7	in	in	ADP	_	_	8	case	_	KID=259-5
@@ -2768,11 +2768,11 @@
 3	mai	mai	ADV	_	_	4	advmod	_	KID=264-2
 4	andato	andare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=264-3
 5-6	all'	_	_	_	_	_	_	_	KID=264-4|SpaceAfter=No
-5	a	a	ADP	E		7	case	_	KID=264-4a
+5	a	a	ADP	E	_	7	case	_	KID=264-4a
 6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	KID=264-4b
 7	ultimo	ultimo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	KID=264-5
 8-9	dell'	_	_	_	_	_	_	_	KID=264-6|SpaceAfter=No
-8	di	di	ADP	E		10	case	_	KID=264-6a
+8	di	di	ADP	E	_	10	case	_	KID=264-6a
 9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	KID=264-6b
 10	anno	anno	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	KID=264-7
 11	in	in	ADP	_	_	12	case	_	KID=264-8
@@ -2805,7 +2805,7 @@
 11	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	KID=266-10|PaceFast=Yes|SpaceAfter=No
 12	ultimo	ultimo	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	KID=266-11|PaceFast=Yes
 13-14	dell'	_	_	_	_	_	_	_	KID=266-12|PaceFast=Yes|SpaceAfter=No
-13	di	di	ADP	E		15	case	_	KID=266-12a
+13	di	di	ADP	E	_	15	case	_	KID=266-12a
 14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	KID=266-12b
 15	anno	anno	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	KID=266-13|PaceFast=Yes
 16	in	in	ADP	_	_	17	case	_	KID=266-14|PaceFast=Yes
@@ -2941,12 +2941,12 @@
 10	maggiore	maggiore	ADJ	_	Degree=Cmp|Number=Sing	9	amod	_	KID=277-9
 11	con	con	ADP	_	_	14	case	_	KID=277-10
 12-13	dei	_	_	_	_	_	_	_	KID=277-11
-12	di	di	ADP	E		14	case	_	KID=277-11a
+12	di	di	ADP	E	_	14	case	_	KID=277-11a
 13	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	KID=277-11b
 14	bambini	bambino	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	KID=277-12|PauseAfter=Yes
 15	{P}	_	_	_	_	_	_	_	Type=shortpause
 16-17	sulle	_	_	_	_	_	_	_	KID=277-14
-16	su	su	ADP	E		18	case	_	KID=277-14a
+16	su	su	ADP	E	_	18	case	_	KID=277-14a
 17	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	KID=277-14b
 18	spalle	spalla	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	End=518.185|KID=277-15
 
@@ -3062,7 +3062,7 @@
 # jefferson_text = alle scritte, che ci sono scritte:: su:: i muri,
 # speaker_id = BOR005
 1-2	alle	_	_	_	_	_	_	_	Begin=547.965|KID=287-0
-1	a	a	ADP	E		3	case	_	KID=287-0a
+1	a	a	ADP	E	_	3	case	_	KID=287-0a
 2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	KID=287-0b
 3	scritte	scritta	NOUN	_	Gender=Fem|Number=Plur	0	root	_	Intonation=weakly_rising|KID=287-1
 4	che	che	PRON	_	PronType=Rel	7	nsubj	_	KID=287-2
@@ -3151,14 +3151,14 @@
 1	ci	ci	PRON	_	Clitic=Yes|PronType=Prs	2	expl	_	Begin=563.32|KID=296-0|PaceFast=Yes
 2	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=296-1|PaceFast=Yes
 3-4	delle	_	_	_	_	_	_	_	KID=296-2|PaceFast=Yes
-3	di	di	ADP	E		5	case	_	KID=296-2a
+3	di	di	ADP	E	_	5	case	_	KID=296-2a
 4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	KID=296-2b
 5	z~	z~	PROPN	_	_	2	obl	_	Interrupted=Yes|KID=296-3|PaceFast=Yes
 6	oppure	oppure	CCONJ	_	_	8	cc	_	KID=296-4
 7	ci	ci	PRON	_	Clitic=Yes|PronType=Prs	8	expl	_	KID=296-5
 8	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	KID=296-6
 9-10	dei	_	_	_	_	_	_	_	KID=296-7
-9	di	di	ADP	E		11	case	_	KID=296-7a
+9	di	di	ADP	E	_	11	case	_	KID=296-7a
 10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	KID=296-7b
 11	murales	murales	NOUN	_	_	8	obl	_	KID=296-8
 12	adesso	adesso	ADV	_	_	11	advmod	_	End=566.0|KID=296-9
@@ -3192,7 +3192,7 @@
 1	ci	ci	PRON	_	Clitic=Yes|PronType=Prs	2	expl	_	Begin=569.82|KID=299-0|OverlappingGroup=63
 2	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=299-1|OverlappingGroup=63
 3-4	dei	_	_	_	_	_	_	_	KID=299-2|OverlappingGroup=64|PauseAfter=Yes
-3	di	di	ADP	E		6	case	_	KID=299-2a
+3	di	di	ADP	E	_	6	case	_	KID=299-2a
 4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	KID=299-2b
 5	{P}	_	_	_	_	_	_	_	Type=shortpause
 6	sì	sì	NOUN	_	Gender=Masc	2	obl	_	KID=299-4|OverlappingGroup=64
@@ -3291,7 +3291,7 @@
 3	zona	zona	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	KID=310-2
 4	erano	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	KID=310-3
 5-6	del	_	_	_	_	_	_	_	KID=310-4
-5	di	di	ADP	E		7	case	_	KID=310-4a
+5	di	di	ADP	E	_	7	case	_	KID=310-4a
 6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=310-4b
 7	centro	centro	NOUN	_	Gender=Masc|Number=Sing	0	root	_	End=584.155|KID=310-5|OverlappingGroup=66
 
@@ -3306,7 +3306,7 @@
 5	in	in	ADP	_	_	6	case	_	KID=311-4|PaceFast=Yes
 6	centro	centro	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	KID=311-5|OverlappingGroup=67|PaceFast=Yes
 7-8	nelle	_	_	_	_	_	_	_	KID=311-6|OverlappingGroup=67
-7	in	in	ADP	E		9	case	_	KID=311-6a
+7	in	in	ADP	E	_	9	case	_	KID=311-6a
 8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	KID=311-6b
 9	zone	zona	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	KID=311-7|Prolonged=Yes
 10	via	via	ADV	_	_	11	advmod	_	KID=311-8
@@ -3324,7 +3324,7 @@
 # jefferson_text = nei portici >proprio< quelli centrali
 # speaker_id = BOI012
 1-2	nei	_	_	_	_	_	_	_	Begin=587.345|KID=313-0
-1	in	in	ADP	E		3	case	_	KID=313-0a
+1	in	in	ADP	E	_	3	case	_	KID=313-0a
 2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	KID=313-0b
 3	portici	portico	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	KID=313-1
 4	proprio	proprio	ADV	_	_	5	advmod	_	KID=313-2|PaceFast=Yes
@@ -3338,7 +3338,7 @@
 1	portico	portico	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	Begin=589.96|KID=314-0|Prolonged=Yes
 2	sì	sì	ADV	_	_	6	advmod	_	KID=314-1
 3-4	del	_	_	_	_	_	_	_	KID=314-2
-3	di	di	ADP	E		6	case	_	KID=314-2a
+3	di	di	ADP	E	_	6	case	_	KID=314-2a
 4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	KID=314-2b
 5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	KID=314-3
 6	pavaglione	pavaglione	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Intonation=weakly_rising|KID=314-4
@@ -3512,7 +3512,7 @@
 10	{P}	_	_	_	_	_	_	_	Type=shortpause
 11	patrimonio	patrimonio	NOUN	_	Gender=Masc|Number=Sing	8	compound	_	KID=336-10
 12-13	dell'	_	_	_	_	_	_	_	KID=336-11|SpaceAfter=No
-12	di	di	ADP	E		14	case	_	KID=336-11a
+12	di	di	ADP	E	_	14	case	_	KID=336-11a
 13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	KID=336-11b
 14	umanità	umanità	NOUN	_	Gender=Fem	8	nmod	_	End=630.85|KID=336-12
 
@@ -3521,7 +3521,7 @@
 # jefferson_text = [dell'unesco]
 # speaker_id = BOI013
 1-2	dell'	_	_	_	_	_	_	_	Begin=628.3|KID=337-0|OverlappingGroup=70|SpaceAfter=No
-1	di	di	ADP	E		3	case	_	KID=337-0a
+1	di	di	ADP	E	_	3	case	_	KID=337-0a
 2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	KID=337-0b
 3	unesco	unesco	NOUN	_	Gender=Masc|Number=Sing	0	root	_	End=629.17|KID=337-1|OverlappingGroup=70
 
@@ -3542,7 +3542,7 @@
 2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	KID=339-1
 3	stata	essere	AUX	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	KID=339-2
 4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=339-3
-5	prima	primo	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	6	amod	_	KID=339-4
+5	prima	primo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	6	amod	_	KID=339-4
 6	volta	volta	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=339-5
 7	che	che	SCONJ	_	_	11	mark	_	KID=339-6
 8	siete	essere	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	KID=339-7
@@ -3666,12 +3666,12 @@
 8	miriade	miriade	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	KID=349-7
 9	di	di	ADP	_	_	10	case	_	KID=349-8|PaceFast=Yes
 10	volte	volte	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	KID=349-9|PaceFast=Yes
-11	prima	primo	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	8	amod	_	KID=349-10|PaceFast=Yes
+11	prima	primo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	8	amod	_	KID=349-10|PaceFast=Yes
 12	volta	volgere	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	KID=349-11|PaceFast=Yes
 13	da	da	ADP	_	_	14	case	_	KID=349-12
 14	bambino	bambino	NOUN	_	Gender=Masc|Number=Sing	12	obl:agent	_	KID=349-13|Prolonged=Yes
 15-16	coi	_	_	_	_	_	_	_	KID=349-14|OverlappingGroup=74
-15	con	con	ADP	E		18	case	_	KID=349-14a
+15	con	con	ADP	E	_	18	case	_	KID=349-14a
 16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	KID=349-14b
 17	miei	mio	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	18	det:poss	_	KID=349-15|OverlappingGroup=74
 18	genitori	genitore	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	KID=349-16|OverlappingGroup=74|Prolonged=Yes
@@ -3864,7 +3864,7 @@
 # speaker_id = BOI012
 1	contezza	contezza	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Begin=685.57|KID=370-0|OverlappingGroup=79
 2-3	del	_	_	_	_	_	_	_	KID=370-1|OverlappingGroup=79
-2	di	di	ADP	E		4	case	_	KID=370-1a
+2	di	di	ADP	E	_	4	case	_	KID=370-1a
 3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=370-1b
 4	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	KID=370-2|OverlappingGroup=79
 5	ma	ma	CCONJ	_	_	6	cc	_	KID=370-3|Prolonged=Yes
@@ -3940,7 +3940,7 @@
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=377-2|PaceFast=Yes
 4	stazione	stazione	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	KID=377-3|PaceFast=Yes
 5-6	della	_	_	_	_	_	_	_	KID=377-4|PaceFast=Yes
-5	di	di	ADP	E		7	case	_	KID=377-4a
+5	di	di	ADP	E	_	7	case	_	KID=377-4a
 6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=377-4b
 7	funivia	funivia	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	KID=377-5|PaceFast=Yes
 8	e	e	CCONJ	_	_	9	cc	_	KID=377-6|PaceFast=Yes
@@ -3986,11 +3986,11 @@
 1	però	però	ADV	_	_	2	advmod	_	Begin=706.14|KID=381-0|PaceFast=Yes
 2	sapevi	sapeve	ADJ	_	Number=Plur	0	root	_	KID=381-1|PaceFast=Yes
 3-4	dell'	_	_	_	_	_	_	_	KID=381-2|PaceFast=Yes|SpaceAfter=No
-3	di	di	ADP	E		5	case	_	KID=381-2a
+3	di	di	ADP	E	_	5	case	_	KID=381-2a
 4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	KID=381-2b
 5	esistenza	esistenza	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	KID=381-3|PaceFast=Yes
 6-7	della	_	_	_	_	_	_	_	KID=381-4|PaceFast=Yes
-6	di	di	ADP	E		8	case	_	KID=381-4a
+6	di	di	ADP	E	_	8	case	_	KID=381-4a
 7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	KID=381-4b
 8	funivia	funivia	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	End=707.79|Intonation=rising|KID=381-5|OverlappingGroup=83|PaceFast=Yes
 
@@ -4186,7 +4186,7 @@
 10	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	9	obj	_	KID=400-8b
 11	prima	prima	ADV	_	_	14	case	_	KID=400-9
 12-13	del	_	_	_	_	_	_	_	KID=400-10|OverlappingGroup=84
-12	di	di	ADP	E		11	fixed	_	KID=400-10a
+12	di	di	ADP	E	_	11	fixed	_	KID=400-10a
 13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	KID=400-10b
 14	matrimonio	matrimonio	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	End=750.735|KID=400-11|OverlappingGroup=84
 15	{ride}	_	_	_	_	_	_	_	Type=nonverbalbehavior
@@ -4303,11 +4303,11 @@
 7	devono	dovere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	KID=412-6|PaceFast=Yes
 8	andare	andare	VERB	_	VerbForm=Inf	0	root	_	KID=412-7|PaceFast=Yes
 9-10	sulla	_	_	_	_	_	_	_	KID=412-8|PaceFast=Yes
-9	su	su	ADP	E		11	case	_	KID=412-8a
+9	su	su	ADP	E	_	11	case	_	KID=412-8a
 10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	KID=412-8b
 11	torre	torre	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	KID=412-9|PaceFast=Yes
 12-13	degli	_	_	_	_	_	_	_	KID=412-10|PaceFast=Yes
-12	di	di	ADP	E		14	case	_	KID=412-10a
+12	di	di	ADP	E	_	14	case	_	KID=412-10a
 13	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	KID=412-10b
 14	asinelli	asinello	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	KID=412-11|PaceFast=Yes
 15	se	se	SCONJ	_	_	19	mark	_	KID=412-12|PaceFast=Yes
@@ -4635,7 +4635,7 @@
 # speaker_id = BOI012
 1	vicino	vicino	ADV	_	_	5	case	_	Begin=832.115|KID=447-0
 2-3	al	_	_	_	_	_	_	_	KID=447-1
-2	a	a	ADP	E		1	fixed	_	KID=447-1a
+2	a	a	ADP	E	_	1	fixed	_	KID=447-1a
 3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=447-1b
 4	sant'	sant'	ADJ	_	Number=Sing	5	amod	_	KID=447-2|SpaceAfter=No
 5	orsola	orsola	NOUN	_	Gender=Fem|Number=Sing	0	root	_	End=833.455|KID=447-3
@@ -4725,7 +4725,7 @@
 # jefferson_text = nella strada >proprio::<
 # speaker_id = BOI012
 1-2	nella	_	_	_	_	_	_	_	Begin=844.825|KID=455-0
-1	in	in	ADP	E		3	case	_	KID=455-0a
+1	in	in	ADP	E	_	3	case	_	KID=455-0a
 2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=455-0b
 3	strada	strada	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=455-1
 4	proprio	proprio	ADV	_	_	3	advmod	_	End=846.025|KID=455-2|PaceFast=Yes|Prolonged=Yes
@@ -4736,7 +4736,7 @@
 # speaker_id = BOI012
 1	davanti	davanti	ADV	_	_	4	case	_	Begin=846.455|KID=456-0
 2-3	al	_	_	_	_	_	_	_	KID=456-1
-2	a	a	ADP	E		1	fixed	_	KID=456-1a
+2	a	a	ADP	E	_	1	fixed	_	KID=456-1a
 3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=456-1b
 4	piazzale	piazzale	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=456-2
 5	praticamente	pratico	ADV	_	_	4	advmod	_	End=848.335|KID=456-3|OverlappingGroup=98|Volume=low
@@ -4752,7 +4752,7 @@
 # text = x
 # jefferson_text = [x]
 # speaker_id = BOR005
-1	x	x	X	_	NumType=Ord|Number=Sing	0	root	_	Begin=849.295|End=849.565|KID=458-0|OverlappingGroup=99|Unintelligible=Yes
+1	x	x	X	_	Number=Sing|NumType=Ord	0	root	_	Begin=849.295|End=849.565|KID=458-0|OverlappingGroup=99|Unintelligible=Yes
 
 # sent_id = PBB004_459
 # text = non so se c'è ancora perché io che non ci vado
@@ -4877,7 +4877,7 @@
 1	beh	beh	ADV	_	_	10	advmod	_	Begin=870.175|KID=470-0
 2	però	però	ADV	_	_	10	advmod	_	KID=470-1
 3-4	dai	_	_	_	_	_	_	_	KID=470-2
-3	da	da	ADP	E		8	case	_	KID=470-2a
+3	da	da	ADP	E	_	8	case	_	KID=470-2a
 4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	KID=470-2b
 5	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	KID=470-3
 6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	KID=470-4|PaceFast=Yes
@@ -4969,7 +4969,7 @@
 2	{P}	_	_	_	_	_	_	_	Type=shortpause
 3	diciamo	dire	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	advcl	_	KID=477-2
 4-5	dal	_	_	_	_	_	_	_	KID=477-3|PauseAfter=Yes
-4	da	da	ADP	E		8	case	_	KID=477-3a
+4	da	da	ADP	E	_	8	case	_	KID=477-3a
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=477-3b
 6	{P}	_	_	_	_	_	_	_	Type=shortpause
 7	di	di	ADP	_	_	8	case	_	KID=477-5
@@ -5046,10 +5046,10 @@
 3	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	KID=484-2
 4	chiama	chiamare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=484-3
 5-6	colle	_	_	_	_	_	_	_	KID=484-4
-5	con	con	ADP	E		6	case	_	KID=484-4a
+5	con	con	ADP	E	_	6	case	_	KID=484-4a
 6	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	obl	_	KID=484-4b
 7-8	dell'	_	_	_	_	_	_	_	KID=484-5|SpaceAfter=No
-7	di	di	ADP	E		9	case	_	KID=484-5a
+7	di	di	ADP	E	_	9	case	_	KID=484-5a
 8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	KID=484-5b
 9	osservanza	osservanza	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	KID=484-6
 10	per	per	ADP	_	_	11	case	_	KID=484-7
@@ -5067,10 +5067,10 @@
 5	si	si	PRON	_	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	KID=485-4
 6	chiamasse	chiamare	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	KID=485-5
 7-8	colle	_	_	_	_	_	_	_	KID=485-6
-7	con	con	ADP	E		8	case	_	KID=485-6a
+7	con	con	ADP	E	_	8	case	_	KID=485-6a
 8	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obl	_	KID=485-6b
 9-10	dell'	_	_	_	_	_	_	_	KID=485-7|SpaceAfter=No
-9	di	di	ADP	E		11	case	_	KID=485-7a
+9	di	di	ADP	E	_	11	case	_	KID=485-7a
 10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	KID=485-7b
 11	osservanza	osservanza	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	End=903.82|KID=485-8|OverlappingGroup=102
 
@@ -5126,7 +5126,7 @@
 1	quando	quando	SCONJ	_	_	2	mark	_	Begin=912.305|KID=491-0|PaceFast=Yes
 2	arrivi	arrivare	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	KID=491-1|PaceFast=Yes|Prolonged=Yes
 3-4	nei	_	_	_	_	_	_	_	KID=491-2|PaceFast=Yes
-3	in	in	ADP	E		5	case	_	KID=491-2a
+3	in	in	ADP	E	_	5	case	_	KID=491-2a
 4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=491-2b
 5	dintorni	dintorni	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	KID=491-3|PaceFast=Yes
 6	di	di	ADP	_	_	8	case	_	KID=491-4|PaceFast=Yes
@@ -5135,7 +5135,7 @@
 9	luca	luco	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	KID=491-7|PaceFast=Yes
 10	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	KID=491-8|PaceFast=Yes
 11	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	KID=491-9|PaceFast=Yes
-12	prima	primo	ADJ	_	Gender=Fem|NumType=Ord|Number=Sing	13	amod	_	KID=491-10|PaceFast=Yes
+12	prima	primo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	13	amod	_	KID=491-10|PaceFast=Yes
 13	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=491-11|PaceFast=Yes
 14	che	che	PRON	_	PronType=Rel	15	nsubj	_	KID=491-12|PaceFast=Yes
 15	vedi	vedere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	End=915.285|KID=491-13|PaceFast=Yes
@@ -5287,7 +5287,7 @@
 2	d~	d~	PROPN	_	_	1	obj	_	Interrupted=Yes|KID=506-1
 3	sia	sia	CCONJ	_	_	6	cc	_	KID=506-2
 4-5	dei	_	_	_	_	_	_	_	KID=506-3
-4	di	di	ADP	E		6	case	_	KID=506-3a
+4	di	di	ADP	E	_	6	case	_	KID=506-3a
 5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	KID=506-3b
 6	portici	portico	NOUN	_	Gender=Masc|Number=Plur	1	conj	_	KID=506-4
 7	di	di	ADP	_	_	9	case	_	KID=506-5
@@ -5311,7 +5311,7 @@
 3	siano	essere	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	KID=507-2
 4	cambiati	cambiare	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	1	ccomp	_	KID=507-3
 5-6	negli	_	_	_	_	_	_	_	KID=507-4
-5	in	in	ADP	E		7	case	_	KID=507-4a
+5	in	in	ADP	E	_	7	case	_	KID=507-4a
 6	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	KID=507-4b
 7	anni	anno	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	Intonation=rising|KID=507-5|Prolonged=Yes
 8	in	in	ADP	_	_	9	case	_	KID=507-6
@@ -5425,7 +5425,7 @@
 1	da	da	ADP	_	_	2	mark	_	Begin=966.136|KID=516-0
 2	fare	fare	VERB	_	VerbForm=Inf	0	root	_	KID=516-1
 3-4	del	_	_	_	_	_	_	_	KID=516-2
-3	di	di	ADP	E		5	case	_	KID=516-2a
+3	di	di	ADP	E	_	5	case	_	KID=516-2a
 4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=516-2b
 5	caso	caso	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	End=967.806|Intonation=weakly_rising|KID=516-3|Prolonged=Yes
 
@@ -5434,7 +5434,7 @@
 # jefferson_text = nei vari momenti ma
 # speaker_id = BOI012
 1-2	nei	_	_	_	_	_	_	_	Begin=968.224|KID=517-0
-1	in	in	ADP	E		4	case	_	KID=517-0a
+1	in	in	ADP	E	_	4	case	_	KID=517-0a
 2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	KID=517-0b
 3	vari	vario	ADJ	_	Gender=Masc|Number=Plur	4	amod	_	KID=517-1
 4	momenti	momento	NOUN	_	Gender=Masc|Number=Plur	0	root	_	KID=517-2
@@ -5535,7 +5535,7 @@
 # jefferson_text = [da]lla pa~ da::: da san luca non vie~ viene giù anche la madonna,
 # speaker_id = BOI013
 1-2	dalla	_	_	_	_	_	_	_	Begin=982.979|KID=525-0|OverlappingGroup=108
-1	da	da	ADP	E		3	case	_	KID=525-0a
+1	da	da	ADP	E	_	3	case	_	KID=525-0a
 2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=525-0b
 3	pa~	pa~	PROPN	_	_	10	obl	_	Interrupted=Yes|KID=525-1
 4	da	da	ADP	_	_	6	case	_	KID=525-2|Prolonged=Yes
@@ -5904,11 +5904,11 @@
 9	città	città	NOUN	_	Gender=Fem	10	nsubj	_	KID=559-8
 10	hanno	avere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	KID=559-9
 11-12	dei	_	_	_	_	_	_	_	KID=559-10
-11	di	di	ADP	E		13	case	_	KID=559-10a
+11	di	di	ADP	E	_	13	case	_	KID=559-10a
 12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	KID=559-10b
 13	portici	portico	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	KID=559-11
 14-15	nei	_	_	_	_	_	_	_	KID=559-12
-14	in	in	ADP	E		16	case	_	KID=559-12a
+14	in	in	ADP	E	_	16	case	_	KID=559-12a
 15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	KID=559-12b
 16	centri	centro	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	KID=559-13
 17	storici	storico	ADJ	_	Gender=Masc|Number=Plur	16	amod	_	KID=559-14
@@ -5971,7 +5971,7 @@
 2	sto	stare	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	KID=565-1
 3	parlando	parlare	VERB	_	VerbForm=Ger	7	advcl	_	KID=565-2
 4-5	dell'	_	_	_	_	_	_	_	KID=565-3|OverlappingGroup=120|SpaceAfter=No
-4	di	di	ADP	E		6	case	_	KID=565-3a
+4	di	di	ADP	E	_	6	case	_	KID=565-3a
 5	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	KID=565-3b
 6	emilia	emilia	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	KID=565-4|OverlappingGroup=120
 7	romagna	romagnare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=565-5|OverlappingGroup=120|PauseAfter=Yes
@@ -5985,7 +5985,7 @@
 # text = x
 # jefferson_text = [xxx]
 # speaker_id = BOI013
-1	x	x	X	_	NumType=Ord|Number=Sing	0	root	_	Begin=1059.832|End=1060.928|KID=566-0|OverlappingGroup=120|Unintelligible=Yes
+1	x	x	X	_	Number=Sing|NumType=Ord	0	root	_	Begin=1059.832|End=1060.928|KID=566-0|OverlappingGroup=120|Unintelligible=Yes
 
 # sent_id = PBB004_567
 # text = a ferrara i portici ci sono a
@@ -6037,7 +6037,7 @@
 8	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	KID=570-7
 9	città	città	NOUN	_	Gender=Fem	3	conj	_	KID=570-8
 10-11	dell'	_	_	_	_	_	_	_	KID=570-9|SpaceAfter=No
-10	di	di	ADP	E		12	case	_	KID=570-9a
+10	di	di	ADP	E	_	12	case	_	KID=570-9a
 11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	KID=570-9b
 12	emilia	emilia	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	End=1072.936|KID=570-10|OverlappingGroup=121
 
@@ -6099,7 +6099,7 @@
 1	fuori	fuori	ADV	_	_	2	advmod	_	Begin=1079.767|KID=577-0
 2	appunto	appunto	ADV	_	_	5	advmod	_	KID=577-1|PaceFast=Yes
 3-4	dall'	_	_	_	_	_	_	_	KID=577-2|PaceFast=Yes|SpaceAfter=No
-3	da	da	ADP	E		5	case	_	KID=577-2a
+3	da	da	ADP	E	_	5	case	_	KID=577-2a
 4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	KID=577-2b
 5	emilia	emilia	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	KID=577-3|PaceFast=Yes
 6	romagna	romagno	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	KID=577-4|PaceFast=Yes
@@ -6252,7 +6252,7 @@
 8	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	KID=591-7|SpaceAfter=No
 9	origine	origine	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	KID=591-8
 10-11	dei	_	_	_	_	_	_	_	KID=591-9
-10	di	di	ADP	E		12	case	_	KID=591-9a
+10	di	di	ADP	E	_	12	case	_	KID=591-9a
 11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	KID=591-9b
 12	portici	portico	NOUN	_	Gender=Masc|Number=Plur	9	nmod	_	KID=591-10
 13	qual	qual	PRON	_	Number=Sing|PronType=Int	0	root	_	KID=591-11
@@ -6268,7 +6268,7 @@
 1	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	Begin=1113.461|KID=592-0|SpaceAfter=No
 2	origine	origine	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=592-1
 3-4	dei	_	_	_	_	_	_	_	KID=592-2
-3	di	di	ADP	E		5	case	_	KID=592-2a
+3	di	di	ADP	E	_	5	case	_	KID=592-2a
 4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=592-2b
 5	portici	portico	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	End=1114.78|KID=592-3
 
@@ -6377,7 +6377,7 @@
 # jefferson_text = alla strada >quando c'erano i cavalli<, e i carri quelle cose lì
 # speaker_id = BOI012
 1-2	alla	_	_	_	_	_	_	_	Begin=1135.486|KID=601-0
-1	a	a	ADP	E		3	case	_	KID=601-0a
+1	a	a	ADP	E	_	3	case	_	KID=601-0a
 2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=601-0b
 3	strada	strada	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=601-1
 4	quando	quando	SCONJ	_	_	6	mark	_	KID=601-2|PaceFast=Yes
@@ -6433,9 +6433,9 @@
 7	gente	gente	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	KID=605-6
 8	a	a	ADP	_	_	9	case	_	KID=605-7
 9	piedi	piede	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	KID=605-8
-10	da	da	ADP	E		13	case	_	KID=605-9
+10	da	da	ADP	E	_	13	case	_	KID=605-9
 11	da	da	ADP	_	_	13	case	_	KID=605-9|Prolonged=Yes
-12-12	dal	_	_	_	_	_	_	_	KID=605-10
+12-13	dal	_	_	_	_	_	_	_	_
 12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	KID=605-10a
 13	traffico	traffico	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	End=1148.152|Intonation=weakly_rising|KID=605-11|Prolonged=Yes
 
@@ -6444,7 +6444,7 @@
 # jefferson_text = coi carri, gli animali, quelle cose lì
 # speaker_id = BOI012
 1-2	coi	_	_	_	_	_	_	_	Begin=1148.85|KID=606-0
-1	con	con	ADP	E		3	case	_	KID=606-0a
+1	con	con	ADP	E	_	3	case	_	KID=606-0a
 2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	KID=606-0b
 3	carri	carro	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	Intonation=weakly_rising|KID=606-1
 4	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=606-2
@@ -6559,7 +6559,7 @@
 1	più	più	ADV	_	_	2	advmod	_	Begin=1174.679|KID=618-0
 2	vecchia	vecchio	ADJ	_	Gender=Fem|Number=Sing	9	advcl	_	KID=618-1
 3-4	del	_	_	_	_	_	_	_	KID=618-2
-3	di	di	ADP	E		5	case	_	KID=618-2a
+3	di	di	ADP	E	_	5	case	_	KID=618-2a
 4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=618-2b
 5	eh	eh	NOUN	_	Gender=Masc	2	obl	_	KID=618-3|Prolonged=Yes
 6	de	de	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=618-4|Prolonged=Yes
@@ -6816,7 +6816,7 @@
 3	ultimamente	ultimo	ADV	_	_	4	advmod	_	KID=648-2
 4	monto	monto	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	KID=648-3
 5-6	delle	_	_	_	_	_	_	_	KID=648-4
-5	di	di	ADP	E		7	case	_	KID=648-4a
+5	di	di	ADP	E	_	7	case	_	KID=648-4a
 6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	KID=648-4b
 7	forbici	forbice	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	KID=648-5
 8	pneumatiche	pneumatico	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	End=1228.511|KID=648-6
@@ -6832,7 +6832,7 @@
 5	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=649-4|PaceFast=Yes
 6	potatura	potatura	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	KID=649-5|OverlappingGroup=127|PaceFast=Yes
 7-8	dell'	_	_	_	_	_	_	_	KID=649-6|OverlappingGroup=127|PaceFast=Yes|SpaceAfter=No
-7	di	di	ADP	E		9	case	_	KID=649-6a
+7	di	di	ADP	E	_	9	case	_	KID=649-6a
 8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	KID=649-6b
 9	agricoltura	agricoltura	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	End=1231.547|KID=649-7|PaceFast=Yes
 
@@ -6885,14 +6885,14 @@
 2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=654-1
 3	raccolta	raccolta	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	KID=654-2|Prolonged=Yes
 4-5	delle	_	_	_	_	_	_	_	KID=654-3
-4	di	di	ADP	E		6	case	_	KID=654-3a
+4	di	di	ADP	E	_	6	case	_	KID=654-3a
 5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	KID=654-3b
 6	olive	oliva	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	Intonation=weakly_rising|KID=654-4
 7	per	per	ADP	_	_	9	case	_	KID=654-5
 8	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	KID=654-6
 9	potatura	potatura	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	KID=654-7|Prolonged=Yes
 10-11	degli	_	_	_	_	_	_	_	KID=654-8
-10	di	di	ADP	E		12	case	_	KID=654-8a
+10	di	di	ADP	E	_	12	case	_	KID=654-8a
 11	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	KID=654-8b
 12	alberi	albero	NOUN	_	Gender=Masc|Number=Plur	9	nmod	_	Intonation=weakly_rising|KID=654-9
 13	quelle	quelle	DET	_	Gender=Fem|Number=Plur|PronType=Dem	14	det	_	KID=654-10|PaceFast=Yes
@@ -7068,13 +7068,13 @@
 # speaker_id = BOI013
 1	largo	largo	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Begin=1275.201|KID=674-0|OverlappingGroup=133
 2-3	ai	_	_	_	_	_	_	_	KID=674-1|OverlappingGroup=133
-2	a	a	ADP	E		4	case	_	KID=674-1a
+2	a	a	ADP	E	_	4	case	_	KID=674-1a
 3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	KID=674-1b
 4	giovani	giovane	NOUN	_	Number=Plur	1	nmod	_	KID=674-2|OverlappingGroup=133|Prolonged=Yes
 5	lasciamo	lasciare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=674-3
 6	largo	largo	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	KID=674-4
 7-8	ai	_	_	_	_	_	_	_	KID=674-5
-7	a	a	ADP	E		9	case	_	KID=674-5a
+7	a	a	ADP	E	_	9	case	_	KID=674-5a
 8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	KID=674-5b
 9	giovani	giovane	NOUN	_	Number=Plur	5	obl	_	End=1278.733|KID=674-6|OverlappingGroup=134
 
@@ -7113,7 +7113,7 @@
 1	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	5	iobj	_	Begin=1281.689|KID=677-0|OverlappingGroup=136|PaceSlow=Yes
 2	vuol	volere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=677-1|OverlappingGroup=136|PaceSlow=Yes
 3-4	del	_	_	_	_	_	_	_	KID=677-2|OverlappingGroup=136|PaceSlow=Yes
-3	di	di	ADP	E		5	case	_	KID=677-2a
+3	di	di	ADP	E	_	5	case	_	KID=677-2a
 4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=677-2b
 5	ricambio	ricambio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	End=1283.285|KID=677-3|OverlappingGroup=136|PaceSlow=Yes|Prolonged=Yes
 
@@ -7162,7 +7162,7 @@
 1	quindi	quindi	ADV	_	_	6	advmod	_	Begin=1290.46|KID=682-0
 2	rispetto	rispetto	ADV	_	_	5	case	_	KID=682-1
 3-4	al	_	_	_	_	_	_	_	KID=682-2
-3	a	a	ADP	E		2	fixed	_	KID=682-2a
+3	a	a	ADP	E	_	2	fixed	_	KID=682-2a
 4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=682-2b
 5	passato	passato	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	KID=682-3|PaceFast=Yes
 6	provi	provere	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=682-4
@@ -7171,7 +7171,7 @@
 9	in	in	ADP	_	_	10	case	_	KID=682-7
 10	più	più	ADV	_	_	13	advmod	_	KID=682-8
 11-12	nel	_	_	_	_	_	_	_	KID=682-9|OverlappingGroup=138
-11	in	in	ADP	E		13	case	_	KID=682-9a
+11	in	in	ADP	E	_	13	case	_	KID=682-9a
 12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	KID=682-9b
 13	fare	fare	VERB	_	VerbForm=Inf	6	advcl	_	KID=682-10|OverlappingGroup=138
 14	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	KID=682-11
@@ -7597,7 +7597,7 @@
 6	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=728-5
 7	anche	anche	ADV	_	_	10	advmod	_	KID=728-6
 8-9	del	_	_	_	_	_	_	_	KID=728-7
-8	di	di	ADP	E		10	case	_	KID=728-7a
+8	di	di	ADP	E	_	10	case	_	KID=728-7a
 9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	KID=728-7b
 10	personale	personale	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	KID=728-8
 11	specializzato	specializzato	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	End=1373.411|Intonation=rising|KID=728-9
@@ -7668,7 +7668,7 @@
 4	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=734-2
 5	nomi	nome	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	KID=734-3
 6-7	degli	_	_	_	_	_	_	_	KID=734-4
-6	di	di	ADP	E		8	case	_	KID=734-4a
+6	di	di	ADP	E	_	8	case	_	KID=734-4a
 7	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	KID=734-4b
 8	anziani	anziano	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	End=1387.219|KID=734-5
 
@@ -7748,11 +7748,11 @@
 5	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	KID=744-4
 6	fatica	fatica	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	KID=744-5
 7-8	nell'	_	_	_	_	_	_	_	KID=744-6|SpaceAfter=No
-7	in	in	ADP	E		9	case	_	KID=744-6a
+7	in	in	ADP	E	_	9	case	_	KID=744-6a
 8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	KID=744-6b
 9	andare	andare	VERB	_	VerbForm=Inf	4	obl	_	KID=744-7
 10-11	al	_	_	_	_	_	_	_	KID=744-8
-10	a	a	ADP	E		12	case	_	KID=744-8a
+10	a	a	ADP	E	_	12	case	_	KID=744-8a
 11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	KID=744-8b
 12	lavoro	lavoro	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	KID=744-9
 13	come	come	SCONJ	_	_	14	mark	_	KID=744-10|PaceFast=Yes
@@ -7998,7 +7998,7 @@
 7	chi	chi	PRON	_	PronType=Rel	8	obl	_	KID=767-6
 8	viene	venire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	KID=767-7
 9-10	dal	_	_	_	_	_	_	_	KID=767-8
-9	da	da	ADP	E		11	case	_	KID=767-8a
+9	da	da	ADP	E	_	11	case	_	KID=767-8a
 10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=767-8b
 11	giù	giù	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	End=1456.159|KID=767-9
 
@@ -8230,7 +8230,7 @@
 3	ci	ci	PRON	_	Clitic=Yes|PronType=Prs	4	expl	_	KID=788-2|OverlappingGroup=153
 4	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	KID=788-3|OverlappingGroup=153
 5-6	dei	_	_	_	_	_	_	_	KID=788-4|OverlappingGroup=153
-5	di	di	ADP	E		7	case	_	KID=788-4a
+5	di	di	ADP	E	_	7	case	_	KID=788-4a
 6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	KID=788-4b
 7	po~	po~	PROPN	_	_	4	obl	_	End=1492.273|Interrupted=Yes|KID=788-5|OverlappingGroup=153
 
@@ -8242,7 +8242,7 @@
 2	ci	ci	PRON	_	Clitic=Yes|PronType=Prs	3	expl	_	KID=789-1|OverlappingGroup=154
 3	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=789-2|OverlappingGroup=154
 4-5	dei	_	_	_	_	_	_	_	KID=789-3|OverlappingGroup=154
-4	di	di	ADP	E		6	case	_	KID=789-3a
+4	di	di	ADP	E	_	6	case	_	KID=789-3a
 5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	KID=789-3b
 6	posti	posto	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	KID=789-4|OverlappingGroup=154
 7	peggiori	peggiore	ADJ	_	Degree=Cmp|Number=Plur	6	amod	_	KID=789-5
@@ -8269,7 +8269,7 @@
 6	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	KID=791-5|OverlappingGroup=156
 7	diritti	diritto	NOUN	_	Gender=Masc|Number=Plur	5	nsubj:pass	_	KID=791-6|OverlappingGroup=156
 8-9	dei	_	_	_	_	_	_	_	KID=791-7
-8	di	di	ADP	E		10	case	_	KID=791-7a
+8	di	di	ADP	E	_	10	case	_	KID=791-7a
 9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	KID=791-7b
 10	lavoratori	lavoratore	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	End=1498.264|KID=791-8|OverlappingGroup=157
 
@@ -8395,7 +8395,7 @@
 1	con	con	ADP	_	_	5	case	_	Begin=1518.078|KID=804-0|PauseAfter=Yes
 2	{P}	_	_	_	_	_	_	_	Type=shortpause
 3-4	dei	_	_	_	_	_	_	_	KID=804-2|PaceFast=Yes
-3	di	di	ADP	E		5	case	_	KID=804-2a
+3	di	di	ADP	E	_	5	case	_	KID=804-2a
 4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=804-2b
 5	grassi	grasso	NOUN	_	Gender=Masc|Number=Plur	0	root	_	End=1519.163|KID=804-3|PaceFast=Yes
 
@@ -8412,7 +8412,7 @@
 7	star	stare	VERB	_	VerbForm=Inf	3	conj	_	KID=805-6
 8	lontano	lontano	ADV	_	_	7	advmod	_	KID=805-7
 9-10	dalla	_	_	_	_	_	_	_	KID=805-8
-9	da	da	ADP	E		11	case	_	KID=805-8a
+9	da	da	ADP	E	_	11	case	_	KID=805-8a
 10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	KID=805-8b
 11	famiglia	famiglia	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	End=1522.71|Intonation=weakly_rising|KID=805-9
 
@@ -8463,7 +8463,7 @@
 7	e	e	CCONJ	_	_	8	cc	_	KID=808-6
 8	lavori	lavoro	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	KID=808-7|Prolonged=Yes
 9-10	alla	_	_	_	_	_	_	_	KID=808-8
-9	a	a	ADP	E		11	case	_	KID=808-8a
+9	a	a	ADP	E	_	11	case	_	KID=808-8a
 10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	KID=808-8b
 11	volkswagen	volkswagen	NOUN	_	Gender=Masc	8	nmod	_	End=1533.453|KID=808-9
 
@@ -8471,7 +8471,7 @@
 # text = secondo secondo me stai meglio che qua eh
 # jefferson_text = secondo >secondo me stai< meglio che qua eh
 # speaker_id = BOI012
-1	secondo	secondo	ADJ	_	Gender=Masc|NumType=Ord|Number=Sing	4	amod	_	Begin=1533.643|KID=809-0
+1	secondo	secondo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	Begin=1533.643|KID=809-0
 2	secondo	secondo	ADP	_	_	3	case	_	KID=809-1|PaceFast=Yes
 3	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	1	obl	_	KID=809-2|PaceFast=Yes
 4	stai	stare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=809-3|PaceFast=Yes
@@ -8500,7 +8500,7 @@
 5	meglio	meglio	ADV	_	_	6	advmod	_	KID=811-4
 6	andare	andare	VERB	_	VerbForm=Inf	0	root	_	KID=811-5
 7-8	all'	_	_	_	_	_	_	_	KID=811-6|SpaceAfter=No
-7	a	a	ADP	E		9	case	_	KID=811-6a
+7	a	a	ADP	E	_	9	case	_	KID=811-6a
 8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	KID=811-6b
 9	estero	estero	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	End=1537.83|Intonation=rising|KID=811-7
 
@@ -8518,7 +8518,7 @@
 8	ragazzi	ragazzo	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	KID=812-7
 9	vanno	andare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	KID=812-8
 10-11	all'	_	_	_	_	_	_	_	KID=812-9|SpaceAfter=No
-10	a	a	ADP	E		12	case	_	KID=812-9a
+10	a	a	ADP	E	_	12	case	_	KID=812-9a
 11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	KID=812-9b
 12	estero	estero	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	End=1540.523|KID=812-10
 
@@ -8531,7 +8531,7 @@
 3	giovani	giovane	NOUN	_	Number=Plur	4	nsubj	_	KID=813-2
 4	vanno	andare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=813-3
 5-6	all'	_	_	_	_	_	_	_	KID=813-4|SpaceAfter=No
-5	a	a	ADP	E		7	case	_	KID=813-4a
+5	a	a	ADP	E	_	7	case	_	KID=813-4a
 6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	7	det	_	KID=813-4b
 7	estero	estero	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	KID=813-5|PauseAfter=Yes
 8	{P}	_	_	_	_	_	_	_	Type=shortpause
@@ -8540,7 +8540,7 @@
 11	piace	piacere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	KID=813-9
 12	andare	andare	VERB	_	VerbForm=Inf	11	xcomp	_	KID=813-10
 13-14	all'	_	_	_	_	_	_	_	KID=813-11|SpaceAfter=No
-13	a	a	ADP	E		15	case	_	KID=813-11a
+13	a	a	ADP	E	_	15	case	_	KID=813-11a
 14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	KID=813-11b
 15	estero	estero	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	End=1544.291|Intonation=rising|KID=813-12
 
@@ -8562,7 +8562,7 @@
 1	se	se	SCONJ	_	_	2	mark	_	Begin=1548.805|KID=816-0
 2	trovi	trovare	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=816-1
 3-4	dei	_	_	_	_	_	_	_	KID=816-2
-3	di	di	ADP	E		5	case	_	KID=816-2a
+3	di	di	ADP	E	_	5	case	_	KID=816-2a
 4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=816-2b
 5	lavori	lavoro	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	KID=816-3
 6	che	che	PRON	_	PronType=Rel	8	nsubj	_	KID=816-4
@@ -8574,9 +8574,9 @@
 # jefferson_text = vicini a:: alla tua idea di::
 # speaker_id = BOI012
 1	vicini	vicino	ADJ	_	Gender=Masc|Number=Plur	0	root	_	Begin=1551.387|KID=817-0
-2	a	a	ADP	E		6	case	_	KID=817-1
+2	a	a	ADP	E	_	6	case	_	KID=817-1
 3	a	a	ADP	_	_	2	fixed	_	KID=817-1|Prolonged=Yes
-4-4	alla	_	_	_	_	_	_	_	KID=817-2
+4-5	alla	_	_	_	_	_	_	_	_
 4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=817-2a
 5	tua	tuo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	KID=817-3
 6	idea	idea	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	KID=817-4
@@ -8611,7 +8611,7 @@
 # text = i in in meccanica poi dopo
 # jefferson_text = i: in in meccanica >poi dopo<
 # speaker_id = BOI012
-1	i	i	ADJ	_	NumType=Ord|Number=Sing	6	amod	_	Begin=1559.686|KID=821-0|Prolonged=Yes
+1	i	i	ADJ	_	Number=Sing|NumType=Ord	6	amod	_	Begin=1559.686|KID=821-0|Prolonged=Yes
 2	in	in	ADP	_	_	4	case	_	KID=821-1
 3	in	in	ADP	_	_	4	case	_	KID=821-2
 4	meccanica	meccanico	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	KID=821-3
@@ -8634,7 +8634,7 @@
 10	conosciuto	conoscere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	KID=822-9|PaceFast=Yes
 11	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	10	obj	_	KID=822-10|PaceFast=Yes|Prolonged=Yes
 12-13	della	_	_	_	_	_	_	_	KID=822-11
-12	di	di	ADP	E		14	case	_	KID=822-11a
+12	di	di	ADP	E	_	14	case	_	KID=822-11a
 13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	KID=822-11b
 14	gente	gente	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	End=1566.789|KID=822-12
 
@@ -8734,7 +8734,7 @@
 5	saresti	saere	AUX	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	KID=830-4
 6	trasferito	trasferire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=830-5
 7-8	all'	_	_	_	_	_	_	_	KID=830-6|SpaceAfter=No
-7	a	a	ADP	E		9	case	_	KID=830-6a
+7	a	a	ADP	E	_	9	case	_	KID=830-6a
 8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	KID=830-6b
 9	estero	estero	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	End=1584.379|KID=830-7
 
@@ -8846,7 +8846,7 @@
 4	son	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	KID=842-3|PaceFast=Yes
 5	trasferita	trasferire	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=842-4|PaceFast=Yes
 6-7	dalla	_	_	_	_	_	_	_	KID=842-5|PaceFast=Yes
-6	da	da	ADP	E		8	case	_	KID=842-5a
+6	da	da	ADP	E	_	8	case	_	KID=842-5a
 7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	KID=842-5b
 8	calabria	calabria	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	KID=842-6|PaceFast=Yes|PauseAfter=Yes
 9	{P}	_	_	_	_	_	_	_	Type=shortpause
@@ -8983,7 +8983,7 @@
 10	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	KID=854-8b
 11	cioè	cioè	ADV	_	_	9	advmod	_	KID=854-9|Prolonged=Yes
 12-13	nel	_	_	_	_	_	_	_	KID=854-10
-12	in	in	ADP	E		14	case	_	KID=854-10a
+12	in	in	ADP	E	_	14	case	_	KID=854-10a
 13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	KID=854-10b
 14	senso	senso	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	KID=854-11
 15	che	che	SCONJ	_	_	14	mark	_	End=1628.205|KID=854-12|Prolonged=Yes
@@ -9045,7 +9045,7 @@
 2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	KID=859-1
 3	po'	poco	PRON	_	Number=Sing|PronType=Ind	1	obj	_	KID=859-2
 4-5	del	_	_	_	_	_	_	_	KID=859-3
-4	di	di	ADP	E		6	case	_	KID=859-3a
+4	di	di	ADP	E	_	6	case	_	KID=859-3a
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	KID=859-3b
 6	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	KID=859-4
 7	libero	libero	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	KID=859-5|PauseAfter=Yes
@@ -9055,7 +9055,7 @@
 11	abbiamo	avere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	KID=859-9|PaceFast=Yes
 12	parlato	parlare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	KID=859-10|PaceFast=Yes
 13-14	del	_	_	_	_	_	_	_	KID=859-11
-13	di	di	ADP	E		15	case	_	KID=859-11a
+13	di	di	ADP	E	_	15	case	_	KID=859-11a
 14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	KID=859-11b
 15	lavoro	lavoro	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	KID=859-12
 16	insomma	insomma	ADV	_	_	12	advmod	_	KID=859-13
@@ -9222,7 +9222,7 @@
 3	a	a	ADP	_	_	4	mark	_	KID=881-2
 4	lavorare	lavorare	VERB	_	VerbForm=Inf	2	xcomp	_	KID=881-3
 5-6	alla	_	_	_	_	_	_	_	KID=881-4
-5	a	a	ADP	E		7	case	_	KID=881-4a
+5	a	a	ADP	E	_	7	case	_	KID=881-4a
 6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=881-4b
 7	mattina	mattina	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	KID=881-5
 8	eh	eh	ADJ	_	_	7	amod	_	End=1682.557|KID=881-6|OverlappingGroup=169|Volume=low
@@ -9296,7 +9296,7 @@
 4	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=888-3
 5	telegiornale	telegiornale	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	KID=888-4
 6-7	dell'	_	_	_	_	_	_	_	KID=888-5|SpaceAfter=No
-6	di	di	ADP	E		8	case	_	KID=888-5a
+6	di	di	ADP	E	_	8	case	_	KID=888-5a
 7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	KID=888-5b
 8	emilia	emilia	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	KID=888-6
 9	romagna	romagno	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	End=1696.98|Intonation=weakly_rising|KID=888-7
@@ -9339,7 +9339,7 @@
 1	e	e	CCONJ	_	_	6	cc	_	Begin=1705.744|KID=891-0
 2	poi	poi	ADV	_	_	6	advmod	_	KID=891-1
 3-4	alle	_	_	_	_	_	_	_	KID=891-2
-3	a	a	ADP	E		6	case	_	KID=891-2a
+3	a	a	ADP	E	_	6	case	_	KID=891-2a
 4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	KID=891-2b
 5	otto	otto	NUM	_	NumType=Card	6	nummod	_	KID=891-3
 6	son	son	NOUN	_	Gender=Fem	0	root	_	KID=891-4
@@ -9355,7 +9355,7 @@
 # speaker_id = BOR005
 1	e	e	CCONJ	_	_	4	cc	_	Begin=1709.708|KID=893-0
 2-3	nel	_	_	_	_	_	_	_	KID=893-1
-2	in	in	ADP	E		4	case	_	KID=893-1a
+2	in	in	ADP	E	_	4	case	_	KID=893-1a
 3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=893-1b
 4	pomeriggio	pomeriggio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=893-2
 5	quando	quando	SCONJ	_	_	8	case	_	KID=893-3
@@ -9386,7 +9386,7 @@
 1	sei	essere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	cop	_	Begin=1715.633|KID=895-0
 2	sempre	sempre	ADV	_	_	5	advmod	_	KID=895-1
 3-4	dalla	_	_	_	_	_	_	_	KID=895-2
-3	da	da	ADP	E		5	case	_	KID=895-2a
+3	da	da	ADP	E	_	5	case	_	KID=895-2a
 4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=895-2b
 5	tata	tata	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=895-3
 6	a	a	ADP	_	_	7	case	_	KID=895-4
@@ -9456,11 +9456,11 @@
 7	ur	urre	VERB	V	VerbForm=Inf	3	xcomp	_	KID=900-6a
 8	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	KID=900-6b
 9-10	degli	_	_	_	_	_	_	_	KID=900-7
-9	di	di	ADP	E		11	case	_	KID=900-7a
+9	di	di	ADP	E	_	11	case	_	KID=900-7a
 10	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	KID=900-7b
 11	anziani	anziano	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	KID=900-8
 12-13	nelle	_	_	_	_	_	_	_	KID=900-9
-12	in	in	ADP	E		14	case	_	KID=900-9a
+12	in	in	ADP	E	_	14	case	_	KID=900-9a
 13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	KID=900-9b
 14	orecchie	orecchia	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	Intonation=weakly_rising|KID=900-10
 15	tutte	tutto	DET	_	Gender=Fem|Number=Plur|PronType=Tot	17	det:predet	_	KID=900-11
@@ -9563,7 +9563,7 @@
 # jefferson_text = [all'antone]lla
 # speaker_id = BOI012
 1-2	all'	_	_	_	_	_	_	_	Begin=1744.32|KID=911-0|OverlappingGroup=174|SpaceAfter=No
-1	a	a	ADP	E		3	case	_	KID=911-0a
+1	a	a	ADP	E	_	3	case	_	KID=911-0a
 2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	KID=911-0b
 3	antonella	antonella	NOUN	_	Gender=Fem|Number=Sing	0	root	_	End=1745.299|KID=911-1|OverlappingGroup=174
 
@@ -9574,7 +9574,7 @@
 1	chiusi	chiudere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Begin=1745.473|KID=912-0
 2	dentro	dentro	ADV	_	_	1	advmod	_	KID=912-1
 3-4	nei	_	_	_	_	_	_	_	KID=912-2|OverlappingGroup=175
-3	in	in	ADP	E		5	case	_	KID=912-2a
+3	in	in	ADP	E	_	5	case	_	KID=912-2a
 4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=912-2b
 5	reparti	reparto	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	End=1747.25|Intonation=weakly_rising|KID=912-3|OverlappingGroup=175
 
@@ -9630,7 +9630,7 @@
 2	{P}	_	_	_	_	_	_	_	Type=shortpause
 3	cerco	cerco	NOUN	_	Gender=Masc|Number=Sing	1	compound	_	KID=919-2|OverlappingGroup=176
 4-5	dei	_	_	_	_	_	_	_	KID=919-3
-4	di	di	ADP	E		6	case	_	KID=919-3a
+4	di	di	ADP	E	_	6	case	_	KID=919-3a
 5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	KID=919-3b
 6	film	film	NOUN	_	Gender=Masc	1	nmod	_	End=1754.419|KID=919-4
 
@@ -9673,7 +9673,7 @@
 5	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	KID=923-4
 6	son	son	NOUN	_	Gender=Masc	2	nmod	_	KID=923-5
 7-8	dei	_	_	_	_	_	_	_	KID=923-6
-7	di	di	ADP	E		9	case	_	KID=923-6a
+7	di	di	ADP	E	_	9	case	_	KID=923-6a
 8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	KID=923-6b
 9	film	film	NOUN	_	Gender=Masc	6	nmod	_	KID=923-7
 10	che	che	PRON	_	PronType=Rel	12	nsubj	_	KID=923-8|PaceFast=Yes
@@ -9681,7 +9681,7 @@
 12	piacciono	piacere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	KID=923-10|PaceFast=Yes
 13	e	e	CCONJ	_	_	16	cc	_	KID=923-11|PaceFast=Yes
 14-15	dei	_	_	_	_	_	_	_	KID=923-12|PaceFast=Yes
-14	di	di	ADP	E		16	case	_	KID=923-12a
+14	di	di	ADP	E	_	16	case	_	KID=923-12a
 15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	KID=923-12b
 16	film	film	NOUN	_	Gender=Masc	12	conj	_	KID=923-13|PaceFast=Yes|Prolonged=Yes
 17	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	KID=923-14
@@ -9969,7 +9969,7 @@
 # jefferson_text = allo stadio c'andavo da ragazzino, poi:: mi sono allon°t[anato°]
 # speaker_id = BOI012
 1-2	allo	_	_	_	_	_	_	_	Begin=1817.469|KID=955-0
-1	a	a	ADP	E		3	case	_	KID=955-0a
+1	a	a	ADP	E	_	3	case	_	KID=955-0a
 2	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	KID=955-0b
 3	stadio	stadio	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	KID=955-1
 4	c'	ci	PRON	_	Clitic=Yes|PronType=Prs	5	expl	_	KID=955-2|SpaceAfter=No
@@ -10050,7 +10050,7 @@
 4	mai	mai	ADV	_	_	5	advmod	_	KID=961-3
 5	interessato	interessato	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=961-4|Prolonged=Yes
 6-7	al	_	_	_	_	_	_	_	KID=961-5
-6	a	a	ADP	E		8	case	_	KID=961-5a
+6	a	a	ADP	E	_	8	case	_	KID=961-5a
 7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=961-5b
 8	bas~	bas~	PROPN	_	_	5	obl	_	Interrupted=Yes|KID=961-6
 9	non	non	ADV	_	PronType=Neg	10	advmod	_	KID=961-7
@@ -10088,7 +10088,7 @@
 3	mai	mai	ADV	_	_	4	advmod	_	KID=964-2
 4	andata	andare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	xcomp	_	KID=964-3
 5-6	allo	_	_	_	_	_	_	_	KID=964-4
-5	a	a	ADP	E		7	case	_	KID=964-4a
+5	a	a	ADP	E	_	7	case	_	KID=964-4a
 6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=964-4b
 7	stadio	stadio	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	End=1841.355|Intonation=rising|KID=964-5|OverlappingGroup=185
 
@@ -10195,7 +10195,7 @@
 6	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	KID=975-5
 7	campionati	campionato	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	Intonation=weakly_rising|KID=975-6
 8-9	del	_	_	_	_	_	_	_	KID=975-7
-8	di	di	ADP	E		10	case	_	KID=975-7a
+8	di	di	ADP	E	_	10	case	_	KID=975-7a
 9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	KID=975-7b
 10	mondo	mondo	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	End=1865.786|Intonation=weakly_rising|KID=975-8|OverlappingGroup=188
 
@@ -10264,7 +10264,7 @@
 10	passato	passare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	KID=982-9|PaceFast=Yes
 11	neanche	neanche	ADV	_	PronType=Neg	14	advmod	_	KID=982-10|PaceFast=Yes
 12-13	dal	_	_	_	_	_	_	_	KID=982-11|PaceFast=Yes
-12	da	da	ADP	E		14	case	_	KID=982-11a
+12	da	da	ADP	E	_	14	case	_	KID=982-11a
 13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	KID=982-11b
 14	podio	podio	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	KID=982-12|PaceFast=Yes
 15	perché	poiperché	SCONJ	_	_	14	mark	_	End=1877.708|KID=982-13|PaceFast=Yes
@@ -10337,7 +10337,7 @@
 # jefferson_text = sul podio
 # speaker_id = BOI012
 1-2	sul	_	_	_	_	_	_	_	Begin=1890.593|KID=989-0
-1	su	su	ADP	E		3	case	_	KID=989-0a
+1	su	su	ADP	E	_	3	case	_	KID=989-0a
 2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	KID=989-0b
 3	podio	podio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	End=1891.285|KID=989-1
 
@@ -10362,7 +10362,7 @@
 4	che	che	SCONJ	_	_	6	mark	_	KID=992-3|PaceFast=Yes
 5	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	KID=992-4|PaceFast=Yes
 6	arrivato	arrivare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	KID=992-5|PaceFast=Yes
-7	primo	primo	ADJ	_	Gender=Masc|NumType=Ord|Number=Sing	6	xcomp	_	KID=992-6|PaceFast=Yes
+7	primo	primo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	6	xcomp	_	KID=992-6|PaceFast=Yes
 8	non	non	ADV	_	PronType=Neg	11	advmod	_	KID=992-7|PaceFast=Yes
 9	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	KID=992-8|PaceFast=Yes
 10	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	KID=992-9|PaceFast=Yes
@@ -10527,7 +10527,7 @@
 1	poi	poi	ADV	_	_	2	advmod	_	Begin=1928.131|KID=1012-0
 2	lucio	luciare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=1012-1
 3-4	dalla	_	_	_	_	_	_	_	End=1929.194|Intonation=weakly_rising|KID=1012-2
-3	da	da	ADP	E		4	case	_	KID=1012-2a
+3	da	da	ADP	E	_	4	case	_	KID=1012-2a
 4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	advmod	_	KID=1012-2b
 
 # sent_id = PBB004_1013
@@ -10647,7 +10647,7 @@
 1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Begin=1951.389|KID=1026-0|Language=NO_ISO_CODE
 2	balotta	balotta	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	KID=1026-1
 3-4	dei	_	_	_	_	_	_	_	KID=1026-2
-3	di	di	ADP	E		5	case	_	KID=1026-2a
+3	di	di	ADP	E	_	5	case	_	KID=1026-2a
 4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=1026-2b
 5	musicisti	musicista	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	KID=1026-3
 6	jazz	jazz	NOUN	_	Gender=Masc	5	compound	_	KID=1026-4
@@ -11238,7 +11238,7 @@
 # jefferson_text = [al cinema non c'a]ndiamo perché m'addormento
 # speaker_id = BOI012
 1-2	al	_	_	_	_	_	_	_	Begin=2055.066|KID=1088-0|OverlappingGroup=214
-1	a	a	ADP	E		3	case	_	KID=1088-0a
+1	a	a	ADP	E	_	3	case	_	KID=1088-0a
 2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	KID=1088-0b
 3	cinema	cinema	NOUN	_	Gender=Masc	6	obl	_	KID=1088-1|OverlappingGroup=214
 4	non	non	ADV	_	PronType=Neg	6	advmod	_	KID=1088-2|OverlappingGroup=214
@@ -11334,7 +11334,7 @@
 # speaker_id = BOI013
 1	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	Begin=2069.584|KID=1100-0|Volume=high
 2-3	al	_	_	_	_	_	_	_	KID=1100-1|Volume=high
-2	a	a	ADP	E		4	case	_	KID=1100-1a
+2	a	a	ADP	E	_	4	case	_	KID=1100-1a
 3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=1100-1b
 4	living	living	NOUN	_	Gender=Masc	1	nmod	_	End=2070.691|KID=1100-2|Volume=high
 
@@ -11381,7 +11381,7 @@
 # jefferson_text = [al] living sì
 # speaker_id = BOI013
 1-2	al	_	_	_	_	_	_	_	Begin=2079.064|KID=1104-0|OverlappingGroup=221
-1	a	a	ADP	E		3	case	_	KID=1104-0a
+1	a	a	ADP	E	_	3	case	_	KID=1104-0a
 2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	KID=1104-0b
 3	living	living	NOUN	_	Gender=Masc	4	obl	_	KID=1104-1
 4	sì	sì	INTJ	_	Polarity=Pos	0	root	_	End=2080.213|KID=1104-2
@@ -11580,7 +11580,7 @@
 8	in	in	ADP	_	_	9	case	_	KID=1125-7|PaceFast=Yes
 9	discoteca	discoteca	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	KID=1125-8|PaceFast=Yes
 10-11	coi	_	_	_	_	_	_	_	KID=1125-9|PaceFast=Yes
-10	con	con	ADP	E		12	case	_	KID=1125-9a
+10	con	con	ADP	E	_	12	case	_	KID=1125-9a
 11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	KID=1125-9b
 12	ragazzini	ragazzo	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	KID=1125-10|PaceFast=Yes
 13	cioè	cioè	CCONJ	_	_	12	cc	_	End=2112.572|KID=1125-11|PaceFast=Yes|Prolonged=Yes
@@ -11594,7 +11594,7 @@
 3	a	a	ADP	_	_	4	case	_	KID=1126-2
 4	calci	calce	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	KID=1126-3
 5-6	nel	_	_	_	_	_	_	_	KID=1126-4
-5	in	in	ADP	E		7	case	_	KID=1126-4a
+5	in	in	ADP	E	_	7	case	_	KID=1126-4a
 6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=1126-4b
 7	sedere	sedere	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	End=2115.295|KID=1126-5
 
@@ -11611,7 +11611,7 @@
 7	di	di	ADP	_	_	8	mark	_	KID=1127-6
 8	uscire	uscire	VERB	_	VerbForm=Inf	6	acl	_	KID=1127-7
 9-10	nel	_	_	_	_	_	_	_	KID=1127-8
-9	in	in	ADP	E		12	case	_	KID=1127-8a
+9	in	in	ADP	E	_	12	case	_	KID=1127-8a
 10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	KID=1127-8b
 11	fine	fine	ADJ	_	Number=Sing	12	amod	_	KID=1127-9
 12	settimana	settimana	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	End=2118.774|Intonation=rising|KID=1127-10
@@ -11725,7 +11725,7 @@
 2	poca	poco	DET	_	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	KID=1138-1
 3	roba	roba	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=1138-2
 4-5	col	_	_	_	_	_	_	_	KID=1138-3
-4	con	con	ADP	E		6	case	_	KID=1138-3a
+4	con	con	ADP	E	_	6	case	_	KID=1138-3a
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	KID=1138-3b
 6	covid	covid	NOUN	_	Gender=Masc	3	nmod	_	KID=1138-4
 7	ancora	ancora	ADV	_	_	8	advmod	_	KID=1138-5
@@ -11784,7 +11784,7 @@
 # jefferson_text = alla fine, (.) vi ringrazio per
 # speaker_id = BOR005
 1-2	alla	_	_	_	_	_	_	_	Begin=2147.016|KID=1146-0
-1	a	a	ADP	E		3	case	_	KID=1146-0a
+1	a	a	ADP	E	_	3	case	_	KID=1146-0a
 2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=1146-0b
 3	fine	fine	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	Intonation=weakly_rising|KID=1146-1|PauseAfter=Yes
 4	{P}	_	_	_	_	_	_	_	Type=shortpause
