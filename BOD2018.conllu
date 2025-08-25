@@ -1051,7 +1051,7 @@
 8	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	KID=73-7
 9	macchina	macchina	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	KID=73-8
 10	per	per	ADP	_	_	11	case	_	KID=73-9
-11	anda'	andare	VERB	7	xcomp	_	_	_	KID=73-10|Truncated=Yes
+11	anda'	andare	VERB	_	_	7	xcomp	_	KID=73-10|Truncated=Yes
 12	in	in	ADP	_	_	13	case	_	KID=73-11
 13	centro	centro	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	End=292.55|Intonation=rising|KID=73-12
 
