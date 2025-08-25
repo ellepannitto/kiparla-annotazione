@@ -1051,11 +1051,9 @@
 8	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	KID=73-7
 9	macchina	macchina	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	KID=73-8
 10	per	per	ADP	_	_	11	case	_	KID=73-9
-11-12	anda'	andare	VERB	_	_	_	_	_	KID=73-10|Truncated=Yes
-11	_	_	_	_	Gender=Fem|Number=Sing	9	nmod	_	KID=73-10a
-12	_	_	_	_	_	7	punct	_	KID=73-10b
-13	in	in	ADP	_	_	14	case	_	KID=73-11
-14	centro	centro	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	End=292.55|Intonation=rising|KID=73-12
+11	anda'	andare	VERB	7	xcomp	_	_	_	KID=73-10|Truncated=Yes
+12	in	in	ADP	_	_	13	case	_	KID=73-11
+13	centro	centro	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	End=292.55|Intonation=rising|KID=73-12
 
 # sent_id = BOD2018_74_75
 # text = sì generalmente sì perché comunque sia non mh non ci sono piste ciclabili o cioè non c' è possibilità di prender la bici o cioè andare a piedi si ma durante il giorno è possibile perché poi di sera comunque son delle strade abbastanza buie
