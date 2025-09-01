@@ -1,6 +1,6 @@
 # sent_id = BOD2018_0_1
 # text = dovresti parlarmi della tua casa attuale
-# jefferson_text = dovresti parlarmi della tua casa. attuale.
+# jefferson_text = dovresti parlarmi della tua casa. | attuale.
 # speaker_id = BO118
 # tags = DONE
 1	dovresti	dovere	AUX	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	Begin=0.96|KID=0-0
@@ -10,7 +10,7 @@
 4-5	della	_	_	_	_	_	_	_	KID=0-2
 4	di	di	ADP	_	_	7	case	_	KID=0-2a
 5	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=0-2b
-6	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	amod	_	KID=0-3
+6	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	amod:poss	_	KID=0-3
 7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	End=2.78|Intonation=falling|KID=0-4
 8	attuale	attuale	ADJ	_	Number=Sing	7	amod	_	Begin=2.81|End=3.4|Intonation=falling|KID=1-0
 
@@ -18,15 +18,16 @@
 # text = mh sì
 # jefferson_text = mh sì
 # speaker_id = BO140
+# tags = DONE
 1	mh	mh	INTJ	_	_	0	root	_	Begin=4.9|KID=2-0
 2	sì	sì	INTJ	_	_	1	parataxis	_	End=5.94|KID=2-1
 
 # sent_id = BOD2018_3a
-# text = com' è fatta la tua casa
-# jefferson_text = com' è fatta:: la tua casa:,
+# text = com'è fatta la tua casa
+# jefferson_text = com'è fatta:: la tua casa:,
 # speaker_id = BO118
 # tags = DONE
-1	com'	come	ADV	_	_	3	advmod	_	Begin=5.95|KID=3-0|Truncated=Yes
+1	com'	come	ADV	_	_	3	advmod	_	Begin=5.95|KID=3-0|SpaceAfter=No
 2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	KID=3-1
 3	fatta	fare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=3-2|Prolonged=Yes
 4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=3-3
@@ -44,10 +45,10 @@
 
 # sent_id = BOD2018_4_5
 # text = allora la mia casa è una villa mh in mezzo alla natura
-# jefferson_text = allora la mia ca:sa:: è::: una: villa:: mh: in mezzo alla natura,
+# jefferson_text = allora la mia ca:sa:: è::: una: villa:: | mh: in mezzo alla natura,
 # speaker_id = BO140
 # tags = DONE
-1	allora	allora	ADV	_	_	7	advmod	_	Begin=9.19|KID=4-0
+1	allora	allora	ADV	_	_	7	discourse	_	Begin=9.19|KID=4-0
 2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=4-1
 3	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	amod	_	KID=4-2
 4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	KID=4-3|Prolonged=Yes
@@ -64,9 +65,9 @@
 
 # sent_id = BOD2018_6_7_9_10
 # text = ci viviamo in un po' di famiglie che sono eh la mia famiglia mia nonna mh i miei cugini quindi due famiglie e la nonna dei miei cugini quindi ci sono cinque famiglie
-# jefferson_text = ci viviamo: in: un po' di famiglie, che sono::, eh:: la mia famiglia, [mi]a nonna, mh i miei cugini quindi due famiglie: e la nonna dei miei cugini quindi ci sono cinque famiglie
+# jefferson_text = ci viviamo: in: un po' di famiglie, che sono::, | eh:: la mia famiglia, | [mi]a nonna, | mh i miei cugini quindi due famiglie: e la nonna dei miei cugini quindi ci sono cinque famiglie
 # speaker_id = BO140
-# tags = IN PROGRESS
+# tags = DONE
 1	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	2	expl	_	Begin=17.0|Clitic=Yes|KID=6-0
 2	viviamo	vivere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=6-1|Prolonged=Yes
 3	in	in	ADP	_	_	5	case	_	KID=6-2|Prolonged=Yes
@@ -81,14 +82,14 @@
 12	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	amod	_	KID=7-2
 13	famiglia	famiglia	NOUN	_	Gender=Fem|Number=Sing	7	acl:relcl	_	End=22.63|Intonation=weakly_rising|KID=7-3
 14	mia	mio	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	Begin=23.11|KID=9-0|OverlappingGroup=0
-15	nonna	nonno	NOUN	_	Gender=Fem|Number=Sing	13	parataxis	_	End=23.93|Intonation=weakly_rising|KID=9-1
+15	nonna	nonno	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	End=23.93|Intonation=weakly_rising|KID=9-1
 16	mh	mh	INTJ	_	_	13	discourse	_	Begin=24.725|KID=10-0
 17	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	KID=10-1
 18	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	19	amod	_	KID=10-2
-19	cugini	cugino	NOUN	_	Gender=Masc|Number=Plur	13	parataxis	_	KID=10-3
+19	cugini	cugino	NOUN	_	Gender=Masc|Number=Plur	13	conj	_	KID=10-3
 20	quindi	quindi	ADV	_	_	22	advmod	_	KID=10-4
 21	due	due	NUM	_	NumType=Card	22	nummod	_	KID=10-5
-22	famiglie	famiglia	NOUN	_	Gender=Fem|Number=Plur	19	nmod	_	KID=10-6|Prolonged=Yes
+22	famiglie	famiglia	NOUN	_	Gender=Fem|Number=Plur	19	acl	_	KID=10-6|Prolonged=Yes
 23	e	e	CCONJ	_	_	25	cc	_	KID=10-7
 24	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	KID=10-8
 25	nonna	nonno	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	KID=10-9
@@ -99,7 +100,7 @@
 29	cugini	cugino	NOUN	_	Gender=Masc|Number=Plur	25	nmod	_	KID=10-12
 30	quindi	quindi	ADV	_	_	32	advmod	_	KID=10-13
 31	ci	ci	PRON	_	PronType=Prs	32	expl	_	Clitic=Yes|KID=10-14
-32	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	KID=10-15
+32	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	KID=10-15
 33	cinque	cinque	NUM	_	NumType=Card	34	nummod	_	KID=10-16
 34	famiglie	famiglia	NOUN	_	Gender=Fem|Number=Plur	32	nsubj	_	End=30.51|KID=10-17
 
@@ -107,6 +108,7 @@
 # text = mhmh
 # jefferson_text = mh[mh]
 # speaker_id = BO118
+# tags = DONE
 1	mhmh	mhmh	INTJ	_	Gender=Masc	0	root	_	Backchannel=7-3|Begin=22.716|End=23.28|KID=8-0|OverlappingGroup=0
 
 # sent_id = BOD2018_11
@@ -123,8 +125,8 @@
 7	piani	piano	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	End=32.7|Intonation=rising|KID=11-6
 
 # sent_id = BOD2018_12_14
-# text = sì ci sono tre piani e l' ultimo piano è una soffitta che in realtà è abitata da uno dei miei zii
-# jefferson_text = sì: ci sono:: tre piani, [e l' ul]timo piano: è: una soffitta che:: in realtà:: è abitata: da uno dei miei zii
+# text = sì ci sono tre piani e l'ultimo piano è una soffitta che in realtà è abitata da uno dei miei zii
+# jefferson_text = sì: ci sono:: tre piani, | [e l'ul]timo piano: è: una soffitta che:: in realtà:: è abitata: da uno dei miei zii
 # speaker_id = BO140
 # tags = DONE
 1	sì	sì	INTJ	_	_	3	discourse	_	Begin=32.735|KID=12-0|Prolonged=Yes
@@ -133,7 +135,7 @@
 4	tre	tre	NUM	_	NumType=Card	5	nummod	_	KID=12-3
 5	piani	piano	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	End=34.93|Intonation=weakly_rising|KID=12-4
 6	e	e	CCONJ	_	_	12	cc	_	Begin=35.477|KID=14-0|OverlappingGroup=1
-7	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	KID=14-1|OverlappingGroup=1|Truncated=Yes
+7	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	KID=14-1|OverlappingGroup=1|SpaceAfter=No
 8	ultimo	ultimo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	KID=14-2|OverlappingGroup=1
 9	piano	piano	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	KID=14-3|Prolonged=Yes
 10	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	KID=14-4|Prolonged=Yes
@@ -156,17 +158,19 @@
 # text = mhmh
 # jefferson_text = mh[mh]
 # speaker_id = BO118
+# tags = DONE
 1	mhmh	mhmh	INTJ	_	Gender=Masc	0	root	_	Backchannel=12-4|Begin=34.977|End=35.64|KID=13-0|OverlappingGroup=1
 
 # sent_id = BOD2018_15
 # text = okay
 # jefferson_text = <oka:y>
 # speaker_id = BO118
+# tags = DONE
 1	okay	ok	INTJ	_	_	0	root	_	Begin=41.673|End=42.354|KID=15-0|PaceSlow=Yes|Prolonged=Yes
 
 # sent_id = BOD2018_16a
 # text = è fatta in mattoni
-# jefferson_text = è fatta in matto:ni: è:: è una casa costruita: intorno agli anni: cinquanta credo
+# jefferson_text = è fatta in matto:ni:
 # speaker_id = BO140
 # tags = DONE
 1	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	Begin=42.508|KID=16-0
@@ -176,7 +180,7 @@
 
 # sent_id = BOD2018_16b
 # text = è è una casa costruita intorno agli anni cinquanta credo
-# jefferson_text = è fatta in matto:ni: è:: è una casa costruita: intorno agli anni: cinquanta credo
+# jefferson_text = è:: è una casa costruita: intorno agli anni: cinquanta credo
 # speaker_id = BO140
 # tags = DONE
 1	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	reparandum	_	KID=16-4|Prolonged=Yes
@@ -194,7 +198,7 @@
 
 # sent_id = BOD2018_17_18
 # text = okay e si trova in centro alla città o fuori
-# jefferson_text = okay e si trova in centro: alla città: o fuori?
+# jefferson_text = okay | e si trova in centro: alla città: o fuori?
 # speaker_id = BO118
 # tags = merge? DONE
 1	okay	ok	INTJ	_	_	4	discourse	_	Backchannel=16-7|Begin=49.76|End=50.42|KID=17-0
@@ -214,7 +218,7 @@
 # text = no si trova fuori dalla città ma è vicina in realtà
 # jefferson_text = no si trova fuori dalla città: ma:: è vicina in realtà
 # speaker_id = BO140
-# tags = sylvain
+# tags = DONE
 1	no	no	INTJ	_	_	3	discourse	_	Begin=53.77|KID=19-0
 2	si	si	PRON	_	Person=3|PronType=Prs	3	expl	_	Clitic=Yes|KID=19-1
 3	trova	trovare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=19-2
@@ -227,7 +231,7 @@
 9	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	KID=19-7
 10	vicina	vicino	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	KID=19-8
 11	in	in	ADP	_	_	12	case	_	KID=19-9
-12	realtà	realtà	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	End=57.49|KID=19-10
+12	realtà	realtà	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	End=57.49|KID=19-10
 
 # sent_id = BOD2018_20
 # text = io abito a @nomepaese e a piedi una decina di minuti ci metto
@@ -252,6 +256,7 @@
 # text = okay
 # jefferson_text = [°okay°]
 # speaker_id = BO118
+# tags = DONE
 1	okay	ok	INTJ	_	_	0	root	_	Begin=63.56|End=64.11|KID=21-0|OverlappingGroup=2|Volume=low
 
 # sent_id = BOD2018_22
@@ -273,14 +278,14 @@
 11	verde	verde	ADJ	_	Number=Sing	8	obl	_	End=67.91|KID=22-9
 
 # sent_id = BOD2018_23_24a
-# text = fino a mh trent' anni fa io non lo so ma ho visto delle foto c' era era so~ c' era solo casa mia e immersa proprio in il verde
-# jefferson_text = fino a:: mh trent' anni fa: io non lo so ma ho visto dalle foto, c' e:ra: era so~ c' era solo casa mia: e:: immersa proprio nel verde po:i: dopo hanno costruito delle villette sopra casa mia: e quindi: si è persa la percezione della strada:: eh: nazionale:: che collega {nomepaese} con altre: altri paesi
+# text = fino a mh trent'anni fa io non lo so ma ho visto delle foto c'era era so~ c'era solo casa mia e immersa proprio in il verde
+# jefferson_text = fino a:: mh trent'anni fa: io non lo so ma ho visto dalle foto, | c'e:ra: era so~ c'era solo casa mia: e:: immersa proprio nel verde
 # speaker_id = BO140
 # tags = DONE
 1	fino	fino	ADV	_	_	5	case	_	Begin=68.673|KID=23-0
 2	a	a	ADP	_	_	1	fixed	_	KID=23-1|Prolonged=Yes
 3	mh	mh	INTJ	_	_	5	discourse	_	KID=23-2
-4	trent'	trenta	NUM	_	NumType=Card	5	nummod	_	KID=23-3|Truncated=Yes
+4	trent'	trenta	NUM	_	NumType=Card	5	nummod	_	KID=23-3|SpaceAfter=No
 5	anni	anno	NOUN	_	Gender=Masc|Number=Plur	21	obl	_	KID=23-4
 6	fa	fa	ADV	_	_	5	advmod	_	KID=23-5|Prolonged=Yes
 7	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	KID=23-6
@@ -292,11 +297,11 @@
 13	visto	vedere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	conj	_	KID=23-12
 14	delle	del	DET	_	_	15	det	_	KID=23-13
 15	foto	foto	NOUN	_	Gender=Fem	13	obj	_	End=73.03|Intonation=weakly_rising|KID=23-14
-16	c'	ci	PRON	_	PronType=Prs	17	expl	_	Begin=73.436|Clitic=Yes|KID=24-0|Truncated=Yes
+16	c'	ci	PRON	_	PronType=Prs	17	expl	_	Begin=73.436|Clitic=Yes|KID=24-0|SpaceAfter=No
 17	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	reparandum	_	KID=24-1|Prolonged=Yes
 18	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	reparandum	_	KID=24-2
 19	so~	solo	ADV	_	_	18	advmod	_	Interrupted=Yes|KID=24-3
-20	c'	ci	PRON	_	PronType=Prs	21	expl	_	Clitic=Yes|KID=24-4|Truncated=Yes
+20	c'	ci	PRON	_	PronType=Prs	21	expl	_	Clitic=Yes|KID=24-4|SpaceAfter=No
 21	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=24-5
 22	solo	solo	ADV	_	_	21	advmod	_	KID=24-6
 23	casa	casa	NOUN	_	Gender=Fem|Number=Sing	21	nsubj	_	KID=24-7
@@ -311,7 +316,7 @@
 
 # sent_id = BOD2018_24b_25
 # text = poi dopo hanno costruito delle villette sopra casa mia e quindi si è persa la percezione di la strada eh nazionale che collega @nomepaese con altre altri paesi
-# jefferson_text = fino a:: mh trent' anni fa: io non lo so ma ho visto dalle foto, c' e:ra: era so~ c' era solo casa mia: e:: immersa proprio nel verde po:i: dopo hanno costruito delle villette sopra casa mia: e quindi: si è persa la percezione della strada:: eh: nazionale:: che collega {nomepaese} con altre: altri paesi
+# jefferson_text = po:i: dopo hanno costruito delle villette sopra casa mia: e quindi: si è persa la percezione della strada:: | eh: nazionale:: che collega {nomepaese} con altre: altri paesi
 # speaker_id = BO140
 # tags = DONE
 1	poi	poi	ADV	_	_	4	advmod	_	KID=24-14|Prolonged=Yes
@@ -334,7 +339,7 @@
 17	di	di	ADP	_	_	19	case	_	KID=24-30a
 18	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	KID=24-30b
 19	strada	strada	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	End=84.27|KID=24-31|Prolonged=Yes
-20	eh	eh	INTJ	_	Gender=Masc	21	discourse	_	Begin=84.66|KID=25-0|Prolonged=Yes
+20	eh	eh	INTJ	_	Gender=Masc	19	discourse	_	Begin=84.66|KID=25-0|Prolonged=Yes
 21	nazionale	nazionale	ADJ	_	Number=Sing	19	amod	_	KID=25-1|Prolonged=Yes
 22	che	che	PRON	_	PronType=Rel	23	nsubj	_	KID=25-2
 23	collega	collegare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	KID=25-3
@@ -345,10 +350,10 @@
 28	paesi	paese	NOUN	_	Gender=Masc|Number=Plur	23	obl	_	End=89.35|KID=25-8
 
 # sent_id = BOD2018_26_27
-# text = okay e tipo fuori da casa tua che c' è tipo avete il giardino
-# jefferson_text = okay. e:: tipo fuori da casa tua che c' è tipo avete il giardino::,
+# text = okay e tipo fuori da casa tua che c'è tipo avete il giardino
+# jefferson_text = okay. | e:: tipo fuori da casa tua che c'è tipo avete il giardino::,
 # speaker_id = BO118
-# tags = merge?
+# tags = DONE
 1	okay	ok	INTJ	_	_	10	discourse	_	Begin=89.358|End=90.17|Intonation=falling|KID=26-0
 2	e	e	CCONJ	_	_	10	discourse	_	Begin=90.413|KID=27-0|Prolonged=Yes
 3	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	10	discourse	_	KID=27-1
@@ -357,7 +362,7 @@
 6	casa	casa	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	KID=27-4
 7	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	amod	_	KID=27-5
 8	che	che	PRON	_	PronType=Rel	10	nsubj	_	KID=27-6
-9	c'	ci	PRON	_	PronType=Prs	10	expl	_	Clitic=Yes|KID=27-7|Truncated=Yes
+9	c'	ci	PRON	_	PronType=Prs	10	expl	_	Clitic=Yes|KID=27-7|SpaceAfter=No
 10	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=27-8
 11	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	12	discourse	_	KID=27-9
 12	avete	avere	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	parataxis	_	KID=27-10
@@ -366,8 +371,9 @@
 
 # sent_id = BOD2018_28_29_30_31_32_34a
 # text = abbiamo sì me un prato c' è un grande prato e in realtà ce ne son due e sono divisi dalla strada che che porta a casa mia e sotto casa abbiamo un un orto molto grande che è gestito da una parte da mia nonna e dai miei genitori un' altra parte da un' altra famiglia e intorno comunque c' è campagna quindi ehm per questo è immer cioè è immersa nella natura
-# jefferson_text = abbia:mo: sì (me:) un prato: c' è un grande prato, e in realtà ce ne son due:, e::: sono divisi dalla strada che: che porta a casa mia, e: sotto casa abbiamo un: un orto molto grande:: che è gestito da u:na parte da mia nonna e dai miei genito:ri un' altra parte da: un' altra famiglia, e:::: intorno comunque c' è campagna. [qui]ndi: e::hm per questo è immer~ cioè è immersa nella natura poi si vedono i monti gli appennini:: è: è: bello.
+# jefferson_text = abbia:mo: sì (me:) un prato: c' è un grande prato, | e in realtà ce ne son due:, | e::: sono divisi dalla strada che: che porta a casa mia, | e: sotto casa abbiamo un: un orto molto grande:: che è gestito da u:na parte da mia nonna e dai miei genito:ri un' altra parte da: un' altra famiglia, | e:::: intorno comunque c' è campagna. [qui]ndi: | e::hm per questo è immer~ cioè è immersa nella natura
 # speaker_id = BO140
+# tags = DONE
 1	abbiamo	avere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	reparandum	_	Begin=94.64|KID=28-0|Prolonged=Yes
 2	sì	sì	INTJ	_	_	1	discourse	_	KID=28-1
 3	me	me	X	_	_	1	dep	_	KID=28-2|Prolonged=Yes
@@ -380,7 +386,7 @@
 10	prato	prato	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	End=98.65|Intonation=weakly_rising|KID=28-9
 11	e	e	CCONJ	_	_	16	discourse	_	Begin=99.277|KID=29-0
 12	in	in	ADP	_	_	13	case	_	KID=29-1
-13	realtà	realtà	NOUN	_	Gender=Fem|Number=Sing	16	discourse	_	KID=29-2
+13	realtà	realtà	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	KID=29-2
 14	ce	ce	PRON	_	PronType=Prs	16	expl	_	Clitic=Yes|KID=29-3
 15	ne	ne	PRON	_	PronType=Prs	16	iobj	_	Clitic=Yes|KID=29-4
 16	son	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	KID=29-5
@@ -412,7 +418,7 @@
 41	gestito	gestire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	36	acl:relcl	_	KID=31-11
 42	da	da	ADP	_	_	44	case	_	KID=31-12
 43	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	44	det	_	KID=31-13|Prolonged=Yes
-44	parte	parte	NOUN	_	Gender=Fem|Number=Sing	47	nmod	_	KID=31-14
+44	parte	parte	NOUN	_	Gender=Fem|Number=Sing	41	nmod	_	KID=31-14
 45	da	da	ADP	_	_	47	case	_	KID=31-15
 46	mia	mio	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	47	det:poss	_	KID=31-16
 47	nonna	nonno	NOUN	_	Gender=Fem|Number=Sing	41	obl:agent	_	KID=31-17
@@ -424,11 +430,11 @@
 52	genitori	genitore	NOUN	_	Gender=Masc|Number=Plur	47	conj	_	KID=31-21|Prolonged=Yes
 53	un'	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	55	det	_	KID=31-22|Truncated=Yes
 54	altra	altro	ADJ	_	Gender=Fem|Number=Sing	55	amod	_	KID=31-23
-55	parte	parte	NOUN	_	Gender=Fem|Number=Sing	59	nmod	_	KID=31-24
+55	parte	parte	NOUN	_	Gender=Fem|Number=Sing	41	parataxis	_	KID=31-24
 56	da	da	ADP	_	_	59	case	_	KID=31-25|Prolonged=Yes
 57	un'	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	59	det	_	KID=31-26|Truncated=Yes
 58	altra	altro	ADJ	_	Gender=Fem|Number=Sing	59	amod	_	KID=31-27
-59	famiglia	famiglia	NOUN	_	Gender=Fem|Number=Sing	41	obl:agent	_	End=115.32|Intonation=weakly_rising|KID=31-28
+59	famiglia	famiglia	NOUN	_	Gender=Fem|Number=Sing	55	orphan:agent	_	End=115.32|Intonation=weakly_rising|KID=31-28
 60	e	e	CCONJ	_	_	64	cc	_	Begin=115.761|KID=32-0|Prolonged=Yes
 61	intorno	intorno	ADV	_	_	64	advmod	_	KID=32-1
 62	comunque	comunque	CCONJ	_	_	64	advmod	_	KID=32-2
@@ -449,10 +455,18 @@
 76	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	77	det	_	KID=34-9b
 77	natura	natura	NOUN	_	Gender=Fem|Number=Sing	74	obl	_	KID=34-10
 
+# sent_id = BOD2018_33
+# text = okay
+# jefferson_text = oka[y]
+# speaker_id = BO118
+# tags = DONE
+1	okay	ok	INTJ	_	_	0	root	_	Backchannel=32-4|Begin=119.183|End=119.803|KID=33-0|OverlappingGroup=3
+
 # sent_id = BOD2018_34b_35
 # text = poi si vedono i monti gli appennini è è bello
-# jefferson_text = abbia:mo: sì (me:) un prato: c' è un grande prato, e in realtà ce ne son due:, e::: sono divisi dalla strada che: che porta a casa mia, e: sotto casa abbiamo un: un orto molto grande:: che è gestito da u:na parte da mia nonna e dai miei genito:ri un' altra parte da: un' altra famiglia, e:::: intorno comunque c' è campagna. [qui]ndi: e::hm per questo è immer~ cioè è immersa nella natura poi si vedono i monti gli appennini:: è: è: bello.
+# jefferson_text = poi si vedono i monti gli appennini:: è: | è: bello.
 # speaker_id = BO140
+# tags = DONE
 1	poi	poi	ADV	_	_	3	advmod	_	KID=34-11
 2	si	si	PRON	_	Person=3|PronType=Prs	3	expl	_	Clitic=Yes|KID=34-12
 3	vedono	vedere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=34-13
@@ -464,16 +478,11 @@
 9	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	Begin=126.833|KID=35-0|Prolonged=Yes
 10	bello	bello	ADJ	_	Gender=Masc|Number=Sing	3	parataxis	_	End=128.199|Intonation=falling|KID=35-1
 
-# sent_id = BOD2018_33
-# text = okay
-# jefferson_text = oka[y]
-# speaker_id = BO118
-1	okay	ok	INTJ	_	_	0	root	_	Backchannel=32-4|Begin=119.183|End=119.803|KID=33-0|OverlappingGroup=3
-
 # sent_id = BOD2018_36a
 # text = ehm con i vicini avete un buon rapporto
 # jefferson_text = e:::hm coi vicini avete un buon rapporto?
 # speaker_id = BO118
+# tags = DONE
 1	ehm	ehm	INTJ	_	_	5	discourse	_	Begin=128.52|KID=36-0|Prolonged=Yes
 2-3	coi	_	_	_	_	_	_	_	KID=36-1
 2	con	con	ADP	_	_	4	case	_	KID=36-1a
@@ -488,14 +497,16 @@
 # text = li conoscete bene
 # jefferson_text = li conoscete bene?
 # speaker_id = BO118
+# tags = DONE
 1	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	Clitic=Yes|KID=36-7
-2	conoscete	conoscere	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	KID=36-8
+2	conoscete	conoscere	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=36-8
 3	bene	bene	ADV	_	_	2	advmod	_	End=132.94|Intonation=rising|KID=36-9
 
 # sent_id = BOD2018_37a
 # text = sì cioè diciamo che io ho sempre vissuto fin da piccola con loro perché fan parte di la mia famiglia non sono paren~ cioè non è una parentela di primo grado ma comunque di secron~ di secondo grado
-# jefferson_text = si. cioè diciamo che io ho sempre vissuto:: fin da piccola con lo:ro perché fan parte della mia famiglia:: non sono paren~ cioè non: è una parentela di primo grado ma comunque di secron~ di secondo grado quindi i fi:gli:, hanno la mia stessa età o:: mh siamo comunque: coetanei: abbiamo sempre giocato insieme fin da piccoli
+# jefferson_text = si. cioè diciamo che io ho sempre vissuto:: fin da piccola con lo:ro perché fan parte della mia famiglia:: non sono paren~ cioè non: è una parentela di primo grado ma comunque di secron~ di secondo grado
 # speaker_id = BO140
+# tags = DONE
 # tags = ISSUE
 1	sì	sì	INTJ	_	Person=3|PronType=Prs	3	discourse	_	Begin=133.008|Clitic=Yes|Intonation=falling|KID=37-0
 2	cioè	cioè	CCONJ	_	_	3	discourse	_	KID=37-1
@@ -512,12 +523,12 @@
 13	loro	loro	PRON	_	Number=Plur|Person=3|PronType=Prs	8	obl	_	KID=37-12|Prolonged=Yes
 14	perché	perché	SCONJ	_	_	15	mark	_	KID=37-13
 15	fan	fare	VERB	_	_	8	advcl	_	KID=37-14
-16	parte	parte	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	KID=37-15
+16	parte	parte	NOUN	_	Gender=Fem|Number=Sing	15	xcomp	_	KID=37-15
 17-18	della	_	_	_	_	_	_	_	KID=37-16
 17	di	di	ADP	_	_	20	case	_	KID=37-16a
 18	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	KID=37-16b
 19	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	amod:poss	_	KID=37-17
-20	famiglia	famiglia	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	KID=37-18|Prolonged=Yes
+20	famiglia	famiglia	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	KID=37-18|Prolonged=Yes
 21	non	non	ADV	_	PronType=Neg	23	advmod	_	KID=37-19
 22	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	KID=37-20
 23	paren~	paren~	X	_	_	28	reparandum	_	Interrupted=Yes|KID=37-21
@@ -525,7 +536,7 @@
 25	non	non	ADV	_	PronType=Neg	28	advmod	_	KID=37-23|Prolonged=Yes
 26	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	KID=37-24
 27	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	28	det	_	KID=37-25
-28	parentela	parentela	NOUN	_	Gender=Fem|Number=Sing	20	parataxis	_	KID=37-26
+28	parentela	parentela	NOUN	_	Gender=Fem|Number=Sing	15	parataxis	_	KID=37-26
 29	di	di	ADP	_	_	31	case	_	KID=37-27
 30	primo	primo	NUM	_	Gender=Masc|Number=Sing|NumType=Ord	31	amod	_	KID=37-28
 31	grado	grado	NOUN	_	Gender=Masc|Number=Sing	28	nmod	_	KID=37-29
@@ -539,9 +550,9 @@
 
 # sent_id = BOD2018_37b_38
 # text = quindi i figli hanno la mia stessa età o mh siamo comunque coetanei abbiamo sempre giocato insieme fin da piccoli
-# jefferson_text = si. cioè diciamo che io ho sempre vissuto:: fin da piccola con lo:ro perché fan parte della mia famiglia:: non sono paren~ cioè non: è una parentela di primo grado ma comunque di secron~ di secondo grado quindi i fi:gli:, hanno la mia stessa età o:: mh siamo comunque: coetanei: abbiamo sempre giocato insieme fin da piccoli
+# jefferson_text = quindi i fi:gli:, | hanno la mia stessa età o:: mh siamo comunque: coetanei: abbiamo sempre giocato insieme fin da piccoli
 # speaker_id = BO140
-# tags = ISSUE
+# tags = DONE
 1	quindi	quindi	ADV	_	_	4	advmod	_	KID=37-37
 2	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	KID=37-38
 3	figli	figlio	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	End=148.17|Intonation=weakly_rising|KID=37-39|Prolonged=Yes
@@ -565,8 +576,9 @@
 
 # sent_id = BOD2018_39_40
 # text = anche se non c' è un rapporto proprio mh stretto di parentela ma più di convenevoli e
-# jefferson_text = anche se non c' è: u:::n rapporto proprio:, mh stre:tto di parentela ma:: più di: convenevoli: e::,
+# jefferson_text = anche se non c' è: u:::n rapporto proprio:, | mh stre:tto di parentela ma:: più di: convenevoli: e::,
 # speaker_id = BO140
+# tags = DONE
 1	anche	anche	ADV	_	_	5	advmod	_	Begin=155.92|KID=39-0
 2	se	se	SCONJ	_	_	1	fixed	_	KID=39-1
 3	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=39-2
@@ -586,15 +598,16 @@
 17	e	e	CCONJ	_	_	16	discourse	_	End=164.897|Intonation=weakly_rising|KID=40-8|Prolonged=Yes
 
 # sent_id = BOD2018_41_42
-# text = okay però comunque è cioè un' atmosfera familiare x
-# jefferson_text = okay però comunque: è::, cioè un' atmosfera familiare [xxxx]
+# text = okay però comunque è cioè un'atmosfera familiare x
+# jefferson_text = okay però comunque: è::, | cioè un'atmosfera familiare [xxxx]
 # speaker_id = BO118
+# tags = DONE
 1	okay	ok	INTJ	_	_	7	discourse	_	Begin=164.9|KID=41-0
 2	però	però	CCONJ	_	_	7	advmod	_	KID=41-1
 3	comunque	comunque	CCONJ	_	_	7	advmod	_	KID=41-2|Prolonged=Yes
 4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	End=166.7|Intonation=weakly_rising|KID=41-3|Prolonged=Yes
-5	cioè	cioere	CCONJ	_	_	7	discourse	_	Begin=166.99|KID=42-0
-6	un'	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=42-1|Truncated=Yes
+5	cioè	cioè	CCONJ	_	_	7	discourse	_	Begin=166.99|KID=42-0
+6	un'	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=42-1|SpaceAfter=No
 7	atmosfera	atmosfera	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=42-2
 8	familiare	familiare	ADJ	_	Number=Sing	7	amod	_	KID=42-3
 9	x	x	X	_	_	7	dep	_	End=169.1|KID=42-4|OverlappingGroup=4|Unintelligible=Yes
@@ -603,6 +616,7 @@
 # text = sì sì sì sì certo
 # jefferson_text = [sì sì sì sì ce:]rto
 # speaker_id = BO140
+# tags = DONE
 1	sì	sì	INTJ	_	_	0	root	_	Begin=168.48|KID=43-0|OverlappingGroup=4
 2	sì	sì	INTJ	_	Polarity=Pos	1	parataxis	_	KID=43-1|OverlappingGroup=4
 3	sì	sì	INTJ	_	Polarity=Pos	1	parataxis	_	KID=43-2|OverlappingGroup=4
@@ -613,6 +627,7 @@
 # text = cioè non stia cioè non festeggiamo feste insieme non stiamo molto insieme in generale però se ci incontriamo fuori da casa ci salutiamo ci chiediamo come stiamo e
 # jefferson_text = cioè non stia~ cioè non festeggiamo: feste insieme:, non stiamo mo:lto insieme in generale però se ci incontriamo: fuori da casa: ci salutia:mo ci chiediamo come stiamo: e:,
 # speaker_id = BO140
+# tags = DONE
 1	cioè	cioè	CCONJ	_	_	3	discourse	_	Begin=170.135|KID=44-0
 2	non	non	ADV	_	PronType=Neg	3	advmod	_	KID=44-1
 3	stia	stia~	X	_	_	6	reparandum	_	Interrupted=Yes|KID=44-2
@@ -637,7 +652,7 @@
 22	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	23	obj	_	Clitic=Yes|KID=44-21
 23	salutiamo	salutare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	KID=44-22|Prolonged=Yes
 24	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	25	obj	_	Clitic=Yes|KID=44-23
-25	chiediamo	chiedere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	23	parataxis	_	KID=44-24
+25	chiediamo	chiedere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	23	conj	_	KID=44-24
 26	come	come	ADV	_	_	27	advmod	_	KID=44-25
 27	stiamo	stare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	25	xcomp	_	KID=44-26|Prolonged=Yes
 28	e	e	CCONJ	_	_	23	discourse	_	End=180.7|Intonation=weakly_rising|KID=44-27|Prolonged=Yes
@@ -646,6 +661,7 @@
 # text = sì alla fine è unrapporto mh amichevole
 # jefferson_text = sì alla fine è un=rapporto: m:h amichevole.
 # speaker_id = BO140
+# tags = DONE
 1	sì	sì	INTJ	_	_	7	discourse	_	Begin=181.52|KID=45-0
 2-3	alla	_	_	_	_	_	_	_	KID=45-1
 2	a	a	ADP	_	_	4	case	_	KID=45-1a
@@ -661,12 +677,14 @@
 # text = okay
 # jefferson_text = <ok[ay]>
 # speaker_id = BO118
+# tags = DONE
 1	okay	ok	INTJ	_	_	0	root	_	Backchannel=45-5|Begin=184.61|End=185.08|KID=46-0|OverlappingGroup=5|PaceSlow=Yes
 
 # sent_id = BOD2018_47
 # text = sicuramente non non portiamo rancore o
 # jefferson_text = [si]curamente no:n non portiamo: rancore o,
 # speaker_id = BO140
+# tags = DONE
 1	sicuramente	sicuramente	ADV	_	_	4	advmod	_	Begin=184.826|KID=47-0|OverlappingGroup=6
 2	non	non	ADV	_	PronType=Neg	3	reparandum	_	KID=47-1|Prolonged=Yes
 3	non	non	ADV	_	PronType=Neg	4	advmod	_	KID=47-2
@@ -678,7 +696,7 @@
 # text = okay e qual è la tua stanza preferita nella tua casa
 # jefferson_text = oka::y e qual è la tua stanza preferita nella tua casa?
 # speaker_id = BO118
-# tags = split?
+# tags = DONE
 1	okay	ok	INTJ	_	_	7	discourse	_	Begin=190.84|KID=48-0|Prolonged=Yes
 2	e	e	CCONJ	_	_	7	discourse	_	KID=48-1
 3	qual	lo	PRON	_	Number=Sing|PronType=Int	7	nsubj	_	KID=48-2
@@ -695,9 +713,9 @@
 
 # sent_id = BOD2018_49_50_51_52
 # text = la mia stanza preferita ah in realtà una volta era il bagno ma perché è la parte più piccola della casa e si riscalda prima e quindi anche in inverno ho sempre pensato fosse un un luogo più chiuso di altri
-# jefferson_text = la mia stanza=preferi:ta: a::h in realtà:: una volta era il bagno. ma perché: è la parte più piccola della casa: e: si riscalda prima e:, quindi anche in inverno: ho sempre pensato, fosse u:n un luogo più chiuso di a:ltri,
+# jefferson_text = la mia stanza=preferi:ta: a::h in realtà:: una volta era il bagno. | ma perché: è la parte più piccola della casa: e: si riscalda prima e:, | quindi anche in inverno: ho sempre pensato, | fosse u:n un luogo più chiuso di a:ltri,
 # speaker_id = BO140
-# tags = dislocated?
+# tags = DONE
 1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Begin=195.163|KID=49-0
 2	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	amod:poss	_	KID=49-1
 3	stanza	stanza	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=49-2
@@ -743,9 +761,10 @@
 42	altri	altro	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	40	obl	_	End=212.03|Intonation=weakly_rising|KID=52-7|Prolonged=Yes
 
 # sent_id = BOD2018_53_54a
-# text = in generale in questo momento è la sala perché c' è il camino e mh mh vabbè ci stiamo insieme
-# jefferson_text = in genera:le in questo momento è la sala: perché:: c' è il cami:no: e:: mh mh: vabbè [ci stiamo] insie:me: esatto: c' è il divano comodo,
+# text = in generale in questo momento è la sala perché c'è il camino e mh mh vabbè ci stiamo insieme
+# jefferson_text = in genera:le in questo momento è la sala: perché:: c'è il cami:no: e:: mh | mh: vabbè [ci stiamo] insie:me:
 # speaker_id = BO140
+# tags = DONE
 1	in	in	ADP	_	_	2	case	_	Begin=212.67|KID=53-0
 2	generale	generale	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	KID=53-1|Prolonged=Yes
 3	in	in	ADP	_	_	5	case	_	KID=53-2
@@ -755,7 +774,7 @@
 7	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	KID=53-6
 8	sala	sala	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=53-7|Prolonged=Yes
 9	perché	perché	SCONJ	_	_	11	mark	_	KID=53-8|Prolonged=Yes
-10	c'	ci	PRON	_	PronType=Prs	11	expl	_	Clitic=Yes|KID=53-9|Truncated=Yes
+10	c'	ci	PRON	_	PronType=Prs	11	expl	_	Clitic=Yes|KID=53-9|SpaceAfter=No
 11	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	KID=53-10
 12	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	KID=53-11
 13	camino	camino	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	KID=53-12|Prolonged=Yes
@@ -769,15 +788,17 @@
 
 # sent_id = BOD2018_54b
 # text = esatto
-# jefferson_text = in genera:le in questo momento è la sala: perché:: c' è il cami:no: e:: mh mh: vabbè [ci stiamo] insie:me: esatto: c' è il divano comodo,
+# jefferson_text = esatto:
 # speaker_id = BO140
+# tags = DONE
 1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=55-0|KID=54-5|Prolonged=Yes
 
 # sent_id = BOD2018_54c
-# text = c' è il divano comodo
-# jefferson_text = in genera:le in questo momento è la sala: perché:: c' è il cami:no: e:: mh mh: vabbè [ci stiamo] insie:me: esatto: c' è il divano comodo,
+# text = c'è il divano comodo
+# jefferson_text = c'è il divano comodo,
 # speaker_id = BO140
-1	c'	ci	PRON	_	PronType=Prs	2	expl	_	Clitic=Yes|KID=54-6|Truncated=Yes
+# tags = DONE
+1	c'	ci	PRON	_	PronType=Prs	2	expl	_	Clitic=Yes|KID=54-6|SpaceAfter=No
 2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=54-7
 3	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=54-8
 4	divano	divano	NOUN	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	nsubj	_	KID=54-9
@@ -787,13 +808,15 @@
 # text = state insieme
 # jefferson_text = [state insie:me:]
 # speaker_id = BO118
+# tags = DONE
 1	state	stare	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=219.85|Coconstruct=dep::54-3|KID=55-0|OverlappingGroup=7
 2	insieme	insieme	ADV	_	_	1	advmod	_	End=221.44|KID=55-1|OverlappingGroup=7|Prolonged=Yes
 
 # sent_id = BOD2018_56_57
 # text = e però in realtà non ci sto quasi mai perché son sempre qua a bologna e non ho in realtà un una stanza preferita
-# jefferson_text = e:: però in realtà non ci sto quasi ma:i perché son sempre qua a bologna: e:, non ho in realtà un~ una stanza pre[ferita:],
+# jefferson_text = e:: però in realtà non ci sto quasi ma:i perché son sempre qua a bologna: e:, | non ho in realtà un~ una stanza pre[ferita:],
 # speaker_id = BO140
+# tags = DONE
 1	e	e	CCONJ	_	_	7	discourse	_	Begin=224.028|KID=56-0|Prolonged=Yes
 2	però	però	CCONJ	_	_	7	discourse	_	KID=56-1
 3	in	in	ADP	_	_	4	case	_	KID=56-2
@@ -811,7 +834,7 @@
 15	bologna	Bologna	PROPN	_	Gender=Fem	13	obl	_	KID=56-14|Prolonged=Yes
 16	e	e	CCONJ	_	_	18	cc	_	End=228.238|Intonation=weakly_rising|KID=56-15|Prolonged=Yes
 17	non	non	ADV	_	PronType=Neg	18	advmod	_	Begin=229.43|KID=57-0
-18	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	KID=57-1
+18	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	conj	_	KID=57-1
 19	in	in	ADP	_	_	20	case	_	KID=57-2
 20	realtà	realtà	NOUN	_	Gender=Fem	18	obl	_	KID=57-3
 21	un	uno	DET	_	_	22	reparandum	_	Interrupted=Yes|KID=57-4
@@ -820,18 +843,19 @@
 24	preferita	preferito	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	23	acl	_	End=232.62|Intonation=weakly_rising|KID=57-7|OverlappingGroup=8|Prolonged=Yes
 
 # sent_id = BOD2018_58_59_60
-# text = nemmeno io mi sa che ce l' ho anche perché casa mia tipo è molto cioè dà molto un senso di freddo perché l' hanno rifatta da poco quindi è molto moderna invece prima era tutta fatta di legno e c' era il camino e adesso non c' è più
-# jefferson_text = °[nemmeno io] mi sa che ce l' ho.° anche perché casa mia tipo è mo:lto cioè dà mo:lto un senso di freddo, perché l' hanno rifatta da poco quindi è molto mode:rna invece prima era tutta fatta di legno e c' era il camino e adesso non c' è più,
+# text = nemmeno io mi sa che ce l'ho anche perché casa mia tipo è molto cioè dà molto un senso di freddo perché l'hanno rifatta da poco quindi è molto moderna invece prima era tutta fatta di legno e c'era il camino e adesso non c'è più
+# jefferson_text = °[nemmeno io] mi sa che ce l'ho.° | anche perché casa mia tipo è mo:lto cioè dà mo:lto un senso di freddo, | perché l'hanno rifatta da poco quindi è molto mode:rna invece prima era tutta fatta di legno e c'era il camino e adesso non c'è più,
 # speaker_id = BO118
-1	nemmeno	nemmeno	ADV	_	PronType=Neg	8	advmod	_	Begin=232.2|KID=58-0|OverlappingGroup=8|Volume=low
+# tags = DONE
+1	nemmeno	nemmeno	ADV	_	PronType=Neg	2	advmod	_	Begin=232.2|KID=58-0|OverlappingGroup=8|Volume=low
 2	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	KID=58-1|OverlappingGroup=8|Volume=low
 3	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	Clitic=Yes|KID=58-2|Volume=low
 4	sa	sapere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=58-3|Volume=low
 5	che	che	SCONJ	_	_	8	mark	_	KID=58-4|Volume=low
 6	ce	ce	PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	obj	_	KID=58-5|Volume=low
-7	l'	lo	PRON	_	Definite=Def|Number=Sing|PronType=Art	8	obj	_	KID=58-6|Truncated=Yes|Volume=low
+7	l'	lo	PRON	_	Definite=Def|Number=Sing|PronType=Art	8	obj	_	KID=58-6|SpaceAfter=No|Volume=low
 8	ho	avere	VERB	_	Gender=Masc	4	ccomp	_	End=233.66|Intonation=falling|KID=58-7|Volume=low
-9	anche	anche	ADV	_	_	17	discourse	_	Begin=234.49|KID=59-0
+9	anche	anche	ADV	_	_	10	ADVMOD	_	Begin=234.49|KID=59-0
 10	perché	perché	SCONJ	_	_	17	mark	_	KID=59-1
 11	casa	casa	NOUN	_	Gender=Fem|Number=Sing	17	nsubj	_	KID=59-2
 12	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	amod:poss	_	KID=59-3
@@ -846,7 +870,7 @@
 21	di	di	ADP	_	_	22	case	_	KID=59-12
 22	freddo	freddo	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	End=238.47|Intonation=weakly_rising|KID=59-13
 23	perché	perché	SCONJ	_	_	26	mark	_	Begin=239.02|KID=60-0
-24	l'	lo	PRON	_	Number=Sing|Person=3|PronType=Prs	26	obj	_	Clitic=Yes|KID=60-1|Truncated=Yes
+24	l'	lo	PRON	_	Number=Sing|Person=3|PronType=Prs	26	obj	_	Clitic=Yes|KID=60-1|SpaceAfter=No
 25	hanno	avere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	KID=60-2
 26	rifatta	rifare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	17	advcl	_	KID=60-3
 27	da	da	ADP	_	_	28	case	_	KID=60-4
@@ -863,22 +887,23 @@
 38	di	di	ADP	_	_	39	case	_	KID=60-15
 39	legno	legno	NOUN	_	Gender=Masc|Number=Sing	37	obl	_	KID=60-16
 40	e	e	CCONJ	_	_	42	cc	_	KID=60-17
-41	c'	ci	PRON	_	PronType=Prs	42	expl	_	Clitic=Yes|KID=60-18|Truncated=Yes
+41	c'	ci	PRON	_	PronType=Prs	42	expl	_	Clitic=Yes|KID=60-18|SpaceAfter=No
 42	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	37	conj	_	KID=60-19
 43	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	KID=60-20
 44	camino	camino	NOUN	_	Gender=Masc|Number=Sing	42	nsubj	_	KID=60-21
 45	e	e	CCONJ	_	_	49	cc	_	KID=60-22
 46	adesso	adesso	ADV	_	_	49	advmod	_	KID=60-23
 47	non	non	ADV	_	PronType=Neg	49	advmod	_	KID=60-24
-48	c'	ci	PRON	_	PronType=Prs	49	expl	_	Clitic=Yes|KID=60-25|Truncated=Yes
+48	c'	ci	PRON	_	PronType=Prs	49	expl	_	Clitic=Yes|KID=60-25|SpaceAfter=No
 49	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	conj	_	KID=60-26
 50	più	più	ADV	_	_	49	advmod	_	End=244.76|Intonation=weakly_rising|KID=60-27
 
 # sent_id = BOD2018_61_62_64
-# text = e prima la mia stanza preferita penso fosse la cucina perché era grande e c' era il tavolo c' era pure un divanetto però adesso non ce l' ho
-# jefferson_text = e prima la mia stanza preferita penso fosse la cucina. perché era grande:: e: c' era il tavolo c' era pure un divanetto, però adesso non ce l' ho
+# text = e prima la mia stanza preferita penso fosse la cucina perché era grande e c'era il tavolo c'era pure un divanetto però adesso non ce l'ho
+# jefferson_text = e prima la mia stanza preferita penso fosse la cucina. | perché era grande:: e: c'era il tavolo c'era pure un divanetto, | però adesso non ce l'ho
 # speaker_id = BO118
-1	e	e	CCONJ	_	_	7	discourse	_	Begin=245.575|KID=61-0
+# tags = DONE
+1	e	e	CCONJ	_	_	2	discourse	_	Begin=245.575|KID=61-0
 2	prima	prima	ADV	_	_	10	advmod	_	KID=61-1
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=61-2
 4	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	amod:poss	_	KID=61-3
@@ -892,11 +917,11 @@
 12	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	KID=62-1
 13	grande	grande	ADJ	_	Number=Sing	10	advcl	_	KID=62-2|Prolonged=Yes
 14	e	e	CCONJ	_	_	16	cc	_	KID=62-3|Prolonged=Yes
-15	c'	ci	PRON	_	PronType=Prs	16	expl	_	Clitic=Yes|KID=62-4|Truncated=Yes
+15	c'	ci	PRON	_	PronType=Prs	16	expl	_	Clitic=Yes|KID=62-4|SpaceAfter=No
 16	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	conj	_	KID=62-5
 17	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	KID=62-6
 18	tavolo	tavolo	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	KID=62-7
-19	c'	ci	PRON	_	PronType=Prs	20	expl	_	Clitic=Yes|KID=62-8|Truncated=Yes
+19	c'	ci	PRON	_	PronType=Prs	20	expl	_	Clitic=Yes|KID=62-8|SpaceAfter=No
 20	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	parataxis	_	KID=62-9
 21	pure	pure	ADV	_	_	20	advmod	_	KID=62-10
 22	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	KID=62-11
@@ -905,19 +930,21 @@
 25	adesso	adesso	ADV	_	_	29	advmod	_	KID=64-1
 26	non	non	ADV	_	PronType=Neg	29	advmod	_	KID=64-2
 27	ce	ce	PRON	_	PronType=Prs	29	expl	_	Clitic=Yes|KID=64-3
-28	l'	lo	PRON	_	Number=Sing|Person=3|PronType=Prs	29	obj	_	Clitic=Yes|KID=64-4|Truncated=Yes
+28	l'	lo	PRON	_	Number=Sing|Person=3|PronType=Prs	29	obj	_	Clitic=Yes|KID=64-4|SpaceAfter=No
 29	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	conj	_	End=253.81|KID=64-5
 
 # sent_id = BOD2018_63
 # text = sì
 # jefferson_text = sì
 # speaker_id = BO140
+# tags = DONE
 1	sì	sì	INTJ	_	_	0	root	_	Backchannel=62-12|Begin=252.69|End=253.0|KID=63-0
 
 # sent_id = BOD2018_65_66
 # text = okay ehm quindi stai vicina al centro e vai spesso in centro o o resti più nella zona dove dove abiti
-# jefferson_text = <oka:y> e::hm quindi stai vicina al ce:ntro:: e: vai spesso in centro: o:: o resti più nella zona dove: dove abiti?
+# jefferson_text = <oka:y> | e::hm quindi stai vicina al ce:ntro:: e: vai spesso in centro: o:: o resti più nella zona dove: dove abiti?
 # speaker_id = BO118
+# tags = DONE
 1	okay	ok	INTJ	_	_	5	discourse	_	Begin=255.745|End=256.7|KID=65-0|PaceSlow=Yes|Prolonged=Yes
 2	ehm	ehm	INTJ	_	Gender=Masc	5	discourse	_	Begin=258.505|KID=66-0|Prolonged=Yes
 3	quindi	quindi	ADV	_	_	5	advmod	_	KID=66-1
@@ -1028,7 +1055,6 @@
 # text = okay
 # jefferson_text = [okay]
 # speaker_id = BO118
-# tags = merge?
 1	okay	ok	INTJ	_	_	0	root	_	Begin=288.702|End=289.302|KID=72-0|OverlappingGroup=9
 
 # sent_id = BOD2018_73
@@ -1143,13 +1169,12 @@
 # text = eh ce li avete gli autobus
 # jefferson_text = eh ce li avete gli auto[bus]?
 # speaker_id = BO118
-# tags = dislocated?
 1	eh	eh	INTJ	_	_	4	discourse	_	Begin=322.603|KID=80-0
 2	ce	ce	PRON	_	PronType=Prs	4	expl	_	Clitic=Yes|KID=80-1
 3	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=80-2
 4	avete	avere	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=80-3
 5	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	KID=80-4
-6	autobus	autobus	NOUN	_	Gender=Masc	4	obj	_	End=323.913|Intonation=rising|KID=80-5|OverlappingGroup=12
+6	autobus	autobus	NOUN	_	Gender=Masc	4	dislocated	_	End=323.913|Intonation=rising|KID=80-5|OverlappingGroup=12
 
 # sent_id = BOD2018_81
 # text = sì ce ne sono pochi e passano tipo ogni quaranta minuti ogni mezz' ora così quindi in realtà è un po' scomodo spostarsi in autobus
@@ -1239,7 +1264,7 @@
 25	e	e	CCONJ	_	_	34	cc	_	KID=83-22|Prolonged=Yes
 26	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	34	nsubj	_	KID=83-23
 27	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	KID=83-24
-28	macchina	macchina	NOUN	_	Gender=Fem|Number=Sing	34	obj	_	KID=83-25
+28	macchina	macchina	NOUN	_	Gender=Fem|Number=Sing	34	dislocated	_	KID=83-25
 29	a	a	ADP	_	_	30	case	_	KID=83-26
 30	casa	casa	NOUN	_	Gender=Fem|Number=Sing	34	obl	_	KID=83-27
 31	non	non	ADV	_	PronType=Neg	34	advmod	_	KID=83-28
@@ -6795,7 +6820,7 @@
 # speaker_id = BO140
 1	a	a	ADP	_	_	2	case	_	Begin=1655.83|KID=436-0
 2	caso	caso	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	KID=436-1
-3	{ride}	-	X	_	_	_	_	_	Type=nonverbalbehavior
+3	{ride}	-	X	_	_	5	dep	_	Type=nonverbalbehavior
 4	senza	senza	ADP	_	_	5	mark	_	KID=436-3
 5	sapere	sapere	VERB	_	VerbForm=Inf	0	root	_	End=1658.04|KID=436-4
 
