@@ -455,13 +455,6 @@
 76	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	77	det	_	KID=34-9b
 77	natura	natura	NOUN	_	Gender=Fem|Number=Sing	74	obl	_	KID=34-10
 
-# sent_id = BOD2018_33
-# text = okay
-# jefferson_text = oka[y]
-# speaker_id = BO118
-# tags = DONE
-1	okay	ok	INTJ	_	_	0	root	_	Backchannel=32-4|Begin=119.183|End=119.803|KID=33-0|OverlappingGroup=3
-
 # sent_id = BOD2018_34b_35
 # text = poi si vedono i monti gli appennini è è bello
 # jefferson_text = poi si vedono i monti gli appennini:: è: | è: bello.
@@ -477,6 +470,13 @@
 8	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	reparandum	_	End=126.04|KID=34-18|Prolonged=Yes
 9	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	Begin=126.833|KID=35-0|Prolonged=Yes
 10	bello	bello	ADJ	_	Gender=Masc|Number=Sing	3	parataxis	_	End=128.199|Intonation=falling|KID=35-1
+
+# sent_id = BOD2018_33
+# text = okay
+# jefferson_text = oka[y]
+# speaker_id = BO118
+# tags = DONE
+1	okay	ok	INTJ	_	_	0	root	_	Backchannel=32-4|Begin=119.183|End=119.803|KID=33-0|OverlappingGroup=3
 
 # sent_id = BOD2018_36a
 # text = ehm con i vicini avete un buon rapporto
@@ -506,7 +506,6 @@
 # text = sì cioè diciamo che io ho sempre vissuto fin da piccola con loro perché fan parte di la mia famiglia non sono paren~ cioè non è una parentela di primo grado ma comunque di secron~ di secondo grado
 # jefferson_text = si. cioè diciamo che io ho sempre vissuto:: fin da piccola con lo:ro perché fan parte della mia famiglia:: non sono paren~ cioè non: è una parentela di primo grado ma comunque di secron~ di secondo grado
 # speaker_id = BO140
-# tags = DONE
 # tags = ISSUE
 1	sì	sì	INTJ	_	Person=3|PronType=Prs	3	discourse	_	Begin=133.008|Clitic=Yes|Intonation=falling|KID=37-0
 2	cioè	cioè	CCONJ	_	_	3	discourse	_	KID=37-1
@@ -3518,29 +3517,6 @@
 # jefferson_text = [esatto].
 # speaker_id = BO118
 1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Begin=892.01|End=892.76|Intonation=falling|KID=231-0|OverlappingGroup=43
-
-# sent_id = BOD2018_232
-# text = comunque se abitan son rimaste nelle zone più storiche tipo
-# jefferson_text = comunque se abitan son rimaste nelle zone più sto:riche tipo::,
-# speaker_id = BO140
-1	comunque	comunque	CCONJ	_	_	5	advmod	_	Begin=897.496|KID=232-0
-2	se	se	SCONJ	_	_	5	mark	_	KID=232-1
-3	abitan	abitare	ADV	_	_	5	advmod	_	KID=232-2
-4	son	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	KID=232-3
-5	rimaste	rimanere	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	KID=232-4
-6-7	nelle	_	_	_	_	_	_	_	KID=232-5
-6	in	in	ADP	_	_	8	case	_	KID=232-5a
-7	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	KID=232-5b
-8	zone	zona	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	KID=232-6
-9	più	più	ADV	_	_	10	advmod	_	KID=232-7
-10	storiche	storico	ADJ	_	Gender=Fem|Number=Plur	8	amod	_	KID=232-8|Prolonged=Yes
-11	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	5	xcomp	_	End=901.52|Intonation=weakly_rising|KID=232-9|Prolonged=Yes
-
-# sent_id = BOD2018_233
-# text = castiglione
-# jefferson_text = castigl[ione::],
-# speaker_id = BO140
-1	castiglione	Castiglione	PROPN	_	Gender=Fem|Number=Sing	0	root	_	Begin=902.021|End=903.913|Intonation=weakly_rising|KID=233-0|OverlappingGroup=44|Prolonged=Yes
 
 # sent_id = BOD2018_234
 # text = sì esatto
@@ -6983,4 +6959,27 @@
 2	parlato	parlare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=451-1
 3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=451-2
 4	sacco	sacco	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	End=1686.886|KID=451-3
+
+# sent_id = BOD2018_232
+# text = comunque se abitan son rimaste nelle zone più storiche tipo
+# jefferson_text = comunque se abitan son rimaste nelle zone più sto:riche tipo::,
+# speaker_id = BO140
+1	comunque	comunque	CCONJ	_	_	5	advmod	_	Begin=897.496|KID=232-0
+2	se	se	SCONJ	_	_	5	mark	_	KID=232-1
+3	abitan	abitare	ADV	_	_	5	advmod	_	KID=232-2
+4	son	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	KID=232-3
+5	rimaste	rimanere	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	KID=232-4
+6-7	nelle	_	_	_	_	_	_	_	KID=232-5
+6	in	in	ADP	_	_	8	case	_	KID=232-5a
+7	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	KID=232-5b
+8	zone	zona	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	KID=232-6
+9	più	più	ADV	_	_	10	advmod	_	KID=232-7
+10	storiche	storico	ADJ	_	Gender=Fem|Number=Plur	8	amod	_	KID=232-8|Prolonged=Yes
+11	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	5	xcomp	_	End=901.52|Intonation=weakly_rising|KID=232-9|Prolonged=Yes
+
+# sent_id = BOD2018_233
+# text = castiglione
+# jefferson_text = castigl[ione::],
+# speaker_id = BO140
+1	castiglione	Castiglione	PROPN	_	Gender=Fem|Number=Sing	0	root	_	Begin=902.021|End=903.913|Intonation=weakly_rising|KID=233-0|OverlappingGroup=44|Prolonged=Yes
 
