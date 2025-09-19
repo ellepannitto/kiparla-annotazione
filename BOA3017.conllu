@@ -131,16 +131,16 @@
 # speaker_id = BO146
 1	se	se	SCONJ	_	_	3	mark	_	Begin=17.55|KID=15-0
 2	poi	poi	ADV	_	_	3	advmod	_	KID=15-1
-3	arriva	arrivare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=15-2
+3	arriva	arrivare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	KID=15-2
 4	pure	pure	ADV	_	_	5	advmod	_	KID=15-3
 5	francesco	Francesco	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	KID=15-4
-6	ciao	ciao	INTJ	_	_	3	discourse:emph	_	End=18.51|KID=15-5
+6	ciao	ciao	INTJ	_	_	0	root	_	End=18.51|KID=15-5
 
 # sent_id = BOA3017_20
 # text = alé lì è la fine
 # jefferson_text = alé lì è la fine
 # speaker_id = BO145
-1	alé	alé	INTJ	_	_	3	cc	_	Begin=19.9|KID=20-0
+1	alé	alé	INTJ	_	_	3	discourse	_	Begin=19.9|KID=20-0
 2	lì	lì	ADV	_	_	3	advmod	_	KID=20-1
 3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=20-2
 4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=20-3
@@ -150,8 +150,7 @@
 # text = x
 # jefferson_text = xx {ride}
 # speaker_id = BO147
-1	x	x	X	_	_	0	root	_	Begin=20.84|End=24.33|KID=21-0|Unintelligible=Yes
-2	{ride}	-	X	_	_	_	_	_	Type=nonverbalbehavior
+1	x	x	X	_	_	0	dep	_	Begin=20.84|End=24.33|KID=21-0|Unintelligible=Yes
 
 # sent_id = BOA3017_22
 # text = non saprei come scrivere 'mbare però
@@ -161,30 +160,28 @@
 2	saprei	sapere	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=22-1
 3	come	come	SCONJ	_	_	4	mark	_	KID=22-2
 4	scrivere	scrivere	VERB	_	VerbForm=Inf	2	advcl	_	KID=22-3
-5	'mbare	'mbare	NOUN	_	VerbForm=Inf	4	xcomp	_	KID=22-4
+5	'mbare	'mbare	NOUN	_	VerbForm=Inf	4	obj	_	KID=22-4
 6	però	però	CCONJ	_	_	2	advmod	_	End=27.6|KID=22-5
-7	{ride}	-	X	_	_	_	_	_	Type=nonverbalbehavior
 
 # sent_id = BOA3017_24
 # text = apostrofo
 # jefferson_text = apostrofo {ride}
 # speaker_id = BO139
 1	apostrofo	apostrofo	NOUN	_	Gender=Fem	0	root	_	Begin=28.267|End=29.32|KID=24-0
-2	{ride}	-	X	_	_	_	_	_	Type=nonverbalbehavior
 
 # sent_id = BOA3017_25
 # text = sì apostrofo 'mbare
 # jefferson_text = sì. apostrofo mbare
 # speaker_id = BO145
-1	sì	sì	INTJ	_	_	2	advmod	_	Begin=29.322|Intonation=falling|KID=25-0
-2	apostrofo	apostrofo	NOUN	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	amod	_	KID=25-1
-3	'mbare	'mbare	NOUN	_	VerbForm=Inf	0	root	_	End=30.557|KID=25-2
+1	sì	sì	INTJ	_	_	2	discourse	_	Begin=29.322|Intonation=falling|KID=25-0
+2	apostrofo	apostrofo	NOUN	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Coconstruct=24-0::conj|KID=25-1
+3	'mbare	'mbare	NOUN	_	VerbForm=Inf	2	nmod	_	End=30.557|KID=25-2
 
 # sent_id = BOA3017_26
 # text = mh
 # jefferson_text = mh
 # speaker_id = BO147
-1	mh	mh	INTJ	_	_	0	root	_	Begin=30.557|End=30.977|KID=26-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=25-1|Begin=30.557|End=30.977|KID=26-0
 
 # sent_id = BOA3017_27
 # text = c' è sempre la prima volta
@@ -201,8 +198,7 @@
 # text = mh
 # jefferson_text = mh {ride}
 # speaker_id = BO139
-1	mh	mh	INTJ	_	_	0	root	_	Begin=34.537|End=35.327|KID=28-0
-2	{ride}	-	X	_	_	_	_	_	Type=nonverbalbehavior
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=27-1|Begin=34.537|End=35.327|KID=28-0
 
 # sent_id = BOA3017_29
 # text = x
@@ -211,43 +207,44 @@
 1	x	x	X	_	_	0	root	_	Begin=35.557|End=36.387|KID=29-0|Unintelligible=Yes
 
 # sent_id = BOA3017_31
-# text = quindi col pane cosa dobbiamo cosa fare
+# text = quindi col pane cosa dobbiamo fare
 # jefferson_text = quindi col xx (cosa dobbiamo cosa fare)?
 # speaker_id = BO147
-1	quindi	quindi	ADV	_	_	8	advmod	_	Begin=40.227|KID=31-0
+1	quindi	quindi	ADV	_	_	7	advmod	_	Begin=40.227|KID=31-0
 2-3	col	_	_	_	_	_	_	_	KID=31-1
-2	con	con	ADP	_	_	5	case	_	KID=31-1a
-3	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=31-1b
-4	pane	pane	NOUN	_	_	5	amod	_	KID=31-2|Unintelligible=Yes
-5	cosa	cosa	PRON	_	PronType=Int	8	obl	_	KID=31-3
-6	dobbiamo	dovere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	KID=31-4
-7	cosa	cosa	PRON	_	PronType=Int	8	obj	_	KID=31-5
-8	fare	fare	VERB	_	VerbForm=Inf	0	root	_	End=42.057|Intonation=rising|KID=31-6
+2	con	con	ADP	_	_	4	case	_	KID=31-1a
+3	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=31-1b
+4	pane	pane	NOUN	_	_	7	obl	_	KID=31-2|Unintelligible=Yes
+5	cosa	cosa	PRON	_	PronType=Int	7	nsubj	_	KID=31-3
+6	dobbiamo	dovere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	KID=31-4
+7	fare	fare	VERB	_	VerbForm=Inf	0	root	_	End=42.057|Intonation=rising|KID=31-6
 
 # sent_id = BOA3017_32
 # text = nop~ eh a a prendere un caffè
 # jefferson_text = no=p~ eh a a prendere un caffè
 # speaker_id = BO146
-1	no	no	INTJ	_	_	2	advmod	_	Begin=42.407|KID=32-0
-2	p~	p~	X	_	_	0	root	_	Interrupted=Yes|KID=32-1|ProsodicLink=Yes
-3	eh	eh	INTJ	_	_	2	amod	_	KID=32-2
-4	a	a	ADP	_	_	6	mark	_	KID=32-3
-5	a	a	ADP	_	_	4	fixed	_	KID=32-4
-6	prendere	prendere	VERB	_	VerbForm=Inf	3	advcl	_	KID=32-5
+1	no	no	INTJ	_	_	6	discourse	_	Begin=42.407|KID=32-0
+2	p~	p~	X	_	_	6	reparandum	_	Interrupted=Yes|KID=32-1|ProsodicLink=Yes
+3	eh	eh	INTJ	_	_	6	discourse	_	KID=32-2
+4	a	a	ADP	_	_	5	reparandum	_	KID=32-3
+5	a	a	ADP	_	_	6	mark	_	KID=32-4
+6	prendere	prendere	VERB	_	VerbForm=Inf	0	root	_	KID=32-5
 7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=32-6
 8	caffè	caffè	NOUN	_	Gender=Masc	6	obj	_	End=44.427|KID=32-7
 
-# sent_id = BOA3017_33
-# text = poi se vuoi fare aperitivo fai quello
-# jefferson_text = ([poi se vuoi fare] aperitivo fai quello)
+# sent_id = BOA3017_33_35
+# text = poi se vuoi fare aperitivo fai quello da pallotti
+# jefferson_text = ([poi se vuoi fare] aperitivo fai quello) da pallotti
 # speaker_id = BO146
-1	poi	poi	ADV	_	_	4	advmod	_	Begin=44.492|KID=33-0|OverlappingGroup=3
+1	poi	poi	ADV	_	_	6	advmod	_	Begin=44.492|KID=33-0|OverlappingGroup=3
 2	se	se	SCONJ	_	_	4	mark	_	KID=33-1|OverlappingGroup=3
-3	vuoi	volere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	KID=33-2|OverlappingGroup=3
+3	vuoi	volere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	KID=33-2|OverlappingGroup=3
 4	fare	fare	VERB	_	VerbForm=Inf	6	advcl	_	KID=33-3|OverlappingGroup=3
-5	aperitivo	aperitivo	NOUN	_	Gender=Masc|Number=Sing	4	xcomp	_	KID=33-4
+5	aperitivo	aperitivo	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	KID=33-4
 6	fai	fare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=33-5
 7	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	6	obj	_	End=46.392|KID=33-6
+8	da	da	ADP	_	_	9	case	_	Begin=46.877|KID=35-0
+9	pallotti	Pallotti	PROPN	_	Gender=Masc|Number=Plur	6	obl	_	End=47.547|KID=35-1
 
 # sent_id = BOA3017_34
 # text = x
@@ -255,45 +252,38 @@
 # speaker_id = BO145
 1	x	x	X	_	_	0	root	_	Begin=44.617|End=45.087|KID=34-0|OverlappingGroup=3|Unintelligible=Yes
 
-# sent_id = BOA3017_35
-# text = da pallotti
-# jefferson_text = da pallotti
-# speaker_id = BO146
-1	da	da	ADP	_	_	2	case	_	Begin=46.877|KID=35-0
-2	pallotti	Pallotti	PROPN	_	Gender=Masc|Number=Plur	0	root	_	End=47.547|KID=35-1
-
 # sent_id = BOA3017_36
 # text = quando
 # jefferson_text = quando
 # speaker_id = BO145
-1	quando	quando	SCONJ	_	_	0	root	_	Begin=48.497|End=48.977|KID=36-0
+1	quando	quando	ADV	_	_	0	root	_	Begin=48.497|End=48.977|KID=36-0
 
 # sent_id = BOA3017_38
 # text = x ma io da pallotti ci piglio le paste cioè ciprendo mh le brio~
 # jefferson_text = (xx ma io da pallotti ci piglio le paste >cioè:< ci=prend[o: mh le brio~])
 # speaker_id = BO147
-1	x	x	X	_	_	7	nsubj	_	Begin=49.327|KID=38-0|Unintelligible=Yes
-2	ma	ma	CCONJ	_	_	3	cc	_	KID=38-1
-3	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	1	conj	_	KID=38-2
+1	x	x	X	_	_	7	dep	_	Begin=49.327|KID=38-0|Unintelligible=Yes
+2	ma	ma	CCONJ	_	_	7	discourse	_	KID=38-1
+3	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	KID=38-2
 4	da	da	ADP	_	_	5	case	_	KID=38-3
-5	pallotti	Pallotti	PROPN	_	_	3	nmod	_	KID=38-4
+5	pallotti	Pallotti	PROPN	_	_	7	dislocated	_	KID=38-4
 6	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	7	iobj	_	Clitic=Yes|KID=38-5
 7	piglio	pigliare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=38-6
 8	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	KID=38-7
 9	paste	pasta	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	KID=38-8
-10	cioè	cioè	INTJ	_	_	12	cc	_	KID=38-9|PaceFast=Yes|Prolonged=Yes
+10	cioè	cioè	CCONJ	_	_	12	cc	_	KID=38-9|PaceFast=Yes|Prolonged=Yes
 11	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	12	expl	_	Clitic=Yes|KID=38-10
 12	prendo	prendere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	KID=38-11|OverlappingGroup=4|Prolonged=Yes|ProsodicLink=Yes
-13	mh	mh	INTJ	_	_	12	advmod	_	KID=38-12|OverlappingGroup=4
+13	mh	mh	INTJ	_	_	12	discourse	_	KID=38-12|OverlappingGroup=4
 14	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	KID=38-13|OverlappingGroup=4
-15	brio~	brio~	SYM	_	_	12	nsubj	_	End=52.997|Interrupted=Yes|KID=38-14|OverlappingGroup=4
+15	brio~	brio~	X	_	_	12	obj	_	End=52.997|Interrupted=Yes|KID=38-14|OverlappingGroup=4
 
 # sent_id = BOA3017_39
 # text = le lasagne
 # jefferson_text = [le lasagne]
 # speaker_id = BO146
 1	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	Begin=51.927|KID=39-0|OverlappingGroup=4
-2	lasagne	lasagna	NOUN	_	Gender=Fem|Number=Plur	0	root	_	End=52.887|KID=39-1|OverlappingGroup=4
+2	lasagne	lasagna	NOUN	_	Gender=Fem|Number=Plur	0	root	_	Coconstruct=conj::38-14|End=52.887|KID=39-1|OverlappingGroup=4
 
 # sent_id = BOA3017_40
 # text = ah
@@ -301,33 +291,27 @@
 # speaker_id = BO147
 1	ah	ah	INTJ	_	_	0	root	_	Begin=53.337|End=53.62|KID=40-0|OverlappingGroup=5
 
-# sent_id = BOA3017_41
-# text = non x le brioche x
-# jefferson_text = ([n]on) xxx le brioche [xxxx]
+# sent_id = BOA3017_41_43
+# text = non x le brioche x x mh ce n' ha poche
+# jefferson_text = ([n]on) xxx le brioche [xxxx] x (.) [m]:h ce n' ha poche
 # speaker_id = BO146
-1	non	non	ADV	_	PronType=Neg	2	advmod	_	Begin=53.503|KID=41-0|OverlappingGroup=5
-2	x	x	X	_	_	4	nmod	_	KID=41-1|Unintelligible=Yes
+1	non	non	ADV	_	PronType=Neg	4	advmod	_	Begin=53.503|KID=41-0|OverlappingGroup=5
+2	x	x	X	_	_	4	dep	_	KID=41-1|Unintelligible=Yes
 3	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	KID=41-2
 4	brioche	brioche	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=41-3
-5	x	x	X	_	_	4	nmod	_	End=55.213|KID=41-4|OverlappingGroup=6|Unintelligible=Yes
+5	x	x	X	_	_	4	dep	_	End=55.213|KID=41-4|OverlappingGroup=6|Unintelligible=Yes
+6	x	x	X	_	_	10	dep	_	Begin=55.493|KID=43-0|PauseAfter=Yes|Unintelligible=Yes
+7	mh	mh	INTJ	_	_	10	discourse	_	KID=43-2|OverlappingGroup=7|Prolonged=Yes
+8	ce	ce	PRON	_	Number=Plur|Person=1|PronType=Prs	10	expl	_	Clitic=Yes|KID=43-3
+9	n'	ne	PRON	_	PronType=Prs	10	iobj	_	Clitic=Yes|KID=43-4|Truncated=Yes
+10	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	KID=43-5
+11	poche	poco	PRON	_	_	10	advmod	_	End=57.563|KID=43-6
 
 # sent_id = BOA3017_42
 # text = cristobellotti
 # jefferson_text = [cristobello]tti
 # speaker_id = BO145
 1	cristobellotti	Cristobellotti	PROPN	_	_	0	root	_	Begin=54.503|End=55.523|KID=42-0|OverlappingGroup=6
-
-# sent_id = BOA3017_43
-# text = x mh ce n' ha poche
-# jefferson_text = x (.) [m]:h ce n' ha poche
-# speaker_id = BO146
-1	x	x	X	_	_	6	nsubj	_	Begin=55.493|KID=43-0|PauseAfter=Yes|Unintelligible=Yes
-2	{P}	-	X	_	_	_	_	_	Type=shortpause
-3	mh	mh	INTJ	_	_	1	advmod	_	KID=43-2|OverlappingGroup=7|Prolonged=Yes
-4	ce	ce	PRON	_	Number=Plur|Person=1|PronType=Prs	6	expl	_	Clitic=Yes|KID=43-3
-5	n'	ne	PRON	_	PronType=Prs	6	iobj	_	Clitic=Yes|KID=43-4|Truncated=Yes
-6	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	KID=43-5
-7	poche	poco	PRON	_	_	0	root	_	End=57.563|KID=43-6
 
 # sent_id = BOA3017_44
 # text = come no
@@ -340,39 +324,40 @@
 # text = che palle
 # jefferson_text = che palle
 # speaker_id = BO147
-1	che	che	DET	_	PronType=Exc	2	mark	_	Begin=57.883|KID=45-0
+# tags = aiuto
+1	che	che	DET	_	PronType=Exc	2	det	_	Begin=57.883|KID=45-0
 2	palle	palla	NOUN	_	Gender=Fem|Number=Plur	0	root	_	End=59.063|KID=45-1
 
 # sent_id = BOA3017_46
 # text = beh pigli un dolcino se no glielo chiedi se c' ha le brioche oppure se te le fa
 # jefferson_text = beh pi[gli un dolci]no se non glielo chiedi se c' ha le brioche oppure se te le fa
 # speaker_id = BO146
-1	beh	beh	INTJ	_	_	2	amod	_	Begin=60.928|KID=46-0
-2	pigli	pigliare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	nsubj	_	KID=46-1|OverlappingGroup=9
+1	beh	beh	INTJ	_	_	2	discourse	_	Begin=60.928|KID=46-0
+2	pigli	pigliare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=46-1|OverlappingGroup=9
 3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=46-2|OverlappingGroup=9
-4	dolcino	dolce	NOUN	_	Gender=Masc|Number=Sing	19	nsubj	_	KID=46-3|OverlappingGroup=9
-5	se	se	SCONJ	_	_	9	mark	_	KID=46-4
-6	no	no	INTJ	_	PronType=Neg	9	advmod	_	KID=46-5
+4	dolcino	dolcino	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	KID=46-3|OverlappingGroup=9
+5	se	se	SCONJ	_	_	9	cc	_	KID=46-4
+6	no	no	INTJ	_	PronType=Neg	5	fixed	_	KID=46-5
 7-8	glielo	_	_	_	_	_	_	_	KID=46-6
-7	glie	gli	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl:impers	_	Clitic=Yes|KID=46-6a
+7	glie	gli	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	Clitic=Yes|KID=46-6a
 8	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	Clitic=Yes|KID=46-6b
-9	chiedi	chiedere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	advcl	_	KID=46-7
+9	chiedi	chiedere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	KID=46-7
 10	se	se	SCONJ	_	_	12	mark	_	KID=46-8
 11	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	12	expl	_	Clitic=Yes|KID=46-9|Truncated=Yes
-12	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	KID=46-10
+12	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	dislocated	_	KID=46-10
 13	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	KID=46-11
-14	brioche	brioche	NOUN	_	Gender=Fem|Number=Plur	19	obj	_	KID=46-12
+14	brioche	brioche	NOUN	_	Gender=Fem|Number=Plur	12	obj	_	KID=46-12
 15	oppure	oppure	CCONJ	_	Gender=Fem|Number=Plur	19	cc	_	KID=46-13
 16	se	se	SCONJ	_	_	19	mark	_	KID=46-14
-17	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	19	nsubj	_	Clitic=Yes|KID=46-15
-18	le	le	PRON	_	Gender=Fem|Person=3|PronType=Prs	19	iobj	_	Clitic=Yes|KID=46-16
-19	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=64.268|KID=46-17
+17	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	19	iobj	_	Clitic=Yes|KID=46-15
+18	le	le	PRON	_	Gender=Fem|Person=3|PronType=Prs	19	obj	_	Clitic=Yes|KID=46-16
+19	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	End=64.268|KID=46-17
 
 # sent_id = BOA3017_47
 # text = mh
 # jefferson_text = [m:h]
 # speaker_id = BO145
-1	mh	mh	INTJ	_	_	0	root	_	Begin=61.433|End=61.963|KID=47-0|OverlappingGroup=9|Prolonged=Yes
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=46-1|Begin=61.433|End=61.963|KID=47-0|OverlappingGroup=9|Prolonged=Yes
 
 # sent_id = BOA3017_48
 # text = x
@@ -380,42 +365,33 @@
 # speaker_id = BO146
 1	x	x	X	_	_	0	root	_	Begin=65.022|End=65.453|KID=48-0|Unintelligible=Yes|Volume=low
 
-# sent_id = BOA3017_49
-# text = a parte che
-# jefferson_text = (a) parte [che]
+# sent_id = BOA3017_49_51_52
+# text = a parte che a parte che pallotti fa anche il coso l' aperitivo no
+# jefferson_text = (a) parte [che] (a) parte che pallotti fa anche il coso l' aperitivo no?
 # speaker_id = BO147
-1	a	a	ADP	_	_	2	case	_	Begin=65.473|KID=49-0
-2	parte	parte	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	KID=49-1
-3	che	che	SCONJ	_	_	0	root	_	End=65.993|KID=49-2|OverlappingGroup=10
+# tags = aiuto
+1	a	a	ADP	_	_	4	reparandum	_	Begin=65.473|KID=49-0
+2	parte	parte	NOUN	_	Gender=Fem|Number=Sing	1	fixed	_	KID=49-1
+3	che	che	SCONJ	_	_	2	fixed	_	End=65.993|KID=49-2|OverlappingGroup=10
+4	a	a	ADP	_	_	8	discourse	_	Begin=67.238|KID=51-0
+5	parte	parte	NOUN	_	Gender=Fem|Number=Sing	4	fixed	_	KID=51-1
+6	che	che	SCONJ	_	_	5	fixed	_	KID=51-2
+7	pallotti	Pallotti	PROPN	_	_	8	nsubj	_	KID=51-3
+8	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=51-4
+9	anche	anche	ADV	_	_	8	advmod	_	KID=51-5
+10	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=51-6
+11	coso	coso	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	End=69.098|KID=51-7
+12	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	13	det	_	Begin=69.343|KID=52-0|Truncated=Yes
+13	aperitivo	aperitivo	NOUN	_	Gender=Masc|Number=Sing	11	conj	_	KID=52-1
+14	no	no	INTJ	_	_	8	advcl	_	End=69.983|Intonation=rising|KID=52-2
 
 # sent_id = BOA3017_50
 # text = no perché scivola
 # jefferson_text = [no perché] scivola
 # speaker_id = BO145
-1	no	no	INTJ	_	_	0	root	_	Begin=65.698|KID=50-0|OverlappingGroup=10
+1	no	no	ADV	_	_	0	root	_	Begin=65.698|KID=50-0|OverlappingGroup=10
 2	perché	perché	SCONJ	_	_	3	mark	_	KID=50-1|OverlappingGroup=10
 3	scivola	scivolare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	End=66.488|KID=50-2
-
-# sent_id = BOA3017_51
-# text = a parte che pallotti fa anche il coso
-# jefferson_text = (a) parte che pallotti fa anche il coso
-# speaker_id = BO147
-1	a	a	ADP	_	_	2	case	_	Begin=67.238|KID=51-0
-2	parte	parte	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	KID=51-1
-3	che	che	SCONJ	_	_	4	det	_	KID=51-2
-4	pallotti	Pallotti	PROPN	_	_	5	nsubj	_	KID=51-3
-5	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=51-4
-6	anche	anche	ADV	_	_	8	advmod	_	KID=51-5
-7	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=51-6
-8	coso	coso	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	End=69.098|KID=51-7
-
-# sent_id = BOA3017_52
-# text = l' aperitivo no
-# jefferson_text = l' aperitivo no?
-# speaker_id = BO147
-1	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	Begin=69.343|KID=52-0|Truncated=Yes
-2	aperitivo	aperitivo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=52-1
-3	no	no	INTJ	_	_	2	advmod	_	End=69.983|Intonation=rising|KID=52-2
 
 # sent_id = BOA3017_53
 # text = sì non so come lo fa cioè
@@ -424,70 +400,60 @@
 1	sì	sì	INTJ	_	_	3	discourse	_	Begin=71.058|KID=53-0|Volume=low
 2	non	non	ADV	_	PronType=Neg	3	advmod	_	KID=53-1|Volume=low
 3	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=53-2|Volume=low
-4	come	come	ADV	_	_	6	mark	_	KID=53-3|Volume=low
+4	come	come	ADV	_	_	6	advmod	_	KID=53-3|Volume=low
 5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|KID=53-4|Volume=low
 6	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	Intonation=falling|KID=53-5|Volume=low
-7	cioè	cioè	CCONJ	_	_	6	advmod	_	End=72.988|KID=53-6|Volume=low
+7	cioè	cioè	CCONJ	_	_	3	discourse	_	End=72.988|KID=53-6|Volume=low
 
 # sent_id = BOA3017_54
 # text = mi sa che costa
 # jefferson_text = mi sa che costa
 # speaker_id = BO145
 1	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Begin=73.328|Clitic=Yes|KID=54-0
-2	sa	sapere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=54-1
+2	sa	sapere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Coconstruct=conj::53-2|KID=54-1
 3	che	che	SCONJ	_	_	4	mark	_	KID=54-2
 4	costa	costare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	End=74.108|KID=54-3
 
-# sent_id = BOA3017_55
-# text = vabbè però è anche
-# jefferson_text = vabbè però è anche
+# sent_id = BOA3017_55_56
+# text = vabbè però è anche è anche ristorante
+# jefferson_text = vabbè però è anche è anche ristorante
 # speaker_id = BO147
-1	vabbè	vabbè	INTJ	_	_	4	discourse	_	Begin=74.223|KID=55-0
-2	però	però	ADV	_	_	4	advmod	_	KID=55-1
-3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=55-2
-4	anche	anche	ADV	_	_	0	root	_	End=75.063|KID=55-3
+1	vabbè	vabbè	INTJ	_	_	7	discourse	_	Begin=74.223|KID=55-0
+2	però	però	ADV	_	_	7	advmod	_	KID=55-1
+3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	reparandum	_	KID=55-2
+4	anche	anche	ADV	_	_	3	advmod	_	End=75.063|KID=55-3
+5	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	Begin=75.408|KID=56-0
+6	anche	anche	ADV	_	_	7	advmod	_	KID=56-1
+7	ristorante	ristorante	NOUN	_	Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	End=76.81|KID=56-2
 
-# sent_id = BOA3017_56
-# text = è anche ristorante
-# jefferson_text = è anche ristorante
-# speaker_id = BO147
-1	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Begin=75.408|KID=56-0
-2	anche	anche	ADV	_	_	3	advmod	_	KID=56-1
-3	ristorante	ristorante	NOUN	_	Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	End=76.81|KID=56-2
-
-# sent_id = BOA3017_57
-# text = quella volta che ci siamo andati noi non c' era un granché mi pare
-# jefferson_text = quella volta che ci siamo andati noi non c' era un granché mi pare
+# sent_id = BOA3017_57_59
+# text = quella volta che ci siamo andati noi non c' era un granché mi pare non c' era niente
+# jefferson_text = quella volta che ci siamo andati noi non c' era un granché mi pare (non c' era niente)
 # speaker_id = BO146
 1	quella	quello	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	Begin=78.918|KID=57-0
 2	volta	volta	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	KID=57-1
-3	che	che	PRON	_	PronType=Rel	6	mark	_	KID=57-2
+3	che	che	PRON	_	PronType=Rel	6	obl	_	KID=57-2
 4	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	6	expl	_	Clitic=Yes|KID=57-3
 5	siamo	essere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	KID=57-4
-6	andati	andare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	acl	_	KID=57-5
-7	noi	noi	PRON	_	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	KID=57-6
+6	andati	andare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	KID=57-5
+7	noi	noi	PRON	_	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	KID=57-6
 8	non	non	ADV	_	PronType=Neg	10	advmod	_	KID=57-7
 9	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	10	expl	_	Clitic=Yes|KID=57-8|Truncated=Yes
 10	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=57-9
 11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	KID=57-10
-12	granché	granché	NOUN	_	PronType=Ind	14	nsubj	_	KID=57-11
+12	granché	granché	NOUN	_	PronType=Ind	10	nsubj	_	KID=57-11
 13	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	iobj	_	Clitic=Yes|KID=57-12
 14	pare	parere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	End=81.0|KID=57-13
+15	non	non	ADV	_	PronType=Neg	17	advmod	_	Begin=81.319|KID=59-0
+16	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	17	expl	_	Clitic=Yes|KID=59-1|Truncated=Yes
+17	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	conj	_	KID=59-2
+18	niente	niente	PRON	_	PronType=Ind	17	nsubj	_	End=81.989|KID=59-3
 
 # sent_id = BOA3017_58
 # text = mh
 # jefferson_text = mh
 # speaker_id = BO145
-1	mh	mh	INTJ	_	_	0	root	_	Begin=81.004|End=81.304|KID=58-0
-
-# sent_id = BOA3017_59
-# text = non c' era niente
-# jefferson_text = (non c' era niente)
-# speaker_id = BO146
-1	non	non	ADV	_	PronType=Neg	3	advmod	_	Begin=81.319|KID=59-0
-2	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	3	expl	_	Clitic=Yes|KID=59-1|Truncated=Yes
-3	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=59-2
-4	niente	niente	PRON	_	PronType=Ind	3	nsubj	_	End=81.989|KID=59-3
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=57-9|Begin=81.004|End=81.304|KID=58-0
 
 # sent_id = BOA3017_60
 # text = la rapa c' era
@@ -496,15 +462,15 @@
 1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Begin=82.6|KID=60-0
 2	rapa	rapa	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	KID=60-1
 3	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|KID=60-2|Truncated=Yes
-4	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	End=83.39|KID=60-3
+4	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Coconstruct=conj::57-9|End=83.39|KID=60-3
 
 # sent_id = BOA3017_61
 # text = sì ma roba da banco
 # jefferson_text = sì ma roba (da banco)
 # speaker_id = BO146
-1	sì	sì	INTJ	_	_	0	root	_	Begin=84.404|KID=61-0
+1	sì	sì	INTJ	_	_	3	discourse	_	Begin=84.404|KID=61-0
 2	ma	ma	CCONJ	_	_	3	cc	_	KID=61-1
-3	roba	roba	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	KID=61-2
+3	roba	roba	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conj::57-9|KID=61-2
 4	da	da	ADP	_	_	5	case	_	KID=61-3
 5	banco	banco	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	End=85.704|KID=61-4
 
@@ -512,178 +478,147 @@
 # text = mh mh
 # jefferson_text = mh mh
 # speaker_id = BO145
-1	mh	mh	INTJ	_	_	0	root	_	Begin=85.879|KID=62-0
-2	mh	mh	INTJ	_	_	1	compound	_	End=86.479|KID=62-1
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=61-2|Begin=85.879|KID=62-0
+2	mh	mh	INTJ	_	_	1	parataxis	_	End=86.479|KID=62-1
 
 # sent_id = BOA3017_64
 # text = non parli
 # jefferson_text = non parli?
 # speaker_id = BO145
 1	non	non	ADV	_	PronType=Neg	2	advmod	_	Begin=91.404|KID=64-0
-2	parli	parlare	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	End=92.214|Intonation=rising|KID=64-1
+2	parli	parlare	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=92.214|Intonation=rising|KID=64-1
 
-# sent_id = BOA3017_66
-# text = così non mi trascrivo no c' ho la bocca piena
+# sent_id = BOA3017_66a
+# text = così non mi trascrivo
 # jefferson_text = così non mi trascrivo no c' ho la bocca piena
 # speaker_id = BO139
 1	così	così	ADV	_	_	4	advmod	_	Begin=93.469|KID=66-0
 2	non	non	ADV	_	PronType=Neg	4	advmod	_	KID=66-1
 3	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	Clitic=Yes|KID=66-2
 4	trascrivo	trascrivere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=66-3
-5	no	no	INTJ	_	_	7	advmod	_	KID=66-4
-6	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	7	expl	_	Clitic=Yes|KID=66-5|Truncated=Yes
-7	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	obj	_	KID=66-6
-8	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	KID=66-7
-9	bocca	bocca	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	KID=66-8
-10	piena	pieno	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	End=95.379|KID=66-9
 
-# sent_id = BOA3017_67
-# text = l' altra volta
-# jefferson_text = l' altra volta
+# sent_id = BOA3017_66b
+# text = no c' ho la bocca piena
+# jefferson_text = così non mi trascrivo no c' ho la bocca piena
+# speaker_id = BO139
+1	no	no	INTJ	_	_	3	discourse	_	KID=66-4
+2	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	3	expl	_	Clitic=Yes|KID=66-5|Truncated=Yes
+3	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=66-6
+4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=66-7
+5	bocca	bocca	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	KID=66-8
+6	piena	pieno	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	End=95.379|KID=66-9
+
+# sent_id = BOA3017_67_68_69_70
+# text = l' altra volta controllavo di averlo avviato effetivamente perché ero da un notaio e doveva esserci anche mio babbo ma non poteva venire quindi volevo registrare l' incontro
+# jefferson_text = l' altra volta controllavo di averlo avviato effetivamente perché ero da un notaio e doveva esserci anche mio babbo ma non poteva venire quindi volevo registrare l' incontro
 # speaker_id = BO139
 1	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	Begin=97.269|KID=67-0|Truncated=Yes
 2	altra	altro	ADJ	_	_	3	amod	_	KID=67-1
-3	volta	volta	NOUN	_	Gender=Fem|Number=Sing	0	root	_	End=98.329|KID=67-2
-
-# sent_id = BOA3017_68
-# text = controllavo di averlo avviato effetivamente perché ero da un notaio
-# jefferson_text = controllavo di averlo avviato effetivamente perché ero da un notaio
-# speaker_id = BO139
-1	controllavo	controllare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Begin=99.104|KID=68-0
-2	di	di	ADP	_	_	5	mark	_	KID=68-1
-3-4	averlo	_	_	_	_	_	_	_	KID=68-2
-3	aver	avere	VERB	_	VerbForm=Inf	5	aux	_	KID=68-2a
-4	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Clitic=Yes|KID=68-2b
-5	avviato	avviare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	KID=68-3
-6	effetivamente	effettivamente	ADV	_	_	5	advmod	_	KID=68-4
-7	perché	perché	SCONJ	_	_	11	mark	_	KID=68-5
-8	ero	essere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	11	cop	_	KID=68-6
-9	da	da	ADP	_	_	11	case	_	KID=68-7
-10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=68-8
-11	notaio	notaio	NOUN	_	Gender=Masc|Number=Sing	5	advcl	_	End=102.024|KID=68-9
-
-# sent_id = BOA3017_69
-# text = e doveva esserci anche mio babbo ma non poteva venire
-# jefferson_text = e doveva esserci anche mio babbo ma non poteva venire
-# speaker_id = BO139
-1	e	e	CCONJ	_	_	3	cc	_	Begin=103.479|KID=69-0
-2	doveva	dovere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	KID=69-1
-3-4	esserci	_	_	_	_	_	_	_	KID=69-2
-3	esser	essere	AUX	_	VerbForm=Inf	0	root	_	KID=69-2a
-4	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	3	expl	_	Clitic=Yes|KID=69-2b
-5	anche	anche	ADV	_	_	7	advmod	_	KID=69-3
-6	mio	mio	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	KID=69-4
-7	babbo	babbo	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	KID=69-5
-8	ma	ma	CCONJ	_	_	7	cc	_	KID=69-6
-9	non	non	ADV	_	PronType=Neg	11	advmod	_	KID=69-7
-10	poteva	potere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	KID=69-8
-11	venire	venire	VERB	_	VerbForm=Inf	3	xcomp	_	End=105.55|KID=69-9
-
-# sent_id = BOA3017_70
-# text = quindi volevo registrare l' incontro
-# jefferson_text = quindi volevo registrare l' incontro
-# speaker_id = BO139
-1	quindi	quindi	CCONJ	_	_	3	advmod	_	Begin=105.55|KID=70-0
-2	volevo	volere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	KID=70-1
-3	registrare	registrare	VERB	_	VerbForm=Inf	0	root	_	KID=70-2
-4	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	KID=70-3|Truncated=Yes
-5	incontro	incontro	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	End=106.939|KID=70-4
+3	volta	volta	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	End=98.329|KID=67-2
+4	controllavo	controllare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Begin=99.104|KID=68-0
+5	di	di	ADP	_	_	8	mark	_	KID=68-1
+6-7	averlo	_	_	_	_	_	_	_	KID=68-2
+6	aver	avere	AUX	_	VerbForm=Inf	8	aux	_	KID=68-2a
+7	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|KID=68-2b
+8	avviato	avviare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	KID=68-3
+9	effetivamente	effettivamente	ADV	_	_	8	advmod	_	KID=68-4
+10	perché	perché	SCONJ	_	_	14	mark	_	KID=68-5
+11	ero	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	14	cop	_	KID=68-6
+12	da	da	ADP	_	_	14	case	_	KID=68-7
+13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	KID=68-8
+14	notaio	notaio	NOUN	_	Gender=Masc|Number=Sing	8	advcl	_	End=102.024|KID=68-9
+15	e	e	CCONJ	_	_	17	cc	_	Begin=103.479|KID=69-0
+16	doveva	dovere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	aux	_	KID=69-1
+17-18	esserci	_	_	_	_	_	_	_	KID=69-2
+17	esser	essere	VERB	_	VerbForm=Inf	14	conj	_	KID=69-2a
+18	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	17	expl	_	Clitic=Yes|KID=69-2b
+19	anche	anche	ADV	_	_	21	advmod	_	KID=69-3
+20	mio	mio	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	21	det:poss	_	KID=69-4
+21	babbo	babbo	NOUN	_	Gender=Masc|Number=Sing	17	nsubj	_	KID=69-5
+22	ma	ma	CCONJ	_	_	21	cc	_	KID=69-6
+23	non	non	ADV	_	PronType=Neg	25	advmod	_	KID=69-7
+24	poteva	potere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	25	aux	_	KID=69-8
+25	venire	venire	VERB	_	VerbForm=Inf	17	conj	_	End=105.55|KID=69-9
+26	quindi	quindi	CCONJ	_	_	28	mark	_	Begin=105.55|KID=70-0
+27	volevo	volere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	28	aux	_	KID=70-1
+28	registrare	registrare	VERB	_	VerbForm=Inf	14	advcl	_	KID=70-2
+29	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	30	det	_	KID=70-3|Truncated=Yes
+30	incontro	incontro	NOUN	_	Gender=Masc|Number=Sing	28	obj	_	End=106.939|KID=70-4
 
 # sent_id = BOA3017_71
 # text = mh
 # jefferson_text = mh
 # speaker_id = BO147
-1	mh	mh	INTJ	_	_	0	root	_	Begin=107.119|End=107.419|KID=71-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=70-2|Begin=107.119|End=107.419|KID=71-0
 
-# sent_id = BOA3017_72
-# text = eh mh
-# jefferson_text = =e:h m:h
+# sent_id = BOA3017_72_73_74_75
+# text = eh mh niente tipo ho schiacciato si vede tipo due volte velocemente alla fine dell' incontro avevo tipo registrato x tipo due secondi
+# jefferson_text = =e:h m:h niente tipo ho schiacciato si vede tipo due volte velocemente >alla fine< dell' incontro avevo tipo registrato xxx tipo due secondi {ride}
 # speaker_id = BO139
-1	eh	eh	INTJ	_	_	0	root	_	Begin=107.844|KID=72-0|Prolonged=Yes|ProsodicLink=Yes
-2	mh	mh	INTJ	_	_	1	compound	_	End=108.564|KID=72-1|Prolonged=Yes
+1	eh	eh	INTJ	_	_	6	discourse	_	Begin=107.844|KID=72-0|Prolonged=Yes|ProsodicLink=Yes
+2	mh	mh	INTJ	_	_	6	discourse	_	End=108.564|KID=72-1|Prolonged=Yes
+3	niente	niente	PRON	_	PronType=Ind	6	discourse	_	Begin=108.919|KID=73-0
+4	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	6	discourse	_	End=109.849|KID=73-1
+5	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	Begin=110.189|KID=74-0
+6	schiacciato	schiacciare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=74-1
+7	si	si	PRON	_	Person=3|PronType=Prs	8	expl:impers	_	Clitic=Yes|KID=74-2
+8	vede	vedere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	KID=74-3
+9	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	6	discourse	_	KID=74-4
+10	due	due	NUM	_	NumType=Card	11	nummod	_	KID=74-5
+11	volte	volta	NOUN	_	Gender=Fem|Number=Plur	6	obl	_	KID=74-6
+12	velocemente	velocemente	ADV	_	_	6	advmod	_	End=112.489|KID=74-7
+13-14	alla	_	_	_	_	_	_	_	Begin=112.884|KID=75-0|PaceFast=Yes
+13	a	a	ADP	_	_	15	case	_	KID=75-0a
+14	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	KID=75-0b
+15	fine	fine	NOUN	_	Gender=Fem|Number=Sing	21	obl	_	KID=75-1|PaceFast=Yes
+16-17	dell'	_	_	_	_	_	_	_	KID=75-2|Truncated=Yes
+16	di	di	ADP	_	_	18	case	_	KID=75-2a
+17	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	18	det	_	KID=75-2b
+18	incontro	incontro	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	KID=75-3
+19	avevo	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	21	aux	_	KID=75-4
+20	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	21	discourse	_	KID=75-5
+21	registrato	registrare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	KID=75-6
+22	x	x	X	_	_	21	dep	_	KID=75-7|Unintelligible=Yes
+23	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	21	discourse	_	KID=75-8
+24	due	due	NUM	_	NumType=Card	25	nummod	_	KID=75-9|Modality=laugh
+25	secondi	secondo	NOUN	_	Gender=Masc|Number=Plur	21	obj	_	End=116.784|KID=75-10|Modality=laugh
 
-# sent_id = BOA3017_73
-# text = niente tipo
-# jefferson_text = niente tipo
-# speaker_id = BO139
-1	niente	niente	PRON	_	PronType=Ind	0	root	_	Begin=108.919|KID=73-0
-2	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	End=109.849|KID=73-1
-
-# sent_id = BOA3017_74
-# text = ho schiacciato si vede tipo due volte velocemente
-# jefferson_text = ho schiacciato si vede tipo due volte velocemente
-# speaker_id = BO139
-1	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	Begin=110.189|KID=74-0
-2	schiacciato	schiacciare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=74-1
-3	si	si	PRON	_	Person=3|PronType=Prs	2	expl	_	Clitic=Yes|KID=74-2
-4	vede	vedere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	KID=74-3
-5	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	KID=74-4
-6	due	due	DET	_	NumType=Card	5	nummod	_	KID=74-5
-7	volte	volta	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	KID=74-6
-8	velocemente	velocemente	ADV	_	_	7	advmod	_	End=112.489|KID=74-7
-
-# sent_id = BOA3017_75
-# text = alla fine dell' incontro avevo tipo registrato x tipo due secondi
-# jefferson_text = >alla fine< dell' incontro avevo tipo registrato xxx tipo due secondi {ride}
-# speaker_id = BO139
-1-2	alla	_	_	_	_	_	_	_	Begin=112.884|KID=75-0|PaceFast=Yes
-1	a	a	ADP	_	_	3	case	_	KID=75-0a
-2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=75-0b
-3	fine	fine	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	KID=75-1|PaceFast=Yes
-4-5	dell'	_	_	_	_	_	_	_	KID=75-2|Truncated=Yes
-4	di	di	ADP	_	_	6	case	_	KID=75-2a
-5	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	KID=75-2b
-6	incontro	incontro	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	KID=75-3
-7	avevo	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	8	cop	_	KID=75-4
-8	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=75-5
-9	registrato	registrare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	KID=75-6
-10	x	x	X	_	_	9	obj	_	KID=75-7|Unintelligible=Yes
-11	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	KID=75-8
-12	due	due	DET	_	NumType=Card	11	nummod	_	KID=75-9
-13	secondi	secondo	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	End=116.784|KID=75-10
-14	{ride}	-	X	_	_	_	_	_	Type=nonverbalbehavior
-
-# sent_id = BOA3017_78
-# text = si sentiva solo pshhh
-# jefferson_text = >si sentiva solo pshhh<
+# sent_id = BOA3017_78_79
+# text = si sentiva solo pshhh io che mi siedo sulla sedia e basta
+# jefferson_text = >si sentiva solo pshhh< io che mi siedo sulla sedia e basta
 # speaker_id = BO139
 1	si	si	PRON	_	Person=3|PronType=Prs	2	expl:impers	_	Begin=117.739|Clitic=Yes|KID=78-0|PaceFast=Yes
 2	sentiva	sentire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=78-1|PaceFast=Yes
-3	solo	solo	ADV	_	_	4	advmod	_	KID=78-2|PaceFast=Yes
-4	pshhh	pshhh	INTJ	_	_	2	advmod	_	End=118.879|KID=78-3|PaceFast=Yes
-
-# sent_id = BOA3017_79
-# text = io che mi siedo sulla sedia e basta
-# jefferson_text = io che mi siedo sulla sedia e basta
-# speaker_id = BO139
-1	io	io	PRON	_	PronType=Rel	8	nsubj	_	Begin=119.054|KID=79-0
-2	che	che	PRON	_	PronType=Rel	4	nsubj	_	KID=79-1
-3	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	Clitic=Yes|KID=79-2
-4	siedo	sedere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	KID=79-3
-5-6	sulla	_	_	_	_	_	_	_	KID=79-4
-5	su	su	ADP	_	_	7	case	_	KID=79-4a
-6	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=79-4b
-7	sedia	sedia	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	KID=79-5
-8	e	e	CCONJ	_	_	9	cc	_	KID=79-6
-9	basta	bastare	INTJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=120.63|KID=79-7
+3	solo	solo	ADV	_	_	2	advmod	_	KID=78-2|PaceFast=Yes
+4	pshhh	pshhh	INTJ	_	_	2	obj	_	End=118.879|KID=78-3|PaceFast=Yes
+5	io	io	PRON	_	PronType=Rel	4	conj	_	Begin=119.054|KID=79-0
+6	che	che	PRON	_	PronType=Rel	8	nsubj	_	KID=79-1
+7	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	expl	_	Clitic=Yes|KID=79-2
+8	siedo	sedere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	KID=79-3
+9-10	sulla	_	_	_	_	_	_	_	KID=79-4
+9	su	su	ADP	_	_	11	case	_	KID=79-4a
+10	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	KID=79-4b
+11	sedia	sedia	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	KID=79-5
+12	e	e	CCONJ	_	_	13	cc	_	KID=79-6
+13	basta	bastare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	End=120.63|KID=79-7
 
 # sent_id = BOA3017_81
 # text = quindi giusto per essere sicuro
 # jefferson_text = >quindi< giusto per essere si[curo]
 # speaker_id = BO139
-1	quindi	quindi	CCONJ	_	_	2	advmod	_	Begin=121.399|KID=81-0|PaceFast=Yes
+1	quindi	quindi	CCONJ	_	_	2	discourse	_	Begin=121.399|KID=81-0|PaceFast=Yes
 2	giusto	giusto	ADV	_	Gender=Masc|Number=Sing	0	root	_	KID=81-1
 3	per	per	ADP	_	_	5	mark	_	KID=81-2
-4	essere	essere	VERB	_	VerbForm=Inf	5	cop	_	KID=81-3
-5	sicuro	sicuro	ADJ	_	Gender=Masc|Number=Sing	2	advcl	_	End=122.819|KID=81-4|OverlappingGroup=11
+4	essere	essere	AUX	_	VerbForm=Inf	5	cop	_	KID=81-3
+5	sicuro	sicuro	ADJ	_	Gender=Masc|Number=Sing	2	acl	_	End=122.819|KID=81-4|OverlappingGroup=11
 
 # sent_id = BOA3017_82
 # text = bellissimo qua~ ci metti quattro secondi a trascrivere quella cosa
 # jefferson_text = [belli]ssimo qua~ ci metti quattro secondi a trascrivere quella cosa
 # speaker_id = BO145
-1	bellissimo	bello	ADJ	_	Degree=Abs|Gender=Masc|Number=Sing	2	amod	_	Begin=122.464|KID=82-0|OverlappingGroup=11
-2	qua~	qua~	ADV	_	_	4	nsubj	_	Interrupted=Yes|KID=82-1
-3	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	4	iobj	_	Clitic=Yes|KID=82-2
+1	bellissimo	bello	ADJ	_	Degree=Abs|Gender=Masc|Number=Sing	4	discourse	_	Begin=122.464|KID=82-0|OverlappingGroup=11
+2	qua~	quattro	NUM	_	_	5	reparandum	_	Interrupted=Yes|KID=82-1
+3	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|KID=82-2
 4	metti	mettere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=82-3
 5	quattro	quattro	NUM	_	NumType=Card	6	nummod	_	KID=82-4
 6	secondi	secondo	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	KID=82-5
@@ -702,34 +637,29 @@
 4	devono	dovere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	KID=85-3
 5	essere	essere	VERB	_	VerbForm=Inf	0	root	_	End=129.181|Intonation=rising|KID=85-4
 
-# sent_id = BOA3017_86
-# text = mh
-# jefferson_text = mh
+# sent_id = BOA3017_86_87
+# text = mh quel che capita
+# jefferson_text = mh quel che capita
 # speaker_id = BO139
-1	mh	mh	INTJ	_	_	0	root	_	Begin=129.497|End=130.017|KID=86-0
-
-# sent_id = BOA3017_87
-# text = quel che capita
-# jefferson_text = quel che capita
-# speaker_id = BO139
-1	quel	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Begin=130.472|KID=87-0
-2	che	che	PRON	_	PronType=Rel	3	nsubj	_	KID=87-1
-3	capita	capitare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	End=131.512|KID=87-2
+1	mh	mh	INTJ	_	_	2	discourse	_	Begin=129.497|End=130.017|KID=86-0
+2	quel	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Begin=130.472|KID=87-0
+3	che	che	PRON	_	PronType=Rel	4	nsubj	_	KID=87-1
+4	capita	capitare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	End=131.512|KID=87-2
 
 # sent_id = BOA3017_88
 # text = l' altra volta tipo ho registrato la mia coinquilina x
 # jefferson_text = l' altra volta tipo ho registrato la (>mia<) coinquilina [x]
 # speaker_id = BO139
 1	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	Begin=131.607|KID=88-0|Truncated=Yes
-2	altra	altro	DET	_	_	3	amod	_	KID=88-1
+2	altra	altro	ADJ	_	_	3	amod	_	KID=88-1
 3	volta	volta	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	KID=88-2
-4	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	KID=88-3
+4	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	6	discourse	_	KID=88-3
 5	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	KID=88-4
 6	registrato	registrare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=88-5
 7	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	KID=88-6
-8	mia	mio	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	KID=88-7|PaceFast=Yes
+8	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	amod:poss	_	KID=88-7|PaceFast=Yes
 9	coinquilina	coinquilino	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	KID=88-8
-10	x	x	X	_	_	6	nmod	_	End=133.797|KID=88-9|OverlappingGroup=12|Unintelligible=Yes
+10	x	x	X	_	_	6	dep	_	End=133.797|KID=88-9|OverlappingGroup=12|Unintelligible=Yes
 
 # sent_id = BOA3017_89
 # text = ma tanto devi fare duecentocinquanta ore puoi farle anche di sessanta ore x audio
@@ -738,19 +668,19 @@
 1	ma	ma	CCONJ	_	_	4	cc	_	Begin=133.357|KID=89-0|OverlappingGroup=12
 2	tanto	tanto	ADV	_	_	4	advmod	_	KID=89-1|OverlappingGroup=12
 3	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	KID=89-2|OverlappingGroup=12
-4	fare	fare	VERB	_	VerbForm=Inf	8	csubj	_	KID=89-3|OverlappingGroup=12
+4	fare	fare	VERB	_	VerbForm=Inf	0	root	_	KID=89-3|OverlappingGroup=12
 5	duecentocinquanta	duecentocinquanta	NUM	_	NumType=Card	6	nummod	_	KID=89-4
 6	ore	ora	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	KID=89-5
 7	puoi	potere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	KID=89-6
 8-9	farle	_	_	_	_	_	_	_	KID=89-7
-8	far	fare	VERB	_	VerbForm=Inf	0	root	_	KID=89-7a
+8	far	fare	VERB	_	VerbForm=Inf	4	conj	_	KID=89-7a
 9	le	le	PRON	_	Gender=Fem|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|KID=89-7b
-10	anche	anche	ADV	_	_	13	advmod	_	KID=89-8
+10	anche	anche	ADV	_	_	8	advmod	_	KID=89-8
 11	di	di	ADP	_	_	13	case	_	KID=89-9|Prolonged=Yes
 12	sessanta	sessanta	NUM	_	NumType=Card	13	nummod	_	KID=89-10|Prolonged=Yes
 13	ore	ora	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	KID=89-11
-14	x	x	X	_	_	13	nmod	_	KID=89-12|Unintelligible=Yes
-15	audio	audio	NOUN	_	Gender=Masc	14	amod	_	End=138.067|KID=89-13
+14	x	x	X	_	_	8	dep	_	KID=89-12|Unintelligible=Yes
+15	audio	audio	NOUN	_	Gender=Masc	8	dislocated	_	End=138.067|KID=89-13
 
 # sent_id = BOA3017_91
 # text = volete stare in bisca fino alle quattro del mattino stanotte
@@ -769,35 +699,30 @@
 9	di	di	ADP	_	_	11	case	_	KID=91-7a
 10	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=91-7b
 11	mattino	mattino	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	KID=91-8
-12	stanotte	stanotte	ADV	_	_	2	obj	_	End=140.727|Intonation=rising|KID=91-9
+12	stanotte	stanotte	ADV	_	_	2	advmod	_	End=140.727|Intonation=rising|KID=91-9
 
 # sent_id = BOA3017_92
 # text = mh
 # jefferson_text = [mh]
 # speaker_id = BO145
-1	mh	mh	INTJ	_	_	0	root	_	Begin=139.537|End=139.847|KID=92-0|OverlappingGroup=13
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=91-1|Begin=139.537|End=139.847|KID=92-0|OverlappingGroup=13
 
 # sent_id = BOA3017_93
 # text = eh
 # jefferson_text = [eh]
 # speaker_id = BO147
-1	eh	eh	INTJ	_	_	0	root	_	Begin=139.997|End=140.337|KID=93-0|OverlappingGroup=14
+1	eh	eh	INTJ	_	_	0	root	_	Backchannel=91-1|Begin=139.997|End=140.337|KID=93-0|OverlappingGroup=14
 
-# sent_id = BOA3017_94
-# text = ne fai
-# jefferson_text = ne fai
+# sent_id = BOA3017_94_95
+# text = ne fai una di dodici ore
+# jefferson_text = ne fai una (di) dodici ore
 # speaker_id = BO145
 1	ne	ne	PRON	_	PronType=Prs	2	iobj	_	Begin=141.177|Clitic=Yes|KID=94-0
 2	fai	fare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	End=142.237|KID=94-1
-
-# sent_id = BOA3017_95
-# text = una di dodici ore
-# jefferson_text = una (di) dodici ore
-# speaker_id = BO145
-1	una	uno	DET	_	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	Begin=142.782|KID=95-0
-2	di	di	ADP	_	_	4	case	_	KID=95-1
-3	dodici	dodici	NUM	_	NumType=Card	4	nummod	_	KID=95-2
-4	ore	ora	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	End=143.98|KID=95-3
+3	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	2	obj	_	Begin=142.782|KID=95-0
+4	di	di	ADP	_	_	6	case	_	KID=95-1
+5	dodici	dodici	NUM	_	NumType=Card	6	nummod	_	KID=95-2
+6	ore	ora	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	End=143.98|KID=95-3
 
 # sent_id = BOA3017_96
 # text = mh
@@ -805,47 +730,40 @@
 # speaker_id = BO139
 1	mh	mh	INTJ	_	_	0	root	_	Begin=144.407|End=145.007|KID=96-0
 
-# sent_id = BOA3017_97
-# text = parlare costantemente per dodici ore però è tosta eh
-# jefferson_text = parlare costantemente per dodici ore però è (.) tosta eh
+# sent_id = BOA3017_97_99
+# text = parlare costantemente per dodici ore però è tosta eh per me non è un problema però voglio dire
+# jefferson_text = parlare costantemente per dodici ore però è (.) tosta eh per me non è un problema però voglio dire {ride}
 # speaker_id = BO139
-1	parlare	parlare	VERB	_	VerbForm=Inf	9	acl	_	Begin=146.572|KID=97-0
+1	parlare	parlare	VERB	_	VerbForm=Inf	8	csubj	_	Begin=146.572|KID=97-0
 2	costantemente	costantemente	ADV	_	_	1	advmod	_	KID=97-1
 3	per	per	ADP	_	_	5	case	_	KID=97-2
 4	dodici	dodici	NUM	_	NumType=Card	5	nummod	_	KID=97-3
 5	ore	ora	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	KID=97-4
-6	però	però	CCONJ	_	_	9	advmod	_	KID=97-5
-7	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	KID=97-6|PauseAfter=Yes
-8	{P}	-	X	_	_	_	_	_	Type=shortpause
-9	tosta	tosto	ADJ	_	Gender=Fem|Number=Sing	0	root	_	KID=97-8
-10	eh	eh	INTJ	_	_	9	advmod	_	End=149.452|KID=97-9
+6	però	però	CCONJ	_	_	8	advmod	_	KID=97-5
+7	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	KID=97-6|PauseAfter=Yes
+8	tosta	tosto	ADJ	_	Gender=Fem|Number=Sing	0	root	_	KID=97-8
+9	eh	eh	INTJ	_	_	8	discourse	_	End=149.452|KID=97-9
+10	per	per	ADP	_	_	11	case	_	Begin=150.782|KID=99-0
+11	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	15	obl	_	KID=99-1
+12	non	non	ADV	_	PronType=Neg	15	advmod	_	KID=99-2
+13	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	KID=99-3
+14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	KID=99-4
+15	problema	problema	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	KID=99-5
+16	però	però	CCONJ	_	_	15	discourse	_	KID=99-6|Modality=Laugh
+17	voglio	volere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	aux	_	KID=99-7|Modality=Laugh
+18	dire	dire	VERB	_	VerbForm=Inf	15	discourse	_	End=152.654|KID=99-8|Modality=Laugh
 
 # sent_id = BOA3017_98
 # text = mh
 # jefferson_text = mh
 # speaker_id = BO147
-1	mh	mh	INTJ	_	_	0	root	_	Begin=150.447|End=150.74|KID=98-0
-
-# sent_id = BOA3017_99
-# text = per me non è un problema però voglio dire
-# jefferson_text = per me non è un problema però voglio dire {ride}
-# speaker_id = BO139
-1	per	per	ADP	_	_	2	case	_	Begin=150.782|KID=99-0
-2	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nmod	_	KID=99-1
-3	non	non	ADV	_	PronType=Neg	6	advmod	_	KID=99-2
-4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=99-3
-5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	KID=99-4
-6	problema	problema	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	KID=99-5
-7	però	però	CCONJ	_	_	6	advmod	_	KID=99-6
-8	voglio	volere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	KID=99-7
-9	dire	dire	VERB	_	VerbForm=Inf	0	root	_	End=152.654|KID=99-8
-10	{ride}	-	X	_	_	_	_	_	Type=nonverbalbehavior
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=97-8|Begin=150.447|End=150.74|KID=98-0
 
 # sent_id = BOA3017_100
 # text = infatti
 # jefferson_text = >in<fatti
 # speaker_id = BO145
-1	infatti	infatti	ADV	_	_	0	root	_	Begin=152.654|End=153.067|KID=100-0|PaceFast=Yes
+1	infatti	infatti	ADV	_	_	0	root	_	Backchannel=99-5|Begin=152.654|End=153.067|KID=100-0|PaceFast=Yes
 
 # sent_id = BOA3017_104
 # text = un monologo di andrea verdi per dodici ore
@@ -855,7 +773,7 @@
 2	monologo	monologo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=104-1
 3	di	di	ADP	_	_	4	case	_	KID=104-2
 4	andrea	Andrea	PROPN	_	_	2	nmod	_	Anonymyzed=Yes|KID=104-3
-5	verdi	Verdì	PROPN	_	_	4	amod	_	Anonymyzed=Yes|KID=104-4
+5	verdi	Verdì	PROPN	_	_	4	flat:name	_	Anonymyzed=Yes|KID=104-4
 6	per	per	ADP	_	_	8	case	_	KID=104-5
 7	dodici	dodici	NUM	_	NumType=Card	8	nummod	_	KID=104-6
 8	ore	ora	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	End=160.007|KID=104-7
@@ -864,12 +782,12 @@
 # text = mh mh
 # jefferson_text = mh mh
 # speaker_id = BO139
-1	mh	mh	INTJ	_	_	0	root	_	Begin=160.657|KID=106-0
-2	mh	mh	INTJ	_	_	1	compound	_	End=161.047|KID=106-1
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=104-1|Begin=160.657|KID=106-0
+2	mh	mh	INTJ	_	_	1	parataxis	_	End=161.047|KID=106-1
 
-# sent_id = BOA3017_107
-# text = dopo c' è chi te lo controlla ovviamente
-# jefferson_text = dopo c' è chi te lo controlla ovviamente
+# sent_id = BOA3017_107_109
+# text = dopo c' è chi te lo controlla ovviamente cioè ascolta prima l' audio poi vede se
+# jefferson_text = dopo c' è chi te lo controlla ovviamente >cioè< ascolta prima l' audio (poi) vede se
 # speaker_id = BO147
 1	dopo	dopo	ADV	_	_	3	advmod	_	Begin=161.857|KID=107-0
 2	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	3	expl	_	Clitic=Yes|KID=107-1|Truncated=Yes
@@ -879,199 +797,151 @@
 6	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	Clitic=Yes|KID=107-5
 7	controlla	controllare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	KID=107-6
 8	ovviamente	ovviamente	ADV	_	_	3	advmod	_	End=164.127|KID=107-7
+9	cioè	cioè	CCONJ	_	_	10	cc	_	Begin=164.512|KID=109-0|PaceFast=Yes
+10	ascolta	ascoltare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	KID=109-1
+11	prima	prima	ADV	_	_	10	advmod	_	KID=109-2
+12	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	13	det	_	KID=109-3|Truncated=Yes
+13	audio	audio	NOUN	_	Gender=Fem	10	obj	_	KID=109-4
+14	poi	poi	ADV	_	_	15	advmod	_	KID=109-5
+15	vede	vedere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	KID=109-6
+16	se	se	SCONJ	_	_	15	advcl	_	End=166.752|KID=109-7
 
 # sent_id = BOA3017_108
 # text = sì
 # jefferson_text = sì
 # speaker_id = BO139
-1	sì	sì	INTJ	_	_	0	root	_	Begin=164.167|End=164.387|KID=108-0
+1	sì	sì	INTJ	_	_	0	root	_	Backchannel=107-2|Begin=164.167|End=164.387|KID=108-0
 
-# sent_id = BOA3017_109
-# text = cioè ascolta prima l' audio poi vede se
-# jefferson_text = >cioè< ascolta prima l' audio (poi) vede se
-# speaker_id = BO147
-1	cioè	cioè	CCONJ	_	_	2	advmod	_	Begin=164.512|KID=109-0|PaceFast=Yes
-2	ascolta	ascoltare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=109-1
-3	prima	prima	ADV	_	_	7	advmod	_	KID=109-2
-4	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	KID=109-3|Truncated=Yes
-5	audio	audio	NOUN	_	Gender=Fem	7	nsubj	_	KID=109-4
-6	poi	poi	ADV	_	_	7	advmod	_	KID=109-5
-7	vede	vedere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	KID=109-6
-8	se	se	SCONJ	_	_	2	fixed	_	End=166.752|KID=109-7
-
-# sent_id = BOA3017_110
-# text = sì cioè guarda in un software
-# jefferson_text = sì >cioè< (guarda in un software)
+# sent_id = BOA3017_110_111_112_115_116_119
+# text = sì cioè guarda in un software vede cioè sopra tipo vedi proprio l' onda audio non so se hai presente e sotto ci sono i vari segmenti che tu crei per sincronizzare il testo scritto all' audio e x se corrisponde
+# jefferson_text = sì >cioè< (guarda in un software) vede >cioè< sopra tipo vedi proprio l' onda audio >[non so se] hai presente< e sotto ci sono i vari segmenti che tu crei per sincronizzare (.) il testo s[cri]tto all' audio, e x se corrisponde
 # speaker_id = BO139
-1	sì	sì	INTJ	_	_	3	punct	_	Begin=167.12|KID=110-0
+1	sì	sì	INTJ	_	_	3	discourse	_	Begin=167.12|KID=110-0
 2	cioè	cioè	CCONJ	_	_	3	advmod	_	KID=110-1|PaceFast=Yes
-3	guarda	guardare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=110-2
+3	guarda	guardare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Coconstruct=conj::107-6|KID=110-2
 4	in	in	ADP	_	_	6	case	_	KID=110-3
 5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	KID=110-4
 6	software	software	NOUN	_	Gender=Masc	3	obl	_	End=168.68|KID=110-5
-
-# sent_id = BOA3017_111
-# text = vede
-# jefferson_text = vede
-# speaker_id = BO139
-1	vede	vedere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=168.925|End=169.375|KID=111-0
-
-# sent_id = BOA3017_112
-# text = cioè sopra tipo vedi proprio l' onda audio non so se hai presente
-# jefferson_text = >cioè< sopra tipo vedi proprio l' onda audio >[non so se] hai presente<
-# speaker_id = BO139
-1	cioè	cioè	CCONJ	_	_	3	advmod	_	Begin=169.585|KID=112-0|PaceFast=Yes
-2	sopra	sopra	ADV	_	_	3	case	_	KID=112-1
-3	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	KID=112-2
-4	vedi	vedere	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	KID=112-3
-5	proprio	proprio	ADV	_	_	4	advmod	_	KID=112-4
-6	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	KID=112-5|Truncated=Yes
-7	onda	onda	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	KID=112-6
-8	audio	audio	NOUN	_	_	7	amod	_	KID=112-7
-9	non	non	ADV	_	PronType=Neg	10	advmod	_	KID=112-8|OverlappingGroup=15|PaceFast=Yes
-10	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=112-9|OverlappingGroup=15|PaceFast=Yes
-11	se	se	SCONJ	_	_	13	mark	_	KID=112-10|OverlappingGroup=15|PaceFast=Yes
-12	hai	avere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	cop	_	KID=112-11|PaceFast=Yes
-13	presente	presente	ADJ	_	Number=Sing	10	advcl	_	End=172.19|KID=112-12|PaceFast=Yes
+7	vede	vedere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	reparandum	_	Begin=168.925|End=169.375|KID=111-0
+8	cioè	cioè	CCONJ	_	_	11	cc	_	Begin=169.585|KID=112-0|PaceFast=Yes
+9	sopra	sopra	ADV	_	_	11	advmod	_	KID=112-1
+10	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	11	discourse	_	KID=112-2
+11	vedi	vedere	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	KID=112-3
+12	proprio	proprio	ADV	_	_	11	advmod	_	KID=112-4
+13	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	KID=112-5|Truncated=Yes
+14	onda	onda	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	KID=112-6
+15	audio	audio	NOUN	_	_	14	nmod	_	KID=112-7
+16	non	non	ADV	_	PronType=Neg	17	advmod	_	KID=112-8|OverlappingGroup=15|PaceFast=Yes
+17	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	parataxis	_	KID=112-9|OverlappingGroup=15|PaceFast=Yes
+18	se	se	SCONJ	_	_	19	mark	_	KID=112-10|OverlappingGroup=15|PaceFast=Yes
+19	hai	avere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	advcl	_	KID=112-11|PaceFast=Yes
+20	presente	presente	ADJ	_	Number=Sing	19	xcomp	_	End=172.19|KID=112-12|PaceFast=Yes
+21	e	e	CCONJ	_	_	24	cc	_	Begin=172.912|KID=115-0
+22	sotto	sotto	ADV	_	_	24	advmod	_	KID=115-1
+23	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	24	expl	_	Clitic=Yes|KID=115-2
+24	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	KID=115-3
+25	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	KID=115-4
+26	vari	vario	ADJ	_	PronType=Ind	27	amod	_	KID=115-5
+27	segmenti	segmento	NOUN	_	Gender=Masc|Number=Plur	24	nsubj	_	KID=115-6
+28	che	che	SCONJ	_	PronType=Rel	30	obj	_	KID=115-7
+29	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	30	nsubj	_	KID=115-8
+30	crei	creare	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	acl:relcl	_	KID=115-9
+31	per	per	ADP	_	_	32	mark	_	End=175.38|KID=115-10
+32	sincronizzare	sincronizzare	VERB	_	VerbForm=Inf	30	xcomp	_	Begin=175.962|KID=116-0|PauseAfter=Yes
+33	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	KID=116-2
+34	testo	testo	NOUN	_	Gender=Masc|Number=Sing	32	obj	_	KID=116-3
+35	scritto	scrivere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	34	acl	_	KID=116-4|OverlappingGroup=16
+36-37	all'	_	_	_	_	_	_	_	KID=116-5|Truncated=Yes
+36	a	a	ADP	_	_	38	case	_	KID=116-5a
+37	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	38	det	_	KID=116-5b
+38	audio	audio	NOUN	_	Gender=Masc	32	obl	_	End=178.382|Intonation=weakly_rising|KID=116-6
+39	e	e	CCONJ	_	_	42	cc	_	Begin=178.917|KID=119-0
+40	x	x	X	_	_	42	dep	_	KID=119-1|Unintelligible=Yes
+41	se	se	SCONJ	_	_	42	mark	_	KID=119-2
+42	corrisponde	corrispondere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	conj	_	End=180.057|KID=119-3
 
 # sent_id = BOA3017_113
 # text = mh mh
 # jefferson_text = [°mh mh°]
 # speaker_id = BO146
-1	mh	mh	INTJ	_	_	0	root	_	Begin=171.595|KID=113-0|OverlappingGroup=15|Volume=low
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=112-9|Begin=171.595|KID=113-0|OverlappingGroup=15|Volume=low
 2	mh	mh	INTJ	_	_	1	compound	_	End=171.925|KID=113-1|OverlappingGroup=15|Volume=low
 
 # sent_id = BOA3017_114
 # text = eh mh
 # jefferson_text = =eh mh
 # speaker_id = BO147
-1	eh	eh	INTJ	_	_	0	root	_	Begin=172.207|KID=114-0|ProsodicLink=Yes
-2	mh	mh	INTJ	_	_	1	compound	_	End=172.727|KID=114-1
-
-# sent_id = BOA3017_115
-# text = e sotto ci sono i vari segmenti che tu crei per
-# jefferson_text = e sotto ci sono i vari segmenti che tu crei per
-# speaker_id = BO139
-1	e	e	CCONJ	_	_	4	cc	_	Begin=172.912|KID=115-0
-2	sotto	sotto	ADV	_	_	4	advmod	_	KID=115-1
-3	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|KID=115-2
-4	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	KID=115-3
-5	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	KID=115-4
-6	vari	vario	DET	_	PronType=Ind	7	amod	_	KID=115-5
-7	segmenti	segmento	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	KID=115-6
-8	che	che	SCONJ	_	PronType=Rel	10	obj	_	KID=115-7
-9	tu	tu	PRON	_	Number=Sing|Person=2|PronType=Prs	10	nsubj	_	KID=115-8
-10	crei	creare	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	KID=115-9
-11	per	per	ADP	_	_	0	root	_	End=175.38|KID=115-10
-
-# sent_id = BOA3017_116
-# text = sincronizzare il testo scritto all' audio
-# jefferson_text = sincronizzare (.) il testo s[cri]tto all' audio,
-# speaker_id = BO139
-1	sincronizzare	sincronizzare	VERB	_	VerbForm=Inf	0	root	_	Begin=175.962|KID=116-0|PauseAfter=Yes
-2	{P}	-	X	_	_	_	_	_	Type=shortpause
-3	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=116-2
-4	testo	testo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	KID=116-3
-5	scritto	scrivere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	KID=116-4|OverlappingGroup=16
-6-7	all'	_	_	_	_	_	_	_	KID=116-5|Truncated=Yes
-6	a	a	ADP	_	_	8	case	_	KID=116-5a
-7	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	KID=116-5b
-8	audio	audio	NOUN	_	Gender=Masc	5	obl	_	End=178.382|Intonation=weakly_rising|KID=116-6
+1	eh	eh	INTJ	_	_	0	root	_	Backchannel=112-9|Begin=172.207|KID=114-0|ProsodicLink=Yes
+2	mh	mh	INTJ	_	_	1	parataxis	_	End=172.727|KID=114-1
 
 # sent_id = BOA3017_117
 # text = mh
 # jefferson_text = [mh]
 # speaker_id = BO146
-1	mh	mh	INTJ	_	_	0	root	_	Begin=177.547|End=177.817|KID=117-0|OverlappingGroup=16
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=116-0|Begin=177.547|End=177.817|KID=117-0|OverlappingGroup=16
 
 # sent_id = BOA3017_118
 # text = mh
 # jefferson_text = mh
 # speaker_id = BO146
-1	mh	mh	INTJ	_	_	0	root	_	Begin=178.417|End=178.847|KID=118-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=116-0|Begin=178.417|End=178.847|KID=118-0
 
-# sent_id = BOA3017_119
-# text = e x se corrisponde
-# jefferson_text = e x se corrisponde
-# speaker_id = BO139
-1	e	e	CCONJ	_	_	2	cc	_	Begin=178.917|KID=119-0
-2	x	x	X	_	_	4	nsubj	_	KID=119-1|Unintelligible=Yes
-3	se	se	SCONJ	_	_	2	mark	_	KID=119-2
-4	corrisponde	corrispondere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=180.057|KID=119-3
-
-# sent_id = BOA3017_120
-# text = mh eh tipo un errore che ho fatto spesso è tipo devo segnare le sovrapposizioni
-# jefferson_text = =mh eh tipo un errore che ho fatto spesso è tipo devo segnare le sovrapposizioni
-# speaker_id = BO139
-1	mh	mh	INTJ	_	_	13	advmod	_	Begin=180.372|KID=120-0|ProsodicLink=Yes
-2	eh	eh	INTJ	_	_	13	discourse	_	KID=120-1
-3	tipo	tipo	NOUN	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	nmod	_	KID=120-2
+# sent_id = BOA3017_120_121_123_125
+# text = mh eh tipo un errore che ho fatto spesso è tipo devo segnare le sovrapposizioni quando si parlano sopra devi mettere delle parentesi quadre intorno alle parole che si sovrappongono
+# jefferson_text = =mh eh tipo un errore che ho fatto spesso è tipo devo segnare le sovrapposizioni quando si parlano sopra ah okay devi mettere delle parentesi quadre intorno alle parole che si sovrappongono
+# speaker_id = BO139 BO146 BO139 BO139
+1	mh	mh	INTJ	_	_	10	discourse	_	Begin=180.372|KID=120-0|ProsodicLink=Yes
+2	eh	eh	INTJ	_	_	10	discourse	_	KID=120-1
+3	tipo	tipo	NOUN	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	discourse	_	KID=120-2
 4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=120-3
-5	errore	errore	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	KID=120-4
-6	che	che	PRON	_	PronType=Rel	8	nsubj	_	KID=120-5
+5	errore	errore	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	KID=120-4
+6	che	che	PRON	_	PronType=Rel	8	obj	_	KID=120-5
 7	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	KID=120-6
-8	fatto	fare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	KID=120-7
-9	spesso	spesso	ADV	_	_	11	advmod	_	KID=120-8
-10	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	KID=120-9
-11	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	KID=120-10
+8	fatto	fare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	KID=120-7
+9	spesso	spesso	ADV	_	_	8	advmod	_	KID=120-8
+10	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=120-9
+11	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	13	discourse	_	KID=120-10
 12	devo	dovere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	KID=120-11
-13	segnare	segnare	VERB	_	VerbForm=Inf	0	root	_	KID=120-12
+13	segnare	segnare	VERB	_	VerbForm=Inf	10	ccomp	_	KID=120-12
 14	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	KID=120-13
 15	sovrapposizioni	sovrapposizione	NOUN	_	Gender=Fem|Number=Plur	13	obj	_	End=183.5|KID=120-14
-
-# sent_id = BOA3017_121
-# text = quando si parlano sopra
-# jefferson_text = quando si parlano sopra
-# speaker_id = BO139
-1	quando	quando	SCONJ	_	_	3	mark	_	Begin=183.527|KID=121-0
-2	si	si	PRON	_	Person=3|PronType=Prs	3	expl	_	Clitic=Yes|KID=121-1
-3	parlano	parlare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=121-2
-4	sopra	sopra	ADV	_	_	3	advmod	_	End=184.477|KID=121-3
+16	quando	quando	SCONJ	_	_	18	mark	_	Begin=183.527|KID=121-0
+17	si	si	PRON	_	Person=3|PronType=Prs	18	expl	_	Clitic=Yes|KID=121-1
+18	parlano	parlare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	advcl	_	KID=121-2
+19	sopra	sopra	ADV	_	_	18	advmod	_	End=184.477|KID=121-3
+20	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	21	aux	_	Begin=184.972|KID=123-0
+21	mettere	mettere	VERB	_	VerbForm=Inf	13	conj	_	KID=123-1
+22	delle	del	DET	_	_	23	det	_	KID=123-2
+23	parentesi	parentesi	NOUN	_	Gender=Fem	21	obl	_	KID=123-3
+24	quadre	quadre	ADJ	_	Gender=Fem|Number=Plur	23	amod	_	KID=123-4
+25	intorno	intorno	ADV	_	_	28	case	_	KID=123-5
+26-27	alle	_	_	_	_	_	_	_	KID=123-6
+26	a	a	ADP	_	_	25	fixed	_	KID=123-6a
+27	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	KID=123-6b
+28	parole	parola	NOUN	_	Gender=Fem|Number=Plur	21	obl	_	End=187.162|KID=123-7
+29	che	che	PRON	_	PronType=Rel	31	nsubj	_	Begin=188.823|KID=125-0
+30	si	si	PRON	_	Person=3|PronType=Prs	31	expl	_	Clitic=Yes|KID=125-1
+31	sovrappongono	sovrapponere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	acl:relcl	_	End=190.033|KID=125-2
 
 # sent_id = BOA3017_122
 # text = ah okay
-# jefferson_text = ah okay
+# jefferson_text = =mh eh tipo un errore che ho fatto spesso è tipo devo segnare le sovrapposizioni quando si parlano sopra ah okay
 # speaker_id = BO146
-1	ah	ah	INTJ	_	_	2	discourse	_	Begin=184.627|KID=122-0
-2	okay	ok	INTJ	_	_	0	root	_	End=184.97|KID=122-1
-
-# sent_id = BOA3017_123
-# text = devi mettere delle parentesi quadre intorno alle parole
-# jefferson_text = devi mettere delle parentesi quadre intorno alle parole
-# speaker_id = BO139
-1	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	Begin=184.972|KID=123-0
-2	mettere	mettere	VERB	_	VerbForm=Inf	0	root	_	KID=123-1
-3-4	delle	delle	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	_	_	_	KID=123-2
-3	_	_	_	_	_	5	case	_	KID=123-2a
-4	_	_	_	_	_	5	det	_	KID=123-2b
-5	parentesi	parentesi	NOUN	_	Gender=Fem	2	obl	_	KID=123-3
-6	quadre	quadre	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	KID=123-4
-7	intorno	intorno	ADV	_	_	10	case	_	KID=123-5
-8-9	alle	_	_	_	_	_	_	_	KID=123-6
-8	a	a	ADP	_	_	7	fixed	_	KID=123-6a
-9	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	KID=123-6b
-10	parole	parola	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	End=187.162|KID=123-7
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=121-2|Begin=184.627|KID=122-0
+2	okay	ok	INTJ	_	_	1	discourse	_	End=184.97|KID=122-1
 
 # sent_id = BOA3017_124
 # text = ah okay
 # jefferson_text = ah okay
 # speaker_id = BO146
-1	ah	ah	INTJ	_	_	2	discourse	_	Begin=187.183|KID=124-0
-2	okay	ok	INTJ	_	_	0	root	_	End=187.593|KID=124-1
-
-# sent_id = BOA3017_125
-# text = che si sovrappongono
-# jefferson_text = che si sovrappongono
-# speaker_id = BO139
-1	che	che	SCONJ	_	PronType=Rel	3	mark	_	Begin=188.823|KID=125-0
-2	si	si	PRON	_	Person=3|PronType=Prs	3	expl:pass	_	Clitic=Yes|KID=125-1
-3	sovrappongono	sovrapponere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=190.033|KID=125-2
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=125-2|Begin=187.183|KID=124-0
+2	okay	ok	INTJ	_	_	1	discourse	_	End=187.593|KID=124-1
 
 # sent_id = BOA3017_126
 # text = come nei sottotitoli
 # jefferson_text = come nei sottotitoli
 # speaker_id = BO146
-1	come	come	ADV	_	_	4	advmod	_	Begin=190.273|KID=126-0
+1	come	come	ADP	_	_	4	case	_	Begin=190.273|KID=126-0
 2-3	nei	_	_	_	_	_	_	_	KID=126-1
 2	in	in	ADP	_	_	4	case	_	KID=126-1a
 3	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	KID=126-1b
@@ -2262,11 +2132,11 @@
 3	ma	ma	CCONJ	_	_	4	cc	_	KID=262-2|OverlappingGroup=
 4	ovvio	ovvio	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	KID=262-3|OverlappingGroup=
 5	che	che	SCONJ	_	_	7	nsubj	_	KID=262-4|OverlappingGroup=
-6	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	7	iobj	_	KID=262-5|OverlappingGroup=|Clitic=Yes
+6	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	7	iobj	_	Clitic=Yes|KID=262-5|OverlappingGroup=
 7	pare	parere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	KID=262-6|OverlappingGroup=
 8	che	che	SCONJ	_	_	11	mark	_	KID=262-7|OverlappingGroup=
 9	non	non	ADV	_	PronType=Neg	11	advmod	_	KID=262-8|OverlappingGroup=
-10	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	KID=262-9|OverlappingGroup=|Clitic=Yes
+10	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	Clitic=Yes|KID=262-9|OverlappingGroup=
 11	vado	andare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	ccomp	_	KID=262-10|OverlappingGroup=
 12	a	a	ADP	_	_	13	mark	_	KID=262-11
 13	dire	dire	VERB	_	VerbForm=Inf	11	advcl	_	KID=262-12
@@ -2287,7 +2157,7 @@
 28	no	no	INTJ	_	_	27	advmod	_	Intonation=rising|KID=262-27
 29	e	e	CCONJ	_	_	27	cc	_	KID=262-28
 30	chi	chi	PRON	_	PronType=Rel	31	nsubj	_	KID=262-29|OverlappingGroup=
-31	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	KID=262-30|OverlappingGroup=|Truncated=Yes|Clitic=Yes
+31	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	Clitic=Yes|KID=262-30|OverlappingGroup=|Truncated=Yes
 32	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	KID=262-31|OverlappingGroup=
 33	eh	eh	INTJ	_	_	31	advmod	_	End=414.658|KID=262-32|OverlappingGroup=
 
@@ -3723,19 +3593,14 @@
 2	trascrivere	trascrivere	VERB	_	VerbForm=Inf	0	root	_	KID=458-1
 3	shining	Shining	PROPN	_	Gender=Masc	2	obj	_	End=674.58|KID=458-2
 
-# sent_id = BOA3017_461
-# text = comunque
-# jefferson_text = comunque
+# sent_id = BOA3017_461_462
+# text = comunque finalmente l' insalata
+# jefferson_text = comunque (finalmente) l' insalata
 # speaker_id = BO139
 1	comunque	comunque	CCONJ	_	_	0	root	_	Begin=678.25|End=678.88|KID=461-0
-
-# sent_id = BOA3017_462
-# text = finalmente l' insalata
-# jefferson_text = (finalmente) l' insalata
-# speaker_id = BO139
-1	finalmente	finalmente	ADV	_	_	3	advmod	_	Begin=679.32|KID=462-0
-2	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	KID=462-1|Truncated=Yes
-3	insalata	insalata	NOUN	_	Gender=Fem|Number=Sing	0	root	_	End=680.43|KID=462-2
+2	finalmente	finalmente	ADV	_	_	4	advmod	_	Begin=679.32|KID=462-0
+3	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	4	det	_	KID=462-1|Truncated=Yes
+4	insalata	insalata	NOUN	_	Gender=Fem|Number=Sing	0	root	_	End=680.43|KID=462-2
 
 # sent_id = BOA3017_463
 # text = anche perché l' ho mangiata tutta io tra un po'
@@ -3966,9 +3831,9 @@
 1	fate	fare	VERB	_	_	0	root	_	Begin=719.442|KID=489-0
 2	normale	normale	ADV	_	Number=Sing	1	amod	_	End=720.532|KID=489-1
 
-# sent_id = BOA3017_491
-# text = meglio che se non capisco niente scrivo incomprensibile
-# jefferson_text = meglio che se non capisco niente scrivo incomprensibile
+# sent_id = BOA3017_491_492
+# text = meglio che se non capisco niente scrivo incomprensibile anzi inintelligibile
+# jefferson_text = meglio che se non capisco niente scrivo incomprensibile anzi inintelligibile
 # speaker_id = BO139
 1	meglio	meglio	ADV	_	_	7	advmod	_	Begin=722.482|KID=491-0
 2	che	che	SCONJ	_	_	5	mark	_	KID=491-1
@@ -3978,13 +3843,8 @@
 6	niente	niente	PRON	_	PronType=Ind	5	obj	_	KID=491-5
 7	scrivo	scrivere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=491-6
 8	incomprensibile	incomprensibile	ADJ	_	Number=Sing	7	amod	_	End=725.052|KID=491-7
-
-# sent_id = BOA3017_492
-# text = anzi inintelligibile
-# jefferson_text = anzi inintelligibile
-# speaker_id = BO139
-1	anzi	anzi	ADV	_	_	2	advmod	_	Begin=725.242|KID=492-0
-2	inintelligibile	inintelligibile	ADJ	_	Number=Sing	0	root	_	End=726.502|KID=492-1
+9	anzi	anzi	ADV	_	_	10	advmod	_	Begin=725.242|KID=492-0
+10	inintelligibile	inintelligibile	ADJ	_	Number=Sing	0	root	_	End=726.502|KID=492-1
 
 # sent_id = BOA3017_493
 # text = intellegibile
@@ -4796,20 +4656,15 @@
 2	hai	avere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	KID=603-1|OverlappingGroup=100
 3	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	End=895.415|Intonation=rising|KID=603-2|OverlappingGroup=100
 
-# sent_id = BOA3017_604
-# text = mia nonna
-# jefferson_text = mia nonna
+# sent_id = BOA3017_604_605
+# text = mia nonna tutti gli anni
+# jefferson_text = mia nonna tutti gli anni
 # speaker_id = BO139
 1	mia	mio	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	2	det:poss	_	Begin=895.545|KID=604-0
 2	nonna	nonno	NOUN	_	Gender=Fem|Number=Sing	0	root	_	End=896.115|KID=604-1
-
-# sent_id = BOA3017_605
-# text = tutti gli anni
-# jefferson_text = tutti gli anni
-# speaker_id = BO139
-1	tutti	tutto	DET	_	PronType=Ind	3	det:predet	_	Begin=896.635|KID=605-0
-2	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	KID=605-1
-3	anni	anno	NOUN	_	Gender=Masc|Number=Plur	0	root	_	End=897.3|KID=605-2
+3	tutti	tutto	DET	_	PronType=Ind	5	det:predet	_	Begin=896.635|KID=605-0
+4	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=605-1
+5	anni	anno	NOUN	_	Gender=Masc|Number=Plur	0	root	_	End=897.3|KID=605-2
 
 # sent_id = BOA3017_606
 # text = mi fa almeno un uovo grande più tutti
