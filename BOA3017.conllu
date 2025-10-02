@@ -957,24 +957,23 @@
 # text = infatti io sto
 # jefferson_text = infatti io (.) [sto]
 # speaker_id = BO139
-1	infatti	infatti	ADV	_	_	2	advmod	_	Begin=193.293|KID=128-0
-2	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	KID=128-1|PauseAfter=Yes
-3	{P}	-	X	_	_	_	_	_	Type=shortpause
-4	sto	stare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	End=194.363|KID=128-3|OverlappingGroup=17
+1	infatti	infatti	ADV	_	_	3	advmod	_	Begin=193.293|KID=128-0
+2	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	KID=128-1|PauseAfter=Yes
+3	sto	stare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	End=194.363|KID=128-3|OverlappingGroup=17
 
 # sent_id = BOA3017_129
 # text = infatti te potresti fare il sottoxx quello che fa i sottotitoli
 # jefferson_text = [>in<fatti te po]tresti fare il sottoxx quello che fa i sottotitoli
 # speaker_id = BO147
 1	infatti	infatti	ADV	_	_	4	advmod	_	Begin=194.003|KID=129-0|OverlappingGroup=17|PaceFast=Yes
-2	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	4	iobj	_	Clitic=Yes|KID=129-1|OverlappingGroup=17
+2	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Clitic=Yes|KID=129-1|OverlappingGroup=17
 3	potresti	potere	AUX	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	KID=129-2|OverlappingGroup=17
-4	fare	fare	VERB	_	VerbForm=Inf	0	root	_	KID=129-3
+4	fare	fare	VERB	_	VerbForm=Inf	0	root	_	Coconstruct=128-3::conj|KID=129-3
 5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	KID=129-4
-6	sottoxx	sottoxx	NOUN	_	Gender=Fem	4	obj	_	KID=129-5
-7	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	6	nmod	_	KID=129-6
+6	sottoxx	sottoxx	NOUN	_	Gender=Fem	7	reparandum	_	KID=129-5
+7	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	4	obj	_	KID=129-6
 8	che	che	SCONJ	_	PronType=Rel	9	nsubj	_	KID=129-7
-9	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	KID=129-8
+9	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	KID=129-8
 10	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	KID=129-9
 11	sottotitoli	sottotitolo	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	End=196.783|KID=129-10
 
@@ -982,12 +981,13 @@
 # text = sottotitolatore
 # jefferson_text = [sottotitolato]re
 # speaker_id = BO145
-1	sottotitolatore	sottotitolatore	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Begin=196.228|End=197.348|KID=130-0|OverlappingGroup=205
+1	sottotitolatore	sottotitolatore	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Begin=196.228|Coconstruct=129-6::conj|End=197.348|KID=130-0|OverlappingGroup=205
 
 # sent_id = BOA3017_131
 # text = pure te
 # jefferson_text = [pure te]
 # speaker_id = BO146
+# tags = aiuto
 1	pure	pure	ADV	_	_	2	advmod	_	Begin=196.628|KID=131-0|OverlappingGroup=205
 2	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	0	root	_	Clitic=Yes|End=196.998|KID=131-1|OverlappingGroup=205
 
@@ -995,112 +995,92 @@
 # text = mh
 # jefferson_text = mh
 # speaker_id = BO139
-1	mh	mh	INTJ	_	_	0	root	_	Begin=197.488|End=197.688|KID=132-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=130-0|Begin=197.488|End=197.688|KID=132-0
 
 # sent_id = BOA3017_133
-# text = boh vedendo vedendo le trascrizioni d' inglese letranslation eh
+# text = boh vedendo vedendo le trascrizioni d' inglese le translation eh
 # jefferson_text = °boh ve[dendo° vedendo le]: trascrizioni: d' inglese [le=translation e:h] {ride}
 # speaker_id = BO147
-1	boh	boh	INTJ	_	_	2	advmod	_	Begin=198.908|KID=133-0|Volume=low
-2	vedendo	vedere	VERB	_	VerbForm=Ger	0	root	_	KID=133-1|OverlappingGroup=18|Volume=low
-3	vedendo	vedere	VERB	_	VerbForm=Ger	2	advcl	_	KID=133-2|OverlappingGroup=18
+1	boh	boh	INTJ	_	_	3	discourse	_	Begin=198.908|KID=133-0|Volume=low
+2	vedendo	vedere	VERB	_	VerbForm=Ger	3	reparandum	_	KID=133-1|OverlappingGroup=18|Volume=low
+3	vedendo	vedere	VERB	_	VerbForm=Ger	0	root	_	KID=133-2|OverlappingGroup=18
 4	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	KID=133-3|OverlappingGroup=18|Prolonged=Yes
-5	trascrizioni	trascrizione	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	KID=133-4|Prolonged=Yes
-6	d'	di	ADP	_	_	7	case	_	KID=133-5|Truncated=Yes
-7	inglese	inglese	NOUN	_	Number=Sing	5	nmod	_	KID=133-6
-8	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	KID=133-7|OverlappingGroup=19
-9	translation	translation	NOUN	_	_	3	obj	_	KID=133-8|OverlappingGroup=19|ProsodicLink=Yes
-10	eh	eh	INTJ	_	_	2	punct	_	End=204.098|KID=133-9|OverlappingGroup=19|Prolonged=Yes
-11	{ride}	-	X	_	_	_	_	_	Type=nonverbalbehavior
+5	trascrizioni	trascrizione	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	KID=133-4|Modality=laugh|Prolonged=Yes
+6	d'	di	ADP	_	_	7	case	_	KID=133-5|Modality=laugh|Truncated=Yes
+7	inglese	inglese	NOUN	_	Number=Sing	5	nmod	_	KID=133-6|Modality=laugh
+8	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	KID=133-7|Modality=laugh|OverlappingGroup=19
+9	translation	translation	NOUN	_	_	5	conj	_	KID=133-8|Modality=laugh|OverlappingGroup=19|ProsodicLink=Yes
+10	eh	eh	INTJ	_	_	3	discourse	_	End=204.098|KID=133-9|Modality=laugh|OverlappingGroup=19|Prolonged=Yes
 
 # sent_id = BOA3017_134
 # text = sì sì è un software
 # jefferson_text = [sì sì è un software]
 # speaker_id = BO139
-1	sì	sì	INTJ	_	_	5	advmod	_	Begin=199.398|KID=134-0|OverlappingGroup=18
+1	sì	sì	INTJ	_	_	5	discourse	_	Begin=199.398|KID=134-0|OverlappingGroup=18
 2	sì	sì	INTJ	_	_	5	discourse	_	KID=134-1|OverlappingGroup=18
 3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=134-2|OverlappingGroup=18
 4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=134-3|OverlappingGroup=18
 5	software	software	NOUN	_	Gender=Masc	0	root	_	End=200.508|KID=134-4|OverlappingGroup=18
 
-# sent_id = BOA3017_135
-# text = vabbè x fai con calma
-# jefferson_text = [vabbè xx (fai con calma)]
+# sent_id = BOA3017_135_137_138
+# text = vabbè x fai con calma fai con calma sottitoli in inglese magari
+# jefferson_text = [vabbè xx (fai con calma)] fai con calma, sottitoli:: in inglese magari
 # speaker_id = BO146
-1	vabbè	vabbè	INTJ	_	_	0	root	_	Begin=202.248|KID=135-0|OverlappingGroup=19
-2	x	x	X	_	_	1	obj	_	KID=135-1|OverlappingGroup=19|Unintelligible=Yes
-3	fai	fare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	acl	_	KID=135-2|OverlappingGroup=19
+1	vabbè	vabbè	INTJ	_	_	6	discourse	_	Begin=202.248|KID=135-0|OverlappingGroup=19
+2	x	x	X	_	_	6	dep	_	KID=135-1|OverlappingGroup=19|Unintelligible=Yes
+3	fai	fare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	reparandum	_	KID=135-2|OverlappingGroup=19
 4	con	con	ADP	_	_	5	case	_	KID=135-3|OverlappingGroup=19
 5	calma	calma	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	End=203.988|KID=135-4|OverlappingGroup=19
+6	fai	fare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=204.873|KID=137-0
+7	con	con	ADP	_	_	8	case	_	KID=137-1
+8	calma	calma	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	Intonation=weakly_rising|KID=137-2
+9	sottitoli	sottotitolo	NOUN	_	Number=Plur	6	conj	_	End=206.983|KID=137-3|Prolonged=Yes
+10	in	in	ADP	_	_	11	case	_	Begin=207.848|KID=138-0
+11	inglese	inglese	NOUN	_	Number=Sing	9	obl	_	KID=138-1
+12	magari	magari	ADV	_	_	9	advmod	_	End=208.998|KID=138-2
 
 # sent_id = BOA3017_136
 # text = mh eh
 # jefferson_text = =mh eh?
 # speaker_id = BO147
-1	mh	mh	INTJ	_	_	0	root	_	Begin=204.238|KID=136-0|ProsodicLink=Yes
-2	eh	eh	INTJ	_	_	1	punct	_	End=204.548|Intonation=rising|KID=136-1
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=135-2|Begin=204.238|KID=136-0|ProsodicLink=Yes
+2	eh	eh	INTJ	_	_	1	parataxis	_	End=204.548|Intonation=rising|KID=136-1
 
-# sent_id = BOA3017_137
-# text = fai con calma sottitoli
-# jefferson_text = fai con calma, sottitoli::
-# speaker_id = BO146
-1	fai	fare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=204.873|KID=137-0
-2	con	con	ADP	_	_	3	case	_	KID=137-1
-3	calma	calma	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	Intonation=weakly_rising|KID=137-2
-4	sottitoli	sottotitolo	NOUN	_	Number=Plur	3	amod	_	End=206.983|KID=137-3|Prolonged=Yes
-
-# sent_id = BOA3017_138
-# text = in inglese magari
-# jefferson_text = in inglese magari
-# speaker_id = BO146
-1	in	in	ADP	_	_	2	case	_	Begin=207.848|KID=138-0
-2	inglese	inglese	NOUN	_	Number=Sing	3	obl	_	KID=138-1
-3	magari	magari	ADV	_	_	0	root	_	End=208.998|KID=138-2
-
-# sent_id = BOA3017_139
-# text = mh
-# jefferson_text = mh
+# sent_id = BOA3017_139_140_141
+# text = mh no infatti il software è lo stesso cioè nel senso che eh questo che uso io è usato anche per i sottotitoli
+# jefferson_text = mh no infatti il software è lo stesso >cioè< nel senso che eh questo che uso io è usato anche per i sottotitoli
 # speaker_id = BO139
-1	mh	mh	INTJ	_	_	0	root	_	Begin=209.178|End=209.668|KID=139-0
+1	mh	mh	INTJ	_	_	8	discourse	_	Begin=209.178|End=209.668|KID=139-0
+2	no	no	INTJ	_	_	8	discourse	_	Begin=210.598|KID=140-0
+3	infatti	infatti	ADV	_	_	8	advmod	_	KID=140-1
+4	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=140-2
+5	software	software	NOUN	_	Gender=Masc	8	nsubj	_	KID=140-3
+6	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	KID=140-4
+7	lo	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=140-5
+8	stesso	stesso	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	End=211.958|KID=140-6
+9	cioè	cioè	ADV	_	_	20	cc	_	Begin=212.103|KID=141-0|PaceFast=Yes
+10-11	nel	_	_	_	_	_	_	_	KID=141-1
+10	in	in	ADP	_	_	20	mark	_	KID=141-1a
+11	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	fixed	_	KID=141-1b
+12	senso	senso	NOUN	_	Gender=Masc|Number=Sing	10	fixed	_	KID=141-2
+13	che	che	SCONJ	_	PronType=Rel	10	fixed	_	KID=141-3
+14	eh	eh	INTJ	_	_	20	discourse	_	KID=141-4
+15	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	20	nsubj	_	KID=141-5
+16	che	che	PRON	_	PronType=Rel	17	obj	_	KID=141-6
+17	uso	usare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	KID=141-7
+18	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	KID=141-8
+19	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	KID=141-9
+20	usato	usare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	conj	_	KID=141-10
+21	anche	anche	ADV	_	_	20	advmod	_	KID=141-11
+22	per	per	ADP	_	_	24	case	_	KID=141-12
+23	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	KID=141-13
+24	sottotitoli	sottotitolo	NOUN	_	Gender=Masc|Number=Plur	20	obl	_	End=215.443|KID=141-14
 
-# sent_id = BOA3017_140
-# text = no infatti il software è lo stesso
-# jefferson_text = no infatti il software è lo stesso
-# speaker_id = BO139
-1	no	no	INTJ	_	_	7	cc	_	Begin=210.598|KID=140-0
-2	infatti	infatti	ADV	_	_	4	advmod	_	KID=140-1
-3	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=140-2
-4	software	software	NOUN	_	Gender=Masc	7	nsubj	_	KID=140-3
-5	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	KID=140-4
-6	lo	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=140-5
-7	stesso	stesso	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	End=211.958|KID=140-6
-
-# sent_id = BOA3017_141
-# text = cioè nel senso che eh questo che uso io è usato anche per i sottotitoli
-# jefferson_text = >cioè< nel senso che eh questo che uso io è usato anche per i sottotitoli
-# speaker_id = BO139
-1	cioè	cioè	ADV	_	_	4	advmod	_	Begin=212.103|KID=141-0|PaceFast=Yes
-2-3	nel	_	_	_	_	_	_	_	KID=141-1
-2	in	in	ADP	_	_	4	case	_	KID=141-1a
-3	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=141-1b
-4	senso	senso	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=141-2
-5	che	che	SCONJ	_	PronType=Rel	12	mark	_	KID=141-3
-6	eh	eh	INTJ	_	_	12	advmod	_	KID=141-4
-7	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	KID=141-5
-8	che	che	PRON	_	PronType=Rel	9	det	_	KID=141-6
-9	uso	usare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	obj	_	KID=141-7
-10	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	KID=141-8
-11	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	KID=141-9
-12	usato	usare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	KID=141-10
-13	anche	anche	ADV	_	_	16	advmod	_	KID=141-11
-14	per	per	ADP	_	_	16	case	_	KID=141-12
-15	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	KID=141-13
-16	sottotitoli	sottotitolo	NOUN	_	Gender=Masc|Number=Plur	12	obl	_	End=215.443|KID=141-14
-
-# sent_id = BOA3017_142
-# text = dopo lì in quel caso hai già alcune pugnette diverse
-# jefferson_text = dopo lì in quel caso hai già alcune pugnette diverse
-# speaker_id = BO139
+# sent_id = BOA3017_142_144_147_148_149_150_153
+# text = dopo lì in quel caso hai già alcune pugnette diverse cioè quelli il problema è che a volte cioè più che altro per la mh lì devi anche tipo x devi anche vedere la parte video quando far li comparire se far li scorrere quando cambiare in le frasi lunghe
+# jefferson_text = dopo lì in quel caso hai già alcune pugnette diverse [>cioè<] do[po però i sotto]titoli c' hai anche no i sottotitoli scherzavo quello è il doppiaggio il problema della=bocc[a:] mh quelli il problema è che a volte >cioè< più che altro per=la mh lì devi anche tipo x devi anche vedere la parte video quando [farli compa]rire [se] farli scorrere, quando cambiare nelle frasi lunghe e poi tradur[li è un ca~]
+# speaker_id = BO139 BO147 BO139 BO139 BO139 BO139 BO139 BO139
+# tags = aiuto
 1	dopo	dopo	ADV	_	_	6	advmod	_	Begin=216.048|KID=142-0
 2	lì	lì	ADV	_	Gender=Fem	6	advmod	_	KID=142-1
 3	in	in	ADP	_	_	5	case	_	KID=142-2
@@ -1111,101 +1091,118 @@
 8	alcune	alcuno	DET	_	PronType=Ind	9	det	_	KID=142-7
 9	pugnette	pugnetta	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	KID=142-8
 10	diverse	diverso	ADJ	_	PronType=Ind	9	amod	_	End=218.208|KID=142-9
+11	cioè	cioè	CCONJ	_	_	0	root	_	Begin=218.483|End=218.873|KID=144-0|OverlappingGroup=20|PaceFast=Yes
+12	quelli	quello	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	0	root	_	Begin=225.098|KID=147-0
+13	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	KID=147-1
+14	problema	problema	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	KID=147-2
+15	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	KID=147-3
+16	che	che	SCONJ	_	_	18	advmod	_	KID=147-4
+17	a	a	ADP	_	_	18	case	_	KID=147-5
+18	volte	volta	NOUN	_	Gender=Fem|Number=Plur	15	obl	_	End=226.568|KID=147-6
+19	cioè	cioè	CCONJ	_	_	20	advmod	_	Begin=228.478|KID=148-0|PaceFast=Yes
+20	più	più	ADV	_	_	0	root	_	KID=148-1
+21	che	che	ADP	_	_	22	case	_	KID=148-2
+22	altro	altro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	20	obl	_	KID=148-3
+23	per	per	ADP	_	_	25	case	_	KID=148-4
+24	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	KID=148-5|ProsodicLink=Yes
+25	mh	mh	INTJ	_	_	22	nmod	_	End=229.72|KID=148-6
+26	lì	lì	ADV	_	_	29	advmod	_	Begin=229.888|KID=149-0
+27	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	29	cop	_	KID=149-1
+28	anche	anche	ADV	_	_	29	advmod	_	KID=149-2
+29	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	33	nsubj	_	KID=149-3
+30	x	x	X	_	_	29	nmod	_	KID=149-4|Unintelligible=Yes
+31	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	33	aux	_	KID=149-5
+32	anche	anche	ADV	_	_	33	advmod	_	KID=149-6
+33	vedere	vedere	VERB	_	VerbForm=Inf	0	root	_	KID=149-7
+34	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	KID=149-8
+35	parte	parte	NOUN	_	Gender=Fem|Number=Sing	33	obj	_	KID=149-9
+36	video	video	NOUN	_	Gender=Masc	35	amod	_	End=232.418|KID=149-10
+37	quando	quando	SCONJ	_	_	38	mark	_	Begin=232.708|KID=150-0
+38-39	farli	_	_	_	_	_	_	_	KID=150-1|OverlappingGroup=22
+38	far	fare	VERB	_	VerbForm=Inf	40	advcl	_	KID=150-1a
+39	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	38	obj	_	Clitic=Yes|KID=150-1b
+40	comparire	comparire	VERB	_	VerbForm=Inf	0	root	_	End=233.908|KID=150-2|OverlappingGroup=22
+41	se	se	SCONJ	_	_	42	mark	_	Begin=234.55|KID=153-0|OverlappingGroup=23
+42-43	farli	_	_	_	_	_	_	_	KID=153-1
+42	far	fare	VERB	_	VerbForm=Inf	0	root	_	KID=153-1a
+43	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	42	obj	_	Clitic=Yes|KID=153-1b
+44	scorrere	scorrere	VERB	_	VerbForm=Inf	42	ccomp	_	Intonation=weakly_rising|KID=153-2
+45	quando	quando	SCONJ	_	_	46	mark	_	KID=153-3
+46	cambiare	cambiare	VERB	_	VerbForm=Inf	44	advcl	_	KID=153-4
+47-48	nelle	_	_	_	_	_	_	_	KID=153-5
+47	in	in	ADP	_	_	49	case	_	KID=153-5a
+48	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	49	det	_	KID=153-5b
+49	frasi	frase	NOUN	_	Gender=Fem|Number=Plur	46	obl	_	KID=153-6
+50	lunghe	lungo	ADJ	_	Gender=Fem|Number=Plur	46	xcomp	_	End=237.1|KID=153-7
 
-# sent_id = BOA3017_143
-# text = dopo però i sottotitoli c' hai anche no i sottotitoli scherzavo quello è il doppiaggio
-# jefferson_text = do[po però i sotto]titoli c' hai anche no i sottotitoli scherzavo quello è il doppiaggio
-# speaker_id = BO147
-1	dopo	dopo	ADP	_	_	2	case	_	Begin=218.353|KID=143-0|OverlappingGroup=20
+# sent_id = BOA3017_154_159_160
+# text = e poi tradur li è un ca~ poi tradurli è un casino perché cambia la lunghezza delle parole poi devi cambiare tutto quanto
+# jefferson_text = dopo lì in quel caso hai già alcune pugnette diverse [>cioè<] do[po però i sotto]titoli c' hai anche no i sottotitoli scherzavo quello è il doppiaggio il problema della=bocc[a:] mh quelli il problema è che a volte >cioè< più che altro per=la mh lì devi anche tipo x devi anche vedere la parte video quando [farli compa]rire [se] farli scorrere, quando cambiare nelle frasi lunghe e poi tradur[li è un ca~] poi tradurli è un casino perché cambia la lunghezza delle parole poi devi c[ambiare tutto quan]to
+# speaker_id = BO139 BO147 BO139 BO139 BO139 BO139 BO139 BO139 BO139 BO139
+# tags = aiuto
+1	e	e	CCONJ	_	_	7	cc	_	Begin=237.65|KID=154-0
+2	poi	poi	ADV	_	_	7	advmod	_	KID=154-1
+3-4	tradurli	_	_	_	_	_	_	_	KID=154-2|OverlappingGroup=24
+3	tradur	tradurre	VERB	_	VerbForm=Inf	4	case	_	KID=154-2a
+4	li	li	PRON	_	PronType=Prs	7	obl	_	KID=154-2b
+5	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	KID=154-3|OverlappingGroup=24
+6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=154-4|OverlappingGroup=24
+7	ca~	ca~	X	_	_	0	root	_	End=238.78|Interrupted=Yes|KID=154-5|OverlappingGroup=24
+8	poi	poi	ADV	_	_	9	advmod	_	Begin=245.421|KID=159-0
+9-10	tradurli	_	_	_	_	_	_	_	KID=159-1
+9	tradur	tradurre	VERB	_	VerbForm=Inf	0	root	_	KID=159-1a
+10	li	li	PRON	_	PronType=Prs	9	obj	_	Clitic=Yes|KID=159-1b
+11	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	KID=159-2
+12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	KID=159-3
+13	casino	casino	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	KID=159-4
+14	perché	perché	SCONJ	_	_	15	mark	_	KID=159-5
+15	cambia	cambiare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	KID=159-6
+16	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	KID=159-7
+17	lunghezza	lunghezza	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	KID=159-8
+18-19	delle	_	_	_	_	_	_	_	KID=159-9
+18	di	di	ADP	_	_	20	case	_	KID=159-9a
+19	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	KID=159-9b
+20	parole	parola	NOUN	_	Gender=Fem|Number=Plur	17	nmod	_	End=247.931|KID=159-10
+21	poi	poi	ADV	_	_	23	advmod	_	Begin=248.111|KID=160-0
+22	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	23	aux	_	KID=160-1
+23	cambiare	cambiare	VERB	_	VerbForm=Inf	0	root	_	KID=160-2|OverlappingGroup=25
+24	tutto	tutto	DET	_	Number=Sing|PronType=Ind	23	obj	_	KID=160-3|OverlappingGroup=25
+25	quanto	quanto	PRON	_	PronType=Rel	23	advmod	_	End=249.561|KID=160-4|OverlappingGroup=25
+
+# sent_id = BOA3017_143_145
+# text = dopo però i sottotitoli c' hai anche no i sottotitoli scherzavo quello è il doppiaggio il problema di la bocca mh
+# jefferson_text = do[po però i sotto]titoli c' hai anche no i sottotitoli scherzavo quello è il doppiaggio il problema della=bocc[a:] mh quelli il problema è che a volte
+# speaker_id = BO147 BO139
+# tags = aiuto
+1	dopo	dopo	ADP	_	_	6	advmod	_	Begin=218.353|KID=143-0|OverlappingGroup=20
 2	però	però	CCONJ	_	_	6	advmod	_	KID=143-1|OverlappingGroup=20
 3	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	KID=143-2|OverlappingGroup=20
-4	sottotitoli	sottotitolo	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	KID=143-3|OverlappingGroup=20
+4	sottotitoli	sottotitolo	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	KID=143-3|OverlappingGroup=20
 5	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	6	expl	_	Clitic=Yes|KID=143-4|Truncated=Yes
 6	hai	avere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=143-5
-7	anche	anche	ADV	_	_	8	advmod	_	KID=143-6
-8	no	no	INTJ	_	_	6	advmod	_	KID=143-7
+7	anche	anche	ADV	_	_	6	advmod	_	KID=143-6
+8	no	no	INTJ	_	_	10	advmod	_	KID=143-7
 9	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	KID=143-8
-10	sottotitoli	sottotitolo	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	KID=143-9
+10	sottotitoli	sottotitolo	NOUN	_	Gender=Masc|Number=Plur	_	_	_	KID=143-9
 11	scherzavo	scherzare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	10	amod	_	KID=143-10
 12	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	15	nsubj	_	KID=143-11
-13	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	KID=143-12
+13	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	KID=143-12
 14	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	KID=143-13
-15	doppiaggio	doppiaggio	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	End=221.463|KID=143-14
-
-# sent_id = BOA3017_144
-# text = cioè
-# jefferson_text = [>cioè<]
-# speaker_id = BO139
-1	cioè	cioè	CCONJ	_	_	0	root	_	Begin=218.483|End=218.873|KID=144-0|OverlappingGroup=20|PaceFast=Yes
-
-# sent_id = BOA3017_145
-# text = il problema dellabocca mh
-# jefferson_text = il problema della=bocc[a:] mh
-# speaker_id = BO147
-1	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Begin=221.643|KID=145-0
-2	problema	problema	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=145-1
-3-4	della	_	_	_	_	_	_	_	KID=145-2
-3	di	di	ADP	_	_	5	case	_	KID=145-2a
-4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=145-2b
-5	bocca	bocca	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	KID=145-3|OverlappingGroup=21|Prolonged=Yes|ProsodicLink=Yes
-6	mh	mh	INTJ	_	_	5	amod	_	End=223.403|KID=145-4
+15	doppiaggio	doppiaggio	NOUN	_	Gender=Masc|Number=Sing	6	parataxis	_	End=221.463|KID=143-14
+16	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	Begin=221.643|KID=145-0
+17	problema	problema	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	KID=145-1
+18-19	della	_	_	_	_	_	_	_	KID=145-2
+18	di	di	ADP	_	_	20	case	_	KID=145-2a
+19	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	KID=145-2b
+20	bocca	bocca	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	KID=145-3|OverlappingGroup=21|Prolonged=Yes|ProsodicLink=Yes
+21	mh	mh	INTJ	_	_	6	discourse	_	End=223.403|KID=145-4
 
 # sent_id = BOA3017_146
 # text = mh mh
 # jefferson_text = [mh mh]
 # speaker_id = BO139
-1	mh	mh	INTJ	_	_	0	root	_	Begin=222.638|KID=146-0|OverlappingGroup=21
-2	mh	mh	INTJ	_	_	1	compound	_	End=222.948|KID=146-1|OverlappingGroup=21
-
-# sent_id = BOA3017_147
-# text = quelli il problema è che a volte
-# jefferson_text = quelli il problema è che a volte
-# speaker_id = BO139
-1	quelli	quello	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	0	root	_	Begin=225.098|KID=147-0
-2	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	KID=147-1
-3	problema	problema	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	KID=147-2
-4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	KID=147-3
-5	che	che	SCONJ	_	_	7	advmod	_	KID=147-4
-6	a	a	ADP	_	_	7	case	_	KID=147-5
-7	volte	volta	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	End=226.568|KID=147-6
-
-# sent_id = BOA3017_148
-# text = cioè più che altro perla mh
-# jefferson_text = >cioè< più che altro per=la mh
-# speaker_id = BO139
-1	cioè	cioè	CCONJ	_	_	2	advmod	_	Begin=228.478|KID=148-0|PaceFast=Yes
-2	più	più	ADV	_	_	0	root	_	KID=148-1
-3	che	che	ADP	_	_	4	case	_	KID=148-2
-4	altro	altro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	2	obl	_	KID=148-3
-5	per	per	ADP	_	_	7	case	_	KID=148-4
-6	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=148-5|ProsodicLink=Yes
-7	mh	mh	INTJ	_	_	4	nmod	_	End=229.72|KID=148-6
-
-# sent_id = BOA3017_149
-# text = lì devi anche tipo x devi anche vedere la parte video
-# jefferson_text = lì devi anche tipo x devi anche vedere la parte video
-# speaker_id = BO139
-1	lì	lì	ADV	_	_	4	advmod	_	Begin=229.888|KID=149-0
-2	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	_	KID=149-1
-3	anche	anche	ADV	_	_	4	advmod	_	KID=149-2
-4	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	KID=149-3
-5	x	x	X	_	_	4	nmod	_	KID=149-4|Unintelligible=Yes
-6	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	KID=149-5
-7	anche	anche	ADV	_	_	8	advmod	_	KID=149-6
-8	vedere	vedere	VERB	_	VerbForm=Inf	0	root	_	KID=149-7
-9	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	KID=149-8
-10	parte	parte	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	KID=149-9
-11	video	video	NOUN	_	Gender=Masc	10	amod	_	End=232.418|KID=149-10
-
-# sent_id = BOA3017_150
-# text = quando farli comparire
-# jefferson_text = quando [farli compa]rire
-# speaker_id = BO139
-1	quando	quando	SCONJ	_	_	2	mark	_	Begin=232.708|KID=150-0
-2-3	farli	_	_	_	_	_	_	_	KID=150-1|OverlappingGroup=22
-2	far	fare	VERB	_	VerbForm=Inf	4	advcl	_	KID=150-1a
-3	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	Clitic=Yes|KID=150-1b
-4	comparire	comparire	VERB	_	VerbForm=Inf	0	root	_	End=233.908|KID=150-2|OverlappingGroup=22
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=145-1|Begin=222.638|KID=146-0|OverlappingGroup=21
+2	mh	mh	INTJ	_	_	1	parataxis	_	End=222.948|KID=146-1|OverlappingGroup=21
 
 # sent_id = BOA3017_151
 # text = mh
@@ -1219,36 +1216,6 @@
 # speaker_id = BO147
 1	eh	eh	INTJ	_	_	0	root	_	Begin=234.103|KID=152-0
 2	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	End=234.71|KID=152-1|OverlappingGroup=23
-
-# sent_id = BOA3017_153
-# text = se farli scorrere quando cambiare nelle frasi lunghe
-# jefferson_text = [se] farli scorrere, quando cambiare nelle frasi lunghe
-# speaker_id = BO139
-1	se	se	SCONJ	_	_	2	mark	_	Begin=234.55|KID=153-0|OverlappingGroup=23
-2-3	farli	_	_	_	_	_	_	_	KID=153-1
-2	far	fare	VERB	_	VerbForm=Inf	0	root	_	KID=153-1a
-3	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	Clitic=Yes|KID=153-1b
-4	scorrere	scorrere	VERB	_	VerbForm=Inf	2	ccomp	_	Intonation=weakly_rising|KID=153-2
-5	quando	quando	SCONJ	_	_	6	mark	_	KID=153-3
-6	cambiare	cambiare	VERB	_	VerbForm=Inf	4	advcl	_	KID=153-4
-7-8	nelle	_	_	_	_	_	_	_	KID=153-5
-7	in	in	ADP	_	_	9	case	_	KID=153-5a
-8	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	KID=153-5b
-9	frasi	frase	NOUN	_	Gender=Fem|Number=Plur	6	obl	_	KID=153-6
-10	lunghe	lungo	ADJ	_	Gender=Fem|Number=Plur	6	xcomp	_	End=237.1|KID=153-7
-
-# sent_id = BOA3017_154
-# text = e poi tradurli è un ca~
-# jefferson_text = e poi tradur[li è un ca~]
-# speaker_id = BO139
-1	e	e	CCONJ	_	_	7	cc	_	Begin=237.65|KID=154-0
-2	poi	poi	ADV	_	_	7	advmod	_	KID=154-1
-3-4	tradurli	_	_	_	_	_	_	_	KID=154-2|OverlappingGroup=24
-3	tradur	tradurre	VERB	_	VerbForm=Inf	4	case	_	KID=154-2a
-4	li	li	PRON	_	PronType=Prs	7	obl	_	KID=154-2b
-5	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	KID=154-3|OverlappingGroup=24
-6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=154-4|OverlappingGroup=24
-7	ca~	ca~	X	_	_	0	root	_	End=238.78|Interrupted=Yes|KID=154-5|OverlappingGroup=24
 
 # sent_id = BOA3017_155
 # text = il fatto è che molto spesso non c' acchiappano cioè anche
@@ -1277,36 +1244,6 @@
 # jefferson_text = mh
 # speaker_id = BO145
 1	mh	mh	INTJ	_	_	0	root	_	Begin=243.576|End=244.276|KID=158-0
-
-# sent_id = BOA3017_159
-# text = poi tradurli è un casino perché cambia la lunghezza delle parole
-# jefferson_text = poi tradurli è un casino perché cambia la lunghezza delle parole
-# speaker_id = BO139
-1	poi	poi	ADV	_	_	2	advmod	_	Begin=245.421|KID=159-0
-2-3	tradurli	_	_	_	_	_	_	_	KID=159-1
-2	tradur	tradurre	VERB	_	VerbForm=Inf	0	root	_	KID=159-1a
-3	li	li	PRON	_	PronType=Prs	2	obj	_	Clitic=Yes|KID=159-1b
-4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=159-2
-5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	KID=159-3
-6	casino	casino	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	KID=159-4
-7	perché	perché	SCONJ	_	_	8	mark	_	KID=159-5
-8	cambia	cambiare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	KID=159-6
-9	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	KID=159-7
-10	lunghezza	lunghezza	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	KID=159-8
-11-12	delle	_	_	_	_	_	_	_	KID=159-9
-11	di	di	ADP	_	_	13	case	_	KID=159-9a
-12	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	KID=159-9b
-13	parole	parola	NOUN	_	Gender=Fem|Number=Plur	10	nmod	_	End=247.931|KID=159-10
-
-# sent_id = BOA3017_160
-# text = poi devi cambiare tutto quanto
-# jefferson_text = poi devi c[ambiare tutto quan]to
-# speaker_id = BO139
-1	poi	poi	ADV	_	_	3	advmod	_	Begin=248.111|KID=160-0
-2	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	KID=160-1
-3	cambiare	cambiare	VERB	_	VerbForm=Inf	0	root	_	KID=160-2|OverlappingGroup=25
-4	tutto	tutto	DET	_	Number=Sing|PronType=Ind	3	obj	_	KID=160-3|OverlappingGroup=25
-5	quanto	quanto	PRON	_	PronType=Rel	3	advmod	_	End=249.561|KID=160-4|OverlappingGroup=25
 
 # sent_id = BOA3017_161
 # text = mh mh mh
@@ -4248,26 +4185,16 @@
 4	dice	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=541-3
 5	eh	eh	INTJ	_	_	4	obj	_	End=789.074|KID=541-4|Prolonged=Yes|Volume=high
 
-# sent_id = BOA3017_543
-# text = mh
-# jefferson_text = m:::h
+# sent_id = BOA3017_543_545_BOA3017_546
+# text = mh andare all' università
+# jefferson_text = m:::h andare: all' università:
 # speaker_id = BO145
 1	mh	mh	INTJ	_	_	0	root	_	Begin=790.519|End=791.869|KID=543-0|Prolonged=Yes
-
-# sent_id = BOA3017_545
-# text = andare
-# jefferson_text = andare:
-# speaker_id = BO145
-1	andare	andare	VERB	_	VerbForm=Inf	0	root	_	Begin=792.11|End=793.439|KID=545-0|Prolonged=Yes
-
-# sent_id = BOA3017_546
-# text = all' università
-# jefferson_text = all' università:
-# speaker_id = BO145
-1-2	all'	_	_	_	_	_	_	_	Begin=793.629|KID=546-0|Truncated=Yes
-1	a	a	ADP	_	_	3	case	_	KID=546-0a
-2	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	KID=546-0b
-3	università	università	NOUN	_	Gender=Fem	0	root	_	End=795.539|KID=546-1|Prolonged=Yes
+2	andare	andare	VERB	_	VerbForm=Inf	0	root	_	Begin=792.11|End=793.439|KID=545-0|Prolonged=Yes
+3-4	all'	_	_	_	_	_	_	_	Begin=793.629|KID=546-0|Truncated=Yes
+3	a	a	ADP	_	_	5	case	_	KID=546-0a
+4	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	KID=546-0b
+5	università	università	NOUN	_	Gender=Fem	0	root	_	End=795.539|KID=546-1|Prolonged=Yes
 
 # sent_id = BOA3017_547
 # text = questa era una tedesca di dresda che abbiamo conosciuto
@@ -4321,23 +4248,18 @@
 # speaker_id = BO146
 1	x	x	X	_	_	0	root	_	Begin=808.868|End=809.698|KID=556-0|OverlappingGroup=94|Unintelligible=Yes
 
-# sent_id = BOA3017_558
-# text = a mh
-# jefferson_text = =[a] m:h
+# sent_id = BOA3017_558_559
+# text = a mh alla festa di anna
+# jefferson_text = =[a] m:h alla festa (di) anna
 # speaker_id = BO145
 1	a	a	ADP	_	_	2	case	_	Begin=809.333|KID=558-0|OverlappingGroup=94|ProsodicLink=Yes
 2	mh	mh	INTJ	_	_	0	root	_	End=810.423|KID=558-1|Prolonged=Yes
-
-# sent_id = BOA3017_559
-# text = alla festa di anna
-# jefferson_text = alla festa (di) anna
-# speaker_id = BO145
-1-2	alla	_	_	_	_	_	_	_	Begin=810.559|KID=559-0
-1	a	a	ADP	_	_	3	case	_	KID=559-0a
-2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=559-0b
-3	festa	festa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=559-1
-4	di	di	ADP	_	_	5	case	_	KID=559-2
-5	anna	Anna	PROPN	_	_	3	nmod	_	End=811.969|KID=559-3
+3-4	alla	_	_	_	_	_	_	_	Begin=810.559|KID=559-0
+3	a	a	ADP	_	_	5	case	_	KID=559-0a
+4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=559-0b
+5	festa	festa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=559-1
+6	di	di	ADP	_	_	7	case	_	KID=559-2
+7	anna	Anna	PROPN	_	_	5	nmod	_	End=811.969|KID=559-3
 
 # sent_id = BOA3017_562
 # text = eh che sarebbe
@@ -4471,9 +4393,9 @@
 3	sembra	sembrare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=582-2
 4	tedesca	tedesco	ADJ	_	Gender=Fem|Number=Sing	3	xcomp	_	End=849.398|KID=582-3
 
-# sent_id = BOA3017_583
-# text = ma è che ti~ pure il nome di un personaggiodi mh
-# jefferson_text = ma è che ti~ pure il nome di un personaggio=di mh
+# sent_id = BOA3017_583_584
+# text = ma è che ti~ pure il nome di un personaggiodi mh di un film di sergio leone
+# jefferson_text = ma è che ti~ pure il nome di un personaggio=di mh di un film di sergio leone
 # speaker_id = BO139
 1	ma	ma	CCONJ	_	_	2	cc	_	Begin=849.678|KID=583-0
 2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=583-1
@@ -4487,17 +4409,12 @@
 10	personaggio	personaggio	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	KID=583-9
 11	di	di	ADP	_	_	12	case	_	KID=583-10|ProsodicLink=Yes
 12	mh	mh	INTJ	_	_	10	nmod	_	End=852.198|KID=583-11
-
-# sent_id = BOA3017_584
-# text = di un film di sergio leone
-# jefferson_text = di un film di sergio leone
-# speaker_id = BO139
-1	di	di	ADP	_	_	3	case	_	Begin=852.463|KID=584-0
-2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	KID=584-1
-3	film	film	NOUN	_	Gender=Masc	0	root	_	KID=584-2
-4	di	di	ADP	_	_	5	case	_	KID=584-3
-5	sergio	Sergio	PROPN	_	Gender=Masc	3	nmod	_	KID=584-4
-6	leone	Leone	PROPN	_	_	5	amod	_	End=853.563|KID=584-5
+13	di	di	ADP	_	_	15	case	_	Begin=852.463|KID=584-0
+14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	KID=584-1
+15	film	film	NOUN	_	Gender=Masc	0	root	_	KID=584-2
+16	di	di	ADP	_	_	17	case	_	KID=584-3
+17	sergio	Sergio	PROPN	_	Gender=Masc	15	nmod	_	KID=584-4
+18	leone	Leone	PROPN	_	_	17	amod	_	End=853.563|KID=584-5
 
 # sent_id = BOA3017_585
 # text = c' è anche la canzone di jason derulo che si chiama x x
