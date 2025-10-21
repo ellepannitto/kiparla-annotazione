@@ -6062,20 +6062,20 @@
 15	vi~	vi~	X	_	_	18	reparandum	_	Interrupted=Yes|KID=316-14
 16	cioè	cioè	CCONJ	_	_	33	cc	_	KID=316-15
 17	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	KID=316-16
-18	città	città	NOUN	_	Gender=Fem	_	_	_	KID=316-17
+18	città	città	NOUN	_	Gender=Fem	33	nsubj	_	KID=316-17
 19	più	più	ADV	_	_	20	advmod	_	KID=316-18
 20	gran~	gran~	X	_	_	22	reparandum	_	Interrupted=Yes|KID=316-19
 21	più	più	ADV	_	_	22	advmod	_	KID=316-20
 22	grande	grande	ADJ	_	Number=Sing	18	amod	_	KID=316-21
-23	x	x	X	_	_	5	dep	_	KID=316-22|Syllables=3|Unintelligible=Yes
-24	diciamo	dire	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	26	orphan	_	KID=316-23
+23	x	x	X	_	_	18	dep	_	KID=316-22|Syllables=3|Unintelligible=Yes
+24	diciamo	dire	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	26	discourse	_	KID=316-23
 25	più	più	ADV	_	_	26	advmod	_	KID=316-24
 26	vicina	vicino	ADJ	_	Gender=Fem|Number=Sing	18	amod	_	KID=316-25
 27	che	che	SCONJ	_	PronType=Rel	31	nsubj	_	KID=316-26
 28	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	KID=316-27
 29	leggermente	leggermente	ADV	_	_	31	advmod	_	KID=316-28
 30	più	più	ADV	_	_	31	advmod	_	KID=316-29
-31	grande	grande	ADJ	_	Number=Sing	_	_	_	KID=316-30
+31	grande	grande	ADJ	_	Number=Sing	18	acl:relcl	_	KID=316-30
 32	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	cop	_	KID=316-31
 33	pesaro	Pesaro	PROPN	_	_	5	conj	_	End=1279.52|Intonation=falling|KID=316-32|Prolonged=Yes
 
