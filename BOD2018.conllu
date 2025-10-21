@@ -3648,7 +3648,7 @@
 3	beh	beh	INTJ	_	_	6	discourse	_	KID=267-2
 4	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	6	dislocated	_	KID=267-3
 5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|KID=267-4
-6	capisco	capire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	conj	_	KID=267-5
+6	capisco	capire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=267-5
 7	in	in	ADP	_	_	8	case	_	KID=267-6
 8	realtà	realtà	NOUN	_	Gender=Fem	6	obl	_	KID=267-7
 9	ma	ma	CCONJ	_	_	13	cc	_	KID=267-8
