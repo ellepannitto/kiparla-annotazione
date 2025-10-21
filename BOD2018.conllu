@@ -2827,9 +2827,9 @@
 15	sola	solo	ADJ	_	Gender=Fem|Number=Sing	13	obl	_	KID=189-14
 16	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	cop	_	KID=189-15
 17	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	KID=189-16
-18	bagno	bagno	NOUN	_	Gender=Masc|Number=Sing	20	conj	_	End=776.5|Intonation=weakly_rising|KID=189-17
+18	bagno	bagno	NOUN	_	Gender=Masc|Number=Sing	0	root	_	End=776.5|Intonation=weakly_rising|KID=189-17
 19	e	e	CCONJ	_	_	20	cc	_	Begin=777.192|KID=190-0
-20	apprezzavo	apprezzare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	KID=190-1
+20	apprezzavo	apprezzare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	conj	_	KID=190-1
 21	tantissimo	tantissimo	ADV	_	Degree=Abs	20	advmod	_	KID=190-2
 22	quando	quando	SCONJ	_	_	23	mark	_	KID=190-3
 23	stavo	stare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	20	advcl	_	KID=190-4
@@ -2841,7 +2841,7 @@
 29	più	più	ADV	_	_	28	advmod	_	KID=190-10
 30	a	a	ADP	_	_	31	reparandum	_	KID=190-11|Prolonged=Yes
 31	a	a	ADP	_	_	32	mark	_	KID=190-12
-32	sta'	stare	VERB	_	Gender=Fem|Number=Sing	28	xcomp	_	KID=190-13a
+32	sta'	stare	VERB	_	Gender=Fem|Number=Sing	28	xcomp	_	KID=190-13
 33	con	con	ADP	_	_	35	case	_	KID=190-14
 34	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	35	det	_	KID=190-15
 35	persone	persona	NOUN	_	Gender=Fem|Number=Plur	32	obl	_	End=782.256|KID=190-16|Prolonged=Yes
