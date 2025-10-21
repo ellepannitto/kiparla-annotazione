@@ -3350,7 +3350,7 @@
 2	poi	poi	ADV	_	_	8	advmod	_	KID=253-1
 3	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=253-2
 4	miei	mio	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	amod:poss	_	KID=253-3
-5	spazi	spazio	NOUN	_	Gender=Masc|Number=Plur	_	_	_	KID=253-4
+5	spazi	spazio	NOUN	_	Gender=Masc|Number=Plur	8	dislocated	_	KID=253-4
 6	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	8	obl	_	KID=253-5
 7	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|KID=253-6
 8	ritaglio	ritagliare	VERB	_	Gender=Masc|Number=Sing	0	root	_	KID=253-7|Prolonged=Yes
@@ -3364,25 +3364,25 @@
 # jefferson_text = magari sì in campagna mi piacerebbe abitare: o in in più che in campagna: in un posto: con del verde.
 # speaker_id = BO140
 1	magari	magari	ADV	_	_	6	advmod	_	Begin=975.482|KID=254-0
-2	sì	sì	INTJ	_	_	6	advmod	_	KID=254-1
+2	sì	sì	INTJ	_	_	6	discourse	_	KID=254-1
 3	in	in	ADP	_	_	4	case	_	KID=254-2
-4	campagna	campagna	NOUN	_	Gender=Fem|Number=Sing	17	conj	_	KID=254-3
+4	campagna	campagna	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	KID=254-3
 5	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	iobj	_	Clitic=Yes|KID=254-4
 6	piacerebbe	piacere	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=254-5
 7	abitare	abitare	VERB	_	VerbForm=Inf	6	csubj	_	KID=254-6|Prolonged=Yes
 8	o	o	CCONJ	_	_	17	cc	_	KID=254-7
 9	in	in	ADP	_	_	13	reparandum	_	KID=254-8
 10	in	in	ADP	_	_	13	reparandum	_	KID=254-9
-11	più	più	ADV	_	ExtPos=ADP	12	fixed	_	KID=254-10
-12	che	che	SCONJ	_	Number=Sing|PronType=Rel	14	case	_	KID=254-11
+11	più	più	ADV	_	ExtPos=ADP	14	case	_	KID=254-10
+12	che	che	SCONJ	_	Number=Sing|PronType=Rel	11	fixed	_	KID=254-11
 13	in	in	ADP	_	_	14	case	_	KID=254-12
-14	campagna	campagna	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	KID=254-13|Prolonged=Yes
+14	campagna	campagna	NOUN	_	Gender=Fem|Number=Sing	17	parataxis	_	KID=254-13|Prolonged=Yes
 15	in	in	ADP	_	_	17	case	_	KID=254-14
 16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	KID=254-15
-17	posto	posto	NOUN	_	Gender=Masc|Number=Sing	_	_	_	KID=254-16|Prolonged=Yes
+17	posto	posto	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	KID=254-16|Prolonged=Yes
 18	con	con	ADP	_	_	20	case	_	KID=254-17
 19	del	del	DET	_	PronType=Art	20	det	_	KID=254-18
-20	verde	verde	ADJ	_	Number=Sing	17	obl	_	End=982.08|Intonation=falling|KID=254-19
+20	verde	verde	ADJ	_	Number=Sing	17	nmod	_	End=982.08|Intonation=falling|KID=254-19
 
 # sent_id = BOD2018_260
 # text = sì
@@ -3394,28 +3394,28 @@
 # text = come magari dove abito io che okay alla fine @nomepaese non è pistoia cioè a @nomepaese non c'è assolutamente niente
 # jefferson_text = come magari dove abito io che ok::ay alla fine {nomepaese} non è pistoia cioè a {nomepaese} non c'è assolutamente niente
 # speaker_id = BO118
-1	come	come	SCONJ	_	_	4	conj	_	Begin=1010.357|KID=261-0
+1	come	come	ADP	_	_	4	case	_	Begin=1010.357|KID=261-0
 2	magari	magari	ADV	_	_	4	advmod	_	KID=261-1
-3	dove	dove	ADV	_	_	6	nsubj	_	KID=261-2
-4	abito	abitare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	KID=261-3
+3	dove	dove	ADV	_	_	4	advmod	_	KID=261-2
+4	abito	abitare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=261-3
 5	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	KID=261-4
-6	che	che	SCONJ	_	PronType=Rel	14	nsubj	_	KID=261-5
+6	che	che	SCONJ	_	PronType=Rel	14	mark	_	KID=261-5
 7	okay	ok	INTJ	_	_	14	discourse	_	KID=261-6|Prolonged=Yes
 8-9	alla	_	_	_	_	_	_	_	KID=261-7
 8	a	a	ADP	_	_	10	case	_	KID=261-7a
 9	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	KID=261-7b
-10	fine	fine	NOUN	_	Gender=Fem|Number=Sing	14	advmod	_	KID=261-8
-11	@nomepaese	@nomepaese	PROPN	_	_	13	nsubj	_	Anonymized=Yes|KID=261-9
+10	fine	fine	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	KID=261-8
+11	@nomepaese	@nomepaese	PROPN	_	_	14	nsubj	_	Anonymized=Yes|KID=261-9
 12	non	non	ADV	_	PronType=Neg	14	advmod	_	KID=261-10
 13	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	KID=261-11
-14	pistoia	Pistoia	PROPN	_	_	0	root	_	KID=261-12
+14	pistoia	Pistoia	PROPN	_	_	4	parataxis	_	KID=261-12
 15	cioè	cioè	CCONJ	_	_	20	cc	_	KID=261-13
 16	a	a	ADP	_	_	17	case	_	KID=261-14
-17	@nomepaese	@nomepaese	PROPN	_	_	_	_	_	Anonymized=Yes|KID=261-15
+17	@nomepaese	@nomepaese	PROPN	_	_	20	obl	_	Anonymized=Yes|KID=261-15
 18	non	non	ADV	_	PronType=Neg	20	advmod	_	KID=261-16
 19	c'	ci	PRON	_	PronType=Prs	20	expl	_	Clitic=Yes|KID=261-17|SpaceAfter=No
 20	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	KID=261-18
-21	assolutamente	assolutamente	ADV	_	_	20	advmod	_	KID=261-19
+21	assolutamente	assolutamente	ADV	_	_	22	advmod	_	KID=261-19
 22	niente	niente	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	20	nsubj	_	End=1015.73|KID=261-20
 
 # sent_id = BOD2018_262_263
@@ -3425,21 +3425,21 @@
 1	però	però	CCONJ	_	_	8	discourse	_	Begin=1016.448|KID=262-0|Prolonged=Yes
 2	come	come	ADP	_	_	3	case	_	KID=262-1
 3	zona	zonare	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	KID=262-2|Prolonged=Yes
-4	più	più	ADV	_	_	6	conj	_	KID=262-3
-5	o	o	CCONJ	_	_	4	cc	_	KID=262-4
-6	meno	meno	ADV	_	_	8	advmod	_	KID=262-5
+4	più	più	ADV	_	_	8	advmod	_	KID=262-3
+5	o	o	CCONJ	_	_	6	cc	_	KID=262-4
+6	meno	meno	ADV	_	_	4	conj	_	KID=262-5
 7	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	KID=262-6
 8	limitrofa	limitrofo	ADJ	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=262-7|Prolonged=Yes
 9	a	a	ADP	_	_	11	case	_	KID=262-8|Prolonged=Yes
 10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=262-9
-11	centro	centro	NOUN	_	Gender=Masc|Number=Sing	15	amod	_	KID=262-10
+11	centro	centro	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	KID=262-10
 12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	KID=262-11
 13	po'	po'	ADJ	_	_	14	advmod	_	KID=262-12
-14	più	più	ADV	_	_	8	advmod	_	KID=262-13
-15	grande	grande	ADJ	_	_	_	_	_	End=1021.01|KID=262-14
+14	più	più	ADV	_	_	15	advmod	_	KID=262-13
+15	grande	grande	ADJ	_	_	11	amod	_	End=1021.01|KID=262-14
 16	però	però	CCONJ	_	_	19	cc	_	Begin=1021.408|KID=263-0
 17	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	reparandum	_	KID=263-1
-18	comunque	comunque	CCONJ	_	_	19	advmod	_	KID=263-2
+18	comunque	comunque	CCONJ	_	_	17	advmod	_	KID=263-2
 19	resta	restare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	conj	_	KID=263-3
 20	comunque	comunque	CCONJ	_	_	19	advmod	_	KID=263-4
 21	abbastanza	abbastanza	ADV	_	_	22	advmod	_	KID=263-5
@@ -3737,12 +3737,12 @@
 2	@nomepaese	@nomepaese	PROPN	_	_	13	nsubj	_	Anonymized=Yes|KID=297-1
 3	secondo	secondo	ADP	_	_	4	case	_	KID=297-2
 4	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	13	obl	_	KID=297-3
-5	per	per	ADP	_	_	6	case	_	KID=297-4
-6	quanto	quanto	ADV	_	Gender=Masc|Number=Sing|PronType=Rel	7	mark	_	KID=297-5
-7	sia	essere	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	KID=297-6
+5	per	per	ADP	_	_	10	mark	_	KID=297-4
+6	quanto	quanto	ADV	_	Gender=Masc|Number=Sing|PronType=Rel	5	fixed	_	KID=297-5
+7	sia	essere	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	KID=297-6
 8	anche	anche	ADV	_	_	10	advmod	_	KID=297-7
 9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	KID=297-8
-10	città	città	NOUN	_	Gender=Fem	_	_	_	KID=297-9
+10	città	città	NOUN	_	Gender=Fem	13	advcl	_	KID=297-9
 11	universitaria	universitario	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	KID=297-10|Prolonged=Yes
 12	non	non	ADV	_	PronType=Neg	13	advmod	_	KID=297-11
 13	offre	offre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=297-12
@@ -4695,7 +4695,7 @@
 4	dicevano	dire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=410-3
 5	se	se	SCONJ	_	_	7	mark	_	KID=410-4
 6	devi	dovere	AUX	_	Number=Plur	7	amod	_	KID=410-5
-7	sceglie'	scegliere	VERB	_	_	_	_	_	KID=410-6|Truncated=Yes
+7	sceglie'	scegliere	VERB	_	_	18	advcl	_	KID=410-6|Truncated=Yes
 8	tra	tra	ADP	_	_	9	case	_	KID=410-7
 9	ancona	Ancona	PROPN	_	_	7	obl	_	KID=410-8
 10	o	o	CCONJ	_	_	11	cc	_	KID=410-9
@@ -4706,9 +4706,9 @@
 15	urbino	Urbino	PROPN	_	_	13	conj	_	KID=410-14
 16	assolutamente	assolutamente	ADV	_	_	18	advmod	_	KID=410-15
 17	non	non	ADV	_	PronType=Neg	18	advmod	_	KID=410-16
-18	anda'	andare	VERB	_	_	_	_	_	KID=410-17|Truncated=Yes
+18	anda'	andare	VERB	_	_	4	ccomp:reported	_	KID=410-17|Truncated=Yes
 19	ad	ad	ADP	_	_	20	case	_	KID=410-18
-20	ancona	Ancona	PROPN	_	_	24	obl	_	KID=410-19
+20	ancona	Ancona	PROPN	_	_	18	obl	_	KID=410-19
 21	perché	perché	SCONJ	_	_	24	mark	_	KID=410-20
 22	non	non	ADV	_	PronType=Neg	24	advmod	_	KID=410-21
 23	c'	ci	PRON	_	PronType=Prs	24	expl	_	Clitic=Yes|KID=410-22|SpaceAfter=No
