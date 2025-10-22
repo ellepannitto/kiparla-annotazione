@@ -5500,7 +5500,7 @@
 # speaker_id = BO118
 # conversation_id = BOD2018
 1	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Begin=1384.8|KID=352-0|OverlappingGroup=67
-2	compromesso	compromesso	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Coconstruct=351-4 :: nsubj|End=1385.95|Intonation=falling|KID=352-1|OverlappingGroup=67
+2	compromesso	compromesso	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Coconstruct=351-4::nsubj|End=1385.95|Intonation=falling|KID=352-1|OverlappingGroup=67
 
 # sent_id = BOD2018_354_356
 # text = boh non so quanti abitanti ci siano però centomila perlom~
@@ -5955,7 +5955,7 @@
 # jefferson_text = da casa mi:a:: forse no forse non è così lontana ascoli piceno
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	da	da	ADP	_	_	2	case	_	Begin=1489.44|Coconstruct=384-4 :: obl|KID=385-0
+1	da	da	ADP	_	_	2	case	_	Begin=1489.44|Coconstruct=384-4::obl|KID=385-0
 2	casa	casa	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	KID=385-1
 3	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	amod:poss	_	KID=385-2|Prolonged=Yes
 4	forse	forse	ADV	_	_	10	advmod	_	KID=385-3
