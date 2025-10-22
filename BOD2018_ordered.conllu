@@ -234,7 +234,7 @@
 12	realtà	realtà	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	End=57.49|KID=19-10
 
 # sent_id = BOD2018_20
-# text = io abito a @nomepaese e a piedi una decina di minuti ci metto
+# text = io abito a [TOWN_NAME] e a piedi una decina di minuti ci metto
 # jefferson_text = io abito a @nomepaese e:: a piedi: una decina di: minuti ci metto
 # speaker_id = BO140
 # conversation_id = BOD2018
@@ -315,7 +315,7 @@
 30	verde	verde	NOUN	_	Gender=Masc|Number=Sing	26	obl	_	KID=24-13
 
 # sent_id = BOD2018_24b_25
-# text = poi dopo hanno costruito delle villette sopra casa mia e quindi si è persa la percezione della strada eh nazionale che collega @nomepaese con altre altri paesi
+# text = poi dopo hanno costruito delle villette sopra casa mia e quindi si è persa la percezione della strada eh nazionale che collega [TOWN_NAME] con altre altri paesi
 # jefferson_text = po:i: dopo hanno costruito delle villette sopra casa mia: e quindi: si è persa la percezione della strada:: | eh: nazionale:: che collega @nomepaese con altre: altri paesi
 # speaker_id = BO140
 # conversation_id = BOD2018
@@ -1217,8 +1217,8 @@
 26	autobus	autobus	NOUN	_	Gender=Masc	23	obl	_	End=332.23|Intonation=falling|KID=81-24
 
 # sent_id = BOD2018_82
-# text = cioè l'ho fatto tante volte anche quand' ero più piccola però cioè generalmente preferisco la macchina
-# jefferson_text = cioè l'ho fatto tante vo:lte anche quand' ero più piccola: però: cioè generalmente preferisco la macchina.
+# text = cioè l'ho fatto tante volte anche quand'ero più piccola però cioè generalmente preferisco la macchina
+# jefferson_text = cioè l'ho fatto tante vo:lte anche quand'ero più piccola: però: cioè generalmente preferisco la macchina.
 # speaker_id = BO140
 # conversation_id = BOD2018
 1	cioè	cioè	CCONJ	_	_	4	discourse	_	Begin=332.55|KID=82-0
@@ -1228,7 +1228,7 @@
 5	tante	tanto	DET	_	Gender=Fem|Number=Plur|PronType=Ind	6	det	_	KID=82-4
 6	volte	volta	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	KID=82-5|Prolonged=Yes
 7	anche	anche	ADV	_	_	11	advmod	_	KID=82-6
-8	quand'	quando	ADV	_	_	11	mark	_	KID=82-7|Truncated=Yes
+8	quand'	quando	ADV	_	_	11	mark	_	KID=82-7|SpaceAfter=No
 9	ero	essere	AUX	_	Gender=Masc|Number=Sing	11	cop	_	KID=82-8
 10	più	più	ADV	_	_	11	advmod	_	KID=82-9
 11	piccola	piccolo	ADJ	_	Gender=Fem|Number=Sing	4	advcl	_	KID=82-10|Prolonged=Yes
@@ -1511,7 +1511,7 @@
 1	mado'	mado'	INTJ	_	_	0	root	_	Begin=390.365|End=391.03|KID=97-0|Truncated=Yes
 
 # sent_id = BOD2018_98
-# text = che poi @nomepaese è fatta tut~ cioè tutta in salita son scomode le strade
+# text = che poi [TOWN_NAME] è fatta tut~ cioè tutta in salita son scomode le strade
 # jefferson_text = che po:i @nomepaese è fatta tut~ cioè tutta in sali:t[a:: son] scomode le strade
 # speaker_id = BO118
 # conversation_id = BOD2018
@@ -1674,7 +1674,7 @@
 6	via	via	NOUN	_	Gender=Fem|Number=Sing	0	root	_	End=429.97|Intonation=weakly_rising|KID=111-5
 
 # sent_id = BOD2018_112_114_115_116
-# text = e la prima casa era in via @nomeluogo e proprio in centro nella zona universitaria e ci ho vissuto quattro anni in doppia e la casa era bellissima
+# text = e la prima casa era in via [PLACE_NAME] e proprio in centro nella zona universitaria e ci ho vissuto quattro anni in doppia e la casa era bellissima
 # jefferson_text = e: la prima casa era in via @nomeluogo, | e: proprio in centro: nella zona universitaria, | e:: ci ho vissuto quattro anni: in doppia, | e:: la casa era bellissima.
 # speaker_id = BO140
 # conversation_id = BOD2018
@@ -1985,7 +1985,7 @@
 6	sì	sì	INTJ	_	_	5	discourse	_	End=515.049|Intonation=falling|KID=133-5
 
 # sent_id = BOD2018_134
-# text = ma anche perché in via @nomeluogo cioè via @nomeluogo è una è una via che è stata costruita in quegli anni secondo me
+# text = ma anche perché in via [PLACE_NAME] cioè via [PLACE_NAME] è una è una via che è stata costruita in quegli anni secondo me
 # jefferson_text = ma anche perché in via @nomeluogo cioè via @nomeluogo è una::: è una via che è stata costruita in quegli a:nni secondo me.
 # speaker_id = BO140
 # conversation_id = BOD2018
@@ -2258,7 +2258,7 @@
 2	x	x	X	_	_	1	dep	_	End=588.16|KID=151-1|Syllables=2|Unintelligible=Yes
 
 # sent_id = BOD2018_153_154
-# text = allora e come zona ho sempre amato il centro di bologna quindi fosse per me in questo momento mi ritrasferirei in centro perché questa casa comunque essendo zona @nomeluogo e per andare in centro ti muovi generalmen~ cioè ti devi muovere comunque o con dei mezzi o a piedi o in bicicletta ma comunque i tempi sono sempre più prolungati
+# text = allora e come zona ho sempre amato il centro di bologna quindi fosse per me in questo momento mi ritrasferirei in centro perché questa casa comunque essendo zona [PLACE_NAME] e per andare in centro ti muovi generalmen~ cioè ti devi muovere comunque o con dei mezzi o a piedi o in bicicletta ma comunque i tempi sono sempre più prolungati
 # jefferson_text = allora e: come zona:: ho sempre amato il centro di bologna quindi: fosse per me in questo momento mi ritrasferirei in centro perché: | questa casa comunque essendo zona @nomeluogo e:: pe:r andare in centro: ti muovi generalmen~ cioè ti devi muovere comunque o con dei mezzi, o a piedi, o in bicicletta ma comunque i tempi sono sempre più prolungati.
 # speaker_id = BO140
 # conversation_id = BOD2018
@@ -3090,13 +3090,13 @@
 6	sì	sì	INTJ	_	_	3	parataxis	_	End=801.72|KID=198-5|OverlappingGroup=33
 
 # sent_id = BOD2018_199_200
-# text = che poi sta cosa è anche difficile a bologna in generale se stai in centro perché ovunque vai c'è qualcuno cioè non c'è nessun posto in cui tu stai completamente da solo o comunque stai co' poca gente
+# text = che poi 'sta cosa è anche difficile a bologna in generale se stai in centro perché ovunque vai c'è qualcuno cioè non c'è nessun posto in cui tu stai completamente da solo o comunque stai co' poca gente
 # jefferson_text = [che poi] sta cosa è anche difficile a bologna in genera:le se stai in centro perché ovunque vai c'è qualcuno | cioè non c'è nessun posto in cui tu stai completamente da solo o comunque stai co' poca gente.
 # speaker_id = BO118
 # conversation_id = BOD2018
 1	che	che	SCONJ	_	_	7	mark	_	Begin=801.544|KID=199-0|OverlappingGroup=33
 2	poi	poi	ADV	_	_	7	advmod	_	KID=199-1|OverlappingGroup=33
-3	sta	questo	DET	_	PronType=Dem	4	det	_	KID=199-2
+3	'sta	questo	DET	_	PronType=Dem	4	det	_	KID=199-2|Truncated=Yes
 4	cosa	cosa	PRON	_	Number=Sing|PronType=Int	7	nsubj	_	KID=199-3
 5	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	KID=199-4
 6	anche	anche	ADV	_	_	7	advmod	_	KID=199-5
@@ -3984,7 +3984,7 @@
 1	sì	sì	INTJ	_	_	0	root	_	Backchannel=259-0|Begin=1009.641|End=1010.0|Intonation=falling|KID=260-0
 
 # sent_id = BOD2018_261
-# text = come magari dove abito io che okay alla fine @nomepaese non è pistoia cioè a @nomepaese non c'è assolutamente niente
+# text = come magari dove abito io che okay alla fine [TOWN_NAME] non è pistoia cioè a [TOWN_NAME] non c'è assolutamente niente
 # jefferson_text = come magari dove abito io che ok::ay alla fine @nomepaese non è pistoia cioè a @nomepaese non c'è assolutamente niente
 # speaker_id = BO118
 # conversation_id = BOD2018
@@ -4342,7 +4342,7 @@
 3	sì	sì	INTJ	_	_	1	parataxis	_	Backchannel=279-8|End=1093.495|KID=280-2|OverlappingGroup=55
 
 # sent_id = BOD2018_281_283
-# text = eh per dire però allo stesso tempo non abiterei a bologna forse per tutta la mia vita ma neanche in un centro piccolo come @nomepaese perché non
+# text = eh per dire però allo stesso tempo non abiterei a bologna forse per tutta la mia vita ma neanche in un centro piccolo come [TOWN_NAME] perché non
 # jefferson_text = eh per dire però allo stesso tempo: non abiterei a bologna forse per tutta la mia vita ma:: neanche in un centro piccolo come @nomepaese. | perché non::
 # speaker_id = BO140
 # conversation_id = BOD2018
@@ -4372,7 +4372,7 @@
 23	centro	centro	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	KID=281-21
 24	piccolo	piccolo	ADJ	_	Gender=Masc|Number=Sing	23	amod	_	KID=281-22
 25	come	come	ADP	_	_	26	case	_	KID=281-23
-26	[TOWN_NAME]	@nomepaese	PROPN	_	_	23	appos	_	Intonation=falling|Anonymized=Yes|KID=281-24
+26	[TOWN_NAME]	@nomepaese	PROPN	_	_	23	nmod	_	Intonation=falling|Anonymized=Yes|KID=281-24
 27	perché	perché	SCONJ	_	_	23	advcl	_	Begin=1102.216|KID=283-0
 28	non	non	ADV	_	PronType=Neg	27	advmod	_	End=1103.523|KID=283-1|Prolonged=Yes
 
@@ -4384,7 +4384,7 @@
 1	okay	ok	INTJ	_	_	0	root	_	Backchannel=281-8|Begin=1101.67|End=1102.179|KID=282-0|Volume=low
 
 # sent_id = BOD2018_284a
-# text = vabbè al di là non offre niente @nomepaese non mh
+# text = vabbè al di là non offre niente [TOWN_NAME] non mh
 # jefferson_text = vabbè al di là non offre niente @nomepaese non mh
 # speaker_id = BO140
 # conversation_id = BOD2018
@@ -4467,7 +4467,7 @@
 56	difficile	difficile	ADJ	_	Number=Sing	44	conj	_	KID=286-3
 
 # sent_id = BOD2018_286b_287a
-# text = insomma io da ingegnere a meno che non vado a lavorare in uno studio di ingegneria e comunque rinchiudere tutta la mia vita a @nomepaese
+# text = insomma io da ingegnere a meno che non vado a lavorare in uno studio di ingegneria e comunque rinchiudere tutta la mia vita a [TOWN_NAME]
 # jefferson_text = insomma io da: ingegnere:: a meno che non vado a lavorare in uno studio di ingegneria:, | e comunque rinchiudere tutta la mia vita a @nomepaese
 # speaker_id = BO140
 # conversation_id = BOD2018
@@ -4539,7 +4539,7 @@
 1	no	no	INTJ	_	_	0	root	_	Backchannel=293-3|Begin=1153.116|End=1153.49|Intonation=rising|KID=290-0|OverlappingGroup=56|Prolonged=Yes
 
 # sent_id = BOD2018_289_291
-# text = cioè io non ho ricordi di quando son piccola che uscivo con i miei in centro a @nomepaese perché non ma pochissimi perché non
+# text = cioè io non ho ricordi di quando son piccola che uscivo con i miei in centro a [TOWN_NAME] perché non ma pochissimi perché non
 # jefferson_text = cioè io non ho ricordi di quando son piccola::: che uscivo con i miei in centro a @nomepaese | [pe]rché non: ma pochissimi perché [non:]
 # speaker_id = BO140 BO118 BO118
 # conversation_id = BOD2018
@@ -4569,7 +4569,7 @@
 24	non	non	ADV	_	PronType=Neg	23	advmod	_	End=1156.7|KID=291-5|OverlappingGroup=57|Prolonged=Yes
 
 # sent_id = BOD2018_292_293_294
-# text = ma in realtà anch'io a @nomepaese cioè non ho ricordi che uscissi a @nomepaese o a @nomepaese con i miei forse x più nel paesino nostro ma sempre solite cose
+# text = ma in realtà anch'io a [TOWN_NAME] cioè non ho ricordi che uscissi a [TOWN_NAME] o a [TOWN_NAME] con i miei forse x più nel paesino nostro ma sempre solite cose
 # jefferson_text = [ma] in realtà anch'io a @nomepaese. | cioè non ho ricordi che uscissi a @nomepaese o a @nomepaese con i miei | forse xx più nel paesi:no nostro::, [ma sem]pre solite co::se:,
 # speaker_id = BO140 BO118 BO118 BO118
 # conversation_id = BOD2018
@@ -4667,7 +4667,7 @@
 43	buona	buono	ADJ	_	Gender=Fem|Number=Sing	25	conj	_	End=1186.39|KID=296-41
 
 # sent_id = BOD2018_297
-# text = però @nomepaese secondo me per quanto sia anche una città universitaria non offre nulla
+# text = però [TOWN_NAME] secondo me per quanto sia anche una città universitaria non offre nulla
 # jefferson_text = però @nomepaese secondo me per quanto sia anche una città universitaria:: non offre nulla.
 # speaker_id = BO140
 # conversation_id = BOD2018
@@ -4843,8 +4843,8 @@
 1	sì	sì	INTJ	_	_	0	root	_	Backchannel=306-11|Begin=1232.73|End=1233.328|Intonation=rising|KID=307-0|OverlappingGroup=60
 
 # sent_id = BOD2018_308_310_311
-# text = sì l'università organizzava dei concerti e lasciavano molto più liberi gli universitari di esprimersi e anche a livello proprio organizzativo mentre adesso gli stanno tagliando le gambe ovunque a chiunque e non c' è più niente quindi x
-# jefferson_text = sì [l'uni]versità organizzava dei concerti e lasciavano mo:lto più liberi gli universitari di esprimersi e anche a livello proprio organizzativo | mentre adesso gli stanno tagliando le gambe ovu:nque: a chiu:nque e: non c' è più niente. | quindi: [xx]
+# text = sì l'università organizzava dei concerti e lasciavano molto più liberi gli universitari di esprimersi e anche a livello proprio organizzativo mentre adesso gli stanno tagliando le gambe ovunque a chiunque e non c'è più niente quindi x
+# jefferson_text = sì [l'uni]versità organizzava dei concerti e lasciavano mo:lto più liberi gli universitari di esprimersi e anche a livello proprio organizzativo | mentre adesso gli stanno tagliando le gambe ovu:nque: a chiu:nque e: non c'è più niente. | quindi: [xx]
 # speaker_id = BO140
 # conversation_id = BOD2018
 1	sì	sì	INTJ	_	_	4	discourse	_	Begin=1233.661|KID=308-0
@@ -4882,7 +4882,7 @@
 32	chiunque	chiunque	PRON	_	Number=Sing|PronType=Rel	27	iobj	_	KID=310-9|Prolonged=Yes
 33	e	e	CCONJ	_	_	36	cc	_	KID=310-10|Prolonged=Yes
 34	non	non	ADV	_	PronType=Neg	36	advmod	_	KID=310-11
-35	c'	ci	PRON	_	PronType=Prs	36	expl	_	Clitic=Yes|KID=310-12|Truncated=Yes
+35	c'	ci	PRON	_	PronType=Prs	36	expl	_	Clitic=Yes|KID=310-12|SpaceAfter=No
 36	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	conj	_	KID=310-13
 37	più	più	ADV	_	_	36	advmod	_	KID=310-14
 38	niente	niente	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	36	nsubj	_	End=1245.52|Intonation=falling|KID=310-15
@@ -4897,8 +4897,8 @@
 1	ah	ah	INTJ	_	_	0	root	_	Backchannel=308-3|Begin=1233.854|End=1234.504|KID=309-0|OverlappingGroup=61|Prolonged=Yes
 
 # sent_id = BOD2018_312
-# text = ma in realtà anche a bologna stanno a fa' un po' sto lavoro
-# jefferson_text = [ma] in realtà anche a bologna stanno a fa' un po' sto lavoro.
+# text = ma in realtà anche a bologna stanno a fa' un po' 'sto lavoro
+# jefferson_text = [ma] in realtà anche a bologna stanno a fa' un po' 'sto lavoro.
 # speaker_id = BO118
 # conversation_id = BOD2018
 1	ma	ma	CCONJ	_	_	7	discourse	_	Begin=1246.694|KID=312-0|OverlappingGroup=62
@@ -4912,11 +4912,11 @@
 9	fa'	fare	VERB	_	_	7	xcomp	_	KID=312-8|Truncated=Yes
 10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=312-9
 11	po'	po'	ADV	_	_	9	advmod	_	KID=312-10
-12	sto	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	KID=312-11
+12	'sto	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	KID=312-11|Truncated=Yes
 13	lavoro	lavoro	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	End=1249.39|Intonation=falling|KID=312-12
 
 # sent_id = BOD2018_313_314_315
-# text = sì però bologna essendo più grande secondo me c'è più via di uscita e ne risente meno mentre un paesin~ un piccolo centro come @nomepaese dove c'è una piazza e ci sono boh dieci locali se a tutti tagli le gambe non c'è più via d'uscita cioè ti devi spostare per forza
+# text = sì però bologna essendo più grande secondo me c'è più via di uscita e ne risente meno mentre un paesin~ un piccolo centro come [TOWN_NAME] dove c'è una piazza e ci sono boh dieci locali se a tutti tagli le gambe non c'è più via d'uscita cioè ti devi spostare per forza
 # jefferson_text = sì però bologna essendo più gra:nde secondo me:: c'è più via di uscita e ne risente meno. | mentre un paesin~ un: piccolo centro come @nomepaese dove c'è una piazza: e ci sono: boh dieci locali: se a tutti tagli le gambe: non c'è più: via d'uscita | cioè ti devi spostare per fo:rza.
 # speaker_id = BO140
 # conversation_id = BOD2018
@@ -5106,7 +5106,7 @@
 20	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	KID=322-5
 
 # sent_id = BOD2018_322b_323_324
-# text = poi è l'unica strada che collega pesaro a @nomepaese e non c'hai altro modo per andare e devi fare unicamente quella quindi c'è anche mh abbastanza traffico
+# text = poi è l'unica strada che collega pesaro a [TOWN_NAME] e non c'hai altro modo per andare e devi fare unicamente quella quindi c'è anche mh abbastanza traffico
 # jefferson_text = poi è l'unica strada che collega: pesaro a @nomepaese e::: | non c'hai: altro modo: per andare | e devi fare unicamente quella quindi c'è anche mh abbastanza traffico
 # speaker_id = BO140
 # conversation_id = BOD2018
@@ -5379,7 +5379,7 @@
 6	abiteresti	abitare	VERB	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	End=1364.63|Intonation=rising|KID=344-5
 
 # sent_id = BOD2018_345_346_347_348_349
-# text = sì a pesaro sì perché ho sempre pensato di riavvicinarmi a casa e quindi comunque ritornare vicino ai miei alla mia famiglia ma allo stesso tempo per il discorso che facevo prima non mi piacerebbe vivere a @nomepaese o in un piccolo paese
+# text = sì a pesaro sì perché ho sempre pensato di riavvicinarmi a casa e quindi comunque ritornare vicino ai miei alla mia famiglia ma allo stesso tempo per il discorso che facevo prima non mi piacerebbe vivere a [TOWN_NAME] o in un piccolo paese
 # jefferson_text = sì. | a pesaro sì. | perché:: ho sempre pensato di riavvicinarmi a ca:sa, | e: quindi comunque: ritornare vicino ai mie:i, alla mia famiglia, | ma allo stesso tempo:: per il discorso che facevo prima non mi piacerebbe vivere a @nomepaese o in un piccolo paese
 # speaker_id = BO140
 # conversation_id = BOD2018
@@ -5529,7 +5529,7 @@
 4	no~	no~	X	_	_	3	parataxis	_	Interrupted=Yes|KID=355-3
 
 # sent_id = BOD2018_355b
-# text = non pensavo nemmeno fosse più grande di @nomepaese
+# text = non pensavo nemmeno fosse più grande di [TOWN_NAME]
 # jefferson_text = non [pensavo] nemmeno fosse più grande di @nomepaese
 # speaker_id = BO118
 # conversation_id = BOD2018
@@ -5543,7 +5543,7 @@
 8	[TOWN_NAME]	@nomepaese	PROPN	_	_	6	obl	_	Anonymized=Yes|End=1403.57|KID=355-11
 
 # sent_id = BOD2018_357
-# text = poi io non ho mai visto né pesaro né @nomepaese
+# text = poi io non ho mai visto né pesaro né [TOWN_NAME]
 # jefferson_text = poi io [non ho] mai visto né pesaro né @nomepaese
 # speaker_id = BO118
 # conversation_id = BOD2018
@@ -5587,7 +5587,7 @@
 6	idea	idea	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	End=1408.0|Intonation=falling|KID=360-5
 
 # sent_id = BOD2018_361_363_365a
-# text = e che no beh @nomepaese in realtà conta quindicimila abitanti quindi sì ne fa trentamila con gli studenti universitari e quindi sembra sì
+# text = e che no beh [TOWN_NAME] in realtà conta quindicimila abitanti quindi sì ne fa trentamila con gli studenti universitari e quindi sembra sì
 # jefferson_text = e:: che::: no beh @nomepaese in realtà conta: quindicimila abita:nti | [qui:]ndi sì ne fa trentamila con gli studenti universit[ari] | e:: quindi sembra:: sì:
 # speaker_id = BO140
 # conversation_id = BOD2018
@@ -5632,7 +5632,7 @@
 2	ecco	ecco	ADV	_	_	0	root	_	Backchannel=363-3|End=1417.27|KID=364-1
 
 # sent_id = BOD2018_365b
-# text = ah in realtà di abitantipaese ce ne sono quindicimila e non ce ne son più perché scappan tutti da @nomepaese perché non ti offre più niente
+# text = ah in realtà di [INHABITANTS_NAME] ce ne sono quindicimila e non ce ne son più perché scappan tutti da [TOWN_NAME] perché non ti offre più niente
 # jefferson_text = ah in realtà di @abitantipaese ce ne sono quindicimila:: e non ce ne son più perché scappan tutti da @nomepaese perché: non ti offre più niente
 # speaker_id = BO140
 # conversation_id = BOD2018
@@ -5640,7 +5640,7 @@
 2	in	in	ADP	_	_	3	case	_	KID=365-5
 3	realtà	realtà	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	KID=365-6
 4	di	di	ADP	_	_	5	case	_	KID=365-7
-5	abitantipaese	abitantipaese	ADJ	_	Gender=Masc|Number=Sing	9	obl	_	Anonymized=Yes|KID=365-8
+5	[INHABITANTS_NAME]	@abitantipaese	ADJ	_	Gender=Masc|Number=Sing	9	obl	_	Anonymized=Yes|KID=365-8
 6	ce	ce	PRON	_	PronType=Prs	9	iobj	_	Clitic=Yes|KID=365-9
 7	ne	ne	PRON	_	PronType=Prs	9	obl	_	Clitic=Yes|KID=365-10
 8	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	KID=365-11
@@ -5722,7 +5722,7 @@
 4	città	città	NOUN	_	Gender=Fem	2	obl	_	End=1441.27|KID=370-3|OverlappingGroup=73
 
 # sent_id = BOD2018_371_372a
-# text = io sto p~ sto pensando all'equivalente de quello che potrebbe esse pesaro tipo vicino @nomepaese
+# text = io sto p~ sto pensando all'equivalente de quello che potrebbe esse pesaro tipo vicino [TOWN_NAME]
 # jefferson_text = [io sto p~ sto] pensando all'equivale:nte de quello che potrebbe esse pesaro, | tipo vicino @nomepaese
 # speaker_id = BO118
 # conversation_id = BOD2018
@@ -6707,7 +6707,7 @@
 15	che	che	PRON	_	PronType=Rel	13	amod	_	End=1635.81|KID=431-14
 
 # sent_id = BOD2018_432
-# text = forse le facoltà tipo la facoltà d'economia che c'ha sto prato enorme davanti che è fatta tipo a ferro de cavallo
+# text = forse le facoltà tipo la facoltà d'economia che c'ha 'sto prato enorme davanti che è fatta tipo a ferro de cavallo
 # jefferson_text = forse le facoltà: tipo la facoltà d'economi:a che c'ha sto:: prato enorme dava:nti che è fatta tipo a ferro de cavallo,
 # speaker_id = BO118
 # conversation_id = BOD2018
@@ -6722,7 +6722,7 @@
 9	che	che	PRON	_	PronType=Rel	11	nsubj	_	KID=432-8
 10	c'	ci	PRON	_	PronType=Prs	11	expl	_	Clitic=Yes|KID=432-9|SpaceAfter=No
 11	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	KID=432-10
-12	sto	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	KID=432-11|Prolonged=Yes
+12	'sto	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	KID=432-11|Prolonged=Yes|Truncated=Yes
 13	prato	prato	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	KID=432-12
 14	enorme	enorme	ADJ	_	Number=Sing	13	amod	_	KID=432-13
 15	davanti	davanti	ADV	_	_	14	advmod	_	KID=432-14|Prolonged=Yes
