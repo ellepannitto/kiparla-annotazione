@@ -998,7 +998,7 @@
 23	centro	centro	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	KID=69-7|Prolonged=Yes
 24	a	a	ADP	_	ExtPos=ADP	31	mark	_	KID=69-8
 25	meno	meno	ADV	_	_	24	fixed	_	KID=69-9
-26	che	che	SCONJ	_	_	25	fixed	_	KID=69-10
+26	che	che	SCONJ	_	_	24	fixed	_	KID=69-10
 27	non	non	ADV	_	PronType=Neg	31	advmod	_	KID=69-11
 28	sia	essere	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	KID=69-12
 29	proprio	proprio	ADV	_	_	31	advmod	_	KID=69-13
