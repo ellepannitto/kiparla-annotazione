@@ -851,7 +851,7 @@
 3	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	Clitic=Yes|KID=58-2|Volume=low
 4	sa	sapere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=58-3|Volume=low
 5	che	che	SCONJ	_	_	8	mark	_	KID=58-4|Volume=low
-6	ce	ce	PRON	_	Clitic=Yes|PronType=Prs	8	expl	_	KID=58-5|Volume=low
+6	ce	ce	PRON	_	PronType=Prs	8	expl	_	Clitic=Yes|KID=58-5|Volume=low
 7	l'	lo	PRON	_	Definite=Def|Number=Sing|PronType=Art	8	obj	_	KID=58-6|SpaceAfter=No|Volume=low
 8	ho	avere	VERB	_	Gender=Masc	4	ccomp	_	End=233.66|Intonation=falling|KID=58-7|Volume=low
 9	anche	anche	ADV	_	_	10	advmod	_	Begin=234.49|KID=59-0
@@ -1981,7 +1981,7 @@
 2	sì	sì	INTJ	_	_	1	parataxis	_	KID=133-1
 3	in	in	ADP	_	_	5	case	_	KID=133-2
 4	quella	quello	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	KID=133-3
-5	zona	zona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=130-8|KID=133-4
+5	zona	zona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=130-8 :: obl|KID=133-4
 6	sì	sì	INTJ	_	_	5	discourse	_	End=515.049|Intonation=falling|KID=133-5
 
 # sent_id = BOD2018_134
@@ -2789,7 +2789,7 @@
 # conversation_id = BOD2018
 1	siamo	essere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	Begin=739.211|KID=180-0
 2	tutti	tutto	DET	_	Gender=Masc|Number=Plur|PronType=Tot	3	nsubj	_	KID=180-1
-3	amici	amico	NOUN	_	Gender=Masc|Number=Plur	0	root	_	Coconstruct=178-14|End=740.89|Intonation=weakly_rising|KID=180-2|OverlappingGroup=26|Prolonged=Yes
+3	amici	amico	NOUN	_	Gender=Masc|Number=Plur	0	root	_	Coconstruct=178-14 :: advcl|End=740.89|Intonation=weakly_rising|KID=180-2|OverlappingGroup=26|Prolonged=Yes
 
 # sent_id = BOD2018_181
 # text = sì che bella l'università tutti insieme
@@ -3045,7 +3045,7 @@
 # conversation_id = BOD2018
 1	sì	sì	INTJ	_	_	3	discourse	_	Begin=794.208|KID=195-0|OverlappingGroup=31
 2	di	di	ADP	_	_	3	mark	_	KID=195-1|OverlappingGroup=31
-3	stare	stare	VERB	_	VerbForm=Inf	0	root	_	Coconstruct=194-11|KID=195-2|OverlappingGroup=31
+3	stare	stare	VERB	_	VerbForm=Inf	0	root	_	Coconstruct=194-11 :: advcl|KID=195-2|OverlappingGroup=31
 4	da	da	ADP	_	_	5	case	_	KID=195-3|OverlappingGroup=31
 5	sola	solo	ADJ	_	Gender=Fem|Number=Sing	3	obl	_	KID=195-4|OverlappingGroup=31|Prolonged=Yes
 6	di	di	ADP	_	_	8	mark	_	KID=195-5|OverlappingGroup=31
@@ -3074,7 +3074,7 @@
 # jefferson_text = fatti suoi.
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	fatti	fatto	NOUN	_	Gender=Masc|Number=Plur	0	root	_	Begin=799.709|Coconstruct=195-16|KID=197-0
+1	fatti	fatto	NOUN	_	Gender=Masc|Number=Plur	0	root	_	Begin=799.709|Coconstruct=195-16 :: obl|KID=197-0
 2	suoi	suo	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	1	amod:poss	_	End=800.459|Intonation=falling|KID=197-1
 
 # sent_id = BOD2018_198
@@ -3479,7 +3479,7 @@
 # jefferson_text = [cioè] è molto residenzia:le: lo [sen]ti lo vedi che ci abitan delle fami:glie:: i non studenti quindi::,
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	cioè	cioè	CCONJ	_	_	4	cc	_	Begin=881.845|Coconstruct=225|KID=228-0|OverlappingGroup=41
+1	cioè	cioè	CCONJ	_	_	4	cc	_	Begin=881.845|Coconstruct=225-4 :: conj|KID=228-0|OverlappingGroup=41
 2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=228-1
 3	molto	molto	ADV	_	_	4	advmod	_	KID=228-2
 4	residenziale	residenziale	ADJ	_	Number=Sing	0	root	_	Coconstruct=225-1|KID=228-3|Prolonged=Yes
@@ -4372,7 +4372,7 @@
 23	centro	centro	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	KID=281-21
 24	piccolo	piccolo	ADJ	_	Gender=Masc|Number=Sing	23	amod	_	KID=281-22
 25	come	come	ADP	_	_	26	case	_	KID=281-23
-26	[TOWN_NAME]	@nomepaese	PROPN	_	_	23	nmod	_	Intonation=falling|Anonymized=Yes|KID=281-24
+26	[TOWN_NAME]	@nomepaese	PROPN	_	_	23	nmod	_	Anonymized=Yes|Intonation=falling|KID=281-24
 27	perché	perché	SCONJ	_	_	23	advcl	_	Begin=1102.216|KID=283-0
 28	non	non	ADV	_	PronType=Neg	27	advmod	_	End=1103.523|KID=283-1|Prolonged=Yes
 
@@ -5354,7 +5354,7 @@
 # jefferson_text = tipo: succursali
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Begin=1360.907|Coconstruct=341-5|KID=342-0|Prolonged=Yes
+1	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Begin=1360.907|Coconstruct=341-5 :: obl|KID=342-0|Prolonged=Yes
 2	succursali	succursale	NOUN	_	Gender=Fem|Number=Plur	1	amod	_	End=1362.014|KID=342-1
 
 # sent_id = BOD2018_343
@@ -5838,7 +5838,7 @@
 # jefferson_text = sì
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	sì	sì	INTJ	_	_	0	root	_	Begin=1466.317|Coconstruct=375-20|End=1466.65|KID=376-0
+1	sì	sì	INTJ	_	_	0	root	_	Backchannel=375-20|Begin=1466.317|End=1466.65|KID=376-0
 
 # sent_id = BOD2018_377a
 # text = quasi tutte le ingegnerie stanno lì
@@ -6186,10 +6186,10 @@
 # speaker_id = BO118
 # conversation_id = BOD2018
 1	sì	sì	INTJ	_	_	5	discourse	_	Begin=1533.602|Clitic=Yes|KID=402-0
-2	che	che	PRON	_	PronType=Rel	5	nsubj	_	Coconstruct=401-1|KID=402-1
+2	che	che	PRON	_	PronType=Rel	5	nsubj	_	KID=402-1
 3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=402-2
 4	molto	molto	ADV	_	_	5	advmod	_	KID=402-3|OverlappingGroup=78
-5	buona	buono	ADJ	_	Gender=Fem|Number=Sing	0	root	_	KID=402-4|OverlappingGroup=78
+5	buona	buono	ADJ	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=401-1 :: acl:relcl|KID=402-4|OverlappingGroup=78
 6	anche	anche	ADV	_	_	5	advmod	_	End=1535.34|KID=402-5
 
 # sent_id = BOD2018_403_405_split1

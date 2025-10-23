@@ -4894,7 +4894,7 @@
 # text = eh ma te doma~ no mado~ domani pranziamo a casa
 # jefferson_text = e:h ma te doma~ no mado~ (domani) (pranziamo) a casa
 # speaker_id = BO145
-1	eh	eh	INTJ	_	_	0	root	_	Begin=1009.587|End=1010.427|KID=666-0|Prolonged=Yes
+1	eh	eh	INTJ	_	_	8	discourse	_	Begin=1009.587|End=1010.427|KID=666-0|Prolonged=Yes
 2	ma	ma	CCONJ	_	_	8	cc	_	Begin=1010.682|KID=667-0
 3	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	Clitic=Yes|KID=667-1
 4	doma~	doma~	X	_	_	7	reparandum	_	Interrupted=Yes|KID=667-2
