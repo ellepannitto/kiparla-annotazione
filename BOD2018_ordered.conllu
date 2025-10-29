@@ -10,7 +10,7 @@
 4-5	della	_	_	_	_	_	_	_	KID=0-2
 4	di	di	ADP	_	_	7	case	_	KID=0-2a
 5	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=0-2b
-6	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	amod:poss	_	KID=0-3
+6	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	amod	_	KID=0-3
 7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	End=2.78|Intonation=falling|KID=0-4
 8	attuale	attuale	ADJ	_	Number=Sing	7	amod	_	Begin=2.81|End=3.4|Intonation=falling|KID=1-0
 
@@ -31,7 +31,7 @@
 2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	KID=3-1
 3	fatta	fare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=3-2|Prolonged=Yes
 4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=3-3
-5	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	amod:poss	_	KID=3-4
+5	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	amod	_	KID=3-4
 6	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	Intonation=weakly_rising|KID=3-5|Prolonged=Yes
 
 # sent_id = BOD2018_3b
@@ -50,7 +50,7 @@
 # conversation_id = BOD2018
 1	allora	allora	ADV	_	_	7	discourse	_	Begin=9.19|KID=4-0
 2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=4-1
-3	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	amod:poss	_	KID=4-2
+3	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	amod	_	KID=4-2
 4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	KID=4-3|Prolonged=Yes
 5	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	KID=4-4|Prolonged=Yes
 6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=4-5|Prolonged=Yes
@@ -79,13 +79,13 @@
 9	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	End=20.76|Intonation=weakly_rising|KID=6-8|Prolonged=Yes
 10	eh	eh	INTJ	_	_	13	discourse	_	Begin=21.332|KID=7-0|Prolonged=Yes
 11	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	KID=7-1
-12	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	amod:poss	_	KID=7-2
+12	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	amod	_	KID=7-2
 13	famiglia	famiglia	NOUN	_	Gender=Fem|Number=Sing	7	acl:relcl	_	End=22.63|Intonation=weakly_rising|KID=7-3
 14	mia	mio	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	Begin=23.11|KID=9-0|OverlappingGroup=0
 15	nonna	nonno	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	End=23.93|Intonation=weakly_rising|KID=9-1
 16	mh	mh	INTJ	_	_	13	discourse	_	Begin=24.725|KID=10-0
 17	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	KID=10-1
-18	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	19	amod:poss	_	KID=10-2
+18	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	19	amod	_	KID=10-2
 19	cugini	cugino	NOUN	_	Gender=Masc|Number=Plur	13	conj	_	KID=10-3
 20	quindi	quindi	ADV	_	_	22	advmod	_	KID=10-4
 21	due	due	NUM	_	NumType=Card	22	nummod	_	KID=10-5
@@ -96,7 +96,7 @@
 26-27	dei	_	_	_	_	_	_	_	KID=10-10
 26	di	di	ADP	_	_	29	case	_	KID=10-10a
 27	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	KID=10-10b
-28	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	29	amod:poss	_	KID=10-11
+28	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	29	amod	_	KID=10-11
 29	cugini	cugino	NOUN	_	Gender=Masc|Number=Plur	25	nmod	_	KID=10-12
 30	quindi	quindi	CCONJ	_	_	32	cc	_	KID=10-13
 31	ci	ci	PRON	_	PronType=Prs	32	expl	_	Clitic=Yes|KID=10-14
@@ -151,7 +151,7 @@
 20-21	dei	_	_	_	_	_	_	_	KID=14-14
 20	di	di	ADP	_	_	23	case	_	KID=14-14a
 21	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	KID=14-14b
-22	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	23	amod:poss	_	KID=14-15
+22	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	23	amod	_	KID=14-15
 23	zii	zio	NOUN	_	Gender=Masc|Number=Plur	19	nmod	_	End=41.26|KID=14-16
 
 # sent_id = BOD2018_13
@@ -305,7 +305,7 @@
 21	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=24-5
 22	solo	solo	ADV	_	_	21	advmod	_	KID=24-6
 23	casa	casa	NOUN	_	Gender=Fem|Number=Sing	21	nsubj	_	KID=24-7
-24	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	23	amod:poss	_	KID=24-8|Prolonged=Yes
+24	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	23	amod	_	KID=24-8|Prolonged=Yes
 25	e	e	CCONJ	_	_	26	discourse	_	KID=24-9|Prolonged=Yes
 26	immersa	immergere	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	23	acl:relcl	_	KID=24-10
 27	proprio	proprio	ADV	_	_	26	advmod	_	KID=24-11
@@ -327,7 +327,7 @@
 6	villette	villa	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	KID=24-19
 7	sopra	sopra	ADP	_	_	8	case	_	KID=24-20
 8	casa	casa	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	KID=24-21
-9	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	amod:poss	_	KID=24-22|Prolonged=Yes
+9	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	amod	_	KID=24-22|Prolonged=Yes
 10	e	e	CCONJ	_	_	14	cc	_	KID=24-23
 11	quindi	quindi	ADV	_	_	14	advmod	_	KID=24-24|Prolonged=Yes
 12	si	si	PRON	_	Person=3|PronType=Prs	14	expl:impers	_	Clitic=Yes|KID=24-25
@@ -360,7 +360,7 @@
 4	fuori	fuori	ADV	_	ExtPos=ADP	6	case	_	KID=27-2
 5	da	da	ADP	_	_	4	fixed	_	KID=27-3
 6	casa	casa	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	KID=27-4
-7	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	amod:poss	_	KID=27-5
+7	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	amod	_	KID=27-5
 8	che	che	PRON	_	PronType=Rel	10	nsubj	_	KID=27-6
 9	c'	ci	PRON	_	PronType=Prs	10	expl	_	Clitic=Yes|KID=27-7|SpaceAfter=No
 10	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=27-8
@@ -403,7 +403,7 @@
 26	porta	portare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	KID=30-7
 27	a	a	ADP	_	_	28	case	_	KID=30-8
 28	casa	casa	NOUN	_	Gender=Fem|Number=Sing	26	obl	_	KID=30-9
-29	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	28	amod:poss	_	End=105.09|Intonation=weakly_rising|KID=30-10
+29	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	28	amod	_	End=105.09|Intonation=weakly_rising|KID=30-10
 30	e	e	CCONJ	_	_	33	cc	_	Begin=105.843|KID=31-0|Prolonged=Yes
 31	sotto	sotto	ADP	_	_	32	case	_	KID=31-1
 32	casa	casa	NOUN	_	Gender=Fem|Number=Sing	33	obl	_	KID=31-2
@@ -426,7 +426,7 @@
 49-50	dai	_	_	_	_	_	_	_	KID=31-19
 49	da	da	ADP	_	_	52	case	_	KID=31-19a
 50	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	52	det	_	KID=31-19b
-51	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	52	amod:poss	_	KID=31-20
+51	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	52	amod	_	KID=31-20
 52	genitori	genitore	NOUN	_	Gender=Masc|Number=Plur	47	conj	_	KID=31-21|Prolonged=Yes
 53	un'	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	55	det	_	KID=31-22|SpaceAfter=No
 54	altra	altro	ADJ	_	Gender=Fem|Number=Sing	55	amod	_	KID=31-23
@@ -526,7 +526,7 @@
 17-18	della	_	_	_	_	_	_	_	KID=37-16
 17	di	di	ADP	_	_	20	case	_	KID=37-16a
 18	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	KID=37-16b
-19	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	amod:poss	_	KID=37-17
+19	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	amod	_	KID=37-17
 20	famiglia	famiglia	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	KID=37-18|Prolonged=Yes
 21	non	non	ADV	_	PronType=Neg	23	advmod	_	KID=37-19
 22	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	KID=37-20
@@ -557,7 +557,7 @@
 3	figli	figlio	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	End=148.17|Intonation=weakly_rising|KID=37-39|Prolonged=Yes
 4	hanno	avere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=148.34|KID=38-0
 5	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	KID=38-1
-6	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	amod:poss	_	KID=38-2
+6	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	amod	_	KID=38-2
 7	stessa	stesso	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	KID=38-3
 8	età	età	NOUN	_	Gender=Fem	4	obj	_	KID=38-4
 9	o	o	CCONJ	_	_	13	cc	_	KID=38-5|Prolonged=Yes
@@ -701,13 +701,13 @@
 3	qual	lo	PRON	_	Number=Sing|PronType=Int	7	nsubj	_	KID=48-2
 4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	KID=48-3
 5	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=48-4
-6	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	amod:poss	_	KID=48-5
+6	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	amod	_	KID=48-5
 7	stanza	stanza	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=48-6
 8	preferita	preferito	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	amod	_	KID=48-7
 9-10	nella	_	_	_	_	_	_	_	KID=48-8
 9	in	in	ADP	_	_	12	case	_	KID=48-8a
 10	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	KID=48-8b
-11	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	amod:poss	_	KID=48-9
+11	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	12	amod	_	KID=48-9
 12	casa	casa	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	End=194.0|Intonation=rising|KID=48-10
 
 # sent_id = BOD2018_49_50_51_52
@@ -716,7 +716,7 @@
 # speaker_id = BO140
 # conversation_id = BOD2018
 1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Begin=195.163|KID=49-0
-2	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	amod:poss	_	KID=49-1
+2	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	amod	_	KID=49-1
 3	stanza	stanza	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=49-2
 4	preferita	preferito	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	amod	_	KID=49-3|Prolonged=Yes|ProsodicLink=Yes
 5	ah	ah	INTJ	_	_	12	discourse	_	KID=49-4|Prolonged=Yes
@@ -857,7 +857,7 @@
 9	anche	anche	ADV	_	_	10	advmod	_	Begin=234.49|KID=59-0
 10	perché	perché	SCONJ	_	_	17	mark	_	KID=59-1
 11	casa	casa	NOUN	_	Gender=Fem|Number=Sing	17	nsubj	_	KID=59-2
-12	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	amod:poss	_	KID=59-3
+12	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	amod	_	KID=59-3
 13	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	17	discourse	_	KID=59-4
 14	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	KID=59-5
 15	molto	molto	ADV	_	_	17	reparandum	_	KID=59-6|Prolonged=Yes
@@ -905,7 +905,7 @@
 1	e	e	CCONJ	_	_	2	discourse	_	Begin=245.575|KID=61-0
 2	prima	prima	ADV	_	_	10	advmod	_	KID=61-1
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=61-2
-4	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	amod:poss	_	KID=61-3
+4	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	amod	_	KID=61-3
 5	stanza	stanza	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	KID=61-4
 6	preferita	preferito	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	amod	_	KID=61-5
 7	penso	pensare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=61-6
@@ -1741,7 +1741,7 @@
 # conversation_id = BOD2018
 1	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	Begin=444.31|KID=119-0
 2	primi	primo	NUM	_	Gender=Masc|Number=Plur|NumType=Ord	5	nummod	_	KID=119-1
-3	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	amod:poss	_	KID=119-2
+3	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	amod	_	KID=119-2
 4	quattro	quattro	NUM	_	NumType=Card	5	nummod	_	KID=119-3
 5	anni	anno	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	KID=119-4|Prolonged=Yes
 6	abbiamo	avere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	KID=119-5
@@ -2440,7 +2440,7 @@
 25	realtà	realtà	NOUN	_	Gender=Fem|Number=Sing	26	obl	_	KID=159-14
 26	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	KID=159-15
 27	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	29	det	_	KID=159-16
-28	proprio	proprio	ADJ	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	29	amod:poss	_	KID=159-17
+28	proprio	proprio	ADJ	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	29	amod	_	KID=159-17
 29	spazio	spazio	NOUN	_	Gender=Masc|Number=Sing	26	obj	_	KID=159-18|Prolonged=Yes
 30	più	più	ADV	_	_	31	advmod	_	KID=159-19
 31	intimo	intimo	ADJ	_	Gender=Masc|Number=Sing	29	amod	_	End=653.68|Intonation=weakly_rising|KID=159-20
@@ -2635,10 +2635,10 @@
 20	quattro	quattro	NUM	_	NumType=Card	21	nummod	_	KID=172-19|PaceSlow=Yes
 21	anni	anno	NOUN	_	Gender=Masc|Number=Plur	29	reparandum	_	KID=172-20|PaceSlow=Yes|Prolonged=Yes
 22	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	KID=172-21
-23	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	24	amod:poss	_	KID=172-22
+23	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	24	amod	_	KID=172-22
 24	pri~	pri~	X	_	_	29	reparandum	_	Interrupted=Yes|KID=172-23
 25	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	KID=172-24
-26	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	29	amod:poss	_	KID=172-25
+26	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	29	amod	_	KID=172-25
 27	primi	primo	NUM	_	Gender=Masc|Number=Plur|NumType=Ord	28	nummod	_	KID=172-26
 28	tre	tre	NUM	_	NumType=Card	29	nummod	_	KID=172-27
 29	anni	anno	NOUN	_	Gender=Masc|Number=Plur	39	obl	_	KID=172-28
@@ -2725,7 +2725,7 @@
 6	anche	anche	ADV	_	_	8	advmod	_	KID=176-4
 7	dei	del	DET	_	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	KID=176-5
 8	momenti	momento	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	KID=176-6
-9	miei	mio	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	amod:poss	_	KID=176-7|Prolonged=Yes
+9	miei	mio	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	8	amod	_	KID=176-7|Prolonged=Yes
 10	non	non	ADV	_	PronType=Neg	11	advmod	_	KID=176-8
 11	facevo	fare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	KID=176-9|Prolonged=Yes
 12	difficoltà	difficoltà	NOUN	_	Gender=Fem	11	obj	_	End=725.56|Intonation=falling|KID=176-10
@@ -2827,7 +2827,7 @@
 9	avere	avere	VERB	_	VerbForm=Inf	6	advcl	_	KID=183-8
 10	uno	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=183-9
 11	spazio	spazio	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	KID=183-10
-12	tuo	tuo	ADJ	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	amod:poss	_	KID=183-11|OverlappingGroup=29
+12	tuo	tuo	ADJ	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	amod	_	KID=183-11|OverlappingGroup=29
 13	in	in	ADP	_	_	14	case	_	KID=183-12|OverlappingGroup=29
 14	cui	cui	PRON	_	PronType=Rel	15	obl	_	KID=183-13|OverlappingGroup=29
 15-16	rinchiuderti	_	_	_	_	_	_	_	End=749.71|Intonation=falling|KID=183-14|OverlappingGroup=29
@@ -3012,7 +3012,7 @@
 17	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	18	iobj	_	Clitic=Yes|KID=193-16
 18	lasciavano	lasciare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	acl:relcl	_	KID=193-17
 19	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	KID=193-18
-20	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	21	amod:poss	_	KID=193-19
+20	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	21	amod	_	KID=193-19
 21	spazi	spazio	NOUN	_	Gender=Masc|Number=Plur	18	obj	_	End=792.33|KID=193-20|OverlappingGroup=30
 
 # sent_id = BOD2018_194
@@ -3075,7 +3075,7 @@
 # speaker_id = BO140
 # conversation_id = BOD2018
 1	fatti	fatto	NOUN	_	Gender=Masc|Number=Plur	0	root	_	Begin=799.709|Coconstruct=195-16 :: obl|KID=197-0
-2	suoi	suo	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	1	amod:poss	_	End=800.459|Intonation=falling|KID=197-1
+2	suoi	suo	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	1	amod	_	End=800.459|Intonation=falling|KID=197-1
 
 # sent_id = BOD2018_198
 # text = sì sì no per quello sì
@@ -3806,7 +3806,7 @@
 4-5	dei	_	_	_	_	_	_	_	KID=250-11
 4	di	di	ADP	_	_	7	case	_	KID=250-11a
 5	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	KID=250-11b
-6	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	7	amod:poss	_	KID=250-12
+6	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	7	amod	_	KID=250-12
 7	spazi	spazio	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	End=962.7|Intonation=falling|KID=250-13
 
 # sent_id = BOD2018_251_252
@@ -3846,14 +3846,14 @@
 1	che	che	SCONJ	_	_	8	discourse	_	Begin=972.145|KID=253-0
 2	poi	poi	ADV	_	_	8	advmod	_	KID=253-1
 3	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=253-2
-4	miei	mio	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	amod:poss	_	KID=253-3
+4	miei	mio	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	amod	_	KID=253-3
 5	spazi	spazio	NOUN	_	Gender=Masc|Number=Plur	8	dislocated	_	KID=253-4
 6	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	8	obl	_	KID=253-5
 7	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|KID=253-6
 8	ritaglio	ritagliare	VERB	_	Gender=Masc|Number=Sing	0	root	_	KID=253-7|Prolonged=Yes
 9	a	a	ADP	_	_	10	case	_	KID=253-8
 10	casa	casa	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	KID=253-9
-11	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	amod:poss	_	KID=253-10
+11	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	amod	_	KID=253-10
 12	ecco	ecco	ADV	_	_	8	discourse	_	End=975.39|Intonation=falling|KID=253-11
 
 # sent_id = BOD2018_254
@@ -4255,7 +4255,7 @@
 9-10	coi	_	_	_	_	_	_	_	KID=275-8
 9	con	con	ADP	_	_	12	case	_	KID=275-8a
 10	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	KID=275-8b
-11	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	12	amod:poss	_	KID=275-9
+11	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	12	amod	_	KID=275-9
 12	figli	figlio	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	Intonation=weakly_rising|KID=275-10
 13	fare	fare	VERB	_	VerbForm=Inf	6	ccomp	_	KID=275-11|OverlappingGroup=53
 14	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	KID=275-12
@@ -4363,7 +4363,7 @@
 14	per	per	ADP	_	_	18	case	_	KID=281-12
 15	tutta	tutto	DET	_	Gender=Fem|Number=Sing|PronType=Tot	18	det	_	KID=281-13
 16	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	KID=281-14
-17	mia	mio	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	amod:poss	_	KID=281-15
+17	mia	mio	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	amod	_	KID=281-15
 18	vita	vita	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	KID=281-16
 19	ma	ma	CCONJ	_	_	23	cc	_	KID=281-17|Prolonged=Yes
 20	neanche	neanche	ADV	_	PronType=Neg	23	advmod	_	KID=281-18
@@ -4459,7 +4459,7 @@
 48	e	e	CCONJ	_	_	49	cc	_	KID=285-10|Prolonged=Yes
 49	costruisci	costruire	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	44	conj	_	KID=285-11
 50	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	52	det	_	KID=285-12
-51	tua	tuo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	52	amod:poss	_	KID=285-13
+51	tua	tuo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	52	amod	_	KID=285-13
 52	attività	attività	NOUN	_	Gender=Fem	49	obj	_	End=1124.65|KID=285-14
 53	però	però	CCONJ	_	_	56	cc	_	Begin=1125.135|KID=286-0
 54	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	55	reparandum	_	KID=286-1|Prolonged=Yes
@@ -4492,7 +4492,7 @@
 19	rinchiudere	rinchiudere	VERB	_	VerbForm=Inf	9	conj	_	KID=287-2
 20	tutta	tutto	DET	_	Gender=Fem|Number=Sing|PronType=Tot	23	det:predet	_	KID=287-3
 21	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	KID=287-4
-22	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	23	amod:poss	_	KID=287-5
+22	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	23	amod	_	KID=287-5
 23	vita	vita	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	KID=287-6
 24	a	a	ADP	_	_	25	case	_	KID=287-7
 25	[TOWN_NAME]	@nomepaese	PROPN	_	_	19	obl	_	Anonymized=Yes|KID=287-8
@@ -5316,7 +5316,7 @@
 31	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	KID=339-5
 32	un'	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	33	det	_	KID=339-6|SpaceAfter=No
 33	università	università	NOUN	_	Gender=Fem	31	obj	_	KID=339-7
-34	propria	proprio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	33	amod:poss	_	End=1357.64|Intonation=falling|KID=339-8
+34	propria	proprio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	33	amod	_	End=1357.64|Intonation=falling|KID=339-8
 35	accoglie	accogliere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	parataxis	_	Begin=1358.337|KID=341-0|OverlappingGroup=66
 36	solo	solo	ADV	_	_	35	advmod	_	KID=341-1|Prolonged=Yes
 37-38	nelle	_	_	_	_	_	_	_	KID=341-2
@@ -5403,7 +5403,7 @@
 22-23	alla	_	_	_	_	_	_	_	KID=348-7
 22	a	a	ADP	_	_	25	case	_	KID=348-7a
 23	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	KID=348-7b
-24	mia	mio	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	25	amod:poss	_	KID=348-8
+24	mia	mio	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	25	amod	_	KID=348-8
 25	famiglia	famiglia	NOUN	_	Gender=Fem|Number=Sing	21	parataxis	_	End=1374.52|Intonation=weakly_rising|KID=348-9
 26	ma	ma	CCONJ	_	_	39	cc	_	Begin=1375.273|KID=349-0
 27-28	allo	_	_	_	_	_	_	_	KID=349-1
@@ -5934,7 +5934,7 @@
 5	lontano	lontano	ADV	_	Gender=Masc|Number=Sing	0	root	_	KID=384-4
 6	da	da	ADP	_	_	7	case	_	KID=384-5
 7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	KID=384-6
-8	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	amod:poss	_	KID=384-7
+8	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	amod	_	KID=384-7
 9	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	KID=384-8
 10	vero	vero	ADJ	_	Gender=Masc|Number=Sing	5	parataxis	_	End=1489.18|Intonation=rising|KID=384-9
 
@@ -5945,7 +5945,7 @@
 # conversation_id = BOD2018
 1	da	da	ADP	_	_	2	case	_	Begin=1489.44|Coconstruct=384-4::obl|KID=385-0
 2	casa	casa	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	KID=385-1
-3	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	amod:poss	_	KID=385-2|Prolonged=Yes
+3	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	amod	_	KID=385-2|Prolonged=Yes
 4	forse	forse	ADV	_	_	10	advmod	_	KID=385-3
 5	no	no	INTJ	_	_	10	discourse	_	KID=385-4
 6	forse	forse	ADV	_	_	10	advmod	_	KID=385-5
@@ -6565,7 +6565,7 @@
 4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=422-23
 5	per	per	ADP	_	_	6	case	_	KID=422-24
 6	ignoranza	ignoranza	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	KID=422-25|OverlappingGroup=84
-7	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	amod:poss	_	End=1609.7|KID=422-26|Prolonged=Yes
+7	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	amod	_	End=1609.7|KID=422-26|Prolonged=Yes
 
 # sent_id = BOD2018_423_424
 # text = non lo so cioè io non lo so
