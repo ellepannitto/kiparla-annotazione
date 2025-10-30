@@ -3690,7 +3690,7 @@
 # conversation_id = BOA3017
 1	e	e	CCONJ	_	_	2	discourse	_	Begin=739.387|KID=501-0
 2	di'	dire	VERB	_	_	0	root	_	KID=501-1|Truncated=Yes
-3	di'	dire	VERB	_	_	2	parataxis	_	KID=501-2|Truncated=Yes
+3	di'	dire	VERB	_	_	2	parataxis	_	KID=501-2|End=740.157|Truncated=Yes
 4	voglio	volere	AUX	_	_	5	aux	_	Begin=740.527|KID=502-0
 5-6	saperla	_	_	_	_	_	_	_	End=741.307|KID=502-1
 5	saper	sapere	VERB	_	_	2	conj	_	KID=502-1a
