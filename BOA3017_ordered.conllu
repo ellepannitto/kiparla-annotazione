@@ -1804,7 +1804,7 @@
 
 # sent_id = BOA3017_227_230
 # text = la sedia la sedia gi~ mh girevole quindi
-# jefferson_text = la sedia {ride} | la sedia gi~ mh (.) [girevole quindi]
+# jefferson_text = la sedia ((ride)) | la sedia gi~ mh (.) [girevole quindi]
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Begin=370.027|KID=227-0|Modality=Laughing
@@ -1864,7 +1864,7 @@
 
 # sent_id = BOA3017_238
 # text = io tipo
-# jefferson_text = io tipo {ride}
+# jefferson_text = io tipo ((ride))
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	Begin=383.146|KID=238-0
@@ -2318,7 +2318,7 @@
 
 # sent_id = BOA3017_297_298
 # text = giuliano com'è com'è che ha fatto eh ha fatto
-# jefferson_text = giuliano (.) com'è com'è che ha fatto | eh? ha fatto {ride}
+# jefferson_text = giuliano (.) com'è com'è che ha fatto | eh? ha fatto ((ride))
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	giuliano	Giuliano	PROPN	_	_	8	nsubj	_	Anonymized=Yes|Begin=455.209|KID=297-0|PauseAfter=Yes
@@ -2436,7 +2436,7 @@
 
 # sent_id = BOA3017_320
 # text = eh trascrivi trascrivi
-# jefferson_text = eh trascrivi trascrivi {ride}
+# jefferson_text = eh trascrivi trascrivi ((ride))
 # speaker_id = BO146
 # conversation_id = BOA3017
 1	eh	eh	INTJ	_	_	2	discourse	_	Begin=493.054|KID=320-0
@@ -2445,7 +2445,7 @@
 
 # sent_id = BOA3017_322
 # text = porco porco mh
-# jefferson_text = porco porco mh {ride}
+# jefferson_text = porco porco mh ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	porco	porco	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Begin=494.609|KID=322-0
@@ -2517,7 +2517,7 @@
 
 # sent_id = BOA3017_330
 # text = vabbè tanto sei censurata
-# jefferson_text = [>vabbè< tanto (sei censu[rata]) {ride}
+# jefferson_text = [>vabbè< tanto (sei censu[rata]) ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	vabbè	vabbè	INTJ	_	_	4	discourse	_	Begin=507.334|KID=330-0|PaceFast=Yes
@@ -2545,7 +2545,7 @@
 
 # sent_id = BOA3017_335
 # text = lo sai che mh aspetta un figlio x e viene bippato
-# jefferson_text = lo sai che mh (aspetta un figlio x) e viene bippato {ride}
+# jefferson_text = lo sai che mh (aspetta un figlio x) e viene bippato ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Begin=513.097|Clitic=Yes|KID=335-0
@@ -2580,7 +2580,7 @@
 
 # sent_id = BOA3017_337
 # text = porca miseria
-# jefferson_text = [>porca< miseria:] {ride}
+# jefferson_text = [>porca< miseria:] ((ride))
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	porca	porca	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	Begin=519.077|KID=337-0|OverlappingGroup=209|PaceFast=Yes
@@ -2676,7 +2676,7 @@
 
 # sent_id = BOA3017_350_353
 # text = trascrivi cough cough
-# jefferson_text = [trascrivi] {ride} | {tossisce} cou[gh cough] {ride}
+# jefferson_text = [trascrivi] ((ride)) | ((tossisce)) cou[gh cough] ((ride))
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	trascrivi	trascrivere	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=536.368|End=538.178|KID=350-0|OverlappingGroup=60
@@ -2693,7 +2693,7 @@
 
 # sent_id = BOA3017_354
 # text = tossisce
-# jefferson_text = [tossisce] {ride}
+# jefferson_text = [tossisce] ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	tossisce	tossire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=539.353|Coconstruct=353-0::conj|End=540.23|KID=354-0|OverlappingGroup=61
@@ -2800,7 +2800,7 @@
 
 # sent_id = BOA3017_365
 # text = gottlieb eh
-# jefferson_text = =[gott]lieb eh {ride}
+# jefferson_text = =[gott]lieb eh ((ride))
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	gottlieb	Gottlieb	PROPN	_	_	0	root	_	Begin=564.713|Coconstruct=364-6::parataxis|KID=365-0|OverlappingGroup=62|ProsodicLink=Yes
@@ -2962,7 +2962,7 @@
 
 # sent_id = BOA3017_392
 # text = io io d~ devo vi~ bippare l'anima adesso
-# jefferson_text = io io d~ devo vi~ bippare l'anima adesso {ride}
+# jefferson_text = io io d~ devo vi~ bippare l'anima adesso ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	2	reparandum	_	Begin=596.923|KID=392-0
@@ -3158,7 +3158,7 @@
 
 # sent_id = BOA3017_420
 # text = daniela
-# jefferson_text = daniela {ride}
+# jefferson_text = daniela ((ride))
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	daniela	Daniela	PROPN	_	_	0	root	_	Anonymized=Yes|Begin=634.077|End=636.137|KID=420-0
@@ -3196,7 +3196,7 @@
 
 # sent_id = BOA3017_430
 # text = ah beh i due minuti
-# jefferson_text = ah beh i due minuti {ride}
+# jefferson_text = ah beh i due minuti ((ride))
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	ah	ah	INTJ	_	_	5	discourse	_	Begin=642.212|KID=430-0|Modality=Laughing
@@ -3216,7 +3216,7 @@
 
 # sent_id = BOA3017_433_434
 # text = oh che aspettative hai
-# jefferson_text = [oh] | che aspettative hai? {ride}
+# jefferson_text = [oh] | che aspettative hai? ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	oh	oh	INTJ	_	_	4	discourse	_	Begin=644.797|End=645.137|KID=433-0|OverlappingGroup=72
@@ -3226,7 +3226,7 @@
 
 # sent_id = BOA3017_435
 # text = che cosa vuoi da me
-# jefferson_text = che cosa vuoi da me? {cantando}
+# jefferson_text = che cosa vuoi da me? ((cantando))
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	che	che	DET	_	PronType=Int	2	det	_	Begin=647.882|KID=435-0|Modality=Singing
@@ -3237,7 +3237,7 @@
 
 # sent_id = BOA3017_438
 # text = che cosa ti aspetti
-# jefferson_text = [che cosa ti aspe]tti {cantando}
+# jefferson_text = [che cosa ti aspe]tti ((cantando))
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	che	che	DET	_	PronType=Int	2	det	_	Begin=649.942|KID=438-0|Modality=Singing|OverlappingGroup=73
@@ -3247,7 +3247,7 @@
 
 # sent_id = BOA3017_439
 # text = aspetti dentro di te
-# jefferson_text = [(as)petti] dentro di te {cantando} {ride}
+# jefferson_text = [(as)petti] dentro di te ((cantando)) ((ride))
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	aspetti	aspettare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=650.987|Coconstruct=438-3::conj|KID=439-0|Modality=Singing|OverlappingGroup=73
@@ -3331,7 +3331,7 @@
 
 # sent_id = BOA3017_455
 # text = no quello quello del gatto quando gli ho raccontato della morte del gatto trascrivi quello
-# jefferson_text = [no quello] quello del gatto quando (gli) ho raccontato della morte del gatto trascrivi quello {ride}
+# jefferson_text = [no quello] quello del gatto quando (gli) ho raccontato della morte del gatto trascrivi quello ((ride))
 # speaker_id = BO139 BO147
 # conversation_id = BOA3017
 1	no	no	INTJ	_	_	3	discourse	_	Begin=665.043|KID=455-0|OverlappingGroup=
@@ -3358,14 +3358,14 @@
 
 # sent_id = BOA3017_456
 # text = ah
-# jefferson_text = a::h {ride}
+# jefferson_text = a::h ((ride))
 # speaker_id = BO139 BO146
 # conversation_id = BOA3017
 1	ah	ah	INTJ	_	_	0	root	_	Begin=669.453|End=670.933|KID=456-0|Prolonged=Yes
 
 # sent_id = BOA3017_457
 # text = ah
-# jefferson_text = a:::::h {ride}
+# jefferson_text = a:::::h ((ride))
 # speaker_id = BO139 BO146
 # conversation_id = BOA3017
 1	ah	ah	INTJ	_	_	0	root	_	Begin=670.11|End=673.28|KID=457-0|Prolonged=Yes
@@ -3663,7 +3663,7 @@
 
 # sent_id = BOA3017_496_498
 # text = quasi quanto x
-# jefferson_text = quasi quanto {ride} | xxx
+# jefferson_text = quasi quanto ((ride)) | xxx
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	quasi	quasi	ADV	_	_	2	advmod	_	Begin=732.652|KID=496-0
@@ -3969,7 +3969,7 @@
 
 # sent_id = BOA3017_533
 # text = non è che
-# jefferson_text = [non è] che {ride}
+# jefferson_text = [non è] che ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	non	non	ADV	_	PronType=Neg	2	advmod	_	Begin=775.948|KID=533-0|OverlappingGroup=93
@@ -4120,7 +4120,7 @@
 
 # sent_id = BOA3017_573
 # text = tedesca [PLACE_NAME]
-# jefferson_text = tedesca @nomeluogo {ride}
+# jefferson_text = tedesca @nomeluogo ((ride))
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	tedesca	tedesca	ADJ	_	Gender=Fem|Number=Sing	0	root	_	Begin=833.873|KID=573-0
@@ -4439,7 +4439,7 @@
 
 # sent_id = BOA3017_612_613
 # text = x oddio sono offeso
-# jefferson_text = xx | oddio sono offeso {ride}
+# jefferson_text = xx | oddio sono offeso ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	x	x	X	_	_	4	dep	_	Begin=912.187|End=912.657|KID=612-0|Syllables=2|Unintelligible=Yes
@@ -4576,7 +4576,7 @@
 
 # sent_id = BOA3017_625
 # text = ah mh beh non tutto insieme pensavo che
-# jefferson_text = =>ah=mh beh< non tutto insieme pen[savo che] {ride}
+# jefferson_text = =>ah=mh beh< non tutto insieme pen[savo che] ((ride))
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	ah	ah	INTJ	_	_	5	discourse	_	Begin=935.115|KID=625-0|PaceFast=Yes|ProsodicLink=Yes
@@ -4590,7 +4590,7 @@
 
 # sent_id = BOA3017_626
 # text = no n~
-# jefferson_text = [no n~] {ride}
+# jefferson_text = [no n~] ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	no	no	INTJ	_	_	0	root	_	Begin=936.29|KID=626-0|OverlappingGroup=108
@@ -4748,7 +4748,7 @@
 
 # sent_id = BOA3017_641
 # text = portali a me
-# jefferson_text = [portali a me] {ride}
+# jefferson_text = [portali a me] ((ride))
 # speaker_id = BO147
 # conversation_id = BOA3017
 1-2	portali	_	_	_	_	_	_	_	_
@@ -4838,7 +4838,7 @@
 
 # sent_id = BOA3017_648
 # text = che c'è
-# jefferson_text = che c'è? {ride}
+# jefferson_text = che c'è? ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	che	che	PRON	_	PronType=Rel	3	nsubj	_	Begin=966.98|KID=648-0|Modality=Laughing
@@ -4911,7 +4911,7 @@
 
 # sent_id = BOA3017_655
 # text = risparmiamo tutti
-# jefferson_text = risparmiamo tutti {ride}
+# jefferson_text = risparmiamo tutti ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	risparmiamo	risparmiare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Begin=975.69|KID=655-0
@@ -4940,7 +4940,7 @@
 
 # sent_id = BOA3017_659
 # text = cioè
-# jefferson_text = >cioè<? {ride}
+# jefferson_text = >cioè<? ((ride))
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	cioè	cioè	CCONJ	_	_	0	root	_	Backchannel=658-0|Begin=982.835|End=983.465|Intonation=rising|KID=659-0|PaceFast=Yes
@@ -4959,7 +4959,7 @@
 
 # sent_id = BOA3017_661
 # text = dani vuoi un braccialetto
-# jefferson_text = dani vuoi un braccialetto? {ride}
+# jefferson_text = dani vuoi un braccialetto? ((ride))
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	dani	Dani	PROPN	_	_	2	vocative	_	Anonymized=Yes|Begin=993.812|KID=661-0
@@ -5002,7 +5002,7 @@
 
 # sent_id = BOA3017_664_665
 # text = guarda lo vorrei tantissimo però ti dico di no
-# jefferson_text = >guarda< | lo vorrei tantissimo però ti dico di no {ride}
+# jefferson_text = >guarda< | lo vorrei tantissimo però ti dico di no ((ride))
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	guarda	guardare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	discourse	_	Begin=1003.34|End=1003.9|KID=664-0|PaceFast=Yes
@@ -5385,7 +5385,7 @@
 
 # sent_id = BOA3017_709
 # text = ah non l'avevo visto
-# jefferson_text = ah non l'>avevo< visto {ride}
+# jefferson_text = ah non l'>avevo< visto ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	ah	ah	INTJ	_	_	5	discourse	_	Begin=1120.014|KID=709-0
@@ -5543,7 +5543,7 @@
 
 # sent_id = BOA3017_739_741
 # text = cioè cioè se non me lo prendi x
-# jefferson_text = >cioè< {ride} | >cioè< se non me lo prendi xxxxx
+# jefferson_text = >cioè< ((ride)) | >cioè< se non me lo prendi xxxxx
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	cioè	cioè	CCONJ	_	_	7	discourse	_	Begin=1158.751|End=1159.669|KID=739-0|PaceFast=Yes
@@ -5557,7 +5557,7 @@
 
 # sent_id = BOA3017_743
 # text = da natura sì compraglielo
-# jefferson_text = da natura sì compraglielo {ride}
+# jefferson_text = da natura sì compraglielo ((ride))
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	da	da	ADP	_	_	2	case	_	Begin=1161.605|KID=743-0
@@ -5841,7 +5841,7 @@
 
 # sent_id = BOA3017_781
 # text = x che infatti
-# jefferson_text = [xxx che {ride} (>in<)fa]tti
+# jefferson_text = [xxx che ((ride)) (>in<)fa]tti
 # speaker_id = BO146
 # conversation_id = BOA3017
 1	x	x	X	_	_	3	dep	_	Begin=1214.228|KID=781-0|OverlappingGroup=140|Syllables=3|Unintelligible=Yes
@@ -5949,7 +5949,7 @@
 
 # sent_id = BOA3017_799
 # text = direi di no
-# jefferson_text = [(direi (di) no)] {ride}
+# jefferson_text = [(direi (di) no)] ((ride))
 # speaker_id = BO146
 # conversation_id = BOA3017
 1	direi	dire	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Begin=1237.198|KID=799-0|OverlappingGroup=142
@@ -5958,7 +5958,7 @@
 
 # sent_id = BOA3017_801
 # text = un bel bestemmione in coro
-# jefferson_text = un bel bestemmione in coro {ride}
+# jefferson_text = un bel bestemmione in coro ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Begin=1241.081|KID=801-0
@@ -6163,7 +6163,7 @@
 
 # sent_id = BOA3017_843_844_847
 # text = e pvu la relazione in frantumi per un
-# jefferson_text = e: | [PVU] la relazione in frantumi | per un {ride}
+# jefferson_text = e: | [PVU] la relazione in frantumi | per un ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	e	e	CCONJ	_	_	2	discourse	_	Begin=1308.046|End=1308.605|KID=843-0|Prolonged=Yes
@@ -6177,7 +6177,7 @@
 
 # sent_id = BOA3017_850_852_853
 # text = cioè non sei serio con 'sti capelli pari matto quindi non te guardo cioè non te non ti cago
-# jefferson_text = >cioè< {ride} | non sei serio con 'sti capelli. pari matto quindi non (ti) guardo | cioè non (te) >non< (ti) (cago)
+# jefferson_text = >cioè< ((ride)) | non sei serio con 'sti capelli. pari matto quindi non (ti) guardo | cioè non (te) >non< (ti) (cago)
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	cioè	cioè	CCONJ	_	_	4	discourse	_	Begin=1315.533|End=1316.241|KID=850-0|PaceFast=Yes
@@ -6415,7 +6415,7 @@
 
 # sent_id = BOA3017_899_902_903
 # text = testa di cazzo si scrive a~ doppia parentesi testa di cazzo chiusa doppia
-# jefferson_text = testa di cazzo si scrive {ride} | [a doppia parente]si testa di cazzo {ride} | chiusa doppia {ride}
+# jefferson_text = testa di cazzo si scrive ((ride)) | [a doppia parente]si testa di cazzo ((ride)) | chiusa doppia ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	testa	testa	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	Begin=1388.047|KID=899-0
@@ -6609,7 +6609,7 @@
 
 # sent_id = BOA3017_925_926_927_929_930_932_933
 # text = la prima c'e~ una ragazza che raccontava di ex coinquiline cristiane che tipo le avevano rubato un pr~ un eh non mh un dildo che lei aveva nel eh nel comodino perché col sospetto che lei lei stava studiando delle cose di magia nel senso cioè di antropologia uno studio sui riti magici nella sicilia tipo dell'ottoce~ metti una roba del genere
-# jefferson_text = la prima c'e~ {ride} | una ragazza che: raccontava di ex coinquiline cristiane che tipo | le avevano rubato un pr~=un eh non mh un dildo che lei aveva=nel eh {ride} | nel comodino | perché col sospetto che lei lei stava studiando delle cose di magia nel sen[so >cioè< (.) di antropologia] eh | uno studio sui riti magici nella sicilia tipo dell'ottoce~ metti una roba deol genere
+# jefferson_text = la prima c'e~ ((ride)) | una ragazza che: raccontava di ex coinquiline cristiane che tipo | le avevano rubato un pr~=un eh non mh un dildo che lei aveva=nel eh ((ride)) | nel comodino | perché col sospetto che lei lei stava studiando delle cose di magia nel sen[so >cioè< (.) di antropologia] eh | uno studio sui riti magici nella sicilia tipo dell'ottoce~ metti una roba deol genere
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Begin=1425.393|KID=925-0
@@ -6715,7 +6715,7 @@
 
 # sent_id = BOA3017_935_936_937_938
 # text = eh mh e 'ste sue coinquiline convinte che lei fosse parte di una setta satanica perché han visto 'sti libri che lei stava studiando ah son andate in camera di lei le han sequestrato tutto compreso il dildo che c'aveva ne il nel cassetto
-# jefferson_text = =e:h m:h | e 'ste sue: coinquiline convinte: che lei fosse >parte di una setta satanica< perché han visto 'sti libri che lei stava studiando | >ah son andate in camera di lei le han sequestrato tutto< compreso il dildo che c'aveva ne il {ride} | nel cas[setto]
+# jefferson_text = =e:h m:h | e 'ste sue: coinquiline convinte: che lei fosse >parte di una setta satanica< perché han visto 'sti libri che lei stava studiando | >ah son andate in camera di lei le han sequestrato tutto< compreso il dildo che c'aveva ne il ((ride)) | nel cas[setto]
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	eh	eh	INTJ	_	_	6	discourse	_	Begin=1448.389|KID=935-0|Prolonged=Yes
@@ -7037,7 +7037,7 @@
 
 # sent_id = BOA3017_967
 # text = occhio che questo la gialli lo sente
-# jefferson_text = occhio che questo la gialli lo sente {ride}
+# jefferson_text = occhio che questo la gialli lo sente ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	occhio	occhio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Begin=1522.962|KID=967-0
@@ -7214,7 +7214,7 @@
 
 # sent_id = BOA3017_985
 # text = e vai lì oh gialli senti questo pezzo x
-# jefferson_text = [e vai lì oh] gialli senti questo pezzo [xxxxxx] {ride}
+# jefferson_text = [e vai lì oh] gialli senti questo pezzo [xxxxxx] ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	e	e	CCONJ	_	_	2	discourse	_	Begin=1567.58|KID=985-0|OverlappingGroup=168
@@ -7311,7 +7311,7 @@
 
 # sent_id = BOA3017_999
 # text = incentivo a mettere le date
-# jefferson_text = incentivo a [mettere le date] {ride}
+# jefferson_text = incentivo a [mettere le date] ((ride))
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	incentivo	incentivo	NOUN	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Begin=1583.316|Coconstruct=1000-0::conj|KID=999-0
@@ -7355,7 +7355,7 @@
 
 # sent_id = BOA3017_1005
 # text = due giorni
-# jefferson_text = due giorni {ride}
+# jefferson_text = due giorni ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	due	due	NUM	_	NumType=Card	2	nummod	_	Begin=1596.42|KID=1005-0
@@ -7426,7 +7426,7 @@
 
 # sent_id = BOA3017_1013
 # text = ah e je
-# jefferson_text = [ah (e je)] {ride}
+# jefferson_text = [ah (e je)] ((ride))
 # speaker_id = BO146
 # conversation_id = BOA3017
 1	ah	ah	INTJ	_	_	3	discourse	_	Begin=1606.47|KID=1013-0|OverlappingGroup=175
@@ -7468,7 +7468,7 @@
 
 # sent_id = BOA3017_1020
 # text = je
-# jefferson_text = (je) {ride}
+# jefferson_text = (je) ((ride))
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	je	je	INTJ	_	_	0	root	_	Begin=1611.908|End=1612.466|KID=1020-0
@@ -7531,7 +7531,7 @@
 
 # sent_id = BOA3017_1028
 # text = no
-# jefferson_text = no {ride}
+# jefferson_text = no ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	no	no	INTJ	_	_	0	root	_	Begin=1621.509|End=1622.809|KID=1028-0
@@ -7608,7 +7608,7 @@
 
 # sent_id = BOA3017_1037
 # text = co~
-# jefferson_text = co~ {ride}
+# jefferson_text = co~ ((ride))
 # speaker_id = BO146
 # conversation_id = BOA3017
 1	co~	co~	X	_	_	0	root	_	Begin=1632.766|End=1634.416|Interrupted=Yes|KID=1037-0
@@ -7702,6 +7702,31 @@
 7	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=1048-6
 8	naso	naso	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	End=1646.579|Intonation=rising|KID=1048-7
 
+# sent_id = BOA3017_1049_1050_1052_1053_1056
+# text = è un sai quando nuoti fai snorkeling e ti entra no era
+# jefferson_text = è un: | sai quando nuoti | fai snorkeling | e ti entra ((ride)) | [no (.) era]
+# speaker_id = BO139
+# conversation_id = BOA3017
+1	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Begin=1647.379|KID=1049-0
+2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	reparandum	_	End=1648.129|KID=1049-1|Prolonged=Yes
+3	sai	sapere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=1648.667|KID=1050-0
+4	quando	quando	SCONJ	_	_	5	mark	_	KID=1050-1
+5	nuoti	nuotare	NOUN	_	_	3	advcl	_	End=1649.658|KID=1050-2
+6	fai	fare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	conj	_	Begin=1650.025|KID=1052-0
+7	snorkeling	snorkeling	NOUN	_	_	6	obj	_	End=1650.991|KID=1052-1
+8	e	e	CCONJ	_	_	10	cc	_	Begin=1651.221|KID=1053-0
+9	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	10	obj	_	Clitic=Yes|KID=1053-1
+10	entra	entrare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	End=1652.071|KID=1053-2
+11	no	no	INTJ	_	_	3	discourse	_	Begin=1653.229|End=1653.28|KID=1056-0|PauseAfter=Yes|OverlappingGroup=213
+12	era	essere	INTJ	_	_	3	conj	_	Begin=1653.229|End=1654.471|KID=1056-1|OverlappingGroup=213
+
+# sent_id = BOA3017_1055
+# text = immaginavo
+# jefferson_text = [immaginavo]
+# speaker_id = BO147
+# conversation_id = BOA3017
+1	immaginavo	immaginare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Begin=1653.229|End=1654.179|KID=1055-0|OverlappingGroup=213|PauseAfter=Yes
+
 # sent_id = BOA3017_1057
 # text = una cagata la deve spara' sempre e comunque x
 # jefferson_text = [una ca]gata l deve (sparare) sempre e comun[que xxx]
@@ -7731,7 +7756,7 @@
 
 # sent_id = BOA3017_1061
 # text = niente
-# jefferson_text = niente {ride}
+# jefferson_text = niente ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	niente	niente	PRON	_	PronType=Ind	0	root	_	Begin=1657.5|End=1657.964|KID=1061-0
@@ -7774,7 +7799,7 @@
 
 # sent_id = BOA3017_1067
 # text = vabbè te ti ci ti ci devo fare per
-# jefferson_text = {ride} vabbè te (ti) (ci) (ti) (ci) (devo) (fare) (pe::r)
+# jefferson_text = ((ride)) vabbè te (ti) (ci) (ti) (ci) (devo) (fare) (pe::r)
 # speaker_id = BO146
 # conversation_id = BOA3017
 1	vabbè	vabbè	INTJ	_	_	8	discourse	_	Begin=1664.483|KID=1067-1
@@ -7789,7 +7814,7 @@
 
 # sent_id = BOA3017_1068
 # text = mestiere
-# jefferson_text = {ride} [mestiere]
+# jefferson_text = ((ride)) [mestiere]
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	mestiere	mestiere	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Begin=1667.029|Coconstruct=1067-8::obl|End=1668.449|KID=1068-1|OverlappingGroup=188
@@ -7880,7 +7905,7 @@
 
 # sent_id = BOA3017_1083_1084_1085
 # text = ma anche a c~ a casa sua tipo u- una volta mi ricordo che abbiam d~ abbiam detto la stessa cosa tua mamma a te ha detto eh cosa cazzo di~ così a me fa ah sì sì c'hai ragione
-# jefferson_text = ma anche a c~ a casa sua tipo | >u- una volta mi ricordo che abbiam d~< abbiam detto la stessa cosa tua mamma a te ha detto eh cosa cazzo di~ così a me fa {ride} | ah sì sì c'hai rag[ione] {ride}
+# jefferson_text = ma anche a c~ a casa sua tipo | >u- una volta mi ricordo che abbiam d~< abbiam detto la stessa cosa tua mamma a te ha detto eh cosa cazzo di~ così a me fa ((ride)) | ah sì sì c'hai rag[ione] ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	ma	ma	CCONJ	_	_	13	discourse	_	Begin=1683.963|KID=1083-0
@@ -7969,7 +7994,7 @@
 
 # sent_id = BOA3017_1092_1094
 # text = ma quanto m'ha fa~ m'ha fatto ridere quando m'ha raccontato quando t'ha visto per la prima volta che t'ha detto fatte coraggio tipo
-# jefferson_text = ma quanto m'ha fa~ {ride} m'ha fatto ride(re) quando | m'ha raccontato quando t'ha visto per la prima volta che t'ha detto fatt(e) coraggio tipo
+# jefferson_text = ma quanto m'ha fa~ ((ride)) m'ha fatto ride(re) quando | m'ha raccontato quando t'ha visto per la prima volta che t'ha detto fatt(e) coraggio tipo
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	ma	ma	CCONJ	_	_	8	discourse	_	Begin=1700.26|KID=1092-0
@@ -8418,7 +8443,7 @@
 
 # sent_id = BOA3017_1146
 # text = volevo fare una battuta cattiva x
-# jefferson_text = >volevo fare una battuta cattiva< xxxxx {ride}
+# jefferson_text = >volevo fare una battuta cattiva< xxxxx ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	volevo	volere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	aux	_	Begin=1785.023|KID=1146-0|PaceFast=Yes
