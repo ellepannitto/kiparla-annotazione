@@ -1880,12 +1880,20 @@
 3	troppo	troppo	ADV	_	_	4	advmod	_	KID=198-2
 4	grandi	grande	ADJ	_	Number=Plur	1	amod	_	End=363.495|KID=198-3
 
-# sent_id = PBB004_199
-# text = bologna è
-# jefferson_text = [bologna] è::
+# sent_id = PBB004_199_201_PBB004_202_204_split1
+# text = bologna è è una città più piccola di n~ proprio
+# jefferson_text = [bologna] è:: è una città più piccola::: di n~ proprio::: in[contri] [sempre]
 # speaker_id = BOI013
 1	bologna	bologna	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Begin=363.645|KID=199-0|OverlappingGroup=45
 2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	End=364.645|KID=199-1|Prolonged=Yes
+3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Begin=364.895|KID=201-0
+4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=201-1
+5	città	città	NOUN	_	Gender=Fem	0	root	_	KID=201-2
+6	più	più	ADV	_	_	7	advmod	_	KID=201-3
+7	piccola	piccolo	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	End=366.875|KID=201-4|Prolonged=Yes
+8	di	di	ADP	_	_	9	case	_	Begin=367.075|KID=202-0
+9	n~	n~	PROPN	_	_	_	_	_	Interrupted=Yes|KID=202-1
+10	proprio	proprio	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	advmod	_	KID=202-2|Prolonged=Yes
 
 # sent_id = PBB004_200
 # text = mh
@@ -1893,24 +1901,12 @@
 # speaker_id = BOR005
 1	mh	mh	NOUN	_	Gender=Masc	0	root	_	Begin=363.653|End=364.22|KID=200-0|OverlappingGroup=45
 
-# sent_id = PBB004_201
-# text = è una città più piccola
-# jefferson_text = è una città più piccola:::
+# sent_id = PBB004_202_204_split2
+# text = incontri sempre
+# jefferson_text = di n~ proprio::: in[contri] [sempre]
 # speaker_id = BOI013
-1	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Begin=364.895|KID=201-0
-2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=201-1
-3	città	città	NOUN	_	Gender=Fem	0	root	_	KID=201-2
-4	più	più	ADV	_	_	5	advmod	_	KID=201-3
-5	piccola	piccolo	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	End=366.875|KID=201-4|Prolonged=Yes
-
-# sent_id = PBB004_202
-# text = di n~ proprio incontri
-# jefferson_text = di n~ proprio::: in[contri]
-# speaker_id = BOI013
-1	di	di	ADP	_	_	2	case	_	Begin=367.075|KID=202-0
-2	n~	n~	PROPN	_	_	0	root	_	Interrupted=Yes|KID=202-1
-3	proprio	proprio	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	KID=202-2|Prolonged=Yes
-4	incontri	incontro	NOUN	_	Gender=Masc|Number=Plur	2	flat:name	_	End=368.985|KID=202-3|OverlappingGroup=46
+1	incontri	incontro	NOUN	_	Gender=Masc|Number=Plur	0	root	_	End=368.985|KID=202-3|OverlappingGroup=46
+2	sempre	sempre	ADV	_	_	1	advmod	_	Begin=369.31|End=369.75|KID=204-0|OverlappingGroup=47
 
 # sent_id = PBB004_203
 # text = beh ma è l'idea gina ma
@@ -1924,12 +1920,6 @@
 6	idea	idea	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	KID=203-5|OverlappingGroup=47
 7	gina	gino	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	KID=203-6
 8	ma	ma	CCONJ	_	_	0	root	_	End=370.37|KID=203-7
-
-# sent_id = PBB004_204
-# text = sempre
-# jefferson_text = [sempre]
-# speaker_id = BOI013
-1	sempre	sempre	ADV	_	_	0	root	_	Begin=369.31|End=369.75|KID=204-0|OverlappingGroup=47
 
 # sent_id = PBB004_205
 # text = è l'ambiente
@@ -1978,50 +1968,40 @@
 4	saper	sapere	VERB	V	VerbForm=Inf	2	xcomp	_	KID=208-3a
 5	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=208-3b
 
-# sent_id = PBB004_209
-# text = ma si vedono
-# jefferson_text = ma si vedono
+# sent_id = PBB004_209_210
+# text = ma si vedono le città cioè milano è il doppio di bologna
+# jefferson_text = ma si vedono le città cioè:: milano è: il doppio di bologna
 # speaker_id = BOI013
 1	ma	ma	CCONJ	_	_	3	cc	_	Begin=376.145|KID=209-0
 2	si	si	PRON	_	Person=3|PronType=Prs	3	expl:pass	_	Clitic=Yes|KID=209-1
 3	vedono	vedere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=377.005|KID=209-2
+4	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	Begin=377.235|KID=210-0
+5	città	città	NOUN	_	Gender=Fem	10	nsubj	_	KID=210-1
+6	cioè	cioé	ADV	_	_	7	advmod	_	KID=210-2|Prolonged=Yes
+7	milano	milano	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	KID=210-3
+8	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	KID=210-4|Prolonged=Yes
+9	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	KID=210-5
+10	doppio	doppio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=210-6
+11	di	di	ADP	_	_	12	case	_	KID=210-7
+12	bologna	bologna	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	End=379.845|KID=210-8
 
-# sent_id = PBB004_210
-# text = le città cioè milano è il doppio di bologna
-# jefferson_text = le città cioè:: milano è: il doppio di bologna
-# speaker_id = BOI013
-1	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	Begin=377.235|KID=210-0
-2	città	città	NOUN	_	Gender=Fem	7	nsubj	_	KID=210-1
-3	cioè	cioé	ADV	_	_	4	advmod	_	KID=210-2|Prolonged=Yes
-4	milano	milano	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	KID=210-3
-5	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	KID=210-4|Prolonged=Yes
-6	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=210-5
-7	doppio	doppio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=210-6
-8	di	di	ADP	_	_	9	case	_	KID=210-7
-9	bologna	bologna	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	End=379.845|KID=210-8
-
-# sent_id = PBB004_211
-# text = e allora
-# jefferson_text = e allora?
+# sent_id = PBB004_211_212
+# text = e allora ci devi vivere per forza peggio a milano che a bologna
+# jefferson_text = e allora? ci <devi> >vivere per forza peggio< a milano che a bologna
 # speaker_id = BOI012
 1	e	e	CCONJ	_	_	2	cc	_	Begin=380.655|KID=211-0
 2	allora	allora	ADV	_	_	0	root	_	End=381.365|Intonation=rising|KID=211-1
-
-# sent_id = PBB004_212
-# text = ci devi vivere per forza peggio a milano che a bologna
-# jefferson_text = ci <devi> >vivere per forza peggio< a milano che a bologna
-# speaker_id = BOI012
-1	ci	ci	PRON	_	PronType=Prs	3	expl	_	Begin=381.69|Clitic=Yes|KID=212-0
-2	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	KID=212-1|PaceSlow=Yes
-3	vivere	vivere	VERB	_	VerbForm=Inf	0	root	_	KID=212-2|PaceFast=Yes
-4	per	per	ADP	_	_	5	case	_	KID=212-3|PaceFast=Yes
-5	forza	forza	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	KID=212-4|PaceFast=Yes
-6	peggio	peggio	ADV	_	_	8	advmod	_	KID=212-5|PaceFast=Yes
-7	a	a	ADP	_	_	8	case	_	KID=212-6
-8	milano	milano	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	KID=212-7
-9	che	che	SCONJ	_	_	11	fixed	_	KID=212-8
-10	a	a	ADP	_	_	11	case	_	KID=212-9
-11	bologna	bologna	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	End=384.2175|KID=212-10
+3	ci	ci	PRON	_	PronType=Prs	5	expl	_	Begin=381.69|Clitic=Yes|KID=212-0
+4	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	KID=212-1|PaceSlow=Yes
+5	vivere	vivere	VERB	_	VerbForm=Inf	0	root	_	KID=212-2|PaceFast=Yes
+6	per	per	ADP	_	_	7	case	_	KID=212-3|PaceFast=Yes
+7	forza	forza	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	KID=212-4|PaceFast=Yes
+8	peggio	peggio	ADV	_	_	10	advmod	_	KID=212-5|PaceFast=Yes
+9	a	a	ADP	_	_	10	case	_	KID=212-6
+10	milano	milano	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	KID=212-7
+11	che	che	SCONJ	_	_	13	fixed	_	KID=212-8
+12	a	a	ADP	_	_	13	case	_	KID=212-9
+13	bologna	bologna	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	End=384.2175|KID=212-10
 
 # sent_id = PBB004_213
 # text = è troppo grande
@@ -2031,19 +2011,14 @@
 2	troppo	troppo	ADV	_	_	3	advmod	_	KID=213-1
 3	grande	grande	ADJ	_	Number=Sing	0	root	_	End=385.065|KID=213-2
 
-# sent_id = PBB004_214
-# text = io preferisco bologna
-# jefferson_text = io preferisco bologna
+# sent_id = PBB004_214_215
+# text = io preferisco bologna boh
+# jefferson_text = io preferisco bologna boh
 # speaker_id = BOI013
 1	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Begin=385.59|KID=214-0
 2	preferisco	preferire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=214-1
 3	bologna	bologna	NOUN	_	Gender=Fem	2	obj	_	End=386.61|KID=214-2
-
-# sent_id = PBB004_215
-# text = boh
-# jefferson_text = boh
-# speaker_id = BOI013
-1	boh	boh	NOUN	_	Gender=Masc	0	root	_	Begin=386.84|End=387.07|KID=215-0
+4	boh	boh	NOUN	_	Gender=Masc	0	root	_	Begin=386.84|End=387.07|KID=215-0
 
 # sent_id = PBB004_216
 # text = non lo so non lo so poi magari
