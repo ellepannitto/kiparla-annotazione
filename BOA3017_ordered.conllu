@@ -35,7 +35,7 @@
 1	dopo	dopo	ADV	_	_	4	advmod	_	Begin=5.7|KID=4-0
 2	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=4-1
 3	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	KID=4-2
-4	far	fare	VERB	_	VerbForm=Inf	0	root	_	KID=4-3
+4	far	fare	VERB	_	VerbForm=Inf	0	root	_	KID=4-3|Truncated=Yes
 5	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Clitic=Yes|End=6.64|Intonation=rising|KID=4-4
 
 # sent_id = BOA3017_5
@@ -133,7 +133,7 @@
 2	poi	poi	ADV	_	_	3	advmod	_	KID=15-1
 3	arriva	arrivare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	KID=15-2
 4	pure	pure	ADV	_	_	5	advmod	_	KID=15-3
-5	francesco	Francesco	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	KID=15-4
+5	francesco	Francesco	PROPN	_	_	3	nsubj	_	Anonymized=Yes|KID=15-4
 6	ciao	ciao	INTJ	_	_	0	root	_	End=18.51|KID=15-5
 
 # sent_id = BOA3017_20
@@ -244,7 +244,7 @@
 6	fai	fare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=33-5
 7	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	6	obj	_	End=46.392|KID=33-6
 8	da	da	ADP	_	_	9	case	_	Begin=46.877|KID=35-0
-9	pallotti	Pallotti	PROPN	_	Gender=Masc|Number=Plur	6	obl	_	End=47.547|KID=35-1
+9	pallotti	Pallotti	PROPN	_	_	6	obl	_	End=47.547|KID=35-1
 
 # sent_id = BOA3017_34
 # text = x
@@ -475,11 +475,10 @@
 5	banco	banco	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	End=85.704|KID=61-4
 
 # sent_id = BOA3017_62
-# text = mh mh
-# jefferson_text = mh mh
+# text = mhmh
+# jefferson_text = mhmh
 # speaker_id = BO145
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=61-2|Begin=85.879|KID=62-0
-2	mh	mh	INTJ	_	_	1	parataxis	_	End=86.479|KID=62-1
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=61-2|Begin=85.879|End=86.479|KID=62-0
 
 # sent_id = BOA3017_64
 # text = non parli
@@ -779,11 +778,10 @@
 8	ore	ora	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	End=160.007|KID=104-7
 
 # sent_id = BOA3017_106
-# text = mh mh
-# jefferson_text = mh mh
+# text = mhmh
+# jefferson_text = mhmh
 # speaker_id = BO139
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=104-1|Begin=160.657|KID=106-0
-2	mh	mh	INTJ	_	_	1	parataxis	_	End=161.047|KID=106-1
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=104-1|Begin=160.657|End=161.047|KID=106-0
 
 # sent_id = BOA3017_107_109
 # text = dopo c'è chi te lo controlla ovviamente cioè ascolta prima l'audio poi vede se
@@ -861,17 +859,16 @@
 42	corrisponde	corrispondere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	conj	_	End=180.057|KID=119-3
 
 # sent_id = BOA3017_113
-# text = mh mh
-# jefferson_text = [°mh mh°]
+# text = mhmh
+# jefferson_text = [°mhmh°]
 # speaker_id = BO146
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=112-9|Begin=171.595|KID=113-0|OverlappingGroup=15|Volume=low
-2	mh	mh	INTJ	_	_	1	compound	_	End=171.925|KID=113-1|OverlappingGroup=15|Volume=low
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=112-9|Begin=171.595|End=171.925|KID=113-0|OverlappingGroup=15|Volume=low
 
 # sent_id = BOA3017_114
 # text = eh mh
-# jefferson_text = =eh mh
+# jefferson_text = eh mh
 # speaker_id = BO147
-1	eh	eh	INTJ	_	_	0	root	_	Backchannel=112-9|Begin=172.207|KID=114-0|ProsodicLink=Yes
+1	eh	eh	INTJ	_	_	0	root	_	Backchannel=112-9|Begin=172.207|KID=114-0
 2	mh	mh	INTJ	_	_	1	parataxis	_	End=172.727|KID=114-1
 
 # sent_id = BOA3017_117
@@ -925,7 +922,7 @@
 
 # sent_id = BOA3017_122
 # text = ah okay
-# jefferson_text = =mh eh tipo un errore che ho fatto spesso è tipo devo segnare le sovrapposizioni quando si parlano sopra ah okay
+# jefferson_text = ah okay
 # speaker_id = BO146
 1	ah	ah	INTJ	_	_	0	root	_	Backchannel=121-2|Begin=184.627|KID=122-0
 2	okay	ok	INTJ	_	_	1	discourse	_	End=184.97|KID=122-1
@@ -1196,11 +1193,10 @@
 21	mh	mh	INTJ	_	_	6	discourse	_	End=223.403|KID=145-4
 
 # sent_id = BOA3017_146
-# text = mhmh mh
-# jefferson_text = [mh mh]
+# text = mhmhmh
+# jefferson_text = [mhmhmh]
 # speaker_id = BO139
-1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=145-1|Begin=222.638|KID=146-0|OverlappingGroup=21
-2	mh	mh	INTJ	_	_	1	parataxis	_	End=222.948|KID=146-1|OverlappingGroup=21
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=145-1|Begin=222.638|End=222.948|KID=146-0|OverlappingGroup=21
 
 # sent_id = BOA3017_151
 # text = mh
@@ -1239,12 +1235,10 @@
 1	mh	mh	INTJ	_	_	0	root	_	Begin=243.576|End=244.276|KID=158-0
 
 # sent_id = BOA3017_161
-# text = mh mh mh
-# jefferson_text = [mh mh mh]
+# text = mhmhmh
+# jefferson_text = [mhmhmh]
 # speaker_id = BO147
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=160-2|Begin=248.511|KID=161-0|OverlappingGroup=25
-2	mh	mh	INTJ	_	_	1	parataxis	_	KID=161-1|OverlappingGroup=25
-3	mh	mh	INTJ	_	_	1	parataxis	_	End=249.201|KID=161-2|OverlappingGroup=25
+1	mhmhmh	mh	INTJ	_	_	0	root	_	Backchannel=160-2|Begin=248.511|End=249.201|KID=161-0|OverlappingGroup=25
 
 # sent_id = BOA3017_162
 # text = x
@@ -1626,7 +1620,7 @@
 4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=214-3
 5	storia	storia	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	KID=214-4
 6	di	di	ADP	_	_	7	case	_	KID=214-5
-7	vincenzo	Vincenzo	PROPN	_	Gender=Masc|Number=Sing	5	nmod	_	Anonymized=Yes|End=350.467|Intonation=rising|KID=214-6
+7	vincenzo	Vincenzo	PROPN	_	_	5	nmod	_	Anonymized=Yes|End=350.467|Intonation=rising|KID=214-6
 
 # sent_id = BOA3017_215
 # text = meglio di no
@@ -1651,7 +1645,7 @@
 8	gli	gli	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	Clitic=Yes|KID=217-6
 9	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	KID=217-7
 10	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	End=354.617|KID=217-8
-11	eli	Elisa	PROPN	_	_	14	vocative	_	Begin=355.207|End=355.697|KID=218-0
+11	eli	Eli	PROPN	_	_	14	vocative	_	Anonymized=Yes|Begin=355.207|End=355.697|KID=218-0
 12	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	14	iobj	_	Begin=356.197|Clitic=Yes|KID=219-0
 13	devo	dovere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	KID=219-1
 14	dire	dire	VERB	_	VerbForm=Inf	10	ccomp:reported	_	KID=219-2
@@ -1699,11 +1693,10 @@
 21	camera	camera	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	End=366.027|KID=222-9
 
 # sent_id = BOA3017_223
-# text = mh mh
-# jefferson_text = [mh mh]
+# text = mhmh
+# jefferson_text = [mhmh]
 # speaker_id = BO139
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=222-1|Begin=364.982|KID=223-0|OverlappingGroup=32
-2	mh	mh	INTJ	_	_	1	parataxis	_	End=365.392|KID=223-1|OverlappingGroup=32
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=222-1|Begin=364.982|End=365.392|KID=223-0|OverlappingGroup=32
 
 # sent_id = BOA3017_224
 # text = allora
@@ -1772,7 +1765,7 @@
 11	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	KID=234-6
 12	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	parataxis	_	KID=234-7
 13	eh	eh	INTJ	_	_	15	discourse	_	KID=234-8
-14	vincenzo	Vincenzo	PROPN	_	Gender=Masc|Number=Sing	15	nsubj	_	KID=234-9
+14	vincenzo	Vincenzo	PROPN	_	_	15	nsubj	_	Anonymized=Yes|KID=234-9
 15	diventerà	diventare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	ccomp:reported	_	KID=234-10
 16	papà	papà	NOUN	_	Gender=Masc	15	xcomp	_	End=380.88|KID=234-11
 
@@ -1810,7 +1803,7 @@
 11	ah	ah	INTJ	_	_	12	discourse	_	KID=247-5
 12	aiuto	aiuto	NOUN	_	Gender=Masc|Number=Sing	10	ccomp:reported	_	KID=247-6
 13	oddio	oddio	INTJ	_	_	12	discourse	_	KID=247-7
-14	elisa	Elisa	PROPN	_	_	12	vocative	_	KID=247-8
+14	elisa	Elisa	PROPN	_	_	12	vocative	_	Anonymized=Yes|KID=247-8
 15	dico	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	conj	_	KID=247-9
 16	subito	subito	ADV	_	_	15	advmod	_	KID=247-10|OverlappingGroup=34
 17	a	a	ADP	_	_	18	case	_	KID=247-11|OverlappingGroup=34
@@ -1832,18 +1825,18 @@
 10	cioè	cioè	CCONJ	_	_	11	discourse	_	KID=250-9|PaceFast=Yes
 11	cosa	cosa	ADV	_	PronType=Int	17	parataxis	_	KID=250-10
 12	eh	eh	INTJ	_	_	17	discourse	_	KID=250-11
-13	christian	Christian	PROPN	_	_	17	nsubj	_	KID=250-12|Unintelligible=Yes
+13	christian	Christian	PROPN	_	_	17	nsubj	_	Anonymized=Yes|KID=250-12|Unintelligible=Yes
 14	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	KID=250-13
 15	stato	essere	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	cop	_	KID=250-14
 16	più	più	ADV	_	_	17	advmod	_	End=399.62|KID=250-15|OverlappingGroup=35|Prolonged=Yes
 17	xento	xento	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Begin=399.896|End=400.416|KID=253-0
 18	ma	ma	CCONJ	_	_	19	reparandum	_	Begin=400.651|KID=254-0
 19	ma	ma	CCONJ	_	_	20	discourse	_	KID=254-1
-20	vincenzo	Vincenzo	PROPN	_	_	17	ccomp:reported	_	KID=254-2
+20	vincenzo	Vincenzo	PROPN	_	_	17	ccomp:reported	_	Anonymized=Yes|KID=254-2
 21-22	della	_	_	_	_	_	_	_	KID=254-3
 21	di	di	ADP	_	_	23	case	_	KID=254-3a
 22	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	KID=254-3b
-23	elisa	Elisa	PROPN	_	_	20	nmod	_	End=402.36|Intonation=rising|KID=254-4
+23	elisa	Elisa	PROPN	_	_	20	nmod	_	Anonymized=Yes|End=402.36|Intonation=rising|KID=254-4
 
 # sent_id = BOA3017_252
 # text = xxento
@@ -1912,7 +1905,7 @@
 5	perché	perché	SCONJ	_	_	6	mark	_	KID=261-4
 6	sputtanavi	sputtanare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=261-5
 7	a	a	ADP	_	_	8	case	_	KID=261-6
-8	eli	Eli	PROPN	_	_	6	obj	_	End=409.268|KID=261-7
+8	eli	Eli	PROPN	_	_	6	obj	_	Anonymized=Yes|End=409.268|KID=261-7
 9	tanto	tanto	ADV	_	_	12	advmod	_	Begin=409.368|KID=263-0|OverlappingGroup=41
 10	ormai	ormai	ADV	_	_	12	advmod	_	KID=263-1|OverlappingGroup=41
 11	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	aux	_	KID=263-2|OverlappingGroup=41
@@ -1946,7 +1939,7 @@
 2	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=262-16|SpaceAfter=No
 3	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	KID=262-17
 4	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	KID=262-18
-5	martina	Martina	PROPN	_	_	4	nsubj	_	KID=262-19
+5	martina	Martina	PROPN	_	_	4	nsubj	_	Anonymized=Yes|KID=262-19
 6	perché	perché	ADV	_	_	10	advmod	_	KID=262-20
 7	lei	lei	PRON	_	Gender=Fem|Number=Sing|PronType=Prs	10	nsubj	_	KID=262-21
 8	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	Clitic=Yes|KID=262-22
@@ -2056,7 +2049,7 @@
 15	di	di	ADP	_	_	16	case	_	KID=278-3a
 16	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	reparandum	_	KID=278-3b
 17	di	di	ADP	_	_	18	case	_	KID=278-5
-18	roberto	Roberto	PROPN	_	_	14	obl	_	KID=278-6
+18	roberto	Roberto	PROPN	_	_	14	obl	_	Anonymized=Yes|KID=278-6
 19	ma	ma	CCONJ	_	_	20	cc	_	KID=278-7
 20	dice	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	KID=278-8
 21	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	20	discourse	_	End=432.36|KID=278-9
@@ -2065,7 +2058,7 @@
 24	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	obj	_	Clitic=Yes|KID=281-1
 25	dico	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	22	ccomp:reported	_	KID=281-2
 26	a	a	ADP	_	_	27	case	_	KID=281-3
-27	elisa	Elisa	PROPN	_	Gender=Fem|Number=Sing	25	obl	_	KID=281-4
+27	elisa	Elisa	PROPN	_	_	25	obl	_	Anonymized=Yes|KID=281-4
 28	davanti	davanti	ADV	_	ExtPos=ADP	30	case	_	KID=281-5
 29	a	a	ADP	_	_	28	fixed	_	KID=281-6
 30	tutti	tutto	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	25	obl	_	KID=281-7
@@ -2130,7 +2123,7 @@
 3	però	però	CCONJ	_	_	4	advmod	_	KID=285-2
 4	capito	capire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	discourse	_	End=440.688|KID=285-3
 5	magari	magari	ADV	_	_	7	advmod	_	Begin=440.823|KID=286-0
-6	martina	Martina	PROPN	_	Gender=Fem|Number=Sing	7	nsubj	_	KID=286-1
+6	martina	Martina	PROPN	_	_	7	nsubj	_	Anonymized=Yes|KID=286-1
 7	sì	sì	ADV	_	_	0	root	_	KID=286-2
 8	visto	vedere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	KID=286-3
 9	che	che	SCONJ	_	_	12	mark	_	KID=286-4
@@ -2208,9 +2201,9 @@
 4	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	KID=293-2|OverlappingGroup=49
 5	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=293-3|OverlappingGroup=49
 6	a	a	ADP	_	_	7	case	_	KID=293-4
-7	lara	Lara	PROPN	_	_	12	obl	_	KID=293-5
+7	lara	Lara	PROPN	_	_	12	obl	_	Anonymized=Yes|KID=293-5
 8	e	e	CCONJ	_	_	9	cc	_	KID=293-6
-9	giuliano	Giuliano	PROPN	_	_	7	conj	_	KID=293-7
+9	giuliano	Giuliano	PROPN	_	_	7	conj	_	Anonymized=Yes|KID=293-7
 10	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	Clitic=Yes|KID=293-8|SpaceAfter=No
 11	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	KID=293-9
 12	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	parataxis	_	End=453.659|KID=293-10
@@ -2219,7 +2212,7 @@
 # text = giuliano com'è com'è che ha fatto eh ha fatto
 # jefferson_text = giuliano (.) com'è com'è che ha fatto | eh? ha fatto {ride}
 # speaker_id = BO147
-1	giuliano	Giuliano	PROPN	_	_	8	nsubj	_	Begin=455.209|KID=297-0|PauseAfter=Yes
+1	giuliano	Giuliano	PROPN	_	_	8	nsubj	_	Anonymized=Yes|Begin=455.209|KID=297-0|PauseAfter=Yes
 2	com'	com'	ADV	_	_	3	advmod	_	KID=297-2|SpaceAfter=No
 3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	reparandum	_	KID=297-3
 4	com'	come	ADV	_	_	5	advmod	_	KID=297-4|SpaceAfter=No
@@ -2250,8 +2243,8 @@
 1	facciamo	fare	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Begin=473.254|KID=305-0
 2	pubblicità	pubblicità	NOUN	_	Gender=Fem	1	obj	_	KID=305-1|PauseAfter=Yes|Prolonged=Yes
 3	occulta	occulta	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	Intonation=falling|KID=305-3
-4	antichi	Antichi	PROPN	_	Gender=Masc|Number=Plur	6	nsubj	_	KID=305-4
-5	sapori	Sapori	PROPN	_	Gender=Masc|Number=Plur	4	flat:name	_	KID=305-5
+4	antichi	Antichi	PROPN	_	_	6	nsubj	_	KID=305-4
+5	sapori	Sapori	PROPN	_	_	4	flat:name	_	KID=305-5
 6	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	KID=305-6
 7	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	KID=305-7
 8	carne	carne	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	KID=305-8
@@ -2269,8 +2262,8 @@
 # text = Antichi sapori via frassinago no
 # jefferson_text = antichi sapori via? frassinago? no
 # speaker_id = BO145
-1	Antichi	antico	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Begin=480.674|KID=309-0
-2	sapori	Sapori	PROPN	_	Gender=Masc|Number=Plur	1	flat:name	_	KID=309-1
+1	Antichi	Antichi	PROPN	_	_	3	nsubj	_	Begin=480.674|KID=309-0
+2	sapori	Sapori	PROPN	_	_	1	flat:name	_	KID=309-1
 3	via	via	ADP	_	_	0	root	_	Intonation=rising|KID=309-2
 4	frassinago	Frassinago	PROPN	_	_	3	nmod	_	Intonation=rising|KID=309-3
 5	no	no	INTJ	_	_	3	conj	_	End=482.684|KID=309-4
@@ -2377,13 +2370,13 @@
 7	x	x	X	_	_	3	obl	_	End=505.794|KID=325-6|OverlappingGroup=53|Unintelligible=Yes
 
 # sent_id = BOA3017_326
-# text = ma non è vasiniko
-# jefferson_text = [ma non è vasiniko]
+# text = ma non è vasinikò
+# jefferson_text = [ma non è vasinikò]
 # speaker_id = BO147
 1	ma	ma	CCONJ	_	_	4	cc	_	Begin=504.924|KID=326-0|OverlappingGroup=
 2	non	non	ADV	_	PronType=Neg	4	advmod	_	KID=326-1|OverlappingGroup=
 3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=326-2|OverlappingGroup=
-4	vasiniko	Vasiniko	PROPN	_	_	0	root	_	Coconstruct=324-3::conj|End=506.294|KID=326-3
+4	vasinikò	Vasinikò	PROPN	_	_	0	root	_	Coconstruct=324-3::conj|End=506.294|KID=326-3
 
 # sent_id = BOA3017_327
 # text = mh mh
@@ -2403,7 +2396,7 @@
 5	altro	altro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	KID=329-4|OverlappingGroup=208
 6	in	in	ADP	_	_	7	case	_	KID=329-5|OverlappingGroup=208
 7	via	via	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	KID=329-6|OverlappingGroup=208
-8	frassinago	Frassinago	PROPN	_	Gender=Masc|Number=Sing	7	nmod	_	End=508.7|KID=329-7|OverlappingGroup=208
+8	frassinago	Frassinago	PROPN	_	_	7	nmod	_	End=508.7|KID=329-7|OverlappingGroup=208
 9	si	si	PRON	_	Person=3|PronType=Prs	10	expl:impers	_	Begin=509.039|Clitic=Yes|KID=333-0|OverlappingGroup=55
 10	chiama	chiamare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	KID=333-1|OverlappingGroup=55
 11	basilibò	Basilibò	PROPN	_	_	10	xcomp	_	End=509.9|KID=333-2|OverlappingGroup=55
@@ -2464,7 +2457,7 @@
 8	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	KID=336-6b
 9	registrazioni	registrazione	NOUN	_	Gender=Fem|Number=Plur	6	obl	_	KID=336-7|OverlappingGroup=209
 10	di	di	ADP	_	_	11	case	_	KID=336-8|OverlappingGroup=209
-11	lara	Lara	PROPN	_	Gender=Fem|Number=Sing	9	nmod	_	End=520.616|KID=336-9|OverlappingGroup=209
+11	lara	Lara	PROPN	_	_	9	nmod	_	Anonymized=Yes|End=520.616|KID=336-9|OverlappingGroup=209
 
 # sent_id = BOA3017_337
 # text = porca miseria
@@ -2600,11 +2593,11 @@
 9	a	a	ADP	_	_	10	case	_	KID=358-8
 10	torino	Torino	PROPN	_	_	4	obl	_	End=548.658|KID=358-9
 11	e	e	CCONJ	_	_	14	cc	_	Begin=549.373|KID=359-0
-12	'sta	questo	PRON	_	PronType=Dem	14	nsubj	_	KID=359-1
+12	'sta	questo	PRON	_	PronType=Dem	14	nsubj	_	KID=359-1|Truncated=Yes
 13	qua	qua	ADV	_	_	12	advmod	_	KID=359-2
 14	dice	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	KID=359-3
 15	ah	ah	INTJ	_	_	17	discourse	_	KID=359-4
-16	son	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	KID=359-5
+16	son	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	KID=359-5|Truncated=Yes
 17	venuta	venire	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	14	ccomp:reported	_	KID=359-6|PaceFast=Yes
 18	da	da	ADP	_	_	19	case	_	KID=359-7
 19	lei	lei	PRON	_	Number=Sing|PronType=Prs	17	obl	_	End=551.163|KID=359-8
@@ -2758,7 +2751,7 @@
 3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=376-2
 4	po'	poco	PRON	_	PronType=Ind	2	advmod	_	KID=376-3
 5	pure	pure	ADV	_	_	6	advmod	_	KID=376-4
-6	matteo	Matteo	PROPN	_	Gender=Masc	2	nsubj	_	KID=376-5
+6	matteo	Matteo	PROPN	_	_	2	nsubj	_	Anonymized=Yes|KID=376-5
 7	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	iobj	_	Clitic=Yes|KID=376-6
 8	sa	sapere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=580.397|KID=376-7
 
@@ -2817,15 +2810,15 @@
 # text = matteo rossi
 # jefferson_text = matteo rossi
 # speaker_id = BO145
-1	matteo	Matteo	PROPN	_	Gender=Masc|Number=Sing	0	root	_	Begin=592.898|KID=387-0
-2	rossi	Rossi	PROPN	_	_	1	flat:name	_	End=593.928|KID=387-1
+1	matteo	Matteo	PROPN	_	_	0	root	_	Anonymized=Yes|Begin=592.898|KID=387-0
+2	rossi	Rossi	PROPN	_	_	1	flat:name	_	Anonymized=Yes|End=593.928|KID=387-1
 
 # sent_id = BOA3017_388
 # text = daniela gialli
 # jefferson_text = daniela gialli
 # speaker_id = BO147
-1	daniela	Daniela	PROPN	_	_	0	root	_	Begin=Begin=593.938|Coconstruct=387-0::conj|KID=388-0
-2	gialli	Gialli	PROPN	_	_	1	flat:name	_	End=594.918|KID=388-1
+1	daniela	Daniela	PROPN	_	_	0	root	_	Anonymized=Yes|Begin=Begin=593.938|Coconstruct=387-0::conj|KID=388-0
+2	gialli	Gialli	PROPN	_	_	1	flat:name	_	Anonymized=Yes|End=594.918|KID=388-1
 
 # sent_id = BOA3017_391
 # text = {ride}
@@ -3229,7 +3222,7 @@
 # speaker_id = BO139
 1	come	come	ADV	_	_	2	advmod	_	Begin=673.28|KID=458-0
 2	trascrivere	trascrivere	VERB	_	VerbForm=Inf	0	root	_	KID=458-1
-3	shining	Shining	PROPN	_	Gender=Masc	2	obj	_	End=674.58|KID=458-2
+3	shining	Shining	PROPN	_	_	2	obj	_	End=674.58|KID=458-2
 
 # sent_id = BOA3017_461_462
 # text = comunque finalmente l'insalata
@@ -3440,7 +3433,7 @@
 9	se	se	SCONJ	_	_	14	cc	_	KID=488-8
 10	no	no	ADV	_	_	9	fixed	_	KID=488-9
 11	dopo	dopo	ADV	_	_	14	advmod	_	KID=488-10|Prolonged=Yes
-12	andrea	Andrea	PROPN	_	_	14	nsubj	_	KID=488-11
+12	andrea	Andrea	PROPN	_	_	14	nsubj	_	Anonymized=Yes|KID=488-11
 13	non	non	ADV	_	PronType=Neg	14	advmod	_	KID=488-12
 14	sente	sentire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	End=718.857|KID=488-13
 
@@ -3851,7 +3844,7 @@
 16	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	KID=559-0b
 17	festa	festa	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	KID=559-1
 18	di	di	ADP	_	_	19	case	_	KID=559-2
-19	anna	Anna	PROPN	_	_	17	nmod	_	End=811.969|KID=559-3
+19	anna	Anna	PROPN	_	_	17	nmod	_	Anonymized=Yes|End=811.969|KID=559-3
 
 # sent_id = BOA3017_549
 # text = x
@@ -3946,15 +3939,15 @@
 # text = anna
 # jefferson_text = anna?
 # speaker_id = BO139
-1	anna	Anna	PROPN	_	_	0	root	_	Begin=834.653|End=835.463|Intonation=rising|KID=574-0
+1	anna	Anna	PROPN	_	_	0	root	_	Anonymized=Yes|Begin=834.653|End=835.463|Intonation=rising|KID=574-0
 
 # sent_id = BOA3017_575
 # text = anna x anna
 # jefferson_text = anna x anna
 # speaker_id = BO145
-1	anna	Anna	PROPN	_	_	3	parataxis	_	Begin=835.943|KID=575-0
+1	anna	Anna	PROPN	_	_	3	parataxis	_	Anonymized=Yes|Begin=835.943|KID=575-0
 2	x	x	X	_	_	1	nsubj	_	KID=575-1|Unintelligible=Yes
-3	anna	Anna	PROPN	_	_	0	root	_	End=837.18|KID=575-2
+3	anna	Anna	PROPN	_	_	0	root	_	Anonymized=Yes|End=837.18|KID=575-2
 
 # sent_id = BOA3017_576
 # text = mh
@@ -4028,7 +4021,7 @@
 14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	KID=584-1
 15	film	film	NOUN	_	Gender=Masc	10	nmod	_	KID=584-2
 16	di	di	ADP	_	_	17	case	_	KID=584-3
-17	sergio	Sergio	PROPN	_	Gender=Masc	15	nmod	_	KID=584-4
+17	sergio	Sergio	PROPN	_	_	15	nmod	_	KID=584-4
 18	leone	Leone	PROPN	_	_	17	flat:name	_	End=853.563|KID=584-5
 
 # sent_id = BOA3017_585
@@ -4218,7 +4211,7 @@
 6	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	det	_	Clitic=Yes|KID=607-5
 7	compravi	comprare	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	KID=607-6
 8	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Clitic=Yes|KID=607-7
-9	andre	Andrea	PROPN	_	_	7	dislocated	_	End=900.985|KID=607-8
+9	andre	Andrea	PROPN	_	_	7	dislocated	_	Anonymized=Yes|End=900.985|KID=607-8
 
 # sent_id = BOA3017_608
 # text = eh beh te lo ricicla da là
@@ -4758,7 +4751,7 @@
 # text = dani vuoi un braccialetto
 # jefferson_text = dani vuoi un braccialetto? {ride}
 # speaker_id = BO147
-1	dani	Dani	PROPN	_	_	2	vocative	_	Begin=993.812|KID=661-0
+1	dani	Dani	PROPN	_	_	2	vocative	_	Anonymized=Yes|Begin=993.812|KID=661-0
 2	vuoi	volere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=661-1
 3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=661-2
 4	braccialetto	braccialetto	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	End=995.56|Intonation=rising|KID=661-3
@@ -5264,7 +5257,7 @@
 # text = dani se non lo se non lo vuole regalalo a me io non disprezzo
 # jefferson_text = dan[i se non lo se non lo vuole re]galalo a me | io non disprezzo
 # speaker_id = BO147
-1	dani	Dani	PROPN	_	_	9	vocative	_	Begin=1146.2|KID=726-0|OverlappingGroup=128
+1	dani	Dani	PROPN	_	_	9	vocative	_	Anonymized=Yes|Begin=1146.2|KID=726-0|OverlappingGroup=128
 2	se	se	SCONJ	_	_	4	mark	_	KID=726-1|OverlappingGroup=128
 3	non	non	ADV	_	PronType=Neg	4	advmod	_	KID=726-2|OverlappingGroup=128
 4	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	reparandum	_	Clitic=Yes|KID=726-3|OverlappingGroup=128
@@ -5591,14 +5584,14 @@
 # jefferson_text = tipo stefania non: c'ha il sussidio | manco marcello
 # speaker_id = BO145
 1	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	5	discourse	_	Begin=1209.179|KID=776-0
-2	stefania	Stefania	PROPN	_	_	5	nsubj	_	KID=776-1
+2	stefania	Stefania	PROPN	_	_	5	nsubj	_	Anonymized=Yes|KID=776-1
 3	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=776-2|Prolonged=Yes
 4	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	5	expl	_	Clitic=Yes|KID=776-3|SpaceAfter=No
 5	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=776-4
 6	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=776-5
 7	sussidio	sussidio	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	End=1210.813|KID=776-6
 8	manco	manco	ADV	_	_	9	advmod	_	Begin=1211.866|KID=778-0
-9	marcello	Marcello	PROPN	_	_	5	conj	_	End=1212.641|KID=778-1
+9	marcello	Marcello	PROPN	_	_	5	conj	_	Anonymized=Yes|End=1212.641|KID=778-1
 
 # sent_id = BOA3017_777
 # text = ah
@@ -5619,7 +5612,7 @@
 1	sussidio	sussidio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Begin=1213.603|KID=780-0|OverlappingGroup=139
 2	di	di	ADP	_	_	3	case	_	KID=780-1
 3	cazzi	cazzo	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	KID=780-2|OverlappingGroup=140
-4	marcello	Marcello	PROPN	_	_	1	obl	_	KID=780-3|OverlappingGroup=140
+4	marcello	Marcello	PROPN	_	_	1	obl	_	Anonymized=Yes|KID=780-3|OverlappingGroup=140
 5	dai	dare	VERB	_	_	1	discourse	_	End=1215.516|KID=780-4|OverlappingGroup=140
 
 # sent_id = BOA3017_781
@@ -6001,7 +5994,7 @@
 2	tanto	tanto	ADV	_	_	4	advmod	_	KID=864-1
 3	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|KID=864-2|SpaceAfter=No
 4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=864-3
-5	ali	Ali	PROPN	_	_	4	nsubj	_	KID=864-4
+5	ali	Ali	PROPN	_	_	4	nsubj	_	Anonymized=Yes|KID=864-4
 6	che	che	PRON	_	PronType=Rel	9	nsubj	_	KID=864-5
 7	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	9	iobj	_	Clitic=Yes|KID=864-6
 8	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	Clitic=Yes|KID=864-7
@@ -6046,7 +6039,7 @@
 3	altro	altro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	5	obl	_	KID=872-2
 4	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	5	expl	_	Clitic=Yes|KID=872-3|SpaceAfter=No
 5	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=872-4
-6	livia	Livia	PROPN	_	_	5	nsubj	_	KID=872-5
+6	livia	Livia	PROPN	_	_	5	nsubj	_	Anonymized=Yes|KID=872-5
 7	che	che	PRON	_	PronType=Rel	6	acl	_	End=1349.444|KID=872-6
 
 # sent_id = BOA3017_873
@@ -6431,7 +6424,7 @@
 61-62	nella	_	_	_	_	_	_	_	KID=933-5
 61	in	in	ADP	_	_	63	case	_	KID=933-5a
 62	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	63	det	_	KID=933-5b
-63	sicilia	Sicilia	PROPN	_	Gender=Fem|Number=Sing	59	nmod	_	KID=933-6
+63	sicilia	Sicilia	PROPN	_	_	59	nmod	_	KID=933-6
 64	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	67	discourse	_	KID=933-7
 65-66	dell'	_	_	_	_	_	_	_	KID=933-8|SpaceAfter=No
 65	di	di	ADP	_	_	67	case	_	KID=933-8a
@@ -6758,7 +6751,7 @@
 9-10	della	_	_	_	_	_	_	_	KID=962-8
 9	di	di	ADP	_	_	11	case	_	KID=962-8a
 10	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	KID=962-8b
-11	gialli	Gialli	PROPN	_	Gender=Masc|Number=Plur	8	nmod	_	End=1516.182|Intonation=rising|KID=962-9
+11	gialli	Gialli	PROPN	_	_	8	nmod	_	Anonymized=Yes|End=1516.182|Intonation=rising|KID=962-9
 
 # sent_id = BOA3017_963
 # text = io
@@ -6786,7 +6779,7 @@
 2	che	che	SCONJ	_	_	7	mark	_	KID=967-1
 3	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	7	dislocated	_	KID=967-2
 4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=967-3
-5	gialli	Gialli	PROPN	_	Gender=Masc|Number=Plur	7	nsubj	_	KID=967-4
+5	gialli	Gialli	PROPN	_	_	7	nsubj	_	Anonymized=Yes|KID=967-4
 6	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	Clitic=Yes|KID=967-5
 7	sente	sentire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl	_	End=1524.674|KID=967-6
 
@@ -6930,7 +6923,7 @@
 1	e	e	CCONJ	_	_	6	discourse	_	Begin=1563.852|KID=983-0
 2	perché	perché	SCONJ	_	_	6	mark	_	KID=983-1
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=983-2
-4	gialli	Gialli	PROPN	_	Gender=Masc|Number=Plur	6	nsubj	_	KID=983-3
+4	gialli	Gialli	PROPN	_	_	6	nsubj	_	Anonymized=Yes|KID=983-3
 5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|KID=983-4
 6	sente	sentire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=983-5
 7	'sto	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	KID=983-6b
@@ -6956,7 +6949,7 @@
 2	vai	andare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=985-1|OverlappingGroup=168
 3	lì	lì	ADV	_	_	2	advmod	_	KID=985-2|OverlappingGroup=168
 4	oh	oh	INTJ	_	_	5	discourse	_	KID=985-3|OverlappingGroup=168
-5	gialli	Gialli	PROPN	_	Gender=Masc|Number=Plur	6	vocative	_	KID=985-4
+5	gialli	Gialli	PROPN	_	_	6	vocative	_	Anonymized=Yes|KID=985-4
 6	senti	sentire	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp:reported	_	KID=985-5
 7	questo	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	KID=985-6
 8	pezzo	pezzo	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	KID=985-7
@@ -7002,14 +6995,14 @@
 19	rapporti	rapporto	NOUN	_	Gender=Masc|Number=Plur	20	obl	_	KID=993-18
 20	siano	essere	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	_	KID=993-19
 21	sinceramente	sinceramente	ADV	_	_	16	advmod	_	End=1579.187|KID=993-20
-22	giulia	Giulia	PROPN	_	_	13	appos	_	Begin=1579.291|KID=995-0
-23	neri	Neri	PROPN	_	_	22	flat:name	_	End=1580.141|KID=995-1
+22	giulia	Giulia	PROPN	_	_	13	appos	_	Anonymized=Yes|Begin=1579.291|KID=995-0
+23	neri	Neri	PROPN	_	_	22	flat:name	_	Anonymized=Yes|End=1580.141|KID=995-1
 
 # sent_id = BOA3017_994
 # text = giulia
 # jefferson_text = [giulia]?
 # speaker_id = BO145
-1	giulia	Giulia	PROPN	_	_	0	root	_	Backchannel=993-12|Begin=1578.504|End=1579.187|Intonation=rising|KID=994-0|OverlappingGroup=170
+1	giulia	Giulia	PROPN	_	_	0	root	_	Anonymized=Yes|Backchannel=993-12|Begin=1578.504|End=1579.187|Intonation=rising|KID=994-0|OverlappingGroup=170
 
 # sent_id = BOA3017_996
 # text = ah beh
@@ -7247,7 +7240,7 @@
 # jefferson_text = a wojtyla
 # speaker_id = BO145
 1	a	a	ADP	_	_	2	case	_	Begin=1620.602|KID=1027-0
-2	wojtyla	Wojtyła	PROPN	_	Gender=Fem|Number=Sing	0	root	_	End=1621.443|KID=1027-1
+2	wojtyla	Wojtyła	PROPN	_	_	0	root	_	End=1621.443|KID=1027-1
 
 # sent_id = BOA3017_1028
 # text = no
@@ -7269,8 +7262,8 @@
 # text = myss keta
 # jefferson_text = [myss keta]
 # speaker_id = BO145
-1	myss	Myss	PROPN	_	Gender=Fem|Number=Plur	0	root	_	Begin=1623.925|KID=1032-0|OverlappingGroup=180
-2	keta	Keta	PROPN	_	Gender=Fem|Number=Sing	1	flat:name	_	End=1624.691|KID=1032-1|OverlappingGroup=180
+1	myss	Myss	PROPN	_	_	0	root	_	Begin=1623.925|KID=1032-0|OverlappingGroup=180
+2	keta	Keta	PROPN	_	_	1	flat:name	_	End=1624.691|KID=1032-1|OverlappingGroup=180
 
 # sent_id = BOA3017_1033
 # text = sai che ieri io e ingrid abbiamo parlato di myss keta
@@ -7281,12 +7274,12 @@
 3	ieri	ieri	ADV	_	_	8	advmod	_	KID=1033-2
 4	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	KID=1033-3
 5	e	e	CCONJ	_	_	6	cc	_	KID=1033-4
-6	ingrid	Ingrid	PROPN	_	_	4	conj	_	KID=1033-5
+6	ingrid	Ingrid	PROPN	_	_	4	conj	_	Anonymized=Yes|KID=1033-5
 7	abbiamo	avere	AUX	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	KID=1033-6
 8	parlato	parlare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	KID=1033-7
 9	di	di	ADP	_	_	10	case	_	KID=1033-8
-10	myss	Myss	PROPN	_	Gender=Fem|Number=Plur	8	obl	_	KID=1033-9
-11	keta	Keta	PROPN	_	Gender=Fem|Number=Sing	10	flat:name	_	End=1627.546|Intonation=rising|KID=1033-10
+10	myss	Myss	PROPN	_	_	8	obl	_	KID=1033-9
+11	keta	Keta	PROPN	_	_	10	flat:name	_	End=1627.546|Intonation=rising|KID=1033-10
 
 # sent_id = BOA3017_1034_1035
 # text = ah sì e lei cos'ha detto ah ja wunderbar
@@ -7555,7 +7548,7 @@
 6	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=1077-5
 7	culo	culo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	KID=1077-6
 8	a	a	ADP	_	_	9	case	_	KID=1077-7
-9	lia	Lia	PROPN	_	_	4	obl	_	KID=1077-8
+9	lia	Lia	PROPN	_	_	4	obl	_	Anonymized=Yes|KID=1077-8
 10	e	e	CCONJ	_	_	12	cc	_	KID=1077-9
 11	la	la	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	obj	_	KID=1077-10
 12	fa	fare	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	KID=1077-11
@@ -7645,7 +7638,7 @@
 16	penso	pensare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis	_	End=1696.59|KID=1087-14|OverlappingGroup=191
 17	e	e	CCONJ	_	_	18	cc	_	Begin=1697.119|KID=1091-0
 18	poi	poi	ADV	_	_	5	conj	_	KID=1091-1
-19	daniela	Daniela	PROPN	_	_	22	vocative	_	KID=1091-2
+19	daniela	Daniela	PROPN	_	_	22	vocative	_	Anonymized=Yes|KID=1091-2
 20	non	non	ADV	_	PronType=Neg	22	advmod	_	KID=1091-3
 21	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	22	aux	_	KID=1091-4
 22	avere	avere	VERB	_	VerbForm=Inf	18	ccomp:reported	_	KID=1091-5
@@ -7741,7 +7734,7 @@
 # jefferson_text = chi è? oh dio santo=è m:h
 # speaker_id = BO147
 1	oh	oh	INTJ	_	_	2	discourse	_	KID=1101-2
-2	dio	dio	PROPN	_	_	4	discourse	_	KID=1101-3
+2	dio	Dio	PROPN	_	_	4	discourse	_	KID=1101-3
 3	santo	santo	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	KID=1101-4
 4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Coconstruct=1104-0::cop|KID=1101-5|ProsodicLink=Yes
 5	mh	mh	INTJ	_	_	4	discourse	_	End=1718.308|KID=1101-6|Prolonged=Yes
@@ -7801,7 +7794,7 @@
 10	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	KID=1108-1b
 11	troie	troia	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	KID=1108-2
 12	di	di	ADP	_	_	13	case	_	KID=1108-3
-13	jesi	Jesi	PROPN	_	Gender=Masc|Number=Plur	11	nmod	_	KID=1108-4
+13	jesi	Jesi	PROPN	_	_	11	nmod	_	KID=1108-4
 14	che	che	PRON	_	PronType=Rel	17	obj	_	KID=1108-5
 15	s'	si	PRON	_	Person=3|PronType=Prs	17	expl	_	Clitic=Yes|KID=1108-6|SpaceAfter=No
 16	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	KID=1108-7
@@ -7857,8 +7850,8 @@
 3	quella	quello	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	0	root	_	KID=1114-2
 4	che	che	PRON	_	PronType=Rel	5	obj	_	KID=1114-3
 5	conosce	conoscere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	KID=1114-4
-6	lia	Lia	PROPN	_	_	5	nsubj	_	End=1738.668|KID=1114-5
-7	mara	Mara	PROPN	_	_	3	appos	_	Begin=1738.873|KID=1116-0|OverlappingGroup=196|Prolonged=Yes
+6	lia	Lia	PROPN	_	_	5	nsubj	_	Anonymized=Yes|End=1738.668|KID=1114-5
+7	mara	Mara	PROPN	_	_	3	appos	_	Anonymized=Yes|Begin=1738.873|KID=1116-0|OverlappingGroup=196|Prolonged=Yes
 8	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	7	flat:name	_	KID=1116-1
 9	lì	lì	ADV	_	_	7	advmod	_	End=1740.031|KID=1116-2
 
@@ -7881,7 +7874,7 @@
 # text = mara chi
 # jefferson_text = mara chi?
 # speaker_id = BO147
-1	mara	Mara	PROPN	_	_	0	root	_	Begin=1742.14|KID=1118-0
+1	mara	Mara	PROPN	_	_	0	root	_	Anonymized=Yes|Begin=1742.14|KID=1118-0
 2	chi	chi	PRON	_	PronType=Rel	1	appos	_	End=1742.823|Intonation=rising|KID=1118-1
 
 # sent_id = BOA3017_1120
@@ -7908,7 +7901,7 @@
 # text = bianchi
 # jefferson_text = bianchi
 # speaker_id = BO146
-1	bianchi	Bianchi	PROPN	_	_	0	root	_	Begin=1746.557|End=1747.132|KID=1122-0
+1	bianchi	Bianchi	PROPN	_	_	0	root	_	Anonymized=Yes|Begin=1746.557|End=1747.132|KID=1122-0
 
 # sent_id = BOA3017_1123
 # text = sì
