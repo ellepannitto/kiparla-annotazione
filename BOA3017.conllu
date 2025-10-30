@@ -7413,8 +7413,8 @@
 7	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=1048-6
 8	naso	naso	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	End=1646.579|Intonation=rising|KID=1048-7
 
-# sent_id = BOA3017_1049_1050_1052_1053_1055
-# text = è un sai quando nuoti fai snorkeling e ti entra no
+# sent_id = BOA3017_1049_1050_1052_1053_1056
+# text = è un sai quando nuoti fai snorkeling e ti entra no era
 # jefferson_text = è un: sai quando nuoti fai snorkeling e ti entra {ride} [immaginavo]
 # speaker_id = BO139 BO147
 1	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Begin=1647.379|KID=1049-0
@@ -7428,8 +7428,9 @@
 9	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	10	obj	_	Clitic=Yes|KID=1053-1
 10	entra	entrare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	End=1652.071|KID=1053-2
 11	no	no	INTJ	_	_	3	discourse	_	Begin=1653.229|End=1654.179|KID=1055-0|OverlappingGroup=213
+12	era	essere	INTJ	_	_	3	discourse	_	Begin=1653.229|End=1654.179|KID=1055-0|OverlappingGroup=213
 
-# sent_id = BOA3017_1056
+# sent_id = BOA3017_1055
 # text = immaginavo _
 # jefferson_text = [no (.) era]
 # speaker_id = BO139
